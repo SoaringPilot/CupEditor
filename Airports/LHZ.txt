@@ -1,0 +1,475 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KLHZ - Triangle North Executive Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1445 users online
+ 
+
+
+
+
+KLHZ
+ Triangle North Executive AirportLouisburg, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LOUISBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:LHZ
+Lat/Long:36-01-24.0550N 078-19-48.9470W36-01.400917N 078-19.815783W36.0233486,-78.3302631(estimated)
+Elevation:368 ft. / 112.2 m (surveyed)
+Variation:09W (2010)
+From city:5 miles SW of LOUISBURG, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27549
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:03/1993
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:LHZ (NOTAM-D service available)
+Attendance:0800-1800ARPT UNATNDD THANKSGIVING & CHRISTMAS.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 05; REIL RWY 23; HIRL RWY 05/23 - CTAF. PAPI RWY 05 & 23 OPER CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:118.325 (919-497-0810)
+RALEIGH APPROACH:125.3
+RALEIGH DEPARTURE:125.3
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr077/23.8RALEIGH/DURHAM VORTAC117.2009W
+TYIr280/30.5TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO149/21.727109WHXO.... -..- ---
+PERSON117/37.822008WHUR.... ..- .-.
+HARNETT033/39.241708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:100LL JET-A1+
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+
+Runway Information
+Runway 5/23
+
+Dimensions:5498 x 100 ft. / 1676 x 30 m
+Surface:asphalt/grooved, in excellent condition
+Weight bearing capacity:Single wheel:40.0Double wheel:60.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:36-01.041347N36-01.760480N
+Longitude:078-20.155160W078-19.476365W
+Elevation:367.9 ft.328.8 ft.
+Traffic pattern:rightleft
+Runway heading:046 magnetic, 037 true226 magnetic, 217 true
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:41 ft. trees, 1640 ft. from runway, 352 ft. left of centerline, 35:1 slope to clear41 ft. trees, 1537 ft. from runway, 502 ft. left of centerline, 32:1 slope to clear2 FT RISING GND 157 FT FM THR BOTH SIDES OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:FRANKLIN COUNTY113 MARKET STREETLOUISBURG, NC 27549Phone 919-554-1863
+Manager:BO CARSON440 AIRPORT DRIVELOUISBURG, NC 27549Phone 919-496-1234
+
+Airport Operational Statistics
+
+Aircraft based on the field:104Single engine airplanes:85Multi engine airplanes:7Jet airplanes:1Helicopters:6Gliders airplanes:5
+Aircraft operations: avg 172/day*67%local general aviation29%transient general aviation4%military* for 12-month period ending 01 July 2023
+Additional Remarks
+
+-ARPT PHONE 919-496-1234; MAKE PRIOR ARNGMTS DRG FBO HOURS FOR SVCS AFTER HOURS.
+-BIRDS ON & INVOF ARPT.
+-HEL FLIGHT TNG DAILY PRIMRLY ON W SIDE OF ARPT AND TWY.
+-DAILY SKYDIVING OPS.
+-GLIDER ACT DALGT HRS WKENDS.
+-FOR CD CTC RALEIGH APCH AT 919-380-3144.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05
+download (344KB)
+RNAV (GPS) RWY 05
+download (273KB)
+RNAV (GPS) RWY 23
+download (268KB)
+VOR-A
+download (205KB)
+
+NOTE: Special Alternate Minimums apply
+download (145KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KHNZ - Henderson/Oxford Airport (22 nm NW)
+W03 - Wilson Industrial Air Center Airport (23 nm SE)
+KRWI - Rocky Mount/Wilson Regional Airport (24 nm SE)
+KRDU - Raleigh-Durham International Airport (24 nm W)
+KJNX - Johnston Regional Airport (29 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Triangle North Executive Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Triangle North Executive Airport?
+Find the distance to fly.
+From 
+to KLHZ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:01:34
+Local (UTC-5)19-Jan-2024 17:01:34
+
+
+
+
+   
+
+METAR
+
+
+KLHZ192155Z AUTO 30008G21KT 10SM CLR 05/M07 A2991 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRWI23nm SE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KRDU24nm SW191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Triangle North Executive Airport
+
+
+
+UNICOM 123.00919-496-1234919-496-6407[web site][email]
+
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangar leasing / sales, Passenger terminal and lounge, ...
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Triangle North Executive Airport
+
+
+
+
+
+100LL Jet AFS$5.24$5.44GUARANTEED
+
+
+
+
+1readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Triangle North Executive Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Triangle North Executive Airport
+
+
+
+www.flytrianglenorth.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

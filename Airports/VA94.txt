@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA94 - Plainview Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1462 users online
+ 
+
+
+
+
+VA94
+ Plainview AirportPowhatan, Virginia, USA 
+
+
+
+
+
+
+GOING TO POWHATAN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA94
+Lat/Long:37-32-08.5350N 077-53-28.9950W37-32.142250N 077-53.483250W37.5357042,-77.8913875(estimated)
+Elevation:400 ft. / 122 m (estimated)
+Variation:08W (1985)
+From city:2 miles SE of POWHATAN, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23139
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/1951
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3PT at FCI (19 nm SE):128.625 (804-271-8426)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAKr284/3.0FLAT ROCK VORTAC113.3006W
+RICr283/27.3RICHMOND VORTAC114.1009W
+GVEr163/31.2GORDONSVILLE VORTAC115.6006W
+HPWr295/39.0HOPEWELL VORTAC114.3506W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE026/25.632609WBKT-... -.- -
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 7/25
+
+Dimensions:1600 x 100 ft. / 488 x 30 m
+Surface:turf
+RUNWAY 7RUNWAY 25
+Traffic pattern:leftleft
+Obstructions:treestrees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MARK FOLGER WORSHAM3513 OLD BUCKINGHAM ROADPOWHATAN, VA 23139Phone 804-304-3009
+Manager:MARK FOLGER WORSHAM3513 OLD BUCKINGHAM ROADPOWHATAN, VA 23139Phone 804-304-3009
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VA94.
+Some nearby airports with instrument procedures:
+KFCI - Richmond Executive-Chesterfield County Airport (19 nm SE)
+W81 - Crewe Municipal Airport (23 nm SW)
+KOFP - Hanover County Municipal Airport (24 nm NE)
+7W4 - Lake Anna Airport (27 nm N)
+KRIC - Richmond International Airport (27 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Plainview Airport?
+Find the distance to fly.
+From 
+to VA94
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2512:25
+Sunset17:2022:20
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:43:54
+Local (UTC-5)19-Jan-2024 16:43:54
+
+
+
+
+   
+
+METAR
+
+
+KFCI19nm SE192056Z AUTO 31014G17KT 10SM FEW029 OVC065 02/M03 A2983 RMK AO2 SLP116 T00221028 53031 FZRANO
+
+KW8123nm SW192115Z AUTO 10SM SCT060 OVC075 04/M11 A2985 RMK AO1 T00361115
+
+KOFP24nm NE192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+K7W427nm N192115Z AUTO 35005KT 2 1/2SM SCT007 BKN028 OVC036 00/M02 A2986 RMK AO1 T00041021
+
+KRIC27nm E192054Z 33016G24KT 10SM SCT028 BKN070 03/M04 A2984 RMK AO2 SLP110 60000 T00281039 53033
+
+KFVX27nm SW192115Z AUTO 27003KT 10SM SCT060 BKN070 04/M10 A2986 RMK AO2 T00361098
+
+KBKT28nm S192115Z AUTO 30014G25KT 10SM OVC060 04/M08 A2985 RMK AO1 T00401079
+
+KPTB28nm SE192115Z AUTO 33009G14KT 10SM SCT037 BKN055 OVC065 03/M02 A2985 RMK AO2 T00311020
+
+KLKU29nm N192055Z AUTO 31012G18KT 10SM SCT035 BKN060 OVC085 01/M05 A2985 RMK AO2 T00141045 60001
+
+KW9636nm E192115Z AUTO 31007G16KT 10SM SCT032 BKN060 OVC070 02/M04 A2984 RMK AO1 T00231040
+
+
+
+
+
+TAF
+
+
+KRIC27nm E191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Plainview Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Plainview Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KPHF - Newport News/Williamsburg International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1441 users online
+ 
+
+
+
+
+KPHF
+ Newport News/Williamsburg International AirportNewport News, Virginia, USA 
+
+
+
+
+
+
+GOING TO NEWPORT NEWS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Atlantic Aviation
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:PHF
+Lat/Long:37-07-54.8000N 076-29-34.7000W37-07.913333N 076-29.578333W37.1318889,-76.4929722(estimated)
+Elevation:42.2 ft. / 12.9 m (surveyed)
+Variation:09W (1985)
+From city:9 miles NW of NEWPORT NEWS, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23602
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:11/1948
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:PHF (NOTAM-D service available)
+Attendance:CONTINUOUS
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MALSR RWY 07; REIL RWY 20 & 25; PAPI RWY 02, 20 & 25; HIRL RWY 02/20 & 07/25; TWY LGTS - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Landing fee:yes, LANDING FEE FOR ACFT OVER 12500 LBS.
+Fire and rescue:ARFF index B
+Airline operations:PPR 45 MINUTES FOR UNSKED AIR CARRIER OPNS WITH MORE THAN 30 PSGR SEATS CALL AIRPORT OPERATIONS 757-234-0568.
+International operations:customs landing rights airport 
+
+Airport Communications
+
+CTAF:118.7
+UNICOM:122.95
+ATIS:128.65
+WX ASOS:PHONE 757-874-3682
+NEWPORT NEWS GROUND:121.9 348.6 [0600-2300]
+NEWPORT NEWS TOWER:118.7 257.9 348.6 [0600-2300]
+NORFOLK APPROACH:125.7
+NORFOLK DEPARTURE:124.9
+CLEARANCE DELIVERY:121.65 225.4 124.9 ;WHEN TWR CLSD
+PRE-TAXI CLEARANCE:121.65
+DRONE STAR:118.9
+EMERG:121.5 243.0
+WX AWOS-3 at JGG (12 nm NW):120.625 (757-220-8810)
+WX ASOS at ORF (20 nm SE):PHONE 757-460-9348
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ORFr323/20.1NORFOLK VORTAC116.9007W
+HCMr158/21.7HARCUM VORTAC108.8007W
+CCVr251/27.0CAPE CHARLES VORTAC112.2010W
+HPWr118/32.0HOPEWELL VORTAC114.3506W
+FKNr054/35.3FRANKLIN VORTAC110.6009W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD081/25.927411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 7/25
+
+Dimensions:8003 x 150 ft. / 2439 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 73 /R/B/W/TSingle wheel:100.0Double wheel:200.0Double tandem:350.0
+Runway edge lights:high intensity
+RUNWAY 7RUNWAY 25
+Latitude:37-07.500175N37-08.202862N
+Longitude:076-30.082777W076-28.689040W
+Elevation:37.2 ft.39.2 ft.
+Traffic pattern:leftleft
+Runway heading:067 magnetic, 058 true247 magnetic, 238 true
+Declared distances:TORA:8003 TODA:8003 ASDA:8003 LDA:8003TORA:8003 TODA:8003 ASDA:8003 LDA:8003
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on right (3.00 degrees glide path)
+RVR equipment:touchdownrollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsMALSR UNMONITORED.
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DMEILS/DME
+Obstructions:69 ft. trees, 2700 ft. from runway, 350 ft. left of centerline, 36:1 slope to clear41 ft. trees, 1100 ft. from runway, 300 ft. left of centerline, 21:1 slope to clear
+
+Runway 2/20
+
+Dimensions:6526 x 150 ft. / 1989 x 46 m
+Surface:concrete/grooved, in good condition(CONC-GRVD FM AER 20 TO 5000 FT. REMAINDER ASPHALT-GRVD)
+Weight bearing capacity:PCN 68 /R/C/W/TSingle wheel:100.0Double wheel:200.0Double tandem:350.0
+Runway edge lights:high intensity
+RUNWAY 2RUNWAY 20
+Latitude:37-07.465652N37-08.514290N
+Longitude:076-29.963773W076-29.666240W
+Elevation:37.3 ft.42.1 ft.
+Traffic pattern:leftleft
+Runway heading:022 magnetic, 013 true202 magnetic, 193 true
+Declared distances:TORA:6526 TODA:6526 ASDA:6526 LDA:6526TORA:6526 TODA:6526 ASDA:6526 LDA:6526
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:none23 ft. road, 1050 ft. from runway, 36:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:PENINSULA ARPT CMSN900 BLAND BLVD, SUITE GNEWPORT NEWS, VA 23602Phone 757-877-0221
+Manager:JOHN BORDEN900 BLAND BLVD, SUITE GNEWPORT NEWS, VA 23602Phone 757-877-0221
+
+Airport Operational Statistics
+
+Aircraft based on the field:137Single engine airplanes:84Multi engine airplanes:17Jet airplanes:36
+Aircraft operations: avg 166/day*37%local general aviation34%transient general aviation19%military8%air taxi1%commercial* for 12-month period ending 31 January 2023
+Additional Remarks
+
+-BIRDS INVOF ARPT.
+-GLIDER ACTIVITY APPROX 19 MILES SW OF ARPT UP TO BASE OF CLOUDS.
+-ACFT ARRIVING/DEPARTING NEWPORT NEWS SHOULD ANNOUNCE INTENTIONS ON CTAF WHEN ATCT CLSD.
+-RMKS: RC PARK APRXLY 2 MILES N OF ARPT, UP TO 400 FT.
+-RMKS: USE CTN LOW LVL HEL INVOF ARPT.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+DRONE TWO**CHANGED**
+2 pages:
+ [1] [2] (266KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 07
+download (289KB)
+ILS OR LOC RWY 25
+download (293KB)
+RNAV (GPS) RWY 02
+download (232KB)
+RNAV (GPS) RWY 07
+download (233KB)
+RNAV (GPS) RWY 20
+download (249KB)
+RNAV (GPS) RWY 25
+download (266KB)
+LOC RWY 20
+download (274KB)
+
+NOTE: Special Alternate Minimums apply
+download (159KB)
+Departure Procedures
+
+HENRY THREE
+download (163KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (223KB)
+
+Other nearby airports with instrument procedures:
+KFAF - Felker Army Airfield (6 nm W)
+KLFI - Langley Air Force Base (7 nm SE)
+KJGG - Williamsburg-Jamestown Airport (12 nm NW)
+W94 - Camp Peary Landing Strip Airport (13 nm NW)
+KNHU - Norfolk Naval Station Airport (14 nm SE)
+KNGU - Norfolk Naval Station (Chambers Field) (15 nm SE)
+KORF - Norfolk International Airport (20 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Photo taken 10-Sep-2019
+looking east from 5,000'.
+
+Do you have a better or more recent aerial photo of Newport News/Williamsburg International Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Newport News/Williamsburg International Airport?
+Find the distance to fly.
+From 
+to KPHF
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:1522:15
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:38:27
+Local (UTC-5)19-Jan-2024 16:38:27
+
+
+
+
+   
+
+METAR
+
+
+KPHF192054Z 31021G31KT 10SM FEW034 SCT060 OVC075 04/M03 A2981 RMK AO2 PK WND 28031/2012 SLP094 T00391028 53033
+
+KFAF6nm W192055Z 30019G27KT 10SM SCT035 BKN050 BKN060 04/M03 A2978 RMK AO2A PK WND 29030/10 SLP088 60000 T00421027 53035 TSNO $
+
+KLFI7nm SE192055Z 30012G24KT 10SM FEW038 OVC060 05/M03 A2979 RMK AO2A PK WND 30029/25 PRESRR SLP094 T00461034 53034 $
+
+KNGU17nm SE192059Z 31026G35KT 10SM SCT035 BKN060 OVC080 05/M03 A2981 RMK AO2 PK WND 29035/2002 SLP095 T00501033 53034
+
+KORF20nm SE192051Z 31012G27KT 270V350 10SM FEW047 SCT060 OVC080 05/M03 A2979 RMK AO2 PK WND 29027/2049 SLP087 T00501028 53034
+
+
+
+
+
+TAF
+
+
+KPHF191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KFAF6nm W191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KLFI7nm SE191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KNGU17nm SE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KORF20nm SE191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.95757-886-5755[web site][email]
+
+Atlantic Aviation is your premier aviation service provider with more than 100 locations in North America, including Hawaii and the Caribbean. We provide standard ground services you'd expect, with a detailed focus on ensuring an unforgettable customer experience.
+
+
+
+More info and photos of Atlantic Aviation
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$7.42$7.09Updated 19-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+
+
+Rick Aviation
+
+
+
+UNICOM 122.95757-874-6415[web site][email]
+
+Aircraft Maintenance, Avionics sales & service, Pilot supplies, Hangar & tie-down, Flight school, Charter service, Conference room, Oxygen servicing, Passenger & Pilots lounge, Rental cars, Catering etc.
+
+
+
+More info about Rick Aviation
+
+
+
+
+
+100LL Jet AFS$6.76$6.00Updated 16-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Newport News/Williamsburg International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Newport News/Williamsburg International Airport
+
+
+
+flyphf.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

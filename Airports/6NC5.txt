@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6NC5 - Thompson Farms Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1431 users online
+ 
+
+
+
+
+6NC5
+ Thompson Farms AirportWhitakers, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WHITAKERS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6NC5
+Lat/Long:36-01-29.9000N 077-39-33.8200W36-01.498333N 077-39.563667W36.0249722,-77.6593944(estimated)
+Elevation:100 ft. / 30 m (estimated)
+Variation:08W (1980)
+From city:5 miles S of WHITAKERS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27891
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1986
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:0800-1700
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at ETC (8 nm SE):119.575 (252-641-1640)
+WX ASOS at RWI (15 nm SW):118.875 (252-446-0732)
+WX AWOS-3PT at IXA (18 nm N):119.975 (252-583-3446)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr042/3.6TAR RIVER VORTAC117.8005W
+ISOr358/39.5KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD333/23.723009WAQE.- --.- .
+
+Airport Services
+
+Fuel available:100
+
+Runway Information
+Runway 3/21
+
+Dimensions:1800 x 75 ft. / 549 x 23 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Obstructions:none50 ft. bldg
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:HAROLD THOMPSONROUTE 1  BOX 360-DWHITAKERS, NC 27891Phone 252-437-7751
+Manager:HAROLD THOMPSONROUTE 1  BOX 360-DWHITAKERS, NC 27891Phone 252-437-0895
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 6NC5.
+Some nearby airports with instrument procedures:
+KETC - Tarboro-Edgecombe Airport (8 nm SE)
+KRWI - Rocky Mount/Wilson Regional Airport (15 nm SW)
+KIXA - Halifax/Northampton Regional Airport (18 nm N)
+W03 - Wilson Industrial Air Center Airport (21 nm SW)
+KMCZ - Martin County Airport (25 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Thompson Farms Airport?
+Find the distance to fly.
+From 
+to 6NC5
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2012:20
+Sunset17:2322:23
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:00:41
+Local (UTC-5)19-Jan-2024 17:00:41
+
+
+
+
+   
+
+METAR
+
+
+KETC8nm SE192145Z AUTO 31018G25KT 7SM SCT050 07/M05 A2986 RMK AO2 T00721045
+
+KRWI16nm SW192153Z AUTO 31015G25KT 10SM CLR 07/M06 A2988 RMK AO2 PK WND 31030/2142 SLP118 T00721061 $
+
+KIXA18nm N192150Z AUTO 31010G14KT 270V360 10SM BKN050 BKN075 05/M02 A2987 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRWI16nm SW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Thompson Farms Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Thompson Farms Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

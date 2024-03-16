@@ -1,0 +1,457 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W75 - Hummel Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1558 users online
+ 
+
+
+
+
+W75
+ Hummel Field AirportSaluda, Virginia, USA 
+
+
+
+
+
+
+GOING TO SALUDA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W75
+Lat/Long:37-36-08.1750N 076-26-48.2250W37-36.136250N 076-26.803750W37.6022708,-76.4467292(estimated)
+Elevation:30 ft. / 9.1 m (surveyed)
+Variation:10W (1995)
+From city:6 miles E of SALUDA, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23169
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:04/1942
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:0800-1600UNATNDD THANKSGIVING, CHRISTMAS DAY AND NEW YEAR'S.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MIRL RY 01/19 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:118.45 (804-758-8592)
+NORFOLK APPROACH:126.05
+NORFOLK DEPARTURE:126.05
+WX AWOS-3 at FYJ (16 nm W):132.825 (804-785-2307)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr061/15.6HARCUM VORTAC108.8007W
+CCVr316/26.3CAPE CHARLES VORTAC112.2010W
+HPWr069/35.8HOPEWELL VORTAC114.3506W
+
+Airport Services
+
+Fuel available:100LL
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:2167 x 45 ft. / 661 x 14 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 1RUNWAY 19
+Latitude:37-35.958167N37-36.314333N
+Longitude:076-26.788500W076-26.819000W
+Elevation:29.8 ft.22.9 ft.
+Traffic pattern:leftleft
+Runway heading:006 magnetic, 356 true186 magnetic, 176 true
+Displaced threshold:125 ft.no
+Markings:nonprecision, in good conditionbasic, in good condition
+Visual slope indicator:panels that may or may not be lighted,  on leftOTS INDEFLY.panels that may or may not be lighted,  on rightOTS INDEFLY.
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:92 ft. tree, 1463 ft. from runway, 173 ft. left of centerline, 13:1 slope to clear18 FT BUILDING LOCATED 200 FT FM PAVEMENT END, 204 FT RIGHT OF CENTERLINE.67 ft. tree, 1713 ft. from runway, 178 ft. right of centerline, 22:1 slope to clearFIELD IMMEDIATELY NORTH OF RY 19.  7 FT CORN GROWING AT TIMES.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY BOARD OF SUPERVISORS877 GENERAL PULLER HWY, P.O. BOX 428SALUDA, VA 23149Phone 804-758-4330
+Manager:BETTY MUNCY877 GENERAL PULLER HWY, P.O. BOX 428SALUDA, VA 23149Phone 804-758-4330APT PHYSICAL ADDRESS IS: 310 PLANEVIEW ROAD TOPPING, VA 23169
+
+Airport Operational Statistics
+
+Aircraft based on the field:32Single engine airplanes:31Multi engine airplanes:1
+Aircraft operations: avg 35/day*90%local general aviation7%transient general aviation2%military* for 12-month period ending 31 May 2018
+Additional Remarks
+
+-DRAINAGE SWALES FULL LENGTH OF RY ON BOTH SIDES; USE OF EXIT IN FRONT OF HUMMEL AVIATION ADVISED.
+-DEPARTING RY 18/36 CLIMB TO 500 FT BEFORE ANY TURN OUT; ARRIVING ACFT USE WIDE PAT TO AVOID POPULATED AREAS EAST & WEST OF ARPT.
+-BIRDS AND DEER ON & INVOF ARPT DURING WINTER.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+GPS RWY 01
+download (187KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (362KB)
+
+Other nearby airports with instrument procedures:
+KFYJ - Middle Peninsula Regional Airport (16 nm W)
+W94 - Camp Peary Landing Strip Airport (20 nm SW)
+KTGI - Tangier Island Airport (25 nm NE)
+KJGG - Williamsburg-Jamestown Airport (25 nm SW)
+KXSA - Tappahannock/Essex County Airport (26 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Photo taken 10-Sep-2019
+looking southeast from 5,000'.
+
+Do you have a better or more recent aerial photo of Hummel Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hummel Field Airport?
+Find the distance to fly.
+From 
+to W75
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:1422:14
+Evening civil twilight17:4222:42
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:19:31
+Local (UTC-5)19-Jan-2024 16:19:31
+
+
+
+
+   
+
+METAR
+
+
+KW75192055Z AUTO 30011G21KT 10SM BKN022 BKN028 OVC060 02/M02 A2982 RMK AO1 T00151016
+
+KFYJ16nm W192055Z AUTO 30014G21KT 10SM SCT024 SCT029 OVC080 02/M03 A2984 RMK AO1 T00211030
+
+
+
+
+
+TAF
+
+
+KPHF28nm S191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KFAF30nm S191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KLFI32nm S191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Hummel Field Airport
+
+804-758-0538804-758-4330[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Pilots lounge / snooze room, Public telephone, Restrooms
+
+
+
+More info about Hummel Field Airport
+
+
+
+
+
+Phillips 66100LLSS$5.58Updated 28-Dec-2023
+
+
+
+
+3readwrite
+
+
+
+SS=Self service
+
+
+
+
+Where to Eat: Catering, Restaurants, Food shops
+Business NameContact
+Services / DescriptionDistanceComments
+
+Eckhard's
+
+804-758-4060
+
+
+no information available
+If you are affiliated with Eckhard's and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+1readwrite
+
+
+
+
+
+Where to Stay: Hotels, Motels, Resorts, B&Bs, Campgrounds
+The hotels featured here are reported to be very convenient to the Hummel Field Airport. If your hotel/inn/B&B/resort is near the Hummel Field Airport, provides convenient transportation, or is otherwise attractive to pilots, flight crews, and airport users, consider listing it here.
+Business NameContact
+Services / DescriptionDistanceComments
+
+Pilot House Inn
+
+804-758-2262
+
+
+no information available
+If you are affiliated with Pilot House Inn and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hummel Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hummel Field Airport
+
+
+
+www.co.middlesex.va.us/hummel.htm
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

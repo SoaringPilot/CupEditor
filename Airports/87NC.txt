@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 87NC - Brocks Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1585 users online
+ 
+
+
+
+
+87NC
+ Brocks AirportRoseboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ROSEBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:87NC
+Lat/Long:34-54-58.0000N 078-36-01.0000W34-54.966667N 078-36.016667W34.9161111,-78.6002778(estimated)
+Elevation:120 ft. / 37 m (estimated)
+From city:4 miles W of ROSEBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28318
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/2011
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at CTZ (12 nm E):119.125 (910-592-7488)
+WX ASOS at FAY (14 nm W):121.25 (910-484-1546)
+WX AWOS-3P at EYF (19 nm S):119.475 (910-862-9982)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr111/14.1FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON262/12.241209WCTZ-.-. - --..
+HARNETT181/31.241708WHQT.... --.- -
+CAMP015/39.022707WCPC-.-. .--. -.-.
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:2100 x 90 ft. / 640 x 27 m
+Surface:turf, in good condition
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+Obstructions:45 ft. trees, 100 ft. from runway45 ft. trees, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GARY BROCK10878 NC HWY 210 SROSEBORO, NC 28382Phone 910-531-3670
+Manager:GARY BROCK10878 NC HWY 210 SROSEBORO, NC 28382Phone 910-531-3670
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 87NC.
+Some nearby airports with instrument procedures:
+KCTZ - Clinton-Sampson County Airport (12 nm E)
+KFAY - Fayetteville Regional Airport/Grannis Field (14 nm W)
+KEYF - Curtis L Brown Jr. Field Airport (19 nm S)
+KFBG - Simmons Army Airfield (21 nm NW)
+KPOB - Pope Army Airfield (25 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Brocks Airport?
+Find the distance to fly.
+From 
+to 87NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2212:22
+Sunset17:2922:29
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:45:34
+Local (UTC-5)19-Jan-2024 15:45:34
+
+
+
+
+   
+
+METAR
+
+
+KCTZ12nm E192025Z AUTO 30013G18KT 10SM BKN060 OVC080 12/M01 A2981 RMK AO2 T01181015
+
+KFAY14nm W191953Z 29015G21KT 10SM OVC065 12/M02 A2980 RMK AO2 PK WND 29027/1907 SLP085 T01221022
+
+KEYF19nm S192030Z AUTO 30019G26KT 10SM SCT060 13/M01 A2981 RMK AO2 T01311008
+
+KFBG20nm NW192018Z AUTO 30019G27KT 10SM SCT070 13/M05 A2980 RMK AO2 SLPNO $
+
+
+
+
+
+TAF
+
+
+KFAY14nm W191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KFBG20nm NW192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Brocks Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Brocks Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

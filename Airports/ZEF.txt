@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KZEF - Elkin Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1613 users online
+ 
+
+
+
+
+KZEF
+ Elkin Municipal AirportElkin, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ELKIN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ZEF
+Lat/Long:36-16-48.0000N 080-47-09.8000W36-16.800000N 080-47.163333W36.2800000,-80.7860556(estimated)
+Elevation:1067.2 ft. / 325.3 m (surveyed)
+Variation:08W (2015)
+From city:3 miles NE of ELKIN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28621
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0900-1700
+Pattern altitude:MIN ALT 500 FT AGL BASE TURN TO FINAL RWY 25.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 07 & 25; PAPI RWY 07 & 25; MIRL RWY 07/25 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.05
+WX AWOS-3 at UKF (15 nm W):126.625 (336-696-3788)
+WX AWOS-3 at MWK (16 nm NE):121.125 (336-789-2299)
+
+
+APCH/DEP SVC PRVDD BY ATLANTA ARTCC ON FREQS 125.15/263.0 (HICKORY RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr048/33.1BARRETTS MOUNTAIN VOR/DME113.7506W
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:24 HR SELF SERVICE W/ CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 7/25
+
+Dimensions:4001 x 75 ft. / 1220 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:25.0
+Runway edge lights:medium intensity
+RUNWAY 7RUNWAY 25
+Latitude:36-16.669232N36-16.932188N
+Longitude:080-47.537362W080-46.790572W
+Elevation:1067.0 ft.1036.8 ft.
+Traffic pattern:leftleft
+Runway heading:075 magnetic, 067 true255 magnetic, 247 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)UNUSBL 7 DEG LEFT AND RIGHT OF RCL.2-light PAPI on left (3.00 degrees glide path)UNUSBL 9 DEG RIGHT OF RCL.
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:29 ft. trees, 398 ft. from runway, 141 ft. right of centerline, 6:1 slope to clear45 ft. trees, 329 ft. from runway, 208 ft. right of centerline, 2:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF ELKINTOWN HALL - PO BOX 857ELKIN, NC 28621Phone (336) 794-6464
+Manager:STEVE (SANDY) SHORE1598 CC CAMP ROADELKIN, NC 28621Phone 336-366-3433
+
+Airport Operational Statistics
+
+Aircraft based on the field:20Single engine airplanes:18Multi engine airplanes:1Helicopters:1
+Aircraft operations: avg 37/day*52%local general aviation45%transient general aviation3%military* for 12-month period ending 05 July 2021
+Additional Remarks
+
+-RWY 07 SAFETY AREA HAS 80+ FT DROP-OFF AT END AND 90 FT BOTH SIDES OF CNTRLN.
+-DEER ON AND INVOF ARPT.
+-RWY 25 HAS AN UPHILL GRADE.
+-FOR SERVICE AFTER HOURS CALL (336)-874-7171, (336)-874-2931, (336)-366-7994, OR (336)-926-6243.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+-RWY 25 HAS UP TO 100+ FT DROP-OFF FIRST 600 FT AND 90 FT BOTH SIDES OF CNTRLN.
+-RWY 25 HAS UNMARKED POWER LINES 800 FT FM THR BOTH SIDES OF CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 07
+download (209KB)
+RNAV (GPS) RWY 25
+download (207KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download
+
+Other nearby airports with instrument procedures:
+KUKF - Wilkes County Airport (15 nm W)
+KMWK - Mount Airy/Surry County Airport (16 nm NE)
+8A7 - Twin Lakes Airport (27 nm SE)
+KINT - Smith Reynolds Airport (29 nm E)
+KHLX - Twin County Airport (29 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 15-Oct-2015
+looking northwest.
+
+Do you have a better or more recent aerial photo of Elkin Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Elkin Municipal Airport?
+Find the distance to fly.
+From 
+to KZEF
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0612:06
+Sunrise07:3312:33
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:04:14
+Local (UTC-5)19-Jan-2024 16:04:14
+
+
+
+
+   
+
+METAR
+
+
+KUKF16nm W192045Z AUTO 31008G27KT 280V350 10SM BKN047 BKN055 01/M10 A3001 RMK AO2
+
+KMWK16nm NE192045Z AUTO 30012G21KT 280V340 10SM BKN050 01/M10 A2995 RMK AO2 T00071100
+
+KINT29nm E192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+KHLX29nm N192055Z AUTO 31017G23KT 10SM OVC033 M04/M11 A2985 RMK AO2 T10401110
+
+
+
+
+
+TAF
+
+
+KINT29nm E191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Yadkin Valley Aviation
+
+336-366-3433
+
+
+no information available
+If you are affiliated with Yadkin Valley Aviation and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet APS$4.59$4.50Updated 17-Jan-2024
+
+
+
+
+write
+
+
+
+PS=Pump service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Elkin Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Elkin Municipal Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

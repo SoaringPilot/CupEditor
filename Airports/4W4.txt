@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 4W4 - Whitfield Farms Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1454 users online
+ 
+
+
+
+
+4W4
+ Whitfield Farms AirportHurdle Mills, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HURDLE MILLS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:4W4
+Lat/Long:36-17-00.5020N 079-04-44.0450W36-17.008367N 079-04.734083W36.2834728,-79.0789014(estimated)
+Elevation:653 ft. / 199.0 m (surveyed)
+Variation:07W (1985)
+From city:2 miles W of HURDLE MILLS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27541
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1963
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:no
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at TDF (5 nm E):126.725 (336-364-1651)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+DANr150/(21.2)DANVILLE VOR113.1006W
+SBVr193/23.7SOUTH BOSTON VORTAC110.4005W
+RDUr339/28.5RALEIGH/DURHAM VORTAC117.2009W
+LIBr045/38.4LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON356/3.122008WHUR.... ..- .-.
+HUNTSBORO276/22.327109WHXO.... -..- ---
+SLAMMER107/33.642307WSIF... .. ..-.
+
+Airport Services
+
+Parking:tiedowns
+
+Runway Information
+Runway 3/21
+
+Dimensions:1950 x 70 ft. / 594 x 21 m
+Surface:turf, in good condition
+Runway edge markings:RWY 03/21 MKD BY YELLOW CONES.
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Displaced threshold:no400 ft.
+Obstructions:78 ft. trees, 87 ft. from runway, 54 ft. right of centerline, 1:1 slope to clear20:1 AT DSPLCD THR DUE TO ROAD AND 35 FT TREES 714 FT FM DSPLCD THR OFFSET 5 FT LEFT.7 ft. road, 19 ft. from runway, 2:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROBERT O. WHITFIELD, JR.1721 ROBERT WHITFIELD RDHURDLE MILLS, NC 27451Phone 336-234-0111
+Manager:ROBERT O. WHITFIELD, JR.P.O. BOX 549ROXBORO, NC 27573Phone 336-234-0111
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:4
+Aircraft operations: avg 48/month*87%local general aviation13%transient general aviation* for 12-month period ending 26 May 2022
+Additional Remarks
+
+-WARNING - FARM EQUIPMENT, SALVAGED AIRCRAFT, AND VEHICLES ON RWY 03/21; LIVESTOCK IN VICINITY OF RWY 03/21; SALVAGE AIRCRAFT LEFT SIDE OF RWY 03.
+-OWNER PREFERS LANDINGS TO THE S & TKOFS TO THE N.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-RWY 21 DSPLCD THR UNMARKED; RWY 03-21 WIDTH VARIES FM 60-70 FT.
+
+Instrument Procedures
+There are no published instrument procedures at 4W4.
+Some nearby airports with instrument procedures:
+KTDF - Raleigh Regional Airport at Person County (5 nm E)
+KDAN - Danville Regional Airport (21 nm NW)
+KBUY - Burlington/Alamance Regional Airport (24 nm SW)
+KHNZ - Henderson/Oxford Airport (27 nm E)
+W78 - William M Tuck Airport (28 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Marcus J. Howard, 6/6/2004
+
+Do you have a better or more recent aerial photo of Whitfield Farms Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Whitfield Farms Airport?
+Find the distance to fly.
+From 
+to 4W4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:2822:28
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:07:42
+Local (UTC-5)19-Jan-2024 17:07:42
+
+
+
+
+   
+
+METAR
+
+
+KTDF5nm E192145Z AUTO 29013G21KT 10SM CLR 03/M10 A2994 RMK AO2
+
+
+
+
+
+TAF
+
+
+KDAN21nm NW191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Whitfield Farms Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Whitfield Farms Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

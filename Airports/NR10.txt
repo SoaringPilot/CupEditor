@@ -1,0 +1,376 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR10 - Pink Hill Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1449 users online
+ 
+
+
+
+
+NR10
+ Pink Hill AirportPink Hill, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PINK HILL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR10
+Lat/Long:35-03-02.5890N 077-44-09.9130W35-03.043150N 077-44.165217W35.0507192,-77.7360869(estimated)
+Elevation:144 ft. / 43.9 m (surveyed)
+Variation:08W (1985)
+From city:1 mile E of PINK HILL, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28572
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1963
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at DPL (12 nm W):120.675 (910-296-9688)
+WX AWOS-3PT at OAJ (15 nm SE):PHONE 910-324-5233
+WX AWOS-3 at ISO (18 nm N):132.75 (252-522-2712)
+WX AWOS-3P at W40 (18 nm NW):120.075 (919-658-8067)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr209/21.1KINSTON VORTAC117.5005W
+EWNr276/34.0NEW BERN VOR/DME113.6008W
+
+
+NDBnameHdg/DistFreqVarID
+STALS198/11.727609WIS.. ...
+CLINTON091/31.141209WCTZ-.-. - --..
+
+Airport Services
+
+Parking:tiedowns
+
+Runway Information
+Runway 1/19
+
+Dimensions:2800 x 85 ft. / 853 x 26 m
+Surface:turf, in good condition
+Runway edge markings:01/19 MARKED WITH YELLOW CONES; DSPLCD THLD MARKED WITH 3 CONES EACH SIDE RY.
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Displaced threshold:200 ft.200 ft.
+Obstructions:73 ft. trees, 65 ft. from runway, 107 ft. left of centerlineAPCH RATIO 3:1 TO DSPLCD THLD.46 ft. trees, 288 ft. from runway, 42 ft. left of centerline, 6:1 slope to clearAPCH RATIO 10:1 TO DSPLCD THLD.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:C&C VINEYARDS INC.5093 POTTERS HILL ROADPINK HILL, NC 28572Phone 910-389-3012
+Manager:MIKE AVERY385 PINK HILL ROADPINK HILL, NC 28572Phone 910-389-3012
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Aircraft operations: avg 38/month*56%local general aviation22%transient general aviation22%military* for 12-month period ending 08 August 2014
+Additional Remarks
+
+-5' DEEP DITCH ACROSS RY AT THR RY 01 WITH 1' BERM.
+-78 FT TREES 50 FT FM RY EDGES BOTH SIDES SOUTH HALF OF RY; 40 FT TREES 50 FT FM E EDGE NORTH HALF OF RY.
+-ARPT IS UNDER SEVERAL MILITARY VR ROUTES. JET ACFT CROSS AP UNDER 500' IN EXCESS OF 200 KNOTS.
+-NO LINE OF SIGHT BETWEEN RY ENDS.
+-+5 FT GRAPE VINEYARDS 50 FT LEFT & RIGHT OF CNTRLN FIRST HALF OF RY 19.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-ONLY 2300 FT USABLE RUNWAY (RWY 01 FIRST 500 FT UNUSABLE)
+
+Instrument Procedures
+There are no published instrument procedures at NR10.
+Some nearby airports with instrument procedures:
+KDPL - Duplin County Airport (12 nm W)
+KOAJ - Albert J Ellis Airport (15 nm SE)
+KISO - Kinston Regional Jetport at Stallings Field (18 nm N)
+W40 - Mount Olive Municipal Airport (18 nm NW)
+KGSB - Seymour Johnson Air Force Base (21 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Pink Hill Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Pink Hill Airport?
+Find the distance to fly.
+From 
+to NR10
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1812:18
+Sunset17:2522:25
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:43:22
+Local (UTC-5)19-Jan-2024 16:43:22
+
+
+
+
+   
+
+METAR
+
+
+KDPL12nm W192105Z AUTO 32010G16KT 10SM BKN070 BKN085 11/M03 A2982 RMK AO2
+
+KOAJ15nm SE192056Z 28010G15KT 240V310 10SM BKN060 OVC080 12/00 A2980 RMK AO2 SLP093 T01220000 53018
+
+KISO17nm N192056Z 35008G15KT 10SM SCT065 BKN075 11/M00 A2981
+
+KGSB20nm NW192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KACZ23nm SW192105Z AUTO 31010G22KT 10SM BKN060 BKN070 BKN085 12/00 A2982 RMK AO2 T01191001
+
+
+
+
+
+TAF
+
+
+KOAJ15nm SE191727Z 1918/2018 29015G26KT P6SM SCT050 FM200300 31009G18KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KISO17nm N191727Z 1918/2018 30016G27KT P6SM SCT050 FM200300 31011G20KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KGSB20nm NW191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Pink Hill Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Pink Hill Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

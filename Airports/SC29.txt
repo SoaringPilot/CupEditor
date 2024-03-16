@@ -1,0 +1,345 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: SC29 - Mc Kay Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1482 users online
+ 
+
+
+
+
+SC29
+ Mc Kay AirportTimmonsville, South Carolina, USA 
+
+
+
+
+
+
+GOING TO TIMMONSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SC29
+Lat/Long:34-06-38.5640N 079-54-05.2380W34-06.642733N 079-54.087300W34.1107122,-79.9014550(estimated)
+Elevation:135 ft. / 41 m (estimated)
+Variation:06W (1985)
+From city:3 miles SE of TIMMONSVILLE, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29161
+
+Airport Operations
+
+Airport use:CLOSED INDEFINITELY
+Activation date:06/1943
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at FLO (10 nm NE):PHONE 843-665-1306
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr242/14.2FLORENCE VORTAC115.2003W
+CTFr153/37.3CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+EVANS342/16.742006WCFY-.-. ..-. -.--
+DARLINGTON188/20.024506WUDG..- -.. --.
+HARTSVILLE156/20.834107WHVS.... ...- ...
+SUMTER079/23.925207WSMS... -- ...
+BENNETTSVILLE203/31.723008WBES-... . ...
+DILLON241/33.327409WDLC-.. .-.. -.-.
+MANNING032/34.838106WMNI-- -. ..
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 15/33
+
+Dimensions:3000 x 70 ft. / 914 x 21 m
+Surface:turf
+RUNWAY 15RUNWAY 33
+Traffic pattern:rightleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:WOODY MC KAYRT 1 MC KAY RD PO BOX 500TIMMONSVILLE, SC 29161Phone 803-346-2436
+Manager:WOODY MC KAYRT 1TIMMONSVILLE, SC 29161Phone 803-346-2436
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC FLORENCE APCH AT 843-669-5194, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+-(ARPT STATUS) ARPT CLSD INDEFLY.
+
+Instrument Procedures
+There are no published instrument procedures at SC29.
+Some nearby airports with instrument procedures:
+KFLO - Florence Regional Airport (10 nm NE)
+51J - Lake City Municipal Airport-CJ Evans Field (17 nm SE)
+KUDG - Darlington County Airport (20 nm N)
+KHVS - Hartsville Regional Airport (21 nm NW)
+KCKI - Williamsburg Regional Airport (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mc Kay Airport?
+Find the distance to fly.
+From 
+to SC29
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2512:25
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:32:08
+Local (UTC-5)19-Jan-2024 16:32:08
+
+
+
+
+   
+
+METAR
+
+
+KFLO9nm NE192053Z 32018G28KT 10SM SCT065 13/M01 A2986 RMK AO2 PK WND 31029/2043 PRESRR SLP110 T01331006 53016
+
+
+
+
+
+TAF
+
+
+KFLO9nm NE191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mc Kay Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mc Kay Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

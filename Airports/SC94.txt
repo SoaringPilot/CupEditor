@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: SC94 - Weaver Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1443 users online
+ 
+
+
+
+
+SC94
+ Weaver Field AirportJohnsonville, South Carolina, USA 
+
+
+
+
+
+
+GOING TO JOHNSONVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SC94
+Lat/Long:33-53-22.0000N 079-30-23.0000W33-53.366667N 079-30.383333W33.8894444,-79.5063889(estimated)
+Elevation:75 ft. / 23 m (estimated)
+From city:7 miles NW of JOHNSONVILLE, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29555
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/2003
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at MAO (19 nm NE):119.875 (843-423-4231)
+WX AWOS-3 at HYW (19 nm E):119.525 (843-397-8046)
+
+
+122.9
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr163/21.9FLORENCE VORTAC115.2003W
+CREr280/39.2GRAND STRAND VORTAC114.4003W
+
+
+NDBnameHdg/DistFreqVarID
+EVANS087/13.142006WCFY-.-. ..-. -.--
+ANDREWS008/26.325506WPHH.--. .... ....
+DILLON200/34.327409WDLC-.. .-.. -.-.
+DARLINGTON156/38.224506WUDG..- -.. --.
+MANNING069/39.338106WMNI-- -. ..
+
+Airport Services
+
+Fuel available:100LL100LL:CALL 843-601-1405
+
+Runway Information
+Runway 4/22
+
+Dimensions:2660 x 110 ft. / 811 x 34 m
+Surface:turf
+Runway edge lights:low intensityW REDL - WITH G REDL AT EACH END OF RWY. - RWY LIGHT SPACING EVERY 400 FT. (RWY LGTS ARE OTS)
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftleft
+Obstructions:nonetrees, 600 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LYNIEL DEAN WEAVER JR221 EAST SALEM ROADJOHNSONVILLE, SC 29555Phone (843) 601-1405
+Manager:WEAVER AVIATION LLC221 EAST SALEM ROADJOHNSONVILLE, SC 29555Phone 843-601-1405
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-TWR 1 NM NE OF ARPT.
+-POWELINES ON SHORT FINAL TO RWY 22; POWER LINES AT END OF RUNWAY.
+-TWR LOCATED APPR 1 NM W NW OF ARPT.
+-FOR MORE ARPT INFO CALL 843-601-1405.
+-FOR CD CTC FLORENCE APCH AT 843-669-5194, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at SC94.
+Some nearby airports with instrument procedures:
+51J - Lake City Municipal Airport-CJ Evans Field (13 nm W)
+KMAO - Marion County Airport (19 nm NE)
+KHYW - Conway-Horry County Airport (19 nm E)
+KCKI - Williamsburg Regional Airport (20 nm SW)
+KFLO - Florence Regional Airport (21 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Weaver Field Airport?
+Find the distance to fly.
+From 
+to SC94
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2312:23
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:06:39
+Local (UTC-5)19-Jan-2024 17:06:39
+
+
+
+
+   
+
+METAR
+
+
+KMAO19nm NE192155Z AUTO 35014G21KT 10SM BKN060 11/M02 A2991 RMK AO2
+
+KHYW19nm E192155Z AUTO 27009G19KT 10SM CLR 12/M01 A2988 RMK AO2
+
+KCKI20nm SW192155Z AUTO 30015G21KT 10SM SCT070 12/M03 A2991 RMK AO2
+
+KFLO21nm NW192153Z 33016G26KT 10SM CLR 11/M04 A2992 RMK AO2 PK WND 31031/2119 SLP131 T01111039
+
+KMYR32nm SE192156Z 31016G21KT 10SM BKN060 14/01 A2986 RMK AO2 PK WND 28027/2101 SLP112 T01440006
+
+KGGE36nm S192155Z AUTO 28012G28KT 10SM CLR 13/M03 A2990 RMK AO2
+
+KUDG38nm NW192156Z AUTO 33019G24KT 10SM FEW060 08/M07 A2996 RMK AO2 PK WND 32029/2126 SLP145 T00831067
+
+
+
+
+
+TAF
+
+
+KFLO21nm NW191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Weaver Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Weaver Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

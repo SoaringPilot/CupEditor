@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N52 - JAARS-Townsend Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1551 users online
+ 
+
+
+
+
+N52
+ JAARS-Townsend AirportWaxhaw, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WAXHAW?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N52
+Lat/Long:34-51-49.7400N 080-44-52.7400W34-51.829000N 080-44.879000W34.8638167,-80.7479833(estimated)
+Elevation:602 ft. / 183.5 m (surveyed)
+Variation:07W (2000)
+From city:3 miles S of WAXHAW, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28173
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/1962
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:MON-FRI 0800-1700UNATNDD MAJOR HOLS.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT LIRL RWY 04/22  - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+CHARLOTTE APPROACH:120.05
+CHARLOTTE DEPARTURE:120.05
+JOOLS STAR:135.6
+RASLN STAR:126.15
+WX AWOS-3 at LKR (10 nm SW):120.825 (803-286-6444)
+WX ASOS at EQY (11 nm NE):135.775 (704-283-5185)
+WX ASOS at UZA (17 nm NW):120.775 (803-981-9388)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr158/22.0CHARLOTTE VOR/DME115.0005W
+CTFr302/26.6CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+CHESTER084/22.822006WDCM-.. -.-. --
+STONIA140/28.126006WGHJ--. .... .---
+
+Airport Services
+
+Parking:tiedowns
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:3309 x 40 ft. / 1009 x 12 m
+Surface:asphalt, in good condition
+Runway edge lights:low intensityRWY 04/22 NSTD LIRL. ONLY THREE END LGTS EACH SIDE OF RWYS & EACH SIDE OF DSPLCD THR.
+Runway edge markings:MRKGS SMALLER THAN STD.
+RUNWAY 4RUNWAY 22
+Latitude:34-51.614333N34-52.044333N
+Longitude:080-45.082667W080-44.675333W
+Elevation:602.0 ft.599.0 ft.
+Traffic pattern:leftleft
+Runway heading:045 magnetic, 038 true225 magnetic, 218 true
+Displaced threshold:no200 ft.
+Markings:NSTD, in good conditionNSTD, in good condition
+Runway end identifier lights:nono
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:56 ft. trees, 256 ft. from runway, 113 ft. right of centerline, 1:1 slope to clear+51 FT TREES 0-200 FT FROM THR OFFSET 133 FT RIGHT OF CNTRLN ; +51 FT TREES 0-200 FT FROM THR OFFSET 157 FT LEFT OF CNTRLN ; AND +7 FT FENCE 0-200 FT FROM THR OFFSET 112 FT RIGHT AND OFFSET 120 FT LEFT OF CNTRLN.66 ft. trees, 302 ft. from runway, 140 ft. right of centerline, 1:1 slope to clear70 FT TREES 0-200 FT FM THR OFFSET 121 FT RIGHT; 65 FT TREES 0-200 FT FM THLR OFFSET 107 FT LEFT.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAARS INC.PO BOX 248WAXHAW, NC 28173Phone 704-843-6220
+Manager:DAN MILLER7710 JAARS ROADWAXHAW, NC 28173Phone 704-843-6220
+
+Airport Operational Statistics
+
+Aircraft based on the field:13Single engine airplanes:12Helicopters:1
+Aircraft operations: avg 36/day*92%local general aviation8%transient general aviation* for 12-month period ending 04 August 2022
+Additional Remarks
+
+-RWY 04 HAS 5 FT DROP-OFF 150 FT FM THR, 0 BOTH.
+-TSNT TFC NOTE THAT ONLY JAARS PILOTS ARE PMTD TO USE NON-STD PATTERNS FOR T.
+-DEER ON AND INVOF ARPT.
+-RWY 04/22 20 FT DOWN SLOPE BTN ENDS.
+-SFC VARN IN RESA.
+-WIND CONDS PMTG AT NIGHT TKOF RWY 22 & LAND RWY 04.
+-TSNT TFC PROHIBITED FM LNDG ON GRASS PRACTICE AREAS.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+JOOLS ONE (RNAV)
+download (274KB)
+LIINN THREE
+2 pages:
+ [1] [2] (313KB)
+MAJIC FOUR
+download (263KB)
+RASLN THREE
+download (197KB)
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 04
+download (194KB)
+RNAV (GPS) RWY 22
+download (208KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KLKR - Lancaster County Airport-Mc Whirter Field (10 nm SW)
+KEQY - Charlotte-Monroe Executive Airport (11 nm NE)
+KUZA - Rock Hill (York County) Airport-Bryant Field (17 nm NW)
+KPYG - Pageland Airport (21 nm E)
+KDCM - Chester Catawba Regional Airport (23 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of JAARS-Townsend Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to JAARS-Townsend Airport?
+Find the distance to fly.
+From 
+to N52
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3012:30
+Sunset17:3822:38
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:19:59
+Local (UTC-5)19-Jan-2024 16:19:59
+
+
+
+
+   
+
+METAR
+
+
+KLKR10nm SW192055Z AUTO 29008G17KT 260V330 10SM CLR 08/M09 A2995 RMK AO2
+
+KEQY11nm NE192053Z AUTO 33015G26KT 10SM CLR 07/M09 A2994 RMK AO2 PK WND 32032/2039 SLP154 T00721089 53041
+
+KUZA16nm NW192054Z AUTO 35015G20KT 10SM CLR 07/M07 A2997 RMK AO2 SLP152 T00671067 53038
+
+
+
+
+
+TAF
+
+
+KCLT23nm NW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+JAARS
+
+704-843-6220
+
+
+no information available
+If you are affiliated with JAARS and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the JAARS-Townsend Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about JAARS-Townsend Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

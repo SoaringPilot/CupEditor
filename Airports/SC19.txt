@@ -1,0 +1,354 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: SC19 - Lamar Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1542 users online
+ 
+
+
+
+
+SC19
+ Lamar AirportLamar, South Carolina, USA 
+
+
+
+
+
+
+GOING TO LAMAR?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SC19
+Lat/Long:34-10-03.5580N 080-04-39.2460W34-10.059300N 080-04.654100W34.1676550,-80.0775683(estimated)
+Elevation:175 ft. / 53 m (estimated)
+Variation:05W (1985)
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29069
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1947
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HVS (14 nm N):118.225 (843-339-9625)
+WX AWOS-3 at SMS (17 nm SW):118.075 (803-469-6750)
+WX ASOS at FLO (18 nm E):PHONE 843-665-1306
+WX AWOS-3PT at UDG (19 nm NE):119.925 (843-393-8220)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr262/21.2FLORENCE VORTAC115.2003W
+CTFr164/30.6CHESTERFIELD VOR/DME114.5503W
+MMTr076/38.9MC ENTIRE VORTAC113.2008W
+
+
+NDBnameHdg/DistFreqVarID
+HARTSVILLE179/14.534107WHVS.... ...- ...
+SUMTER060/17.625207WSMS... -- ...
+DARLINGTON216/19.024506WUDG..- -.. --.
+EVANS326/24.342006WCFY-.-. ..-. -.--
+BENNETTSVILLE220/32.123008WBES-... . ...
+MANNING016/35.438106WMNI-- -. ..
+DILLON253/39.027409WDLC-.. .-.. -.-.
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway NE/SW
+
+Dimensions:3150 x 75 ft. / 960 x 23 m
+Surface:turf
+RUNWAY NERUNWAY SW
+Traffic pattern:leftleft
+Obstructions:nonebldg
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CARLTON H SEGARSPO BOX 306LAMAR, SC 29069Phone 803-326-5583AND EDWARD H SEGARS JR
+Manager:CHARLTON H SEGARSP O BOX 306LAMAR, SC 29069
+
+Additional Remarks
+
+-FOR CD CTC SHAW APCH AT 803-895-4884, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at SC19.
+Some nearby airports with instrument procedures:
+KHVS - Hartsville Regional Airport (14 nm N)
+KSMS - Sumter Airport (17 nm SW)
+KFLO - Florence Regional Airport (18 nm E)
+KUDG - Darlington County Airport (19 nm NE)
+KSSC - Shaw Air Force Base (23 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lamar Airport?
+Find the distance to fly.
+From 
+to SC19
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2612:26
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:24:26
+Local (UTC-5)19-Jan-2024 16:24:26
+
+
+
+
+   
+
+METAR
+
+
+KHVS14nm N192055Z AUTO VRB06G15KT 250V360 10SM SCT060 11/M06 A2990 RMK AO2
+
+KFLO17nm E192053Z 32018G28KT 10SM SCT065 13/M01 A2986 RMK AO2 PK WND 31029/2043 PRESRR SLP110 T01331006 53016
+
+KSMS17nm SW192055Z AUTO 29011G21KT 10SM SCT065 14/M03 A2990 RMK AO2
+
+KUDG19nm NE192056Z AUTO 31019G26KT 10SM BKN065 11/M03 A2989 RMK AO2 PK WND 32030/2026 SLP123 T01111033 53024
+
+KSSC23nm SW192055Z 31015G27KT 10SM FEW065 14/M05 A2988 RMK AO2A PK WND 29028/08 SLPNO T01371055 53018 $
+
+KCDN25nm W192055Z AUTO 31023G29KT 10SM CLR 10/M08 A2993 RMK AO2
+
+
+
+
+
+TAF
+
+
+KFLO17nm E191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lamar Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lamar Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,475 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1454 users online
+ 
+
+
+
+
+KTTA
+ Raleigh Executive Jetport at Sanford-Lee County AirportSanford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SANFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:TTA
+Lat/Long:35-34-56.7820N 079-06-04.8160W35-34.946367N 079-06.080267W35.5824394,-79.1013378(estimated)
+Elevation:246.6 ft. / 75.2 m (surveyed)
+Variation:08W (2000)
+From city:7 miles NE of SANFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27330
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1999
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:TTA (NOTAM-D service available)
+Attendance:0800-1800FOR SVC AFTER HOURS CALL 919-708-3065.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:DUSK-DAWN. ACTVT MALSR RWY 03; REIL RWY 21; HIRL RWY 03/21 - CTAF. PAPI RWYS 03 & 21 ON CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.075
+WX AWOS-3:120.625 (919-708-5382)
+RALEIGH APPROACH:125.3
+RALEIGH DEPARTURE:125.3
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr231/23.3RALEIGH/DURHAM VORTAC117.2009W
+LIBr122/28.5LIBERTY VORTAC113.0003W
+SDZr050/32.4SANDHILLS VORTAC111.8003W
+FAYr347/37.5FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT301/22.741708WHQT.... --.- -
+PERSON191/39.122008WHUR.... ..- .-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:100LL 24 HR SELF-SERVICE WITH CREDIT CARD.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH
+
+Runway Information
+Runway 3/21
+
+Dimensions:6501 x 100 ft. / 1982 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:30.0Double wheel:100.0
+Runway edge lights:high intensity
+RUNWAY 3RUNWAY 21
+Latitude:35-34.446217N35-35.446510N
+Longitude:079-06.315347W079-05.845150W
+Elevation:246.5 ft.224.2 ft.
+Traffic pattern:leftleft
+Runway heading:029 magnetic, 021 true209 magnetic, 201 true
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:58 ft. trees, 2493 ft. from runway, 174 ft. right of centerline, 39:1 slope to clear71 ft. trees, 2194 ft. from runway, 142 ft. left of centerline, 28:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:SANFORD-LEE COUNTY RGNL ARPT AUTH700 ROD SULLIVAN RDSANFORD, NC 27330Phone 919-776-2939
+Manager:BOB HEUTS700 ROD SULLIVAN RD.SANFORD, NC 27330Phone 919-776-2939
+
+Airport Operational Statistics
+
+Aircraft based on the field:209Single engine airplanes:186Multi engine airplanes:8Jet airplanes:11Helicopters:3Gliders airplanes:1
+Aircraft operations: avg 172/day*76%local general aviation19%transient general aviation3%air taxi2%military* for 12-month period ending 17 August 2022
+Additional Remarks
+
+-FOR CD CTC RALEIGH APCH AT 919-380-3144.
+-USE RWY 03 FOR CALM WIND RWY.
+-TWY A 15-30 FT DROP-OFF INVOF TWYS A3 AND A4.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS Y OR LOC Y RWY 03
+download (299KB)
+ILS Z OR LOC Z RWY 03
+download (365KB)
+RNAV (GPS) RWY 03
+download (300KB)
+RNAV (GPS) RWY 21
+download (284KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (364KB)
+
+Other nearby airports with instrument procedures:
+KSCR - Siler City Municipal Airport (21 nm W)
+KHRJ - Harnett Regional Jetport Airport (22 nm SE)
+KRDU - Raleigh-Durham International Airport (23 nm NE)
+KSOP - Moore County Airport (25 nm SW)
+KPOB - Pope Army Airfield (25 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Don Poitras
+
+Do you have a better or more recent aerial photo of Raleigh Executive Jetport at Sanford-Lee County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Raleigh Executive Jetport at Sanford-Lee County Airport?
+Find the distance to fly.
+From 
+to KTTA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2512:25
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:46:10
+Local (UTC-5)19-Jan-2024 16:46:10
+
+
+
+
+   
+
+METAR
+
+
+KTTA192130Z AUTO 31015G24KT 10SM CLR 07/M08 A2992 RMK AO2 T00671080
+
+
+
+
+
+TAF
+
+
+KRDU23nm NE191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KPOB25nm S192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+919-776-2939[web site][email]
+
+Aviation fuel, Aircraft ground handling, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, ...
+
+
+
+More info and photos of Raleigh Executive Jetport
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.11$5.31SS$5.51---Updated 16-Jan-2024
+
+
+
+
+9readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Raleigh Executive Jetport at Sanford-Lee County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Raleigh Executive Jetport at Sanford-Lee County Airport
+
+
+
+Raleigh Executive Jetport at Sanford-Lee County Airport
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

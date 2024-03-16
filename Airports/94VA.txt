@@ -1,0 +1,7 @@
+AirNav: 94VA - Highview Farms
+CTAF:
+Lat/Long:WW37.263056,-78.849444(estimated)
+Runway 14/32
+Elevation:765 ft.
+Surface:turf
+Dimensions:2200 x 50 ft.

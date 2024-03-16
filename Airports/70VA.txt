@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 70VA - Burnt Chimney Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1616 users online
+ 
+
+
+
+
+70VA
+ Burnt Chimney AirportBurnt Chimney, Virginia, USA 
+
+
+
+
+
+
+GOING TO BURNT CHIMNEY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:70VA
+Lat/Long:37-04-31.5060N 079-49-38.1180W37-04.525100N 079-49.635300W37.0754183,-79.8272550(estimated)
+Elevation:1034 ft. / 315 m (estimated)
+Variation:06W (1985)
+From city:2 miles S of BURNT CHIMNEY, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24151
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1987
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR LIRL RY 06/24 CALL 540-263-0083.
+
+Airport Communications
+
+WX ASOS at ROA (17 nm NW):PHONE 540-265-0680
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr162/(16.6)WOODRUM VOR114.9008W
+ROAr148/19.8ROANOKE VOR/DME109.4004W
+LYHr254/30.2LYNCHBURG VOR/DME109.2005W
+DANr328/(38.5)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON169/8.127708WVIT...- .. -
+TECH114/28.736808WTEC- . -.-.
+
+Airport Services
+
+Fuel available:MOGAS
+
+Runway Information
+Runway 6/24
+
+Dimensions:1800 x 50 ft. / 549 x 15 m
+Surface:turf
+Runway edge lights:low intensity
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+Obstructions:none30 ft. pline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MARLIN J. BOWMAN6442 1/2 BEAMSVILLE-WEBSTER RDVERSAILLES, OH 45380Phone 540-263-0083
+Manager:MARLIN J. BOWMAN6442 1/2 BEAMSVILLE-WEBSTER RDVERSAILLES, OH 45380Phone 540-263-0083
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Instrument Procedures
+There are no published instrument procedures at 70VA.
+Some nearby airports with instrument procedures:
+W91 - Smith Mountain Lake Airport (11 nm E)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (17 nm NW)
+W90 - New London Airport (26 nm NE)
+KMTV - Blue Ridge Airport (28 nm S)
+KBCB - Virginia Tech/Montgomery Executive Airport (29 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Burnt Chimney Airport?
+Find the distance to fly.
+From 
+to 70VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:16
+Local (UTC-5)19-Jan-2024 15:48:16
+
+
+
+
+   
+
+METAR
+
+
+KROA16nm NW191954Z 30019G28KT 10SM BKN045 01/M08 A2989 RMK AO2 PK WND 32034/1934 SLP128 T00061078 $
+
+KMTV29nm S192035Z AUTO 33012G20KT 10SM OVC050 02/M12 A2993 RMK AO2 T00191116
+
+KBCB29nm W192035Z AUTO 29011G22KT 250V320 10SM OVC033 M03/M09 A2990 RMK AO2 T10261092
+
+
+
+
+
+TAF
+
+
+KROA16nm NW191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Burnt Chimney Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Burnt Chimney Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

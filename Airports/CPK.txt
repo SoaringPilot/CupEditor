@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KCPK - Chesapeake Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1611 users online
+ 
+
+
+
+
+KCPK
+ Chesapeake Regional AirportNorfolk, Virginia, USA 
+
+
+
+
+
+
+GOING TO NORFOLK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Horizon Aviation Services
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:CPK
+Lat/Long:36-39-56.2230N 076-19-14.3610W36-39.937050N 076-19.239350W36.6656175,-76.3206558(estimated)
+Elevation:18.7 ft. / 5.7 m (surveyed)
+Variation:11W (2010)
+From city:12 miles S of NORFOLK, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23323
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:CPK (NOTAM-D service available)
+Attendance:0800-2000
+Pattern altitude:TPA 1000FT AGL (1020 FT MSL) TURBINE/LARGE ACFT 1500 FT AGL (1520 FT MSL).
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT HIRL RY 05/23, MALSR RY 05 AND REIL RY 23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.075
+WX AWOS-3:123.675 (757-204-4290)
+NORFOLK APPROACH:118.9 125.2
+NORFOLK DEPARTURE:118.9 125.2
+DRONE STAR:118.9
+TERKS STAR:118.9
+WX AWOS-3PT at PVG (9 nm NW):118.375 (757-465-2175)
+WX AWOS-3 at SFQ (13 nm W):119.375 (757-934-3942)
+WX ASOS at ORF (15 nm NE):PHONE 757-460-9348
+WX ASOS at NTU (17 nm NE):PHONE DSN 433-3619 or 757-433-3619
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ORFr210/14.8NORFOLK VORTAC116.9007W
+ECGr351/25.5ELIZABETH CITY VOR/DME115.7507W
+CVIr066/31.8COFIELD VORTAC114.6009W
+FKNr104/33.4FRANKLIN VORTAC110.6009W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE007/24.225410WLLW.-.. .-.. .--
+WAKEFIELD131/37.827411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL JET-AA:FOR FUEL AFT HRS CALL IN ADVANCE 757-421-9000.  SELF-SVC AVBL.100LL:FOR FUEL AFTER HRS CALL 757-421-9000.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+
+Runway Information
+Runway 5/23
+
+Dimensions:5500 x 100 ft. / 1676 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Single wheel:30.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:36-39.574645N36-40.299432N
+Longitude:076-19.577148W076-18.901512W
+Elevation:16.5 ft.18.4 ft.
+Traffic pattern:leftright
+Runway heading:047 magnetic, 036 true227 magnetic, 216 true
+Markings:precision, in fair conditionnonprecision, in fair condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:59 ft. tree, 1754 ft. from runway, 720 ft. left of centerline, 26:1 slope to clear89 ft. tree, 2205 ft. from runway, 166 ft. right of centerline, 22:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CHESAPEAKE AIRPORT AUTHORITY2800 AIRPORT DRIVECHESAPEAKE, VA 23323-6402Phone 757-432-8110
+Manager:CHRIS SCHRANTZ2800 AIRPORT DRIVECHESAPEAKE, VA 23323-6402Phone 757-432-8110
+
+Airport Operational Statistics
+
+Aircraft based on the field:120Single engine airplanes:109Multi engine airplanes:9Helicopters:2
+Aircraft operations: avg 138/day*67%local general aviation27%transient general aviation4%air taxi2%military* for 12-month period ending 31 December 2019
+Additional Remarks
+
+-DEER AND GEESE ON & INVOF RY.
+-GCO AVBL ON FREQ 135.075 THRU NORFOLK CD. IF UN, FOR CD CTC NORFOLK APCH AT 757-464-0757.
+-NOISE ABATEMENT PROCEDURES IN EFFECT; CTC AMGR 757-432-8110.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+DRONE TWO**CHANGED**
+2 pages:
+ [1] [2] (266KB)
+TERKS TWO**CHANGED**
+download (168KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05
+download (307KB)
+RNAV (GPS) RWY 05
+download (268KB)
+RNAV (GPS) RWY 23
+download (230KB)
+
+NOTE: Special Alternate Minimums apply
+download (60KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KPVG - Hampton Roads Executive Airport (9 nm NW)
+KSFQ - Suffolk Executive Airport (13 nm W)
+KORF - Norfolk International Airport (15 nm NE)
+KNGU - Norfolk Naval Station (Chambers Field) (16 nm N)
+KNTU - Oceana Naval Air Station (Apollo Soucek Field) (17 nm NE)
+KNHU - Norfolk Naval Station Airport (17 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Sheila Beaton
+Photo taken 23-Mar-2013
+looking north.
+
+Do you have a better or more recent aerial photo of Chesapeake Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Chesapeake Regional Airport?
+Find the distance to fly.
+From 
+to KCPK
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:51:01
+Local (UTC-5)19-Jan-2024 15:51:01
+
+
+
+
+   
+
+METAR
+
+
+KCPK192035Z AUTO 29011G17KT 10SM SCT034 BKN050 OVC075 05/M02 A2977 RMK AO2 T00521019
+
+KNFE9nm E191956Z AUTO 32009G18KT 10SM FEW029 BKN038 OVC046 07/M01 A2974 RMK AO2 SLP073 T00671006
+
+KPVG9nm NW191956Z AUTO 28010G16KT 10SM SCT033 BKN048 OVC065 06/M01 A2976 RMK AO2 SLP079 T00561006
+
+KSFQ13nm W192035Z AUTO 30010G17KT 10SM SCT031 BKN043 OVC075 06/00 A2980 RMK AO2 T00600002
+
+KORF15nm N192020Z 32011G22KT 10SM SCT029 BKN036 OVC080 06/M02 A2976 RMK AO2 PRESRR T00561017
+
+KNGU15nm N191959Z 30020G29KT 10SM SCT029 BKN036 OVC065 06/M01 A2976 RMK AO2 PK WND 29034/1935 SLP077 T00611006
+
+KNTU17nm NE191956Z 30019G31KT 10SM SCT033 SCT044 OVC060 06/M01 A2972 RMK AO2 PK WND 31031/1948 SLP065 T00611006
+
+
+
+
+
+TAF
+
+
+KORF15nm N191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KNGU15nm N1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KNTU17nm NE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1919 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191900 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0919/0923 28014KT 9000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 540009 520909 QNH2980INS TX08/1918Z TNM02/2009Z FN20008 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 123.075757-421-9000toll-free 800-600-9990[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Pilot school (FAR Part 141), Aircraft rental, ...
+
+
+
+More info and photos of Horizon Aviation Services
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.69$5.49SS$5.99$5.49GUARANTEED
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Chesapeake Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Chesapeake Regional Airport
+
+
+
+www.chesapeakeairport.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

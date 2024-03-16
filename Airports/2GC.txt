@@ -1,0 +1,386 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2GC - Grays Creek Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1550 users online
+ 
+
+
+
+
+2GC
+ Grays Creek AirportFayetteville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO FAYETTEVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2GC
+Lat/Long:34-53-37.2900N 078-50-36.7100W34-53.621500N 078-50.611833W34.8936917,-78.8435306(estimated)
+Elevation:160 ft. / 49 m (estimated)
+Variation:06W (1985)
+From city:9 miles S of FAYETTEVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28348
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1989
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:MON-FRI 0800-1700WKENDS BY APPOINTMENT ONLY CALL 910-286-3435
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR LIRL RY 17/35 CALL (910) 483-4114.
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at FAY (6 nm N):121.25 (910-484-1546)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr168/5.7FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON267/24.241209WCTZ-.-. - --..
+HARNETT202/33.441708WHQT.... --.- -
+DILLON053/37.227409WDLC-.. .-.. -.-.
+CAMP357/37.822707WCPC-.-. .--. -.-.
+
+Airport Services
+
+Fuel available:100LL
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+
+Runway Information
+Runway 17/35
+
+Dimensions:3500 x 30 ft. / 1067 x 9 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:8.0
+Runway edge lights:non-standardNSTD LIRL; FIRST 350 FT RY 35 NOT LIGHTED.
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+Displaced threshold:no350 ft.LGTD THR RELCTD 350 FT; 3150 FT OF RY 17/35 USBL AT NGT.
+Markings:basic, in good conditionbasic, in fair condition
+Obstructions:76 ft. trees, 1276 ft. from runway, 89 ft. left of centerline, 14:1 slope to clear83 ft. tree, 244 ft. from runway, 69 ft. left of centerline, 1:1 slope to clear14 FT BLDG 169 FT FM THR OFFSET 79 FT L OF CNTRLN
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROGER DALE & CINDY SMITH7154 BUTLER NURSERY ROADFAYETTEVILLE, NC 28306Phone 910-483-4114
+Manager:CINDY B SMITH7154 BUTLER NURSERY ROADFAYETTEVILLE, NC 28306Phone 910-286-3435
+
+Airport Operational Statistics
+
+Aircraft based on the field:25Single engine airplanes:25
+Aircraft operations: avg 136/week*70%local general aviation28%transient general aviation1%military* for 12-month period ending 06 June 2022
+Additional Remarks
+
+-TAXI ON THE GRASS APRON AT A SLOW SPEED DUE TO UNEVEN SOD SURFACE.
+-EXERCISE CAUTION WITH NIGHT LANDING DUE TO NONSTANDARD LIGHTING OFFSET FROM PVMT GIVING PERCEPTION RUNWAY  WIDER.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-RWY 17 NONSTANDARD END LIGHTS DSPLCD 122 FT FM END
+
+Instrument Procedures
+There are no published instrument procedures at 2GC.
+Some nearby airports with instrument procedures:
+KFAY - Fayetteville Regional Airport/Grannis Field (6 nm N)
+KFBG - Simmons Army Airfield (15 nm N)
+KPOB - Pope Army Airfield (19 nm NW)
+5W4 - P K Airpark (19 nm NW)
+KLBT - Lumberton Regional Airport (20 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Grays Creek Airport?
+Find the distance to fly.
+From 
+to 2GC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2212:22
+Sunset17:3022:30
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:12:37
+Local (UTC-5)19-Jan-2024 16:12:37
+
+
+
+
+   
+
+METAR
+
+
+KFAY6nm N192053Z 31017G28KT 10SM SCT080 12/M06 A2984 RMK AO2 PK WND 30034/2030 SLP100 T01171056 53027
+
+KFBG14nm N192055Z AUTO 31021G26KT 10SM CLR 12/M08 A2983 RMK AO2 PK WND 29028/02 SLPNO T01151079 52031 $
+
+KPOB18nm NW192055Z AUTO 29013G25KT 10SM CLR 11/M09 A2986 RMK AO2 PK WND 32036/04 SLPNO T01081095 52035 $
+
+
+
+
+
+TAF
+
+
+KFAY6nm N191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KFBG14nm N192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KPOB18nm NW192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Cape Fear Aviation
+
+910-483-4114
+
+
+no information available
+If you are affiliated with Cape Fear Aviation and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLAS$5.80Updated 04-Jan-2024
+
+
+
+
+write
+
+
+
+AS=Assisted/Self Service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Grays Creek Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Grays Creek Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

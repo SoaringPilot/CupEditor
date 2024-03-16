@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA27 - Moorefield's Airstrip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1462 users online
+ 
+
+
+
+
+VA27
+ Moorefield's AirstripCritz, Virginia, USA 
+
+
+
+
+
+
+GOING TO CRITZ?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA27
+Lat/Long:36-33-35.4950N 080-08-16.1750W36-33.591583N 080-08.269583W36.5598597,-80.1378264(estimated)
+Elevation:1110 ft. / 338 m (estimated)
+Variation:06W (1985)
+From city:4 miles S of CRITZ, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24171
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1973
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at MTV (7 nm NE):118.45 (276-957-3784)
+WX AWOS-3 at SIF (16 nm SE):119.775 (336-573-3677)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr349/31.8GREENSBORO VORTAC116.2003W
+DANr275/(38.6)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+BALES267/10.839607WUV..- ...-
+SLAMMER308/21.042307WSIF... .. ..-.
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:2160 x 70 ft. / 658 x 21 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:none20 ft. trees, 600 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES B. WILLIAMS, JR5213 MOOREFIELD STORE RD.SPENCER, VA 24165-3456Phone 703-957-1052
+Manager:JAMES B. WILLIAMS, JR5213 MOOREFIELD STORE RDSPENCER, VA 24165-3456Phone (703) 957-1052
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-PLINE 500 FT FM RWY 01 END.
+-CELL PHONE TOWER 2 MILES NORTH OF RWY 19.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at VA27.
+Some nearby airports with instrument procedures:
+KMTV - Blue Ridge Airport (7 nm NE)
+N63 - Meadow Brook Field Airport (16 nm S)
+KSIF - Rockingham County NC Shiloh Airport (16 nm SE)
+KMWK - Mount Airy/Surry County Airport (21 nm W)
+KINT - Smith Reynolds Airport (26 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Moorefield's Airstrip?
+Find the distance to fly.
+From 
+to VA27
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:35:29
+Local (UTC-5)19-Jan-2024 16:35:29
+
+
+
+
+   
+
+METAR
+
+
+KMTV7nm NE192115Z AUTO 33013G21KT 10SM OVC050 02/M11 A2997 RMK AO2 T00151115
+
+KSIF16nm SE192110Z AUTO 28011G22KT 10SM SCT060 04/M09 A2995 RMK AO2 T00371093
+
+
+
+
+
+TAF
+
+
+KINT26nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KGSO29nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Moorefield's Airstrip, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Moorefield's Airstrip
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

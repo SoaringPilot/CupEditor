@@ -1,0 +1,515 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KHWY - Warrenton/Fauquier Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1446 users online
+ 
+
+
+
+
+KHWY
+ Warrenton/Fauquier AirportWarrenton, Virginia, USA 
+
+
+
+
+
+
+GOING TO WARRENTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:HWY
+Lat/Long:38-35-10.6270N 077-42-38.2710W38-35.177117N 077-42.637850W38.5862853,-77.7106308(estimated)
+Elevation:336.2 ft. / 102.5 m (surveyed)
+Variation:10W (2005)
+From city:12 miles SE of WARRENTON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22728
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1964
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:0800-DARK
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT HIRL RWY 15/33 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:120.350 (540-788-4078)
+POTOMAC APPROACH:128.525
+POTOMAC DEPARTURE:128.525
+HYPER STAR:133.0
+TIKEE STAR:120.45
+TRSTN STAR:126.75
+WX AWOS-3 at CJR (8 nm SW):119.325 (540-727-0523)
+WX AWOS-3PT at HEF (12 nm NE):PHONE 703-361-6160
+WX AWOS-3 at RMN (16 nm SE):126.325 (540-657-8283)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CSNr120/8.0CASANOVA VORTAC116.3006W
+BRVr321/22.5BROOKE VORTAC114.5009W
+AMLr217/23.8ARMEL VOR/DME113.5008W
+LDNr131/28.2LINDEN VORTAC114.3006W
+DCAr252/35.6WASHINGTON VOR/DME111.0009W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR059/12.135110WMSQ-- ... --.-
+SHANNON338/22.823710WEZF. --.. ..-.
+DAVEE270/28.522309WDAA-.. .- .-
+OXONN262/33.833211WDCA-.. -.-. .-
+GEORGETOWN242/34.332309WGTN--. - -.
+CAVERNS110/36.324509WLUA.-.. ..- .-
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 15/33
+
+Dimensions:5000 x 100 ft. / 1524 x 30 m
+Surface:asphalt/grooved, in fair condition
+Weight bearing capacity:Single wheel:15.0Double wheel:70.0
+Runway edge lights:high intensity
+RUNWAY 15RUNWAY 33
+Latitude:38-35.487063N38-34.867155N
+Longitude:077-42.983353W077-42.292412W
+Elevation:313.2 ft.336.2 ft.
+Traffic pattern:leftleft
+Runway heading:149 magnetic, 139 true329 magnetic, 319 true
+Markings:precision, in fair conditionprecision, in fair condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:92 ft. tree, 3075 ft. from runway, 526 ft. right of centerline, 31:1 slope to clear82 ft. tree, 2229 ft. from runway, 491 ft. right of centerline, 24:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:FAUQUIER COUNTY10 HOTEL ST, SUITE 204WARRENTON, VA 20186Phone (540) 422-8005
+Manager:DAVE DARRAH1533 IRIS TRAIL, PO BOX 198MIDLAND, VA 22728-0068Phone 540-422-8283
+
+Airport Operational Statistics
+
+Aircraft based on the field:152Single engine airplanes:139Multi engine airplanes:12Jet airplanes:1
+Aircraft operations: avg 136/day*63%local general aviation35%transient general aviation1%air taxi<1%military* for 12-month period ending 31 December 2021
+Additional Remarks
+
+-ULTRALIGHT ACTIVITY ON & INVOF ARPT.
+-FOR CD CTC POTOMAC APCH AT 866-709-4993.
+-NOISE ABATEMENT PROCS IN EFCT OVER TOWN OF MIDLAND; CTC AMGR 540-422-8283.
+-RWY 15 PREF CALM WIND RWY.
+-AEROBATIC ACTIVITY ADJACENT TO WEST SIDE OF RWY 15/33.
+-AEROBATIC DEMO AREA WITHIN 2 NM SOUTH OF ARPT 3500 FT & BLW; 1000-2200; MAY - OCT.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+HYPER EIGHT (RNAV)
+2 pages:
+ [1] [2] (398KB)
+HYPER EIGHT (RNAV), CONT.2
+download (293KB)
+TIKEE FOUR (RNAV)
+download (215KB)
+TRSTN THREE (RNAV)
+download (209KB)
+IAPs - Instrument Approach Procedures
+
+LOC/DME RWY 15
+download (251KB)
+RNAV (GPS) RWY 15
+download (255KB)
+RNAV (GPS) RWY 33
+download (234KB)
+VOR RWY 15
+download (248KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KCJR - Culpeper Regional Airport (8 nm SW)
+KHEF - Manassas Regional Airport/Harry P. Davis Field (12 nm NE)
+KRMN - Stafford Regional Airport (16 nm SE)
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (20 nm E)
+KEZF - Shannon Airport (23 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Ken Peppard
+Photo taken 02-Jun-2023
+looking southeast.
+
+Do you have a better or more recent aerial photo of Warrenton/Fauquier Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Warrenton/Fauquier Airport?
+Find the distance to fly.
+From 
+to KHWY
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2712:27
+Sunset17:1722:17
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:05:57
+Local (UTC-5)19-Jan-2024 17:05:57
+
+
+
+
+   
+
+METAR
+
+
+KHWY192155Z AUTO 31008KT 10SM SCT042 BKN070 OVC100 00/M04 A2988 RMK AO2 T00011044
+
+KHEF12nm NE192156Z 34005KT 10SM BR BKN032 OVC100 M01/M03 A2989 RMK AO2 SNE28 SLP130 P0000 T10061033
+
+KRMN16nm SE192155Z AUTO 31003KT 10SM SCT047 OVC060 M01/M03 A2988 RMK AO2 T10071035
+
+
+
+
+
+TAF
+
+
+KNYG21nm E1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+KIAD24nm NE191727Z 1918/2024 06004KT 1SM -SN BR BKN008 OVC025 TEMPO 1918/1920 1/2SM SN BKN006 FM192000 32006KT 2SM -SHSN BR OVC008 FM192300 32008KT 5SM -SHSN BR OVC025 FM200400 31010G18KT P6SM SCT050 FM202000 30017G30KT P6SM SCT250 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.70540-422-8285540-422-8283[web site][email]
+
+NEW TERMINAL/FBO FACILITY opened January 2020This green, state of the art facility was completed in January 2020 offers a luxurious waiting area, pilot lounge, showers, ample auto parking, aircraft security & 24 hr access.10 minutes from the Flying Circus; 50 minutes from Leesburg; 25 minutes from Manassas; Approx 1+ hour from Washington D.C., Arlington, Alexandria; 30 minutes to Inn at Little WashingtonWe can provide catering with 24 hour notice. Jet and 100LL fuel. Secure aircraft parking. Hangar leasing/sales (SkyWorld Aviation). Rental Cars with 24 hour notice M-F for weekend
+
+
+
+More info and photos of Warrenton-Fauquier Airport
+
+
+
+
+
+100LL Jet AFS$5.40$6.00GUARANTEED
+
+
+
+
+2readwrite
+
+
+
+FS=Full service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+SkyWorld Aviation
+
+540-788-9300[web site][email]
+
+Oxygen service, Hangars, Hangar leasing / sales, GPU / Power cart, Aircraft maintenance, Avionics sales and service, Aircraft modifications, ...
+
+ 
+ 
+
+
+
+
+More info about SkyWorld Aviation
+
+
+
+
+on airport
+
+
+
+1readwrite
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Warrenton/Fauquier Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Warrenton/Fauquier Airport
+
+
+
+www.fauquiercounty.gov/...
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,305 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 21VA - Eagles Nest Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1607 users online
+ 
+
+
+
+
+21VA
+ Eagles Nest AirportCheriton, Virginia, USA 
+
+
+
+
+
+
+GOING TO CHERITON?
+
+
+ 
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:21VA
+Lat/Long:37-18-11.4970N 075-56-05.7500W37-18.191617N 075-56.095833W37.3031936,-75.9349306(estimated)
+Elevation:40 ft. / 12 m (estimated)
+Variation:10W (1985)
+From city:2 miles NE of CHERITON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23310
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1984
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CCVr142/4.0CAPE CHARLES VORTAC112.2010W
+ORFr034/27.8NORFOLK VORTAC116.9007W
+HCMr110/38.0HARCUM VORTAC108.8007W
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:1800 x 60 ft. / 549 x 18 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:nonetrees, 100 ft. from runwayPLINE-M
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:PETER M LEONTIEFF SR23041 PARSONS CIRCAPE CHARLES, VA 23310Phone 757-678-0004
+Manager:PETER M LEONTIEFF SR23041 PARSONS CIRCAPE CHARLES, VA 23310Phone 757-678-0004
+
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 21VA.
+Some nearby airports with instrument procedures:
+KMFV - Accomack County Airport (22 nm N)
+KLFI - Langley Air Force Base (24 nm SW)
+KNHU - Norfolk Naval Station Airport (27 nm SW)
+KORF - Norfolk International Airport (28 nm SW)
+KNGU - Norfolk Naval Station (Chambers Field) (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Eagles Nest Airport?
+Find the distance to fly.
+From 
+to 21VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1322:13
+Evening civil twilight17:4122:41
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:03:11
+Local (UTC-5)19-Jan-2024 16:03:11
+
+
+
+
+   
+
+METAR
+
+
+KMFV21nm N191915Z AUTO 30014G21KT 5SM -RA BKN009 OVC014 02/01 A2968 RMK AO2 T00220005
+
+KLFI25nm SW192055Z 30012G24KT 10SM FEW038 OVC060 05/M03 A2979 RMK AO2A PK WND 30029/25 PRESRR SLP094 T00461034 53034 $
+
+KORF27nm SW192051Z 31012G27KT 270V350 10SM FEW047 SCT060 OVC080 05/M03 A2979 RMK AO2 PK WND 29027/2049 SLP087 T00501028 53034
+
+KNGU28nm SW192059Z 31026G35KT 10SM SCT035 BKN060 OVC080 05/M03 A2981 RMK AO2 PK WND 29035/2002 SLP095 T00501033 53034
+
+KPHF29nm W192054Z 31021G31KT 10SM FEW034 SCT060 OVC075 04/M03 A2981 RMK AO2 PK WND 28031/2012 SLP094 T00391028 53033
+
+KNTU29nm S192056Z 31015G29KT 10SM FEW034 BKN060 OVC075 05/M02 A2978 RMK AO2 PK WND 32032/2028 SLP086 T00501022 53035
+
+KW7530nm NW192055Z AUTO 30011G21KT 10SM BKN022 BKN028 OVC060 02/M02 A2982 RMK AO1 T00151016
+
+KTGI32nm N192055Z AUTO 30022G29KT 3SM OVC006 02/01 A2978 RMK AO1 P0003 60005 T00150009
+
+KFAF34nm W191955Z AUTO 29016KT 10SM SCT030 BKN040 BKN049 OVC065 05/M01 A2973 RMK AO2 PK WND 29026/19 RAB21E29 SLP071 P0000 T00481008 TSNO $
+
+KNFE38nm S191956Z AUTO 32009G18KT 10SM FEW029 BKN038 OVC046 07/M01 A2974 RMK AO2 SLP073 T00671006
+
+
+
+
+
+TAF
+
+
+KLFI25nm SW191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KORF27nm SW191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KNGU28nm SW1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KPHF29nm W191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KNTU29nm S1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1919 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191900 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0919/0923 28014KT 9000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 540009 520909 QNH2980INS TX08/1918Z TNM02/2009Z FN20008 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Eagles Nest Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Eagles Nest Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

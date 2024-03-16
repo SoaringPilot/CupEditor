@@ -1,0 +1,301 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 70NR - Ruby's Landing Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1443 users online
+ 
+
+
+
+
+70NR
+ Ruby's Landing AirportNewton Grove, North Carolina, USA 
+
+
+
+
+
+
+GOING TO NEWTON GROVE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:70NR
+Lat/Long:35-13-10.0800N 078-22-00.7000W35-13.168000N 078-22.011667W35.2194667,-78.3668611(estimated)
+Elevation:144 ft. / 44 m (estimated)
+From city:2 miles S of NEWTON GROVE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28328
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/2013
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at CTZ (15 nm S):119.125 (910-592-7488)
+WX AWOS-3P at W40 (16 nm E):120.075 (919-658-8067)
+WX AWOS-3 at JNX (19 nm N):120.225 (919-934-3851)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr065/28.6FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON008/14.741209WCTZ-.-. - --..
+HARNETT138/19.841708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:2655 x 80 ft. / 809 x 24 m
+Surface:turf, in good condition
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+Obstructions:80 ft. trees, 300 ft. from runway50 ft. pline, 500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:KENNETH E. COX1470 MCLAMB RDNEWTON GROVE, NC 28366Phone 910-594-1927
+Manager:KENNETH E. COX1470 MCLAMB RDNEWTON GROVE, NC 28366Phone 910-352-7323
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-ARPT LCTD BNTH MIL TRNG RTE. ATTN LOW FLYING ACFT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 70NR.
+Some nearby airports with instrument procedures:
+KCTZ - Clinton-Sampson County Airport (15 nm S)
+W40 - Mount Olive Municipal Airport (16 nm E)
+KJNX - Johnston Regional Airport (19 nm N)
+KHRJ - Harnett Regional Jetport Airport (20 nm NW)
+KGSB - Seymour Johnson Air Force Base (21 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Ruby's Landing Airport?
+Find the distance to fly.
+From 
+to 70NR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:50:33
+Local (UTC-5)19-Jan-2024 16:50:33
+
+
+
+
+   
+
+METAR
+
+
+KCTZ14nm S192125Z AUTO 31013G22KT 10SM SCT070 11/M04 A2986 RMK AO2 T01111045
+
+KJNX19nm N192130Z AUTO 31012G22KT 270V330 10SM SCT060 09/M03 A2988 RMK AO2
+
+KGSB20nm E192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KHRJ20nm NW192130Z AUTO 32015G26KT 10SM SCT080 09/M06 A2990 RMK AO2 T00881058
+
+KDPL24nm SE192125Z AUTO 30017G25KT 10SM SCT080 11/M05 A2984 RMK AO2
+
+KGWW25nm NE192130Z AUTO 31011G18KT 270V340 10SM SCT065 SCT070 SCT080 08/M03 A2985 RMK AO2 T00841030
+
+KFBG28nm W192129Z AUTO 31016G25KT 10SM CLR 10/M09 A2987 RMK AO2 PRESRR SLPNO $
+
+
+
+
+
+TAF
+
+
+KGSB20nm E191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Ruby's Landing Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Ruby's Landing Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

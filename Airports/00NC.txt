@@ -1,0 +1,372 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 00NC - North Raleigh Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1433 users online
+ 
+
+
+
+
+00NC
+ North Raleigh AirportLouisburg, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LOUISBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:00NC
+Lat/Long:36-05-06.5410N 078-22-16.9880W36-05.109017N 078-22.283133W36.0851503,-78.3713856(estimated)
+Elevation:348 ft. / 106.1 m (surveyed)
+Variation:07W (1985)
+From city:3 miles SW of LOUISBURG, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27525
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/1972
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:MON-FRI 0700-1700
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at LHZ (4 nm SE):118.325 (919-497-0810)
+WX AWOS-3 at HNZ (18 nm NW):118.625 (919-693-9516)
+
+
+MULTICOM - 131.500
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr066/23.7RALEIGH/DURHAM VORTAC117.2009W
+TYIr286/33.0TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO146/17.627109WHXO.... -..- ---
+PERSON113/34.822008WHUR.... ..- .-.
+
+Airport Services
+
+Fuel available:A
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:2650 x 36 ft. / 808 x 11 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:10.0
+RUNWAY 5RUNWAY 23
+Traffic pattern:rightleft
+Obstructions:8 ft. gnd, 200 ft. from runway50 ft. trees, 200 ft. from runway, 85 ft. right of centerlineHAS +23 FT TREES 0-200 FT FROM THR 85 FT R.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:NORTH RALEIGH AIRPORT LLC6966 NC 56 HWYFRANKLINTON, NC 27525Phone (719) 309-0430
+Manager:ERIC LIPPERT6966 NC 56 HWYFRANKLINTON, NC 27525Phone 252-315-3699
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:1Multi engine airplanes:2Helicopters:1
+Aircraft operations: avg 24/week*96%commercial4%military* for 12-month period ending 11 June 1992
+Additional Remarks
+
+-RWY 05 10-30' TREES AT THR 40' EACH SIDE OF CNTRLN; +50' TREES 500' FROM THR 100' RIGHT OF CNTRLN.
+-HEAVY PARACHUTE JUMPING OVER ARPT (DROP ZONE NORTH OF RY).
+-RWY 05 +15' TERRAIN ON CL 200' FROM THR.
+-RWY 23 +100' UNMARKED ANTENNA 1000' FROM THR; 600' LEFT OF CENTERLINE.
+-FLY AT LEAST ONE MILE WIDE DOWN WIND LEG TO PREVENT CONFLICTS WITH PARACHUTE JUMPING ACTVY.
+-CALL FOR ASSISTANCE
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 00NC.
+Some nearby airports with instrument procedures:
+KLHZ - Triangle North Executive Airport (4 nm SE)
+KHNZ - Henderson/Oxford Airport (18 nm NW)
+KRDU - Raleigh-Durham International Airport (24 nm SW)
+KRWI - Rocky Mount/Wilson Regional Airport (27 nm SE)
+W03 - Wilson Industrial Air Center Airport (27 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to North Raleigh Airport?
+Find the distance to fly.
+From 
+to 00NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2312:23
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:39:31
+Local (UTC-5)19-Jan-2024 16:39:31
+
+
+
+
+   
+
+METAR
+
+
+KLHZ4nm SE192115Z AUTO 29015G25KT 10SM SCT055 SCT070 06/M05 A2988 RMK AO2
+
+KHNZ19nm NW192110Z AUTO 31008G21KT 270V330 10SM CLR 03/M11 A2988 RMK AO2 T00341106
+
+
+
+
+
+TAF
+
+
+KRDU24nm SW191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KRWI27nm SE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the North Raleigh Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about North Raleigh Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

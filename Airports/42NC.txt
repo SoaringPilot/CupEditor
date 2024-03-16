@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 42NC - Spring Paths Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1433 users online
+ 
+
+
+
+
+42NC
+ Spring Paths AirportSpring Hope, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SPRING HOPE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:42NC
+Lat/Long:35-57-28.0000N 078-10-14.0000W35-57.466667N 078-10.233333W35.9577778,-78.1705556(estimated)
+Elevation:290 ft. / 88 m (estimated)
+Variation:08W (1995)
+From city:4 miles W of SPRING HOPE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27882
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1999
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:DAWN-DUSK
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at LHZ (9 nm NW):118.325 (919-497-0810)
+WX ASOS at RWI (15 nm SE):118.875 (252-446-0732)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr272/22.7TAR RIVER VORTAC117.8005W
+RDUr089/30.2RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO143/29.927109WHXO.... -..- ---
+HARNETT046/39.941708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:MOGAS
+
+Runway Information
+Runway 17/35
+
+Dimensions:1200 x 50 ft. / 366 x 15 m
+Surface:turf
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RICHARD FRENCH383 THOMAS GAY ROADSPRING HOPE, NC 27882Phone 252-885-3632
+Manager:RICHARD FRENCH383 THOMAS GAY ROADSPRING HOPE, NC 27882Phone 252-885-3632
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-60 FT TREES 100 FT EAST & WEST OF RY.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 42NC.
+Some nearby airports with instrument procedures:
+KLHZ - Triangle North Executive Airport (9 nm NW)
+KRWI - Rocky Mount/Wilson Regional Airport (15 nm SE)
+W03 - Wilson Industrial Air Center Airport (15 nm SE)
+KJNX - Johnston Regional Airport (27 nm SW)
+KHNZ - Henderson/Oxford Airport (30 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Spring Paths Airport?
+Find the distance to fly.
+From 
+to 42NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2212:22
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:56:09
+Local (UTC-5)19-Jan-2024 16:56:09
+
+
+
+
+   
+
+METAR
+
+
+KLHZ9nm NW192135Z AUTO 31013G21KT 10SM CLR 06/M06 A2989 RMK AO2
+
+KRWI15nm SE192053Z AUTO 31015G24KT 10SM 08/M03 A2983 RMK AO2 PK WND 32028/2013 SLP102 T00781033 53028 $
+
+
+
+
+
+TAF
+
+
+KRWI15nm SE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Spring Paths Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Spring Paths Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

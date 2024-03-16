@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W88 - Air Harbor Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+W88
+ Air Harbor AirportGreensboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GREENSBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W88
+Lat/Long:36-10-25.0000N 079-48-11.0000W36-10.416667N 079-48.183333W36.1736111,-79.8030556(estimated)
+Elevation:822 ft. / 251 m (estimated)
+Variation:06W (1985)
+From city:6 miles N of GREENSBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27455
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1947
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:1200-DUSKAFT HRS EMERG CALL 336-669-5462.
+Wind indicator:yes
+Segmented circle:no
+Lights:SS-SR
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX ASOS at GSO (8 nm SW):128.55 (336-393-0168)
+WX AWOS-3 at SIF (16 nm N):119.775 (336-573-3677)
+WX ASOS at BUY (18 nm SE):135.325 (336-570-9813)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr051/11.4GREENSBORO VORTAC116.2003W
+LIBr340/23.6LIBERTY VORTAC113.0003W
+DANr230/(32.7)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER196/12.642307WSIF... .. ..-.
+PERSON272/35.922008WHUR.... ..- .-.
+
+Airport Services
+
+Fuel available:100LL100LL:FUEL AVBL 24 HR CREDIT CARD SVC.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 9/27
+
+Dimensions:2460 x 65 ft. / 750 x 20 mN 25 FT WIDTH IS ASPH.  S 40 FT WIDTH IS TURF.
+Surface:asphalt/turf, in fair condition
+Runway edge lights:non-standardNSTD MIRL; EDGE LGTS VARY FROM 60-75 FEET FROM PAVEMENT S SIDE; 8 FT FM PAVEMENT N SIDE; NIGHT LANDINGS HAVE NO INDICATION OF PVMT LOCATION.
+Runway edge markings:RWY 09/27 MARKED WITH YELLOW CONES INDICATING RWY WIDTH UP TO 100 FEET.
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+Obstructions:123 ft. trees, 664 ft. from runway, 119 ft. right of centerline, 3:1 slope to clear58 ft. trees, 312 ft. from runway, 71 ft. left of centerline, 1:1 slope to clear49 FT TREES 130 FT FM THR OFFSET 5-70 FT RIGHT OF CNTRLN AND 27 FT TREES 112 FT FM THR OFFSET 62 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GUILFORD LAKE AVIATION150 AIR HARBOR RD22GREENSBORO, NC 27459Phone 336-288-4275
+Manager:RON MURPHY150 AIR HARBOR ROADGREENSBORO, NC 27459Phone 336-669-5462
+
+Airport Operational Statistics
+
+Aircraft based on the field:40Single engine airplanes:38Multi engine airplanes:2
+Aircraft operations: avg 69/week*72%local general aviation28%transient general aviation* for 12-month period ending 25 June 2022
+Additional Remarks
+
+-RWY 09 LNDG UPHILL.
+-RWY 09 HAS +60 FT DROP-OFF 220 FT FM THR.
+-RWY 27 HAS 8 FT DROP-OFF 10 FT FM THR; LEFT & RIGHT.
+-GRVL ACES ROAD 60 FT FROM RWY 27 END.
+-DEER ON & INVOF ARPT.
+-ACFT HNGR ACES IMDT ADJNT TO RWY; PARKED PLANES LEFT SIDE OF RWY 27.
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+
+Instrument Procedures
+There are no published instrument procedures at W88.
+Some nearby airports with instrument procedures:
+KGSO - Piedmont Triad International Airport (8 nm SW)
+KSIF - Rockingham County NC Shiloh Airport (16 nm N)
+KBUY - Burlington/Alamance Regional Airport (18 nm SE)
+N63 - Meadow Brook Field Airport (18 nm NW)
+KINT - Smith Reynolds Airport (20 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Dave Touvell
+Photo taken 28-Jan-2012
+looking east.
+
+Do you have a better or more recent aerial photo of Air Harbor Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Air Harbor Airport?
+Find the distance to fly.
+From 
+to W88
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:06
+Local (UTC-5)19-Jan-2024 15:44:06
+
+
+
+
+   
+
+METAR
+
+
+KGSO8nm SW191954Z 31020G34KT 10SM FEW055 05/M09 A2988 RMK AO2 PK WND 30041/1906 SLP119 T00501089
+
+KSIF16nm N192030Z AUTO 28011G20KT 10SM SCT055 04/M09 A2992 RMK AO2 T00401090
+
+KBUY18nm SE191954Z AUTO 28019G33KT 10SM CLR 07/M08 A2986 RMK AO2 PK WND 30038/1940 SLP113 T00671083
+
+
+
+
+
+TAF
+
+
+KGSO8nm SW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Murphy Aviation
+
+336-288-4275
+
+
+no information available
+If you are affiliated with Murphy Aviation and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLSS$6.25Updated 04-Oct-2023
+
+
+
+
+write
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Air Harbor Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Air Harbor Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

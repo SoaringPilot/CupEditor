@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3NC5 - Flying BJ Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1580 users online
+ 
+
+
+
+
+3NC5
+ Flying BJ AirportStony Point, North Carolina, USA 
+
+
+
+
+
+
+GOING TO STONY POINT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3NC5
+Lat/Long:35-48-48.1300N 081-04-09.2700W35-48.802167N 081-04.154500W35.8133694,-81.0692417(estimated)
+Elevation:1000 ft. / 305 m (estimated)
+Variation:06W (1995)
+From city:3 miles SW of STONY POINT, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28678
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1996
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SVH (6 nm SE):119.225 (704-873-1978)
+WX ASOS at HKY (16 nm W):118.325 (828-322-2996)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr118/9.0BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr356/37.8CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+TAWBA088/11.633206WHK.... -.-
+FIDDLERS085/30.039107WFIQ..-. .. --.-
+STONIA013/37.626006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2000 x 75 ft. / 610 x 23 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOEL HODGES119 TAFT ROADSTONY POINT, NC 28678Phone 704-880-1663
+Manager:JOEL HODGES119 TAFT ROADSTONY POINT, NC 28678Phone 704-880-1663
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-ALL TRAFFIC LAND RY 36; 40 FT POWERLINE 200 FT N AER 18.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 3NC5.
+Some nearby airports with instrument procedures:
+KSVH - Statesville Regional Airport (6 nm SE)
+14A - Lake Norman Airpark (15 nm SE)
+KHKY - Hickory Regional Airport (16 nm W)
+KIPJ - Lincolnton-Lincoln County Regional Airport (20 nm S)
+KUKF - Wilkes County Airport (25 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Flying BJ Airport?
+Find the distance to fly.
+From 
+to 3NC5
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0612:06
+Sunrise07:3312:33
+Sunset17:3722:37
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:08:47
+Local (UTC-5)19-Jan-2024 16:08:47
+
+
+
+
+   
+
+METAR
+
+
+KSVH7nm SE192045Z AUTO 30014G22KT 10SM CLR 03/M10 A2998 RMK AO2 T00301096
+
+KHKY16nm W192053Z 30009G21KT 10SM FEW043 02/M07 A2998 RMK AO2 SLP147 T00171072 51030
+
+
+
+
+
+TAF
+
+
+KHKY16nm W191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Flying BJ Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Flying BJ Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

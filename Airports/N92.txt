@@ -1,0 +1,373 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N92 - Laneys Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1540 users online
+ 
+
+
+
+
+N92
+ Laneys AirportMaiden, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MAIDEN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N92
+Lat/Long:35-34-27.4810N 081-07-02.2840W35-34.458017N 081-07.038067W35.5743003,-81.1173011(estimated)
+Elevation:1025 ft. / 312 m (estimated)
+Variation:05W (1985)
+From city:3 miles SE of MAIDEN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28650
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1971
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0800 - DUSK
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3 at IPJ (6 nm S):119.675 (704-735-6954)
+WX AWOS-3 at SVH (14 nm NE):119.225 (704-873-1978)
+WX ASOS at HKY (17 nm NW):118.325 (828-322-2996)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr167/18.7BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr346/24.4CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA011/23.126006WGHJ--. .... .---
+FIDDLERS114/28.239107WFIQ..-. .. --.-
+FIRST RIVER057/30.441706WSLP... .-.. .--.
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 13/31
+
+Dimensions:2400 x 75 ft. / 732 x 23 m
+Surface:turf, in good condition
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+Obstructions:60 ft. trees, 113 ft. from runway, 61 ft. right of centerline, 1:1 slope to clear79 ft. trees, 268 ft. from runway, 15 ft. left of centerline, 3:1 slope to clear
+
+Runway 5/23
+
+Dimensions:2000 x 100 ft. / 610 x 30 m
+Surface:turf, in good condition
+Runway edge markings:RY 05/23 NUMBERS SMALLER THAN STANDARD.
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Markings:NSTD, in good conditionNSTD, in good condition
+Obstructions:30 ft. pline, 1 ft. from runway, 80 ft. right of centerline, 1:1 slope to clear35 ft. pline, 45 ft. from runway, 1:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CHARLES LANEY4235 POOL VIEW DRMAIDEN, NC 28650Phone 828-428-8939
+Manager:CHARLES LANEY4235 POOL VIEW DRMAIDEN, NC 28650Phone (828) 312-6189MANAGER'S CELL PHONE 828-312-6189
+
+Airport Operational Statistics
+
+Aircraft based on the field:46Single engine airplanes:39Ultralights:7
+Aircraft operations: avg 48/week*80%local general aviation20%transient general aviation* for 12-month period ending 20 August 2022
+Additional Remarks
+
+-RY 05 & RY 13 FOR PREFERRED LANDING (UPHILL) .
+-RY 05, & RY 31 HAS UNMARKED PLINES ACROSS RY THLDS.  RY 23 HAS MARKED PLINES ACROSS RY THLDS.
+-ULTRALIGHT AIRCRAFT OPERATING ON AND INVOF ARPT.
+-RY 13 HAS NO LINE OF SIGHT FM RY END.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+-SKYDIVING WKEND ACTS ON AND INVOF ARPT.
+
+Instrument Procedures
+There are no published instrument procedures at N92.
+Some nearby airports with instrument procedures:
+KIPJ - Lincolnton-Lincoln County Regional Airport (6 nm S)
+14A - Lake Norman Airpark (11 nm E)
+KSVH - Statesville Regional Airport (14 nm NE)
+KHKY - Hickory Regional Airport (17 nm NW)
+KAKH - Gastonia Municipal Airport (22 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Jack Wysong, Hickory, NC
+
+Do you have a better or more recent aerial photo of Laneys Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Laneys Airport?
+Find the distance to fly.
+From 
+to N92
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0612:06
+Sunrise07:3312:33
+Sunset17:3722:37
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:24:47
+Local (UTC-5)19-Jan-2024 16:24:47
+
+
+
+
+   
+
+METAR
+
+
+KIPJ6nm SW192045Z AUTO 28012G19KT 240V310 10SM CLR 04/M09 A2999 RMK AO2 T00411086
+
+KSVH13nm NE192045Z AUTO 30014G22KT 10SM CLR 03/M10 A2998 RMK AO2 T00301096
+
+KHKY17nm NW192053Z 30009G21KT 10SM FEW043 02/M07 A2998 RMK AO2 SLP147 T00171072 51030
+
+
+
+
+
+TAF
+
+
+KHKY17nm NW191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Laneys Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Laneys Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

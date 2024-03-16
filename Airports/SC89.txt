@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: SC89 - Price Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1458 users online
+ 
+
+
+
+
+SC89
+ Price AirportDillon, South Carolina, USA 
+
+
+
+
+
+
+GOING TO DILLON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SC89
+Lat/Long:34-28-30.0000N 079-23-37.0000W34-28.500000N 079-23.616667W34.4750000,-79.3936111(estimated)
+Elevation:138 ft. / 42 m (estimated)
+Variation:06W (1990)
+From city:4 miles N of DILLON, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29536
+
+Airport Operations
+
+Airport use:CLOSED INDEFINITELY
+Activation date:03/1993
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at MAO (18 nm S):119.875 (843-423-4231)
+WX ASOS at LBT (18 nm NE):134.775 (910-739-7120)
+WX AWOS-3PT at BBP (19 nm NW):123.825 (843-479-5817)
+WX ASOS at MEB (19 nm N):134.125 (910-844-5338)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr045/19.5FLORENCE VORTAC115.2003W
+FAYr224/39.9FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+DILLON330/1.927409WDLC-.. .-.. -.-.
+JIGEL259/13.338408WJB.--- -...
+BENNETTSVILLE125/18.923008WBES-... . ...
+DARLINGTON092/24.524506WUDG..- -.. --.
+CAMP297/35.922707WCPC-.-. .--. -.-.
+HARTSVILLE090/36.234107WHVS.... ...- ...
+
+Airport Services
+
+
+Runway Information
+Runway 4/22
+
+Dimensions:2500 x 125 ft. / 762 x 38 m
+Surface:turf
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftright
+Obstructions:10 ft. trees25 ft. plines
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES C. PRICEROUTE 1, BOX 82DILLON, SC 29536Phone 803-774-2636
+Manager:JAMES C. PRICEROUTE 1, BOX 82DILLON, SC 29536Phone 803-774-2636
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-(ARPT STATUS) ARPT CLSD INDEFLY.
+
+Instrument Procedures
+There are no published instrument procedures at SC89.
+Some nearby airports with instrument procedures:
+KDLC - Dillon County Airport (2 nm SE)
+KMAO - Marion County Airport (18 nm S)
+KLBT - Lumberton Regional Airport (18 nm NE)
+KBBP - Marlboro County Jetport - H E Avent Field (19 nm NW)
+KMEB - Laurinburg/Maxton Airport (19 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Price Airport?
+Find the distance to fly.
+From 
+to SC89
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:3322:33
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:44:46
+Local (UTC-5)19-Jan-2024 16:44:46
+
+
+
+
+   
+
+METAR
+
+
+KLBT18nm NE192056Z AUTO 32017G27KT 10SM SCT075 12/M01 A2984 RMK AO2 PK WND 32031/2018 SLP105 T01221011 53022
+
+KMAO18nm S192135Z AUTO 33013G27KT 10SM BKN070 12/M02 A2989 RMK AO2
+
+KMEB19nm N192052Z AUTO 32018G37KT 10SM BKN080 11/M06 A2987 RMK AO2 PK WND 34037/2048 SLP115 T01061061 53026
+
+KBBP19nm NW192135Z AUTO 31019G30KT 10SM SCT070 09/M06 A2994 RMK AO2
+
+KUDG24nm W192056Z AUTO 31019G26KT 10SM BKN065 11/M03 A2989 RMK AO2 PK WND 32030/2026 SLP123 T01111033 53024
+
+KFLO24nm SW192053Z 32018G28KT 10SM SCT065 13/M01 A2986 RMK AO2 PK WND 31029/2043 PRESRR SLP110 T01331006 53016
+
+KRCZ31nm NW192130Z AUTO 32012G22KT 10SM SCT075 09/M09 A2993 RMK AO2 T00871089
+
+KCQW31nm NW192135Z AUTO 01014G22KT 10SM FEW075 09/M10 A2995 RMK AO2
+
+KHFF33nm N192115Z AUTO 34009G16KT 10SM BKN080 09/M08 A2988 RMK AO2 SLPNO $
+
+
+
+
+
+TAF
+
+
+KLBT18nm NE191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Price Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Price Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

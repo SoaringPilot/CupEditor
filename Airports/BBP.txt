@@ -1,0 +1,421 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KBBP - Marlboro County Jetport - H E Avent Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1500 users online
+ 
+
+
+
+
+KBBP
+ Marlboro County Jetport - H E Avent FieldBennettsville, South Carolina, USA 
+
+
+
+
+
+
+GOING TO BENNETTSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:BBP
+Lat/Long:34-37-18.1510N 079-44-03.6940W34-37.302517N 079-44.061567W34.6217086,-79.7343594(estimated)
+Elevation:146.8 ft. / 44.7 m (surveyed)
+Variation:08W (2005)
+From city:3 miles W of BENNETTSVILLE, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29512
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:MON-SAT 0800-1700,  ALL SUN 1300-1700FOR SVC SUN CALL FBO 843-454-2303.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3PT:123.825 (843-479-5817)
+FLORENCE APPROACH:118.6 [1200-0400Z++ MON-SUN; 1500-2300Z++  HOLS.]
+FLORENCE DEPARTURE:118.6 [1200-0400Z++ MON-SUN; 1500-2300Z++  HOLS.]
+WX AWOS-3 at CQW (12 nm NW):124.825 (843-537-3301)
+WX AWOS-3PT at UDG (13 nm SW):119.925 (843-393-8220)
+WX AWOS-3 at RCZ (16 nm N):118.775 (910-997-4093)
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ATRCC ON FREQS 133.45/306.3 (FLORENCE RCAG) WHEN FLORENCE APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr354/23.6FLORENCE VORTAC115.2003W
+CTFr097/26.7CHESTERFIELD VOR/DME114.5503W
+SDZr194/36.3SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLEat field23008WBES-... . ...
+DARLINGTON041/13.124506WUDG..- -.. --.
+DILLON309/20.827409WDLC-.. .-.. -.-.
+HARTSVILLE063/23.034107WHVS.... ...- ...
+
+Airport Services
+
+Fuel available:100LL JET-A100LL:FOR FUEL AFTER HRS CALL 843-862-4359.
+Parking:hangars and tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 7/25
+
+Dimensions:5003 x 74 ft. / 1525 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:28.0Double wheel:43.0Double tandem:70.0
+Runway edge lights:medium intensity
+RUNWAY 7RUNWAY 25
+Latitude:34-37.080793N34-37.523927N
+Longitude:079-44.482218W079-43.640845W
+Elevation:138.0 ft.146.8 ft.
+Traffic pattern:leftleft
+Runway heading:066 magnetic, 058 true246 magnetic, 238 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:79 ft. tree, 2299 ft. from runway, 359 ft. left of centerline, 26:1 slope to clear84 ft. tree, 2537 ft. from runway, 254 ft. left of centerline, 27:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:MARLBORO COUNTYPO BOX 419BENNETTSVILLE, SC 29512Phone 843-479-5647
+Manager:MR. BARRY AVENTP.O. BOX 535, 1231 AIRPORT ROADBENNETTSVILLE, SC 29512Phone (843) 479-4797COUNTY ADMINISTRATOR.
+
+Airport Operational Statistics
+
+Aircraft based on the field:11Single engine airplanes:11
+Aircraft operations: avg 72/week*66%transient general aviation32%local general aviation2%air taxi* for 12-month period ending 04 April 2018
+Additional Remarks
+
+-FOR FBO MGR BARRY AVENT CALL (843)479-4797.
+-FOR CD CTC FLORENCE APCH AT 843-665-0632, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 07
+download (271KB)
+RNAV (GPS) RWY 25
+download (269KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (364KB)
+
+Other nearby airports with instrument procedures:
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (12 nm NW)
+KUDG - Darlington County Airport (13 nm SW)
+KRCZ - Richmond County Airport (16 nm N)
+KDLC - Dillon County Airport (21 nm SE)
+KMEB - Laurinburg/Maxton Airport (21 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Marlboro County Jetport - H E Avent Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Marlboro County Jetport - H E Avent Field?
+Find the distance to fly.
+From 
+to KBBP
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2512:25
+Sunset17:3422:34
+Evening civil twilight18:0123:01
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:30:13
+Local (UTC-5)19-Jan-2024 16:30:13
+
+
+
+
+   
+
+METAR
+
+
+KBBP192115Z AUTO 32016G23KT 10SM BKN070 09/M03 A2991 RMK AO2
+
+KCQW12nm NW192115Z AUTO 01013G20KT 330V030 10SM FEW070 10/M07 A2992 RMK AO2
+
+KUDG13nm SW192056Z AUTO 31019G26KT 10SM BKN065 11/M03 A2989 RMK AO2 PK WND 32030/2026 SLP123 T01111033 53024
+
+KRCZ16nm N192110Z AUTO 30015G20KT 10SM SCT075 09/M08 A2991 RMK AO2 T00901077
+
+
+
+
+
+TAF
+
+
+KFLO26nm S191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Rare Air Inc.
+
+843-479-4797
+
+
+no information available
+If you are affiliated with Rare Air Inc. and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AFS$5.65$5.50Updated 10-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Marlboro County Jetport - H E Avent Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Marlboro County Jetport - H E Avent Field
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

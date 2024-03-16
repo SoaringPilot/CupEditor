@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 87VA - Cottonwood Farm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1613 users online
+ 
+
+
+
+
+87VA
+ Cottonwood Farm AirportCrozet, Virginia, USA 
+
+
+
+
+
+
+GOING TO CROZET?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:87VA
+Lat/Long:38-04-52.0000N 078-41-44.0000W38-04.866667N 078-41.733333W38.0811111,-78.6955556(estimated)
+Elevation:690 ft. / 210 m (estimated)
+Variation:08W (1990)
+From city:1 mile N of CROZET, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22932
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:DAYLIGHT HOURS
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3PT at W13 (12 nm W):118.625 (540-941-7570)
+WX ASOS at CHO (12 nm E):PHONE 434-973-5024
+WX AWOS-3 at SHD (14 nm NW):124.925 (540-234-0110)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr066/22.3MONTEBELLO VOR/DME115.3005W
+GVEr285/26.0GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+STAUT129/14.337509WSH... ....
+CAVERNS205/38.524509WLUA.-.. ..- .-
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:1000 x 50 ft. / 305 x 15 m
+Surface:turf
+Operational restrictions:ALL LDGS RWY 33; ALL TKOFS RWY 15.
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+Obstructions:20 ft. pline, 50 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:COTTONWOOD FARMP.O. BOX 5525CHARLOTTESVILLE, VA 22905Phone 434-823-5055
+Manager:EMIL J KUTILEK5691 COTTONWOOD FARMCROZET, VA 22932Phone 434-823-5055
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 87VA.
+Some nearby airports with instrument procedures:
+W13 - Eagle's Nest Airport (12 nm W)
+KCHO - Charlottesville-Albemarle Airport (12 nm E)
+KSHD - Shenandoah Valley Regional Airport (14 nm NW)
+KVBW - Bridgewater Air Park (21 nm NW)
+KGVE - Gordonsville Municipal Airport (25 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Cottonwood Farm Airport?
+Find the distance to fly.
+From 
+to 87VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:2222:22
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:54:57
+Local (UTC-5)19-Jan-2024 15:54:57
+
+
+
+
+   
+
+METAR
+
+
+KW1312nm W192035Z AUTO 29010G16KT 260V320 10SM BKN050 OVC120 00/M10 A2980 RMK AO1 T10011105
+
+KCHO12nm E191953Z 32008KT 280V360 10SM SCT045 BKN055 OVC070 03/M06 A2981 RMK AO2 SLP097 T00281061
+
+KSHD15nm NW192035Z AUTO 29012G17KT 10SM BKN060 BKN075 OVC120 00/M10 A2985 RMK AO2 T10021101
+
+KVBW21nm NW192035Z AUTO 30013G19KT 10SM SCT055 SCT070 BKN120 00/M11 A2982 RMK AO1 T10011108
+
+
+
+
+
+TAF
+
+
+KCHO12nm E191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Cottonwood Farm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Cottonwood Farm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

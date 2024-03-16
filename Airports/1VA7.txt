@@ -1,0 +1,7 @@
+AirNav: 1VA7 - Aaron Penston Field Airport
+CTAF:
+Lat/Long:WW36.66523,-78.72196(estimated)
+Runway 1/19
+Elevation:413 ft.
+Surface:turf
+Dimensions:1800 x 110 ft.

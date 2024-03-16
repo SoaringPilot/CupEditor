@@ -1,0 +1,323 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8MD7 - Deerfield Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1593 users online
+ 
+
+
+
+
+8MD7
+ Deerfield AirportLeonardtown, Maryland, USA 
+
+
+
+
+
+
+GOING TO LEONARDTOWN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8MD7
+Lat/Long:38-14-19.0000N 076-39-35.0000W38-14.316667N 076-39.583333W38.2386111,-76.6597222(estimated)
+Elevation:25 ft. / 8 m 
+Variation:11W (2000)
+From city:3 miles SW of LEONARDTOWN, MD
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:20650
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/2001
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at 2W6 (7 nm NE):119.575 (301-373-6514)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PXTr266/12.6PATUXENT VORTAC117.6010W
+BRVr109/33.2BROOKE VORTAC114.5009W
+ADWr174/35.5ANDREWS VORTAC113.1010W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT267/12.440010WNHK-. .... -.-
+DAVEE149/33.022309WDAA-.. .- .-
+OXONN162/36.033211WDCA-.. -.-. .-
+SHANNON103/37.323710WEZF. --.. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 11/29
+
+Dimensions:2000 x 80 ft. / 610 x 24 m
+Surface:turf, in good condition
+RUNWAY 11RUNWAY 29
+Traffic pattern:leftleft
+Displaced threshold:300 ft.no
+Obstructions:60 ft. trees, 900 ft. from runway60 ft. trees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOHN JUNEK20770 SINCLAIR LANELEONARDTOWN, MD 20650Phone (703) 966-2924
+Manager:JOHN JUNEK20770 SINCLAIR LANELEONARDTOWN, MD 20650Phone (703) 966-2924
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 8MD7.
+Some nearby airports with instrument procedures:
+2W6 - St Mary's County Regional Airport (7 nm NE)
+KNHK - Patuxent River Naval Air Station (Trapnell Field) Airport (12 nm E)
+KXSA - Tappahannock/Essex County Airport (25 nm SW)
+2W5 - Maryland Airport (29 nm NW)
+KVKX - Potomac Airfield (34 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Steve Beste
+Photo taken 30-Jun-2020
+looking west.
+
+Do you have a better or more recent aerial photo of Deerfield Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Deerfield Airport?
+Find the distance to fly.
+From 
+to 8MD7
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2212:22
+Sunset17:1322:13
+Evening civil twilight17:4222:42
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:59:30
+Local (UTC-5)19-Jan-2024 15:59:30
+
+
+
+
+   
+
+METAR
+
+
+K2W67nm NE192050Z AUTO 00000KT 4SM OVC008 00/M01 A2983 RMK AO1
+
+KNUI12nm SE192053Z AUTO 32009G21KT 290V350 3SM -SN BR BKN013 BKN030 OVC043 00/M02 A2981 RMK AO2 PRESRR SLP093 P0000 60004 T00001017 53032
+
+KNHK12nm E192052Z 29014KT 3SM -SN SCT009 BKN013 OVC024 01/M02 A2981 RMK AO2 SLP094 P0000 60001 T00111017 53029 $
+
+
+
+
+
+TAF
+
+
+KNHK12nm E1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Deerfield Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Deerfield Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

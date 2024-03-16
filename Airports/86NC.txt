@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 86NC - Craft Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1613 users online
+ 
+
+
+
+
+86NC
+ Craft AirportHertford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HERTFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:86NC
+Lat/Long:36-15-45.0600N 076-29-29.1900W36-15.751000N 076-29.486500W36.2625167,-76.4914417(estimated)
+Elevation:14 ft. / 4 m (estimated)
+Variation:10W (2000)
+From city:5 miles N of HERTFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27944
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/2002
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at EDE (15 nm S):118.275 (252-482-0757)
+WX ASOS at ECG (15 nm E):124.375 (252-338-4750)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr278/15.3ELIZABETH CITY VOR/DME115.7507W
+CVIr119/19.5COFIELD VORTAC114.6009W
+FKNr146/37.0FRANKLIN VORTAC110.6009W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE280/9.425410WLLW.-.. .-.. .--
+
+Airport Services
+
+
+Runway Information
+Runway 4L/22R
+
+Dimensions:2600 x 24 ft. / 792 x 7 m
+Surface:concrete
+RUNWAY 4LRUNWAY 22R
+Traffic pattern:leftleft
+Displaced threshold:no825 ft.
+Obstructions:none50 ft. pline, 175 ft. from runway
+
+Runway 4R/22L
+
+Dimensions:2900 x 100 ft. / 884 x 30 m
+Surface:turf
+RUNWAY 4RRUNWAY 22L
+Traffic pattern:leftleft
+Displaced threshold:no825 ft.
+Obstructions:none50 ft. pline, 175 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CRAIG D CRAFT865 SWAMP RDHERTFORD, NC 27944Phone 252-426-9676
+Manager:CRAIG D CRAFT865 SWAMP RDHERTFORD, NC 27944Phone 252-426-9676
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-INTENSIVE AGRICULTURE OPNS INVOF ARPT.
+-OWNER DESIRES CHARTING.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 86NC.
+Some nearby airports with instrument procedures:
+KEDE - Northeastern Regional Airport (15 nm S)
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (15 nm E)
+KONX - Currituck County Regional Airport (24 nm E)
+KCPK - Chesapeake Regional Airport (26 nm N)
+KSFQ - Suffolk Executive Airport (26 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Craft Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Craft Airport?
+Find the distance to fly.
+From 
+to 86NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:55:01
+Local (UTC-5)19-Jan-2024 15:55:01
+
+
+
+
+   
+
+METAR
+
+
+KECG15nm E191954Z 31022G32KT 10SM FEW048 OVC060 08/M02 A2973 RMK AO2 PK WND 29032/1952 SLP068 T00831017
+
+KEDE15nm S192030Z AUTO 31019G24KT 10SM SCT050 OVC080 09/01 A2978 RMK AO2 T00910006
+
+KONX24nm E192025Z AUTO 28009G18KT 10SM BKN038 BKN044 OVC060 08/M01 A2975 RMK AO2 T00751006
+
+KCPK26nm N192035Z AUTO 29011G17KT 10SM SCT034 BKN050 OVC075 05/M02 A2977 RMK AO2 T00521019
+
+KSFQ26nm N192035Z AUTO 30010G17KT 10SM SCT031 BKN043 OVC075 06/00 A2980 RMK AO2 T00600002
+
+
+
+
+
+TAF
+
+
+KECG15nm E191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Craft Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Craft Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

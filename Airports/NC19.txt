@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC19 - Propst Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1455 users online
+ 
+
+
+
+
+NC19
+ Propst AirportConcord, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CONCORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC19
+Lat/Long:35-23-30.5070N 080-34-32.2390W35-23.508450N 080-34.537317W35.3918075,-80.5756219(estimated)
+Elevation:621 ft. / 189 m (estimated)
+Variation:05W (1985)
+From city:2 miles S of CONCORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28025
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1964
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR RWY LGTS PHONE 704-782-2135.
+
+Airport Communications
+
+WX AWOS-3 at JQF (7 nm W):133.675 (704-785-2145)
+WX AWOS-3 at RUQ (15 nm N):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr062/22.0CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA073/30.926006WGHJ--. .... .---
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:3400 x 50 ft. / 1036 x 15 m
+Surface:asphalt
+Runway edge lights:low intensity
+RUNWAY 4RUNWAY 22
+Traffic pattern:rightleft
+Obstructions:pline, 300 ft. from runwayRWY 04 FENCE 0' FM THR.treesRWY 22 PLINE 100'FM THR
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:PROPST CONSTRUCTION COBOX 688CONCORD, NC 28025-0688Phone 704-786-6322
+Manager:TIM PROPST170 BLUME AVECONCORD, NC 28025-5500Phone 704-782-2135
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at NC19.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (7 nm W)
+KRUQ - Mid-Carolina Regional Airport (15 nm N)
+14A - Lake Norman Airpark (21 nm NW)
+KVUJ - Stanly County Airport (21 nm E)
+KCLT - Charlotte/Douglas International Airport (21 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Propst Airport?
+Find the distance to fly.
+From 
+to NC19
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:44:57
+Local (UTC-5)19-Jan-2024 16:44:57
+
+
+
+
+   
+
+METAR
+
+
+KJQF7nm W192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+KRUQ16nm N192130Z AUTO 32009G15KT 280V340 10SM CLR 04/M09 A2998 RMK AO2 T00371094
+
+
+
+
+
+TAF
+
+
+KCLT21nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Propst Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Propst Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

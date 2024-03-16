@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC54 - Jackson Private Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1552 users online
+ 
+
+
+
+
+NC54
+ Jackson Private AirportAtlantic, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ATLANTIC?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC54
+Lat/Long:34-52-39.5900N 076-21-23.6970W34-52.659833N 076-21.394950W34.8776639,-76.3565825(estimated)
+Elevation:10 ft. / 3 m (estimated)
+Variation:08W (1985)
+From city:2 miles W of ATLANTIC, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28511
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1984
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at MRH (17 nm SW):135.375 (252-728-2055)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+EWNr117/35.8NEW BERN VOR/DME113.6008W
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:3000 x 100 ft. / 914 x 30 m
+Surface:turfRY IS ROUGH.
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:50 ft. trees, 120 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JERRY JACKSONPO BOX 300BEAUFORT, NC 28516Phone 252-670-8500CELL NUMBER:  252-670-8500.
+Manager:JERRY JACKSONPO BOX 300BEAUFORT, NC 28516Phone 252-447-7122
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC54.
+Some nearby airports with instrument procedures:
+KMRH - Michael J Smith Field Airport (17 nm SW)
+W95 - Ocracoke Island Airport (23 nm NE)
+KNKT - Cherry Point Marine Corps Air Station (Cunningham Field) Airport (26 nm W)
+KEWN - Coastal Carolina Regional Airport (36 nm W)
+KHSE - Billy Mitchell Airport (42 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Jackson Private Airport?
+Find the distance to fly.
+From 
+to NC54
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4511:45
+Sunrise07:1312:13
+Sunset17:2022:20
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:20:05
+Local (UTC-5)19-Jan-2024 16:20:05
+
+
+
+
+   
+
+METAR
+
+
+KMRH17nm SW192058Z AUTO 30015KT 10SM FEW055 OVC075 13/03 A2977 RMK AO2 SLP080 T01330033 53016
+
+
+
+
+
+TAF
+
+
+KNKT25nm W1915/2015 27012G22KT 9999 BKN060 521609 522509 523406 QNH2977INS BECMG 1916/1918 30015G28KT SCT050 510009 520909 521809 522709 523604 QNH2972INS FM200000 32015G25KT 9999 SKC 510009 520909 521809 522709 523604 QNH2988INS BECMG 2007/2009 32013KT 521609 522509 523406 QNH3007INS TEMPO 2012/2015 33015G22KT T13/1919Z TM03/2010Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Jackson Private Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Jackson Private Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

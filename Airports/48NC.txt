@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 48NC - Morrison Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1468 users online
+ 
+
+
+
+
+48NC
+ Morrison Field AirportLexington, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LEXINGTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:48NC
+Lat/Long:35-46-51.9800N 080-25-01.6600W35-46.866333N 080-25.027667W35.7811056,-80.4171278(estimated)
+Elevation:825 ft. / 251 m (estimated)
+Variation:07W ()
+From city:8 miles SW of LEXINGTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27299
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/2000
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at EXX (6 nm E):119.825 (336-956-2967)
+WX AWOS-3 at RUQ (10 nm SW):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr236/26.7GREENSBORO VORTAC116.2003W
+LIBr270/39.2LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY057/4.627506WRU.-. ..-
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:1200 x 200 ft. / 366 x 61 m
+Surface:turf
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftright
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ARTHUR T. MORRISON323 MORRISON DRIVELEXINGTON, NC 27295-9402Phone 336-596-2472
+Manager:ARTHUR T. MORRISON323 MORRISON DRIVELEXINGTON, NC 27295-9402Phone 336-596-2472
+
+Airport Operational Statistics
+
+Aircraft based on the field:7Single engine airplanes:5Ultralights:2
+Additional Remarks
+
+-LAND RY 05, TKOF RY 23.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 48NC.
+Some nearby airports with instrument procedures:
+KEXX - Davidson County Executive Airport (6 nm E)
+8A7 - Twin Lakes Airport (8 nm N)
+KRUQ - Mid-Carolina Regional Airport (10 nm SW)
+KINT - Smith Reynolds Airport (23 nm NE)
+KVUJ - Stanly County Airport (25 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Morrison Field Airport?
+Find the distance to fly.
+From 
+to 48NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3422:34
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:35:50
+Local (UTC-5)19-Jan-2024 16:35:50
+
+
+
+
+   
+
+METAR
+
+
+KEXX6nm E192105Z AUTO 29011G17KT 260V350 10SM SCT060 04/M08 A2996 RMK AO2 T00381084
+
+KRUQ9nm SW192110Z AUTO 29011G20KT 10SM CLR 04/M10 A2997 RMK AO2 T00381096
+
+
+
+
+
+TAF
+
+
+KINT23nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Morrison Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Morrison Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

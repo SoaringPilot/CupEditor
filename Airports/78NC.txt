@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 78NC - Fuquay Airport/Angier Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1579 users online
+ 
+
+
+
+
+78NC
+ Fuquay Airport/Angier FieldFuquay/Varina, North Carolina, USA 
+
+
+
+
+
+
+GOING TO FUQUAY/VARINA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:78NC
+Lat/Long:35-32-36.0400N 078-45-01.6600W35-32.600667N 078-45.027667W35.5433444,-78.7504611(estimated)
+Elevation:349 ft. / 106.4 m (surveyed)
+Variation:07W (1985)
+From city:3 miles SE of central business district of the associated city
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27526
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1966
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:ACTVT LIRL RY 14/32 - 122.800.
+Beacon:white-green (lighted land airport)ACTVT ROTG BCN - 122.800.
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3 at HRJ (10 nm S):119.025 (910-814-3946)
+WX AWOS-3 at TTA (17 nm W):120.625 (919-708-5382)
+WX AWOS-3 at JNX (18 nm E):120.225 (919-934-3851)
+
+
+UNICOM OPERS ONLY DURG HOURS OF ATTENDANCE.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr184/19.8RALEIGH/DURHAM VORTAC117.2009W
+FAYr014/34.0FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT339/7.641708WHQT.... --.- -
+CLINTON340/39.041209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 14/32
+
+Dimensions:2780 x 90 ft. / 847 x 27 m
+Surface:turf, in good condition
+Runway edge lights:low intensityNON-STD RWY LGTS; NO LGTS SE 800' RIGHT SIDE; THRS MARKED BY PAIR RED LGTS.
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftleft
+Markings:nonenone
+Obstructions:15 ft. road, 100 ft. right of centerlineSECONDARY OBSTRUCTION ARE TREES; APCH RATIO FROM TREES IS 8:1.15 ft. roadSECONDARY OBSTRUCTION ARE TREES; APCH RATIO FROM TREES IS 6:1.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:KENNEBEC FLYING CLUB8312 MAUDE STEWART ROADFUQUAY VARINA, NC 27526-7856Phone 919-639-0806
+Manager:PRESIDENT, KENNEBEC FLYING CLUB8312 MAUDE STEWART ROADFUQUAY VARINA, NC 27526-7856Phone 919-639-0806PRES, KENNEBEC FLYING CLUB.
+
+Airport Operational Statistics
+
+Aircraft based on the field:30Single engine airplanes:30
+Aircraft operations: avg 20/week*98%local general aviation2%transient general aviation* for 12-month period ending 01 April 2022
+Additional Remarks
+
+-SLIGHT DOGLEG TO LEFT WHEN LNDG RWY 14-900' PAST THR.
+-FLIGHT TRAINING AND COMMERICAL OPERATIONS WITH PRIOR APPROVAL ONLY.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 78NC.
+Some nearby airports with instrument procedures:
+KHRJ - Harnett Regional Jetport Airport (10 nm S)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (17 nm W)
+KJNX - Johnston Regional Airport (18 nm E)
+KRDU - Raleigh-Durham International Airport (20 nm N)
+KPOB - Pope Army Airfield (26 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Fuquay Airport/Angier Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Fuquay Airport/Angier Field?
+Find the distance to fly.
+From 
+to 78NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2412:24
+Sunset17:2822:28
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:10:32
+Local (UTC-5)19-Jan-2024 16:10:32
+
+
+
+
+   
+
+METAR
+
+
+KHRJ10nm S192050Z AUTO 31016G23KT 10SM SCT070 BKN080 10/M05 A2986 RMK AO2 T00981047
+
+KTTA17nm W192050Z AUTO 32011G24KT 10SM CLR 08/M07 A2988 RMK AO2 T00801072
+
+KJNX18nm E192050Z AUTO 33008G25KT 290V360 10SM OVC060 10/M02 A2984 RMK AO2
+
+KRDU19nm N192051Z 30015G30KT 280V340 10SM BKN055 BKN090 09/M08 A2987 RMK AO2 PK WND 32033/2031 SLP113 T00891078 53036
+
+
+
+
+
+TAF
+
+
+KRDU19nm N191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Kennebec Flying Club
+
+919-639-0806919-639-8836[email]
+
+Airport management, Flying club
+
+
+
+More info about Kennebec Flying Club
+
+
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Fuquay Airport/Angier Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Fuquay Airport/Angier Field
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

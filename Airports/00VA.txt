@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 00VA - Vaughan Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1432 users online
+ 
+
+
+
+
+00VA
+ Vaughan AirportAlton, Virginia, USA 
+
+
+
+
+
+
+GOING TO ALTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:00VA
+Lat/Long:36-34-33.6000N 078-59-57.0000W36-34.560000N 078-59.950000W36.5760000,-78.9991667(estimated)
+Elevation:551 ft. / 168 m (estimated)
+From city:12 miles NE of ALTON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27343
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/2008
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W78 (11 nm NE):119.425 (434-575-0332)
+WX ASOS at DAN (16 nm W):128.125 (434-799-1701)
+WX AWOS-3 at TDF (17 nm S):126.725 (336-364-1651)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr178/6.0SOUTH BOSTON VORTAC110.4005W
+DANr094/(16.3)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON017/20.822008WHUR.... ..- .-.
+HUNTSBORO321/24.727109WHXO.... -..- ---
+SLAMMER079/38.642307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:1300 x 100 ft. / 396 x 30 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JEREMY L. & RONNIE D. VAUGHAN2045 SNOW HILL ROADALTON, VA 24520Phone 434-222-6971
+Manager:JEREMY L. & RONNIE D. VAUGHAN2045 SNOW HILL ROADALTON, VA 24520Phone 434-222-6971
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-BLDGS 5 MI SW OF RY 01/19.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-122.9 CTAF
+
+Instrument Procedures
+There are no published instrument procedures at 00VA.
+Some nearby airports with instrument procedures:
+W78 - William M Tuck Airport (11 nm NE)
+KDAN - Danville Regional Airport (16 nm W)
+KTDF - Raleigh Regional Airport at Person County (17 nm S)
+W63 - Lake Country Regional Airport (21 nm E)
+KHNZ - Henderson/Oxford Airport (26 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Vaughan Airport?
+Find the distance to fly.
+From 
+to 00VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:04:33
+Local (UTC-5)19-Jan-2024 17:04:33
+
+
+
+
+   
+
+METAR
+
+
+KW7811nm NE192155Z AUTO 29009G14KT 10SM BKN060 03/M10 A2995 RMK AO1 T00331097
+
+KDAN16nm W192153Z AUTO 33011G19KT 10SM OVC037 03/M09 A2996 RMK AO2 SLP144 T00281094
+
+KTDF18nm S192145Z AUTO 29013G21KT 10SM CLR 03/M10 A2994 RMK AO2
+
+KW6321nm E192155Z AUTO 30009G17KT 260V320 10SM SCT055 03/M07 A2990 RMK AO1
+
+
+
+
+
+TAF
+
+
+KDAN16nm W191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Vaughan Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Vaughan Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

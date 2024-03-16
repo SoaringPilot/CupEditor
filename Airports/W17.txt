@@ -1,0 +1,397 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W17 - Raleigh East Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1454 users online
+ 
+
+
+
+
+W17
+ Raleigh East AirportKnightdale, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KNIGHTDALE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W17
+Lat/Long:35-47-51.8000N 078-26-13.2350W35-47.863333N 078-26.220583W35.7977222,-78.4370097(estimated)
+Elevation:313 ft. / 95.4 m (surveyed)
+Variation:07W (1985)
+From city:2 miles E of KNIGHTDALE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27545
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1964
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3 at LHZ (14 nm N):118.325 (919-497-0810)
+WX AWOS-3 at JNX (16 nm S):120.225 (919-934-3851)
+WX ASOS at RDU (18 nm W):PHONE 919-840-0816
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr114/17.4RALEIGH/DURHAM VORTAC117.2009W
+TYIr258/37.2TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT036/24.841708WHQT.... --.- -
+HUNTSBORO173/31.527109WHXO.... -..- ---
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:3000 x 36 ft. / 914 x 11 m
+Surface:asphalt, in good conditionROLLING PAVEMENT AND RWY CRACKS.
+Weight bearing capacity:Single wheel:4.0
+Runway edge lights:non-standardNSTD LIRL; THLD LGTS ARE WHITE; RWY 19 LGTD THLD RELOCATED 70 FT; 2930 FT OF RWY 01/19 USBL AT NIGHT; EDGE LGTS ARE 17 FT FM RWY EDGE.
+Runway edge markings:RWY 01/19 NSTD SMALL MARKINGS.
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Markings:NSTD, in good conditionNSTD, in good condition
+Obstructions:44 ft. trees, 292 ft. from runway, 113 ft. right of centerline, 2:1 slope to clear20 FT TREES 0-200 FT FM THR OFFSET 117 FT RIGHT OF CNTRLN. AND 10 FT BRUSH-JUNK CARS 0-200 FT FM THR OFFSET 84 FT LEFT OF CNTRLN.14 ft. bldg, 239 ft. from runway, 52 ft. left of centerline, 2:1 slope to clear14 FT BLDG 100-200 FT FM THR OFFSET 54 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CAROLYNN  KNOTT933 THREE SISTERS ROADKNIGHTDALE, NC 27545Phone 919-749-8850
+Manager:CURT TILLY4120 IVERSON ST.RALEIGH, NC 27604Phone 919-673-4527
+
+Airport Operational Statistics
+
+Aircraft based on the field:33Single engine airplanes:31Ultralights:2
+Aircraft operations: avg 21/day*67%local general aviation27%transient general aviation7%military* for 12-month period ending 21 August 2023
+Additional Remarks
+
+-+5 FT TRRN 20 FT FROM RWY EDGE WEST SIDE SOUTH 2/3 OF RWY.
+-RWY 19 THLD APRXLY 40 FT HIGHER THAN RWY 01 THLD (SLPS UPHILL TO THE NORTH).
+-RWY 19 SAFETY AREA HAS +20 FT BLDGS & PARKED ACFT.
+-RWY 19 HAS 60 FT PLINES 1000 FT FM THLD  BOTH SIDES OF CNTRLN.
+-FOR CD CTC RALEIGH APCH AT 919-380-3144.
+
+Instrument Procedures
+There are no published instrument procedures at W17.
+Some nearby airports with instrument procedures:
+KLHZ - Triangle North Executive Airport (14 nm N)
+KJNX - Johnston Regional Airport (16 nm S)
+KRDU - Raleigh-Durham International Airport (18 nm W)
+W03 - Wilson Industrial Air Center Airport (23 nm E)
+KRWI - Rocky Mount/Wilson Regional Airport (27 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by John Romero
+Photo taken 05-Mar-2011
+looking south.
+
+Do you have a better or more recent aerial photo of Raleigh East Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Raleigh East Airport?
+Find the distance to fly.
+From 
+to W17
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:2622:26
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:45:59
+Local (UTC-5)19-Jan-2024 16:45:59
+
+
+
+
+   
+
+METAR
+
+
+KLHZ14nm N192135Z AUTO 31013G21KT 10SM CLR 06/M06 A2989 RMK AO2
+
+KJNX16nm S192130Z AUTO 31012G22KT 270V330 10SM SCT060 09/M03 A2988 RMK AO2
+
+KRDU17nm W192051Z 30015G30KT 280V340 10SM BKN055 BKN090 09/M08 A2987 RMK AO2 PK WND 32033/2031 SLP113 T00891078 53036
+
+KRWI26nm E192053Z AUTO 31015G24KT 10SM 08/M03 A2983 RMK AO2 PK WND 32028/2013 SLP102 T00781033 53028 $
+
+KHRJ29nm SW192130Z AUTO 32015G26KT 10SM SCT080 09/M06 A2990 RMK AO2 T00881058
+
+
+
+
+
+TAF
+
+
+KRDU17nm W191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Raleigh East Flight Training
+
+919-610-8743[web site][email]
+
+Flight training, Aircraft rental
+
+
+
+More info about Raleigh East Flight Training
+
+
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Raleigh East Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Raleigh East Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

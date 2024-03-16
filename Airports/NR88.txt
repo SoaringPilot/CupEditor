@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR88 - Tobacco Road Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1435 users online
+ 
+
+
+
+
+NR88
+ Tobacco Road AirportCarthage, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CARTHAGE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR88
+Lat/Long:35-16-51.0000N 079-23-16.0000W35-16.850000N 079-23.266667W35.2808333,-79.3877778(estimated)
+Elevation:478 ft. / 146 m (estimated)
+From city:5 miles SSE of CARTHAGE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28327
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/2011
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3PT at SOP (2.6 nm S):127.575 (910-692-4287)
+WX ASOS at HFF (16 nm S):141.25 (910-396-7804)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SDZr071/10.6SANDHILLS VORTAC111.8003W
+FAYr309/30.8FAYETTEVILLE VOR/DME114.8504W
+LIBr164/33.7LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT263/36.141708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2300 x 60 ft. / 701 x 18 m
+Surface:turf, in good condition
+RUNWAY 18RUNWAY 36
+Traffic pattern:rightleft
+Obstructions:none75 ft. trees, 50 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MPC PROPERTIES2032 FARM LIFE SCHOOL RDCARTHAGE, NC 28327Phone 910-949-2038
+Manager:MARTIN MCLEOD2588 VASS CARTHAGECARTHAGE, NC 28327Phone 910-585-0836
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NR88.
+Some nearby airports with instrument procedures:
+KSOP - Moore County Airport (3 nm S)
+KHFF - Mackall Army Airfield (16 nm S)
+5W4 - P K Airpark (18 nm SE)
+KPOB - Pope Army Airfield (19 nm E)
+43A - Montgomery County Airport (21 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Tobacco Road Airport?
+Find the distance to fly.
+From 
+to NR88
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2612:26
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:01:02
+Local (UTC-5)19-Jan-2024 17:01:02
+
+
+
+
+   
+
+METAR
+
+
+KSOP4nm S192156Z AUTO 33011G21KT 10SM CLR 07/M08 A2994 RMK AO2 SLP146 T00671083
+
+KHFF17nm S192136Z AUTO 01014G18KT 10SM FEW080 08/M08 A2990 RMK AO2 SLPNO $
+
+KPOB19nm E192155Z AUTO 31008G18KT 10SM CLR 09/M08 A2991 RMK AO2 PK WND 30030/2056 SLPNO T00901077 $
+
+
+
+
+
+TAF
+
+
+KPOB19nm E192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Tobacco Road Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Tobacco Road Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

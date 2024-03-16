@@ -1,0 +1,417 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W63 - Lake Country Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1545 users online
+ 
+
+
+
+
+W63
+ Lake Country Regional AirportClarksville, Virginia, USA 
+
+
+
+
+
+
+GOING TO CLARKSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W63
+Lat/Long:36-35-46.9200N 078-33-35.0260W36-35.782000N 078-33.583767W36.5963667,-78.5597294(estimated)
+Elevation:420.9 ft. / 128 m (estimated)
+Variation:08W (1995)
+From city:2 miles S of CLARKSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23927
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:03/1961
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:0800-1700
+Pattern altitude:1220.9 ft. MSL
+Wind indicator:yes
+Segmented circle:no
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3:118.225 (434-374-2431)
+WX AWOS-3 at CXE (12 nm N):121.225 (434-372-4506)
+WX AWOS-3 at HNZ (14 nm S):118.625 (919-693-9516)
+WX AWOS-3 at W78 (15 nm NW):119.425 (434-575-0332)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 118.75/377.1 (GREEN BAY RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr107/22.4SOUTH BOSTON VORTAC110.4005W
+LVLr255/34.3LAWRENCEVILLE VORTAC112.9008W
+DANr093/(37.5)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO018/17.927109WHXO.... -..- ---
+PERSON056/32.722008WHUR.... ..- .-.
+
+Airport Services
+
+Fuel available:100LL
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:4007 x 50 ft. / 1221 x 15 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 4RUNWAY 22
+Latitude:36-35.489667N36-36.074333N
+Longitude:078-33.774000W078-33.393500W
+Elevation:373.7 ft.411.8 ft.
+Traffic pattern:leftleft
+Runway heading:036 magnetic, 028 true216 magnetic, 208 true
+Displaced threshold:no480 ft.
+Markings:nonprecision, in good conditionbasic, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:37 ft. tree, 601 ft. from runway, 272 ft. left of centerline, 10:1 slope to clearCLOSE-IN OBSTRUCTION, 15 FT ABOVE RWY SURFACE, 64 FT FROM THR, 178 FT RIGHT OF CENTERLINE ON APPROACH.18 ft. road, 200 ft. from runway, 1:1 slope to clearROAD CROSSING 170 FT FROM END OF RWY.  BUILDING 27 FT, 90 FT FROM END OF RWY, 110 FT L.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:LAKE COUNTRY REG AIRPORT COMMISSIONLAKE COUNTRY REGIONAL AIRPORT, POST OFFICE BOX 1047CLARKSVILLE, VA 23927Phone 434-374-8028
+Manager:MICHAEL DENTONLAKE COUNTRY REGIONAL AIRPORT, 11632 HWY 15CLARKSVILLE, VA 23927Phone 434-374-8028
+
+Airport Operational Statistics
+
+Aircraft based on the field:5Single engine airplanes:5
+Aircraft operations: avg 99/week*85%local general aviation12%transient general aviation3%military* for 12-month period ending 31 December 2021
+Additional Remarks
+
+-WILDLIFE INVOF ARPT.
+-SELF SVC FUEL AVBL.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS)-A**CHANGED**
+download (207KB)
+RNAV (GPS)-B**CHANGED**
+download (183KB)
+
+NOTE: Special Alternate Minimums apply
+download (41KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KCXE - Chase City Municipal Airport (12 nm N)
+KHNZ - Henderson/Oxford Airport (14 nm S)
+W78 - William M Tuck Airport (15 nm NW)
+KAVC - Mecklenburg-Brunswick Regional Airport (25 nm E)
+KTDF - Raleigh Regional Airport at Person County (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 16-Sep-2019
+looking south.
+
+Do you have a better or more recent aerial photo of Lake Country Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lake Country Regional Airport?
+Find the distance to fly.
+From 
+to W63
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:23:44
+Local (UTC-5)19-Jan-2024 16:23:44
+
+
+
+
+   
+
+METAR
+
+
+KW63192055Z AUTO 30016G23KT 10SM SCT050 05/M06 A2986 RMK AO1
+
+KCXE12nm N192055Z AUTO 10SM CLR 04/M07 A2987 RMK AO1 T00371071
+
+KHNZ14nm S192050Z AUTO 30013G23KT 270V340 10SM CLR 05/M09 A2986 RMK AO2 T00451093
+
+KW7815nm NW192055Z AUTO 28012G18KT 10SM SCT055 SCT065 03/M09 A2990 RMK AO1 T00321087
+
+
+
+
+
+TAF
+
+
+KDAN37nm W191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+KRDU45nm S191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Lake Country Regional Airport Commission
+
+434-374-8028
+
+
+no information available
+If you are affiliated with Lake Country Regional Airport Commission and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLSS$6.59Updated 03-Aug-2022
+
+
+
+
+write
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lake Country Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lake Country Regional Airport
+
+
+
+lakecountryregionalairport.org
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

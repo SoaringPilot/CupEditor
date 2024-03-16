@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9NC7 - Willow Creek Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1465 users online
+ 
+
+
+
+
+9NC7
+ Willow Creek AirportMount Pleasant, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOUNT PLEASANT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9NC7
+Lat/Long:35-22-11.0000N 080-26-24.0000W35-22.183333N 080-26.400000W35.3697222,-80.4400000(estimated)
+Elevation:572 ft. / 174 m (estimated)
+From city:2 miles N of MT PLEASANT, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28124
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/2004
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at JQF (13 nm W):133.675 (704-785-2145)
+WX AWOS-3 at VUJ (14 nm E):128.175 (704-986-2097)
+WX AWOS-3 at RUQ (17 nm N):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr072/27.3CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA079/36.826006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 12/30
+
+Dimensions:2300 x 80 ft. / 701 x 24 m
+Surface:turf
+RUNWAY 12RUNWAY 30
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CHRIS TAYLOR3525 WILLOW CREEK DR.MT PLEASANT, NC 28124-0308Phone (980) 622-8841
+Manager:CHRIS TAYLOR3525 WILLOW CREEK DR.MT PLEASANT, NC 28124-0308Phone (980) 622-8841
+
+Additional Remarks
+
+-95 FT TWR, 1000 FT S OF MIDFIELD.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 9NC7.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (13 nm W)
+KVUJ - Stanly County Airport (14 nm E)
+KRUQ - Mid-Carolina Regional Airport (17 nm N)
+KEQY - Charlotte-Monroe Executive Airport (23 nm SW)
+KEXX - Davidson County Executive Airport (26 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Willow Creek Airport?
+Find the distance to fly.
+From 
+to 9NC7
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:09:37
+Local (UTC-5)19-Jan-2024 17:09:37
+
+
+
+
+   
+
+METAR
+
+
+KJQF14nm W192150Z 30014G27KT 10SM CLR 04/M09 A3002
+
+KVUJ14nm E192145Z AUTO 32009G17KT 270V020 10SM CLR 05/M09 A3001 RMK AO2 T00501086
+
+KRUQ17nm N192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+KEQY23nm S192153Z AUTO 32015G27KT 10SM CLR 05/M10 A2999 RMK AO2 PK WND 34029/2108 SLP172 T00501100
+
+KEXX26nm N192145Z AUTO 30009G18KT 280V360 10SM CLR 03/M09 A2999 RMK AO2 T00301086
+
+KCLT27nm W192152Z 30014G24KT 10SM FEW060 04/M10 A3002 RMK AO2 PK WND 29035/2108 SLP184 T00391100
+
+
+
+
+
+TAF
+
+
+KCLT27nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Willow Creek Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Willow Creek Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

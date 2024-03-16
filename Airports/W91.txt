@@ -1,0 +1,418 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W91 - Smith Mountain Lake Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1441 users online
+ 
+
+
+
+
+W91
+ Smith Mountain Lake AirportMoneta, Virginia, USA 
+
+
+
+
+
+
+GOING TO MONETA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W91
+Lat/Long:37-06-27.8000N 079-35-32.9000W37-06.463333N 079-35.548333W37.1077222,-79.5924722(estimated)
+Elevation:892.2 ft. / 271.9 m (surveyed)
+Variation:09W (2010)
+From city:4 miles SE of MONETA, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24121
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:03/1962
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:CONTINUOUS
+Wind indicator:yes
+Segmented circle:no
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.975
+ROANOKE APPROACH:135.0
+ROANOKE DEPARTURE:135.0
+IC:135.0
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr248/19.2LYNCHBURG VOR/DME109.2005W
+ODRr133/(22.6)WOODRUM VOR114.9008W
+ROAr126/26.9ROANOKE VOR/DME109.4004W
+DANr345/(34.6)DANVILLE VOR113.1006W
+SBVr318/38.0SOUTH BOSTON VORTAC110.4005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON121/15.027708WVIT...- .. -
+TECH107/39.236808WTEC- . -.-.
+
+Airport Services
+
+Fuel available:100LL100LL:24-HR SELF-SERVE FUEL AVAILABLE WITH CREDIT CARD.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:3058 x 50 ft. / 932 x 15 m
+Surface:asphalt, in fair condition
+Runway edge lights:medium intensity
+Runway edge markings:RWY 23 MRKGS WRONG RWY WIDTH.
+RUNWAY 5RUNWAY 23
+Latitude:37-06.285267N37-06.641983N
+Longitude:079-35.770783W079-35.326567W
+Elevation:854.7 ft.892.0 ft.
+Traffic pattern:leftleft
+Runway heading:054 magnetic, 045 true234 magnetic, 225 true
+Displaced threshold:250 ft.no
+Markings:NSTD, in good conditionNSTD, in good condition
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:43 ft. trees, 290 ft. from runway, 127 ft. right of centerline, 2:1 slope to clearRY 05 HAS +12 FT ROAD AT THLD 100 FT R.  PWR POLE 128 FT RIGHT OF APCH 86 FT FM THLD.23 ft. tree, 238 ft. from runway, 122 ft. left of centerline, 1:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:SMITH MOUNTAIN LAKE AIRPORT, LLC.1090 CUTLASS RDMONETA, VA 24121Phone 540-297-4859
+Manager:MOE BAZAZAN1090 CUTLASS RDMONETA, VA 24121Phone 540-297-4859
+
+Airport Operational Statistics
+
+Aircraft based on the field:37Single engine airplanes:34Multi engine airplanes:3
+Aircraft operations: avg 105/week*91%local general aviation9%transient general aviation<1%air taxi<1%military* for 12-month period ending 31 July 2023
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-ROA TWR SVCS AVBL AT 540-563-1307.
+-LNDG FEE FOR ALL ACFT OVR 5500 LBS PUBLISHED MAX GW.
+-CLSD TO TRANSIENT PRACTICE LANDINGS. CLSD TO TRANSIENT ACFT PERFORMING TGL AND PLA.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 23
+download (202KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download
+
+Other nearby airports with instrument procedures:
+W90 - New London Airport (16 nm NE)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (22 nm NW)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (23 nm NE)
+0V4 - Brookneal/Campbell County Airport (28 nm E)
+W24 - Falwell Airport (28 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Moe
+Photo taken 23-May-2015
+looking west.
+
+Do you have a better or more recent aerial photo of Smith Mountain Lake Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Smith Mountain Lake Airport?
+Find the distance to fly.
+From 
+to W91
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3112:31
+Sunset17:2822:28
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:54:23
+Local (UTC-5)19-Jan-2024 16:54:23
+
+
+
+
+   
+
+METAR
+
+
+KROA22nm NW192054Z 29015G24KT 10SM BKN042 M01/M07 A2992 RMK AO2 PK WND 30033/2004 SLP141 T10061072 51032 $
+
+KLYH23nm NE192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+K0V428nm E192135Z AUTO 10SM CLR 02/M09 A2991 RMK AO1
+
+KDAN35nm S192053Z AUTO 28016G26KT 10SM BKN037 04/M09 A2991 RMK AO2 PK WND 28027/1955 SLP127 T00391089 51040
+
+KMTV36nm SW192135Z AUTO 34014KT 10SM BKN050 BKN065 01/M12 A2999 RMK AO2 T00101119
+
+KBCB40nm W192135Z AUTO 30011G20KT 1 3/4SM -SN SCT015 OVC024 M03/M07 A2994 RMK AO2 VIS 1V5 T10351074
+
+KSIF42nm S192130Z AUTO 29009G17KT 10SM SCT060 03/M09 A2996 RMK AO2 T00331093
+
+KW7843nm SE192135Z AUTO 30008KT 10SM SCT060 04/M10 A2993 RMK AO1 T00351099
+
+
+
+
+
+TAF
+
+
+KROA22nm NW191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+KLYH23nm NE191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Smith Mountain Lake Airport
+
+540-297-4859
+
+
+no information available
+If you are affiliated with Smith Mountain Lake Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLSS$5.14Updated 12-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Smith Mountain Lake Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Smith Mountain Lake Airport
+
+
+
+smlairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

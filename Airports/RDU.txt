@@ -1,0 +1,638 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KRDU - Raleigh-Durham International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1455 users online
+ 
+
+
+
+
+KRDU
+ Raleigh-Durham International AirportRaleigh/Durham, North Carolina, USA 
+
+
+
+
+
+
+GOING TO RALEIGH/DURHAM?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Signature Aviation
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:RDU
+Lat/Long:35-52-39.5000N 078-47-14.9000W35-52.658333N 078-47.248333W35.8776389,-78.7874722(estimated)
+Elevation:435.2 ft. / 132.6 m (surveyed)
+Variation:09W (2020)
+From city:9 miles NW of central business district of the associated city
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27612
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:04/1943
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:CONTINUOUS
+Wind indicator:lighted
+Segmented circle:no
+Lights:SS-SR
+Beacon:white-green (lighted land airport)VISIBILITY OF BCN SHIELDED TO THE NORTH. Operates sunset to sunrise.
+Fire and rescue:ARFF index D
+International operations:customs landing rights airport 
+
+Airport Communications
+
+UNICOM:122.95
+WX ASOS:PHONE 919-840-0816
+RALEIGH GROUND:121.7 ;WEST, RWY 05L/23R 121.9 ;EAST, RWY 05R/23L, 14/32 348.6
+RALEIGH TOWER:119.3 ;WEST, RWY 05L/23R 127.45 ;EAST, RWY 05R/23L, 14/32 257.8
+RALEIGH APPROACH:124.95 ;055-229 127.675 ;230-054 307.9 ;230-054 318.2 ;055-229
+RALEIGH DEPARTURE:125.3 ;055-229 132.35 ;230-054 256.9 ;230-054 353.675 ;055-229 353.675 ;SOUTH
+CLEARANCE DELIVERY:120.1
+BEXGO DP:132.35 256.9
+BLOGS STAR:124.95 318.2
+BRADE STAR:124.95 318.2
+BUZZY STAR:127.675 307.9
+CLASS C:125.3 ;055-229 132.35 ;230-054 256.9 ;230-054 353.675 ;055-229
+D-ATIS:123.8
+DMSTR STAR:127.675 307.9
+EMERG:121.5
+FINAL:285.425 ;EAST
+FINAL CTL:124.8
+HOOKZ DP:125.3 353.675
+HURIC DP:125.3 353.675
+IC:127.675 ;230-054 307.9 ;230-054
+LWOOD DP:132.35 256.9
+OXFRD DP:132.35 256.9
+PACKK DP:125.3 ;055-229 132.35 ;230-054 256.9 ;230-054 353.675 ;055-229
+RALEIGH DP:125.3 ;055-229 132.35 ;230-054 256.9 ;230-054 353.675 ;055-229
+ROZBO DP:125.3 353.675
+SHPRD DP:132.35 256.9
+TAQLE STAR:124.95 318.2
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDU at fieldRALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON156/25.322008WHUR.... ..- .-.
+HUNTSBORO207/26.727109WHXO.... -..- ---
+HARNETT356/27.241708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:HIGH/LOW
+
+Runway Information
+Runway 5L/23R
+
+Dimensions:10000 x 150 ft. / 3048 x 46 m
+Surface:concrete/wired/combed, in good condition
+Weight bearing capacity:PCN 33 /R/B/X/TSingle wheel:75.0Double wheel:190.0Double tandem:355.0Dual double tandem:750.0
+Runway edge lights:high intensity
+Operational restrictions:RWY 05L/23R UNGROOVED.
+RUNWAY 5LRUNWAY 23R
+Latitude:35-52.466933N35-53.629428N
+Longitude:078-48.117817W078-46.681997W
+Elevation:366.8 ft.408.6 ft.
+Traffic pattern:leftright
+Runway heading:054 magnetic, 045 true234 magnetic, 225 true
+Declared distances:TORA:10000 TODA:10000 ASDA:10000 LDA:10000TORA:10000 TODA:10000 ASDA:10000 LDA:10000
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)
+Centerline lights:yesyes
+Touchdown point:yes, lightedyes, lighted
+Instrument approach:ILS/DMEILS/DME
+
+Runway 5R/23L
+
+Dimensions:7500 x 150 ft. / 2286 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 89 /F/A/X/TSingle wheel:75.0Double wheel:176.0Double tandem:335.0Dual double tandem:750.0
+Runway edge lights:high intensity
+RUNWAY 5RRUNWAY 23L
+Latitude:35-51.877807N35-52.749720N
+Longitude:078-47.840290W078-46.763618W
+Elevation:397.5 ft.430.7 ft.
+Traffic pattern:rightleft
+Runway heading:054 magnetic, 045 true234 magnetic, 225 true
+Declared distances:TORA:7500 TODA:7500 ASDA:7500 LDA:7500TORA:7500 TODA:7500 ASDA:7500 LDA:7500
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdown, rollouttouchdown, rollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsMALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:nono
+Centerline lights:yesyes
+Touchdown point:yes, no lightsyes, lighted
+Instrument approach:ILS/DMEILS/DME
+
+Runway 14/32
+
+Dimensions:3570 x 100 ft. / 1088 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:PCN 16 /F/A/X/TSingle wheel:12.0
+Runway edge lights:medium intensity
+RUNWAY 14RUNWAY 32
+Latitude:35-52.501865N35-52.084653N
+Longitude:078-46.960712W078-46.450832W
+Elevation:432.1 ft.424.7 ft.
+Traffic pattern:leftleft
+Runway heading:144 magnetic, 135 true324 magnetic, 315 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.50 degrees glide path)
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:none120 ft. trees, 3046 ft. from runway, 1 ft. left of centerline, 24:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:RALEIGH-DURHAM ARPT AUTHP.O. BOX 80001RDU AIRPORT, NC 27623Phone 919-840-7700
+Manager:MICHAEL LANDGUTHRALEIGH-DURHAM ARPT AUTH, P.O. BOX 80001RDU AIRPORT, NC 27623Phone (919) 840-7701
+
+Airport Operational Statistics
+
+Aircraft based on the field:175Single engine airplanes:99Multi engine airplanes:17Jet airplanes:30Helicopters:6Military aircraft:23
+Aircraft operations: avg 526/day*62%commercial27%transient general aviation9%air taxi2%military* for 12-month period ending 31 May 2023
+Additional Remarks
+
+-NO JET ENGINE MAINTENANCE RUNS BETWEEN 0000-0600.
+-RSTD:  PPR FOR ALL MILITARY AIRCRAFT F/W - R/W &  UNSCHEDULED CHARTER FLIGHTS WITH 30 OR MORE PASSENGERS.  24 HR PN RQR FOR MIL PRACTICE APCH. CTC ARPT OPS 919-840-7510 OR RDU APP C919-380-3125.  24 HR PN RQR FOR PPR FOR ALL F/W AND R/W MIL ACFT GOING TO ARNG RAMP, POC C984-661-6200. OSACOM FLT DET C984-661-6202.
+-ARPT CLSD TO AIRSHIPS.
+-TWY E BEHIND SOUTH CARGO 4 & TWY J BEHIND CORPORATE HANGARS NOT VSBL FM ATCT.
+-ARNG:  LTD PRK. ARNG OPS C984-661-6200. CTC FORECAST BASE 10 MIN PRIOR LDG.  RAMP CLSD TO ALL F/W EXCEPT ARMY & MIL TRANSPORT WITH PPR, FACILITY HRS 1300-2130Z++ MON-FRI EXC HOL.  MAKE APPT FOR AFTER DUTY HRS.  OSACOM FLT DET C984-661-6202.
+-TWY F5 IS CLSD UFN.
+-ALL TDG V AIRCRAFT TXG ON TWY A ARE RSTD TO TAXI SPD OF 15 MPH.
+-APN TXL F BTN TWY T1 AND TWY T7 CLSD TO ACFT WITH WINGSPAN MORE THAN 171 FT.
+-NG PPR FOR LDG CTC V582-9181 C(919)664-9181.
+-TWY D CLSD TO ACFT WITH WINGSPAN MORE THAN 171 FT WHEN TWY G AND H ARE OCCUPIED.
+-TRML 1 ACFT MUST CTC ATC ON 121.9 PRIOR TO PUSH ONTO TWY A. TRML 2 ACFT MUST CTC RAMP TWR ON 130.175 PRIOR TO PUSH. NORTH CARGO APRON ADG IV OR V ACFT MUST CTC ATC ON 121.9 PRIOR TO PUSH.
+-NG 24 HR PPR FOR JET ACFT & TRANS MIL ACFT - 919-840-7510.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+ALDAN THREE (RNAV)
+2 pages:
+ [1] [2] (333KB)
+BLOGS THREE (RNAV)
+download (278KB)
+BRADE SIX
+download (200KB)
+BUZZY ONE
+download (162KB)
+DMSTR ONE (RNAV)
+2 pages:
+ [1] [2] (453KB)
+TAQLE TWO (RNAV)
+2 pages:
+ [1] [2] (407KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05L
+download (354KB)
+ILS OR LOC RWY 05R
+download (370KB)
+ILS OR LOC RWY 23L
+download (336KB)
+ILS OR LOC RWY 23R
+download (338KB)
+ILS RWY 05R (SA CAT I - II)
+download (351KB)
+ILS RWY 23R (CAT II - III)
+download (301KB)
+RNAV (RNP) Z RWY 05L
+download (277KB)
+RNAV (RNP) Z RWY 05R
+download (276KB)
+RNAV (RNP) Z RWY 23L
+download (262KB)
+RNAV (RNP) Z RWY 23R
+download (277KB)
+RNAV (GPS) RWY 32
+download (268KB)
+RNAV (GPS) Y RWY 05L
+download (304KB)
+RNAV (GPS) Y RWY 05R
+download (300KB)
+RNAV (GPS) Y RWY 23L
+download (290KB)
+RNAV (GPS) Y RWY 23R
+download (294KB)
+
+NOTE: Special Alternate Minimums apply
+download (157KB)
+Departure Procedures
+
+BEXGO FIVE (RNAV)
+download (196KB)
+HOOKZ FIVE (RNAV)
+download (190KB)
+HURIC FOUR (RNAV)
+download (193KB)
+LWOOD FIVE (RNAV)
+download (197KB)
+OXFRD FIVE (RNAV)
+download (197KB)
+PACKK NINE
+2 pages:
+ [1] [2] (367KB)
+RALEIGH ONE
+2 pages:
+ [1] [2] (414KB)
+ROZBO FIVE (RNAV)
+download (188KB)
+SHPRD FOUR (RNAV)
+download (177KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (368KB)
+
+Other nearby airports with instrument procedures:
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (23 nm SW)
+KLHZ - Triangle North Executive Airport (24 nm E)
+KTDF - Raleigh Regional Airport at Person County (26 nm N)
+KJNX - Johnston Regional Airport (28 nm SE)
+KHRJ - Harnett Regional Jetport Airport (30 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Raleigh-Durham International Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Raleigh-Durham International Airport?
+Find the distance to fly.
+From 
+to KRDU
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:45:49
+Local (UTC-5)19-Jan-2024 16:45:49
+
+
+
+
+   
+
+METAR
+
+
+KRDU192051Z 30015G30KT 280V340 10SM BKN055 BKN090 09/M08 A2987 RMK AO2 PK WND 32033/2031 SLP113 T00891078 53036
+
+
+
+
+
+TAF
+
+
+KRDU191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+ASRI 131.00919-532-1423[web site][email]
+
+Atlantic Aviation is your premier aviation service provider with more than 100 locations in North America, including Hawaii and the Caribbean. We provide standard ground services you'd expect, with a detailed focus on ensuring an unforgettable customer experience.
+
+
+
+More info and photos of Atlantic Aviation
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$8.57$7.10Updated 19-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+
+
+Signature Aviation
+
+
+
+ASRI 131.15919-840-2200[web site][email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Aircraft maintenance, Avionics sales and service, Catering, Rental cars, ...
+
+
+
+More info about Signature Aviation
+
+
+
+
+
+100LL Jet AFS$8.49$7.00Updated 19-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Raleigh-Durham International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Raleigh-Durham International Airport
+
+
+
+www.rdu.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

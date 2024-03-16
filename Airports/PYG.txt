@@ -1,0 +1,410 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KPYG - Pageland Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1433 users online
+ 
+
+
+
+
+KPYG
+ Pageland AirportPageland, South Carolina, USA 
+
+
+
+
+
+
+GOING TO PAGELAND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:PYG
+Lat/Long:34-44-31.7000N 080-20-42.7000W34-44.528333N 080-20.711667W34.7421389,-80.3451944(estimated)
+Elevation:574.9 ft. / 175.2 m (surveyed)
+Variation:08W (2020)
+From city:3 miles SE of PAGELAND, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29728
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT PAPI RWY 6 & 24 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:122.9
+CHARLOTTE APPROACH:120.05
+CHARLOTTE DEPARTURE:120.05
+WX AWOS-3 at CQW (19 nm E):124.825 (843-537-3301)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr331/6.5CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+HARTSVILLE338/23.034107WHVS.... ...- ...
+DARLINGTON314/28.924506WUDG..- -.. --.
+BENNETTSVILLE292/31.123008WBES-... . ...
+
+Airport Services
+
+Fuel available:100LL100LL:SELF SVC FUEL AVBL 24 HRS.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:3396 x 60 ft. / 1035 x 18 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:34-44.349642N34-44.706580N
+Longitude:080-20.972250W080-20.449893W
+Elevation:549.9 ft.574.9 ft.
+Traffic pattern:leftleft
+Runway heading:058 magnetic, 050 true238 magnetic, 230 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF PAGELAND307 E MCGREGOR STREETPAGELAND, SC 29728-1951Phone 843-672-7292
+Manager:SHANE SLIGH307 E MCGREGOR STREET, 126 N PEARL STPAGELAND, SC 29728-1951Phone 843-672-7292
+
+Airport Operational Statistics
+
+Aircraft based on the field:21Single engine airplanes:19Multi engine airplanes:2
+Aircraft operations: avg 44/week*57%local general aviation43%transient general aviation* for 12-month period ending 27 February 2023
+Additional Remarks
+
+A58-2431 FT PWR POLE 182 FT FM RWY END, 188 FT R OF CNTRLN.  ACCESS ROAD 27 FEET FROM RWY END.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 06
+download (207KB)
+RNAV (GPS) RWY 24
+download (203KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (19 nm E)
+N52 - JAARS-Townsend Airport (21 nm W)
+KAFP - Anson County Airport - Jeff Cloud Field (21 nm NE)
+KEQY - Charlotte-Monroe Executive Airport (21 nm NW)
+KHVS - Hartsville Regional Airport (23 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Pageland Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Pageland Airport?
+Find the distance to fly.
+From 
+to KPYG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2812:28
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:40:24
+Local (UTC-5)19-Jan-2024 16:40:24
+
+
+
+
+   
+
+METAR
+
+
+KCQW19nm E192115Z AUTO 01013G20KT 330V030 10SM FEW070 10/M07 A2992 RMK AO2
+
+KEQY21nm NW192053Z AUTO 33015G26KT 10SM CLR 07/M09 A2994 RMK AO2 PK WND 32032/2039 SLP154 T00721089 53041
+
+KAFP21nm NE192110Z AUTO 30017G25KT 10SM SCT075 08/M10 A2995 RMK AO2 T00831099
+
+KHVS23nm SE192115Z AUTO 31007G17KT 260V030 10SM CLR 10/M06 A2991 RMK AO2
+
+KLKR25nm W192115Z AUTO 29008G16KT 260V330 10SM CLR 08/M08 A2996 RMK AO2
+
+KUDG29nm SE192056Z AUTO 31019G26KT 10SM BKN065 11/M03 A2989 RMK AO2 PK WND 32030/2026 SLP123 T01111033 53024
+
+KCDN30nm S192115Z AUTO 31018G24KT 10SM CLR 10/M09 A2995 RMK AO2
+
+KRCZ30nm E192110Z AUTO 30015G20KT 10SM SCT075 09/M08 A2991 RMK AO2 T00901077
+
+KBBP31nm E192115Z AUTO 32016G23KT 10SM BKN070 09/M03 A2991 RMK AO2
+
+KUZA38nm NW192054Z AUTO 35015G20KT 10SM CLR 07/M07 A2997 RMK AO2 SLP152 T00671067 53038
+
+
+
+
+
+TAF
+
+
+KCLT41nm NW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KFLO45nm SE191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+KSSC47nm S191600Z 1916/2022 28015G25KT 9999 FEW040 510003 QNH2991INS TEMPO 1916/1922 29015G31KT BECMG 1922/1923 33007KT 9999 SKC 510023 QNH2996INS BECMG 2014/2015 33010G20KT 9999 SKC QNH3027INS TX13/1918Z TNM05/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Town of Pageland (self-serve fuel)
+
+843-672-7292
+
+
+no information available
+If you are affiliated with Town of Pageland (self-serve fuel) and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLSS$5.69Updated 10-Jan-2024
+
+
+
+
+write
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Pageland Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Pageland Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

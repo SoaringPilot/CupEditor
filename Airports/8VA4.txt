@@ -1,0 +1,354 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8VA4 - Lotus International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1534 users online
+ 
+
+
+
+
+8VA4
+ Lotus International AirportBuckingham, Virginia, USA 
+
+
+
+
+
+
+GOING TO BUCKINGHAM?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8VA4
+Lat/Long:37-40-22.5150N 078-42-12.0530W37-40.375250N 078-42.200883W37.6729208,-78.7033481(estimated)
+Elevation:340 ft. / 103.6 m (surveyed)
+Variation:08W (1985)
+From city:10 miles NW of BUCKINGHAM, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23921
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1982
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:DAYLIGHT HOURS
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR LIRL RWY 08/26 CALL 434-969-3121.
+
+Airport Communications
+
+UNICOM:122.7
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr131/23.5MONTEBELLO VOR/DME115.3005W
+GVEr238/33.1GORDONSVILLE VORTAC115.6006W
+LYHr050/35.7LYNCHBURG VOR/DME109.2005W
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:2709 x 100 ft. / 826 x 30 m
+Surface:turf
+Runway edge lights:low intensity
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftright
+Obstructions:50 ft. trees, 500 ft. from runway200 ft. hill, 4000 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:YOGAVILLE108 YOGAVILLE WAYBUCKINGHAM, VA 23921Phone (434) 969-3121SATCHIDANANDA ASHRAM-YOGAVILLE-VIRGINIA
+Manager:ERNIE MOORE108 YOGAVILLE WAYBUCKINGHAM, VA 23921Phone (434) 969-3121
+
+Additional Remarks
+
+-OWNER DESIRES CHARTG
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 8VA4.
+Some nearby airports with instrument procedures:
+KFVX - Farmville Regional Airport (23 nm SE)
+W24 - Falwell Airport (27 nm SW)
+W13 - Eagle's Nest Airport (27 nm NW)
+KCHO - Charlottesville-Albemarle Airport (30 nm NE)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (32 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lotus International Airport?
+Find the distance to fly.
+From 
+to 8VA4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2322:23
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:28:06
+Local (UTC-5)19-Jan-2024 16:28:06
+
+
+
+
+   
+
+METAR
+
+
+KFVX24nm SE192115Z AUTO 27003KT 10SM SCT060 BKN070 04/M10 A2986 RMK AO2 T00361098
+
+KW1327nm NW192115Z AUTO 31005G20KT 10SM OVC048 00/M11 A2983 RMK AO1 T00001110
+
+KCHO30nm NE192053Z 30008G21KT 270V330 10SM BKN055 03/M10 A2984 RMK AO2 SLP107 60000 T00331100 53024
+
+KLYH32nm SW192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+K0V435nm SW192115Z AUTO 10SM SCT050 02/M08 A2989 RMK AO1
+
+KSHD37nm N192115Z AUTO 29012G19KT 10SM SCT048 SCT120 00/M11 A2987 RMK AO2 T10051106
+
+KGVE39nm NE192115Z AUTO 00000KT 10SM SCT044 SCT055 BKN095 01/M05 A2985 RMK AO1 T00121052
+
+KLKU41nm NE192055Z AUTO 31012G18KT 10SM SCT035 BKN060 OVC085 01/M05 A2985 RMK AO2 T00141045 60001
+
+KW8141nm SE192115Z AUTO 10SM SCT060 OVC075 04/M11 A2985 RMK AO1 T00361115
+
+KVBW43nm N192115Z AUTO 30013G20KT 10SM OVC050 M01/M11 A2986 RMK AO1 T10071107
+
+
+
+
+
+TAF
+
+
+KCHO30nm NE191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+KLYH32nm SW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lotus International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lotus International Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

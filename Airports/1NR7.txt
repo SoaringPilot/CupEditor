@@ -1,0 +1,258 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 1NR7 - Boyd Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1597 users online
+ 
+
+
+
+
+1NR7
+ Boyd Field AirportHenderson, North Carolina, USA 
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:1NR7
+Lat/Long:36-16-26.7400N 078-28-07.7100W36-16.445667N 078-28.128500W36.2740944,-78.4688083(estimated)
+Elevation:336 ft. / 102 m (estimated)
+From city:5 miles SW of HENDERSON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27544
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/2021
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HNZ (6 nm NW):118.625 (919-693-9516)
+WX AWOS-3 at LHZ (16 nm SE):118.325 (919-497-0810)
+WX AWOS-3 at W63 (20 nm N):118.225 (434-374-2431)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr041/28.5RALEIGH/DURHAM VORTAC117.2009W
+SBVr137/35.7SOUTH BOSTON VORTAC110.4005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO112/7.427109WHXO.... -..- ---
+PERSON093/29.022008WHUR.... ..- .-.
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:4400 x 70 ft. / 1341 x 21 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Latitude:36-16.085833N36-16.805500N
+Longitude:078-28.183333W078-28.073667W
+Elevation:336.0 ft.316.0 ft.
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:B & B PROPERTIES1730 GRAHAM AVENUEHENDERSON, NC 27536-2904Phone 919-606-8500
+Manager:TIMOTHY RYAN ROWLAND1730 GRAHAM AVENUEHENDERSON, NC 27536-2904Phone 252-213-5991
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:1Helicopters:1
+Instrument Procedures
+There are no published instrument procedures at 1NR7.
+Some nearby airports with instrument procedures:
+KHNZ - Henderson/Oxford Airport (6 nm NW)
+KLHZ - Triangle North Executive Airport (16 nm SE)
+W63 - Lake Country Regional Airport (20 nm N)
+KTDF - Raleigh Regional Airport at Person County (25 nm W)
+KRDU - Raleigh-Durham International Airport (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Boyd Field Airport?
+Find the distance to fly.
+From 
+to 1NR7
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2412:24
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:27
+Local (UTC-5)19-Jan-2024 15:44:27
+
+
+
+
+   
+
+METAR
+
+
+KHNZ6nm NW192030Z AUTO 29015G21KT 260V320 10SM SCT060 SCT070 04/M09 A2984 RMK AO2 T00371087
+
+KLHZ16nm SE192035Z AUTO 31011G21KT 270V340 10SM SCT039 SCT047 SCT060 07/M03 A2984 RMK AO2
+
+KW6320nm N192035Z AUTO 30013G25KT 10SM BKN055 05/M05 A2985 RMK AO1
+
+
+
+
+
+TAF
+
+
+KRDU29nm SW191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Boyd Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Boyd Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

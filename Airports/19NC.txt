@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 19NC - Double S Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1614 users online
+ 
+
+
+
+
+19NC
+ Double S AirportRed Oak, North Carolina, USA 
+
+
+
+
+
+
+GOING TO RED OAK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:19NC
+Lat/Long:36-03-53.5490N 077-55-22.9400W36-03.892483N 077-55.382333W36.0648747,-77.9230389(estimated)
+Elevation:195 ft. / 59 m (estimated)
+Variation:08W (1990)
+From city:2 miles NW of RED OAK, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27856
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at RWI (13 nm S):118.875 (252-446-0732)
+WX AWOS-3P at ETC (20 nm SE):119.575 (252-641-1640)
+WX AWOS-3 at LHZ (20 nm W):118.325 (919-497-0810)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr301/11.9TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD318/34.323009WAQE.- --.- .
+HUNTSBORO122/36.527109WHXO.... -..- ---
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:2400 x 100 ft. / 732 x 30 m
+Surface:turf
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:V. ROGER SHANKS10155 RED OAK BLVDNASHVILLE, NC 27856Phone 252-937-4201ROBERT SCHELLENBERG - JOINT OWNER/MANAGER
+Manager:ROBERT SCHELLENBERG10177 RED OAK BLVD.NASHVILLE, NC 27856Phone 252-904-1327
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-MARKER BALLS ON LINE RWY 35 APPROACH
+
+Instrument Procedures
+There are no published instrument procedures at 19NC.
+Some nearby airports with instrument procedures:
+KRWI - Rocky Mount/Wilson Regional Airport (13 nm S)
+W03 - Wilson Industrial Air Center Airport (18 nm S)
+KETC - Tarboro-Edgecombe Airport (20 nm SE)
+KLHZ - Triangle North Executive Airport (20 nm W)
+KIXA - Halifax/Northampton Regional Airport (21 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken in the Fall of 2015
+looking south.
+
+Do you have a better or more recent aerial photo of Double S Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Double S Airport?
+Find the distance to fly.
+From 
+to 19NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:2422:24
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:01:47
+Local (UTC-5)19-Jan-2024 16:01:47
+
+
+
+
+   
+
+METAR
+
+
+KRWI13nm S192053Z AUTO 31015G24KT 10SM 08/M03 A2983 RMK AO2 PK WND 32028/2013 SLP102 T00781033 53028 $
+
+KETC20nm SE192045Z AUTO 32012G22KT 7SM BKN065 OVC085 07/M03 A2982 RMK AO2 T00721026
+
+KLHZ20nm W192050Z AUTO 30008G24KT 270V330 10SM SCT080 07/M04 A2985 RMK AO2
+
+KIXA21nm NE192050Z AUTO 32009G19KT 10SM SCT033 BKN042 BKN050 05/01 A2983 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRWI13nm S191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Double S Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Double S Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

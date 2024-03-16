@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 7NC3 - Kenly Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1545 users online
+ 
+
+
+
+
+7NC3
+ Kenly AirportKenly, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KENLY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:7NC3
+Lat/Long:35-35-47.0000N 078-05-55.0000W35-35.783333N 078-05.916667W35.5963889,-78.0986111(estimated)
+Elevation:225 ft. / 69 m (estimated)
+From city:2 miles E of KENLY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27542
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/2003
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at GWW (10 nm SE):118.975 (919-731-4473)
+WX AWOS-3 at JNX (15 nm W):120.225 (919-934-3851)
+WX AWOS-3PT at GSB (17 nm SE):317.625
+WX ASOS at RWI (19 nm NE):118.875 (252-446-0732)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr302/29.7KINSTON VORTAC117.5005W
+TYIr225/29.8TAR RIVER VORTAC117.8005W
+RDUr125/37.2RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT079/29.841708WHQT.... --.- -
+ALWOOD268/36.023009WAQE.- --.- .
+CLINTON028/39.441209WCTZ-.-. - --..
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:3480 x 100 ft. / 1061 x 30 m
+Surface:turf, in good condition
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:THOMAS E. GREGORSKI9055 FAB WHITLEY ROADKENLY, NC 27542Phone (252) 205-7017
+Manager:THOMAS E. GREGORSKI9055 FAB WHITLEY ROADKENLY, NC 27542Phone (252) 205-7017
+
+Airport Operational Statistics
+
+Aircraft based on the field:11Single engine airplanes:10Gliders airplanes:1
+Additional Remarks
+
+-227 FT TOWER 4 NM WSW AND 276 FT TOWER 2.4 NM WNW OF ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 7NC3.
+Some nearby airports with instrument procedures:
+KGWW - Wayne Executive Jetport Airport (10 nm SE)
+W03 - Wilson Industrial Air Center Airport (12 nm NE)
+KJNX - Johnston Regional Airport (15 nm W)
+KGSB - Seymour Johnson Air Force Base (17 nm SE)
+KRWI - Rocky Mount/Wilson Regional Airport (19 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Thomas Gregorski
+looking west.
+
+Do you have a better or more recent aerial photo of Kenly Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Kenly Airport?
+Find the distance to fly.
+From 
+to 7NC3
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:22:51
+Local (UTC-5)19-Jan-2024 16:22:51
+
+
+
+
+   
+
+METAR
+
+
+KGWW10nm SE192050Z AUTO 30011G17KT 10SM OVC065 10/M02 A2981 RMK AO2 T00961016
+
+KJNX14nm W192050Z AUTO 33008G25KT 290V360 10SM OVC060 10/M02 A2984 RMK AO2
+
+KGSB18nm S192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KRWI18nm NE192053Z AUTO 31015G24KT 10SM 08/M03 A2983 RMK AO2 PK WND 32028/2013 SLP102 T00781033 53028 $
+
+
+
+
+
+TAF
+
+
+KGSB18nm S191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+KRWI18nm NE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Kenly Airport - Planeview Place Airpark
+
+252-205-7017[email]
+
+Aircraft maintenance, Other business, Residence
+
+
+
+More info about Kenly Airport - Planeview Place Airpark
+
+
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Kenly Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Kenly Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

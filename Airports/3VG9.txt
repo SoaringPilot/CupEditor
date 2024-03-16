@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3VG9 - Potts Landing Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1464 users online
+ 
+
+
+
+
+3VG9
+ Potts Landing AirportSouth Boston, Virginia, USA 
+
+
+
+
+
+
+GOING TO SOUTH BOSTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3VG9
+Lat/Long:36-42-07.0000N 079-08-02.0000W36-42.116667N 079-08.033333W36.7019444,-79.1338889(estimated)
+Elevation:550 ft. / 168 m (estimated)
+From city:20 miles NW of SOUTH BOSTON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24594
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:05/2007
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:DAWN-DUSK
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at DAN (12 nm SW):128.125 (434-799-1701)
+WX AWOS-3 at W78 (14 nm E):119.425 (434-575-0332)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr291/6.0SOUTH BOSTON VORTAC110.4005W
+DANr057/(12.6)DANVILLE VOR113.1006W
+LYHr177/33.5LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON001/28.322008WHUR.... ..- .-.
+HUNTSBORO323/34.627109WHXO.... -..- ---
+SLAMMER065/35.942307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 4/22
+
+Dimensions:1800 x 100 ft. / 549 x 30 m
+Surface:turf
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftleft
+Obstructions:none50 ft. trees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROBERT POTTS4131 BIRCH ELMO ROADSOUTH BOSTON, VA 24592Phone 434-753-2764CELL - 407-509-6941
+Manager:ROBERT POTTS4131 BIRCH ELMO RDSOUTH BOSTON, VA 24592Phone 434-753-2764CELL - 407-509-6941
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 3VG9.
+Some nearby airports with instrument procedures:
+KDAN - Danville Regional Airport (12 nm SW)
+W78 - William M Tuck Airport (14 nm E)
+KTDF - Raleigh Regional Airport at Person County (26 nm S)
+0V4 - Brookneal/Campbell County Airport (27 nm N)
+W63 - Lake Country Regional Airport (28 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Potts Landing Airport?
+Find the distance to fly.
+From 
+to 3VG9
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:44:25
+Local (UTC-5)19-Jan-2024 16:44:25
+
+
+
+
+   
+
+METAR
+
+
+KDAN13nm SW192053Z AUTO 28016G26KT 10SM BKN037 04/M09 A2991 RMK AO2 PK WND 28027/1955 SLP127 T00391089 51040
+
+KW7814nm E192135Z AUTO 30008KT 10SM SCT060 04/M10 A2993 RMK AO1 T00351099
+
+
+
+
+
+TAF
+
+
+KDAN13nm SW191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Potts Landing Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Potts Landing Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC71 - Rockin A Airfield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1593 users online
+ 
+
+
+
+
+NC71
+ Rockin A AirfieldParkton, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PARKTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC71
+Lat/Long:34-55-04.5900N 079-03-09.1120W34-55.076500N 079-03.151867W34.9179417,-79.0525311(estimated)
+Elevation:187 ft. / 57 m (estimated)
+Variation:06W (1985)
+From city:2 miles SE of PARKTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28371
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/1988
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at FAY (10 nm NE):121.25 (910-484-1546)
+WX ASOS at MEB (17 nm SW):134.125 (910-844-5338)
+WX ASOS at LBT (18 nm S):134.775 (910-739-7120)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr249/9.6FAYETTEVILLE VOR/DME114.8504W
+SDZr127/31.8SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+DILLON038/32.127409WDLC-.. .-.. -.-.
+CLINTON273/34.141209WCTZ-.-. - --..
+HARNETT219/36.041708WHQT.... --.- -
+BENNETTSVILLE070/38.023008WBES-... . ...
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:2300 x 100 ft. / 701 x 30 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MICHAEL ALVIS2767 BARLOW RDPARKTON, NC 28371Phone 541-990-4820
+Manager:MICHAEL ALVIS2767 BARLOW RDPARKTON, NC 28371Phone 541-990-4820
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC71.
+Some nearby airports with instrument procedures:
+5W4 - P K Airpark (9 nm NW)
+KFAY - Fayetteville Regional Airport/Grannis Field (10 nm NE)
+KFBG - Simmons Army Airfield (14 nm NE)
+KPOB - Pope Army Airfield (15 nm N)
+KMEB - Laurinburg/Maxton Airport (17 nm SW)
+KLBT - Lumberton Regional Airport (18 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Rockin A Airfield?
+Find the distance to fly.
+From 
+to NC71
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2312:23
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:05:38
+Local (UTC-5)19-Jan-2024 16:05:38
+
+
+
+
+   
+
+METAR
+
+
+KFAY9nm NE192053Z 31017G28KT 10SM SCT080 12/M06 A2984 RMK AO2 PK WND 30034/2030 SLP100 T01171056 53027
+
+KFBG14nm NE192055Z AUTO 31021G26KT 10SM CLR 12/M08 A2983 RMK AO2 PK WND 29028/02 SLPNO T01151079 52031 $
+
+KPOB15nm N192055Z AUTO 29013G25KT 10SM CLR 11/M09 A2986 RMK AO2 PK WND 32036/04 SLPNO T01081095 52035 $
+
+KMEB17nm SW192052Z AUTO 32018G37KT 10SM BKN080 11/M06 A2987 RMK AO2 PK WND 34037/2048 SLP115 T01061061 53026
+
+KLBT19nm S192056Z AUTO 32017G27KT 10SM SCT075 12/M01 A2984 RMK AO2 PK WND 32031/2018 SLP105 T01221011 53022
+
+
+
+
+
+TAF
+
+
+KFAY9nm NE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KFBG14nm NE192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KPOB15nm N192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KLBT19nm S191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Rockin A Airfield, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Rockin A Airfield
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W95 - Ocracoke Island Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1427 users online
+ 
+
+
+
+
+W95
+ Ocracoke Island AirportOcracoke, North Carolina, USA 
+
+
+
+
+
+
+GOING TO OCRACOKE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W95
+Lat/Long:35-06-04.2000N 075-57-57.5000W35-06.070000N 075-57.958333W35.1011667,-75.9659722(estimated)
+Elevation:4 ft. / 1.2 m (surveyed)
+Variation:09W (1985)
+From city:1 mile E of OCRACOKE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27960
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1969
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes, WINDSOCK FOR HELI LGTD.
+Segmented circle:no
+Lights:ACTVT HELI PERIMETER LTS ONLY - CTAF.
+Beacon:white-green-yellow (heliport)ACTVT HELI BEACON - CTAF.
+
+Airport Communications
+
+CTAF:122.9
+CHERRY POINT APPROACH:119.75 ;NORTH
+CHERRY POINT DEPARTURE:119.75 ;NORTH
+WX ASOS at HSE (19 nm NE):118.375 (252-995-3646)
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:2998 x 60 ft. / 914 x 18 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:30.0
+RUNWAY 6RUNWAY 24
+Latitude:35-05.912480N35-06.227332N
+Longitude:075-58.189330W075-57.725703W
+Elevation:3.9 ft.3.9 ft.
+Traffic pattern:leftleft
+Runway heading:059 magnetic, 050 true239 magnetic, 230 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:11 ft. brush, 202 ft. from runway, 135 ft. left of centerline, 1:1 slope to clear6 FT BRUSH 0-200 FT FM THR 83 FT R OF CNTRLN; 10 FT BUSHES 0-200 FT FM THR 157 FT L OF CNTRLN.23 ft. trees, 438 ft. from runway, 141 ft. right of centerline, 10:1 slope to clear15 FT SCRUB TREES 151 FT FM THR 103 FT R OF CNTRLN; 14 FT SCRUB TREES  0-200 FT FM THR 60 FT L OF CNTRLN.
+
+Helipad H1
+
+Dimensions:100 x 100 ft. / 30 x 30 m
+Surface:concrete, in excellent condition
+Runway edge lights:PERI
+Operational restrictions:BEST APCH FM NE OR SW.
+Latitude:35-06.313333N
+Longitude:075-57.721833W
+Elevation:4.0 ft.
+Traffic pattern:leftleft
+Markings:basic, in good condition
+Obstructions:15 ft. trees, 185 ft. from runway, 34 ft. left of centerline, 12:1 slope to clearAPCH SLOPE FOR NE HELI APCH; AND APCH SLOPE FOR SW HELI APCH IS 10:1 DUE TO 17 FT TREES 176 FT FROM HELI OFFSET 14 FT RIGHT.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:NATIONAL PARK SERVICE1401 NATIONAL PARK DR.MANTEO, NC 27954Phone 252-475-9000ARPT LEASED TO NC DOT UNDER SPECIAL-USE PERMIT; CTC NR 919-814-0550.
+Manager:MARK SEAMAN1401 NATIONAL PARK DRIVEMANTEO, NC 27954Phone 252-475-9000NATL PARKS SVC NR ANSWERED 7 DAYS A WEEK BTWN 0800 TO 1700.
+
+Airport Operational Statistics
+
+
+Aircraft operations: avg 117/week*49%transient general aviation49%local general aviation2%military* for 12-month period ending 02 September 2022
+Additional Remarks
+
+-ARPT CLSD 30 MIN AFTER SS TIL 30 MIN BEFORE SR.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-30 FT PLINE ALONG NC HWY 12 N OF HELIPAD.
+-HIGH SPEED LOW LEVEL MIL OPS INVOF OF ARPT.
+-FLOCKS OF SEAGULLS ON AND NEAR RWY ARND STANDING WATER AFTER HVY RAINS.
+-RWY SAFETY AREA IS LOOSE SAND; NOT SUITABLE FOR ACFT.
+-RWY NOT LGTD - NIGHT OPS PROHIBITED.
+-ARPT IS WI CAPE HATTERAS NTL SEASHORE. MNTN 2000 FT VER & HORIZONTAL DIST FROM SEASHORE BEACHES.
+-RWY SUBJECT TO RESIDUAL FLOODING DURING AND AFTER HEAVY RAIN.
+-KEY CODE ACES TO PILOT LOUNGE.
+-HELIPAD FOR EMERG OPS ONLY.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 06
+download (207KB)
+RNAV (GPS) RWY 24
+download (213KB)
+
+Other nearby airports with instrument procedures:
+KHSE - Billy Mitchell Airport (19 nm NE)
+7W6 - Hyde County Airport (28 nm N)
+KMRH - Michael J Smith Field Airport (41 nm SW)
+KNKT - Cherry Point Marine Corps Air Station (Cunningham Field) Airport (47 nm W)
+KMQI - Dare County Regional Airport (51 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Greg Marut
+Photo taken 28-Jul-2019
+looking northeast.
+
+Do you have a better or more recent aerial photo of Ocracoke Island Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Ocracoke Island Airport?
+Find the distance to fly.
+From 
+to W95
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4411:44
+Sunrise07:1112:11
+Sunset17:1822:18
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:39:41
+Local (UTC-5)19-Jan-2024 16:39:41
+
+
+
+
+   
+
+METAR
+
+
+KHSE19nm NE192051Z AUTO 31010G18KT 10SM BKN055 OVC070 11/03 A2975 RMK AO2 SLP073 T01060033 53017
+
+K7W628nm N192110Z AUTO 31015G21KT 10SM SCT060 OVC080 09/00 A2977 RMK AO2 T00920001
+
+K2DP35nm N192055Z AUTO 31016KT M M M 10/M00 A2974 RMK AO2 SLPNO T00951001 RVRNO $
+
+
+
+
+
+TAF
+
+
+KNKT46nm W1915/2015 27012G22KT 9999 BKN060 521609 522509 523406 QNH2977INS BECMG 1916/1918 30015G28KT SCT050 510009 520909 521809 522709 523604 QNH2972INS FM200000 32015G25KT 9999 SKC 510009 520909 521809 522709 523604 QNH2988INS BECMG 2007/2009 32013KT 521609 522509 523406 QNH3007INS TEMPO 2012/2015 33015G22KT T13/1919Z TM03/2010Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Getting Around: Taxi, Limo, Rental Cars, Mass Transit
+Business NameContact
+Services / DescriptionComments
+
+Ocracoke Island Golf Carts
+
+252-928-0090[web site][email]
+
+Rental cars, Rental cars nearby, Other business
+
+
+
+More info about Ocracoke Island Golf Carts
+
+
+
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Ocracoke Island Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Ocracoke Island Airport
+
+
+
+NCDOT Div of Aviation
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

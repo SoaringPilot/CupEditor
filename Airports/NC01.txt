@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC01 - Harvey Point Defense Testing Activity Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1579 users online
+ 
+
+
+
+
+NC01
+ Harvey Point Defense Testing Activity AirportHertford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HERTFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC01
+Lat/Long:36-05-46.4000N 076-19-37.4000W36-05.773333N 076-19.623333W36.0962222,-76.3270556(estimated)
+Elevation:10.1 ft. / 3.1 m (surveyed)
+Variation:10W (2010)
+From city:10 miles SE of HERTFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27944
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:05/2006
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:FDC (NOTAM-D service not available)
+Attendance:ON CALL
+Wind indicator:lighted
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ECG (12 nm NE):124.375 (252-338-4750)
+WX AWOS-3 at EDE (12 nm W):118.275 (252-482-0757)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr224/12.1ELIZABETH CITY VOR/DME115.7507W
+CVIr131/31.1COFIELD VORTAC114.6009W
+RBXr297/32.3WRIGHT BROTHERS VOR/DME111.6008W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE198/10.125410WLLW.-.. .-.. .--
+MANTEO298/32.537009WMQI-- --.- ..
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:5291 x 100 ft. / 1613 x 30 m
+Surface:asphalt, in good condition
+Runway edge lights:high intensity
+RUNWAY 3RUNWAY 21
+Latitude:36-05.360540N36-06.187373N
+Longitude:076-19.793457W076-19.451937W
+Elevation:8.2 ft.7.2 ft.
+Traffic pattern:leftright
+Runway heading:029 magnetic, 019 true209 magnetic, 199 true
+Displaced threshold:no198 ft.
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:80 ft. trees, lighted, 200 ft. left and right of centerlinenone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:HARVEY POINT DEFENSE TESTING ACTIVI2835 HARVEY POINT ROADHERTFORD, NC 27944Phone 252-426-5221
+Manager:DIRECTOR OF ADMINISTRATION2835 HARVEY POINT ROADHERTFORD, NC 27944Phone 252-426-5221ADDITIONAL CONTACT: ROBERT HAMDEN ROBERT.W.HAMDEN.CTR@MAIL.MIL
+
+Additional Remarks
+
+-TREES TO 80 FEET ABOVE RUNWAY ELEVATION LINE BOTH SIDES OF RUNWAY, FULL LENGTH,  APPROXIMATELY 150 FT FROM EDGE OF PAVEMENT.
+-RUNWAY 3 HAS A NON-STANDARD MALS THRESHOLD LIGHT BAR.
+-PILOT CONTROL LIGHTING IS AVAILABLE BY REQUEST ONLY.
+-AIRFIELD IS FOR OFFICIAL BUSINESS ONLY AND PRIOR PERMISSION IS REQUIRED.
+-RMN NW OF RWY FOR C APCHS AND TFC PATS.
+-DO NOT ENTER R-5301 WITHOUT PERMISSION AND APPROVAL OF ATC.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at NC01.
+Some nearby airports with instrument procedures:
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (12 nm NE)
+KEDE - Northeastern Regional Airport (12 nm W)
+KONX - Currituck County Regional Airport (24 nm NE)
+KPMZ - Plymouth Municipal Airport (27 nm SW)
+KFFA - First Flight Airport (32 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Harvey Point Defense Testing Activity Airport?
+Find the distance to fly.
+From 
+to NC01
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4711:47
+Sunrise07:1512:15
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:15:47
+Local (UTC-5)19-Jan-2024 16:15:47
+
+
+
+
+   
+
+METAR
+
+
+KECG12nm NE192054Z 31021G30KT 10SM FEW038 OVC070 07/M01 A2978 RMK AO2 PK WND 30031/2037 SLP084 T00671011 53028
+
+KEDE13nm W192050Z AUTO 31017G25KT 10SM OVC080 09/01 A2980 RMK AO2 T00890012
+
+KONX24nm NE192045Z AUTO 27013G21KT 250V310 10SM SCT038 SCT046 OVC070 07/M01 A2977 RMK AO2 T00711012
+
+
+
+
+
+TAF
+
+
+KECG12nm NE191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Harvey Point Defense Testing Activity Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Harvey Point Defense Testing Activity Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

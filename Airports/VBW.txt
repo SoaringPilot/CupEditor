@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KVBW - Bridgewater Air Park
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1584 users online
+ 
+
+
+
+
+KVBW
+ Bridgewater Air ParkBridgewater, Virginia, USA 
+
+
+
+
+
+
+GOING TO BRIDGEWATER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VBW
+Lat/Long:38-22-00.2550N 078-57-37.2030W38-22.004250N 078-57.620050W38.3667375,-78.9603342(estimated)
+Elevation:1165 ft. / 355.1 m (surveyed)
+Variation:09W (2010)
+From city:1 mile SE of BRIDGEWATER, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22812
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1947
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:MON-FRI 0800-1700,  ALL SAT 0900-1600,  ALL SUN 1200-1600
+Wind indicator:yes
+Segmented circle:no
+Lights:ACTVT MIRL RWY 15/33 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:119.55 (540-828-2076)
+POTOMAC APPROACH:132.85
+POTOMAC DEPARTURE:132.85
+WX AWOS-3 at SHD (7 nm SE):124.925 (540-234-0110)
+WX AWOS-3PT at W13 (17 nm S):118.625 (540-941-7570)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr019/28.8MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+STAUT008/9.937509WSH... ....
+CAVERNS238/30.424509WLUA.-.. ..- .-
+
+Airport Services
+
+Fuel available:A+
+Parking:tiedowns
+
+Runway Information
+Runway 15/33
+
+Dimensions:2745 x 60 ft. / 837 x 18 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:22.0
+Runway edge lights:medium intensity
+RUNWAY 15RUNWAY 33
+Latitude:38-22.183500N38-21.823500N
+Longitude:078-57.793500W078-57.445833W
+Elevation:1157.0 ft.1165.0 ft.
+Traffic pattern:leftleft
+Runway heading:152 magnetic, 143 true332 magnetic, 323 true
+Displaced threshold:no368 ft.
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:none19 ft. pole, 781 ft. from runway, 293 ft. right of centerline, 30:1 slope to clear+10 FT ROAD 25 FT FM RWY END.  ACFT PRKG AND TAXIING WI 200 FT OF THR AND 200 FT OF CNTRLN, LEFT ON APCH.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROCKINGHAM AVIATION CORPPO BOX 7BRIDGEWATER, VA 22812Phone 540-828-3214
+Manager:AARON LORSONPO BOX 7BRIDGEWATER, VA 22812Phone 540-828-6070
+
+Airport Operational Statistics
+
+Aircraft based on the field:100Single engine airplanes:2Multi engine airplanes:94Jet airplanes:3Helicopters:1
+Aircraft operations: avg 46/day*59%local general aviation35%transient general aviation5%air taxi2%military* for 12-month period ending 31 December 2018
+Additional Remarks
+
+-1300 FT TWY IN LINE WITH RWY PRIOR TO RWY 33 IN ADDITION TO THE DISPLACEMENT.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+-PPR FOR US GOVT OPS CALL 540-828-6070.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 15
+download (236KB)
+RNAV (GPS) RWY 33
+download (218KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KSHD - Shenandoah Valley Regional Airport (7 nm SE)
+W13 - Eagle's Nest Airport (17 nm S)
+8W2 - New Market Airport (21 nm NE)
+KCHO - Charlottesville-Albemarle Airport (28 nm SE)
+KLUA - Luray Caverns Airport (28 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken in May 2007
+
+Do you have a better or more recent aerial photo of Bridgewater Air Park that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bridgewater Air Park?
+Find the distance to fly.
+From 
+to KVBW
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3112:31
+Sunset17:2222:22
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:45:33
+Local (UTC-5)19-Jan-2024 15:45:33
+
+
+
+
+   
+
+METAR
+
+
+KVBW192035Z AUTO 30013G19KT 10SM SCT055 SCT070 BKN120 00/M11 A2982 RMK AO1 T10011108
+
+KSHD7nm SE192035Z AUTO 29012G17KT 10SM BKN060 BKN075 OVC120 00/M10 A2985 RMK AO2 T10021101
+
+KW1317nm S192035Z AUTO 29010G16KT 260V320 10SM BKN050 OVC120 00/M10 A2980 RMK AO1 T10011105
+
+
+
+
+
+TAF
+
+
+KCHO28nm SE191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Dynamic Aviation
+
+540-828-6070
+
+
+no information available
+If you are affiliated with Dynamic Aviation and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bridgewater Air Park, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bridgewater Air Park
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

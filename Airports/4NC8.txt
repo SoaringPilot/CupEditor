@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 4NC8 - Buffalo Creek Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1618 users online
+ 
+
+
+
+
+4NC8
+ Buffalo Creek AirportConcord, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CONCORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:4NC8
+Lat/Long:35-25-20.5040N 080-37-14.2430W35-25.341733N 080-37.237383W35.4223622,-80.6206231(estimated)
+Elevation:600 ft. / 183 m (estimated)
+Variation:05W (1985)
+From city:1 mile SE of CONCORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28027
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1986
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:yes
+
+Airport Communications
+
+WX AWOS-3 at JQF (5 nm SW):133.675 (704-785-2145)
+WX AWOS-3 at RUQ (14 nm N):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr054/21.4CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA068/29.726006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:2600 x 75 ft. / 792 x 23 m
+Surface:turf
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GREEN VALLEY AVIATION1025 RIDING TRAIL LANECONCORD, NC 28027Phone 704-723-9450
+Manager:GREG PETHEL1025 RIDING TRAIL LANECONCORD, NC 28027Phone 704-960-7150
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:7Ultralights:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 4NC8.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (5 nm SW)
+KRUQ - Mid-Carolina Regional Airport (14 nm N)
+14A - Lake Norman Airpark (18 nm NW)
+KCLT - Charlotte/Douglas International Airport (20 nm SW)
+KVUJ - Stanly County Airport (23 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken in December 2006
+
+Do you have a better or more recent aerial photo of Buffalo Creek Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Buffalo Creek Airport?
+Find the distance to fly.
+From 
+to 4NC8
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:13
+Local (UTC-5)19-Jan-2024 15:48:13
+
+
+
+
+   
+
+METAR
+
+
+KJQF5nm SW191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+KRUQ15nm N192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+
+
+
+
+TAF
+
+
+KCLT20nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Buffalo Creek Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Buffalo Creek Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

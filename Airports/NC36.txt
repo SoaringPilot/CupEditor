@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC36 - Cotton Gin Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1613 users online
+ 
+
+
+
+
+NC36
+ Cotton Gin AirportGrandy, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GRANDY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC36
+Lat/Long:36-12-32.0000N 075-51-52.0000W36-12.533333N 075-51.866667W36.2088889,-75.8644444(estimated)
+Elevation:6 ft. / 2 m 
+From city:2 miles SSE of GRANDY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27947
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:05/2011
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at ONX (14 nm NW):119.775 (252-453-8939)
+WX AWOS-3 at FFA (15 nm SE):118.075 (252-449-0698)
+WX ASOS at ECG (15 nm W):124.375 (252-338-4750)
+WX AWOS-3 at MQI (19 nm SE):128.275 (252-473-2826)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr108/15.3ELIZABETH CITY VOR/DME115.7507W
+RBXr343/19.1WRIGHT BROTHERS VOR/DME111.6008W
+
+
+NDBnameHdg/DistFreqVarID
+MANTEO344/19.437009WMQI-- --.- ..
+WOODVILLE109/21.225410WLLW.-.. .-.. .--
+
+Airport Services
+
+
+Runway Information
+Runway 7/25
+
+Dimensions:1825 x 70 ft. / 556 x 21 m
+Surface:turf, in good condition
+RUNWAY 7RUNWAY 25
+Traffic pattern:leftleft
+Obstructions:30 ft. trees, 400 ft. from runway30 ft. trees, 200 ft. from runway
+
+Runway 16/34
+
+Dimensions:1030 x 70 ft. / 314 x 21 m
+Surface:turf, in good condition
+RUNWAY 16RUNWAY 34
+Traffic pattern:leftleft
+Obstructions:30 ft. trees, 350 ft. from runway30 ft. trees, 1100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:T.L. WRIGHTP.O. BOX 24JARVISBURG, NC 27947Phone 252-207-9597
+Manager:JON THOMPSON6957 CARATOKE HWYJARVISBURG, NC 27947Phone 252-441-2426
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:2Gliders airplanes:2
+Additional Remarks
+
+-GLDR  ACT ON AND INVOF ARPT
+
+Instrument Procedures
+There are no published instrument procedures at NC36.
+Some nearby airports with instrument procedures:
+KONX - Currituck County Regional Airport (14 nm NW)
+KFFA - First Flight Airport (15 nm SE)
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (15 nm W)
+KMQI - Dare County Regional Airport (19 nm SE)
+KCPK - Chesapeake Regional Airport (35 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Cotton Gin Airport?
+Find the distance to fly.
+From 
+to NC36
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4611:46
+Sunrise07:1412:14
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:54:57
+Local (UTC-5)19-Jan-2024 15:54:57
+
+
+
+
+   
+
+METAR
+
+
+KONX14nm NW192025Z AUTO 28009G18KT 10SM BKN038 BKN044 OVC060 08/M01 A2975 RMK AO2 T00751006
+
+KFFA15nm SE192025Z AUTO 28009G15KT 10SM SCT048 OVC060 08/01 A2972 RMK AO2 T00810012
+
+KECG16nm W191954Z 31022G32KT 10SM FEW048 OVC060 08/M02 A2973 RMK AO2 PK WND 29032/1952 SLP068 T00831017
+
+KMQI19nm SE192030Z AUTO 32011G15KT 10SM BKN060 OVC070 09/01 A2975 RMK AO2 T00850010
+
+
+
+
+
+TAF
+
+
+KECG16nm W191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Cotton Gin Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Cotton Gin Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

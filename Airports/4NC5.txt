@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 4NC5 - Triple M Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1439 users online
+ 
+
+
+
+
+4NC5
+ Triple M AirportCape Carteret, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CAPE CARTERET?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:4NC5
+Lat/Long:34-43-49.5810N 077-03-01.8110W34-43.826350N 077-03.030183W34.7304392,-77.0505031(estimated)
+Elevation:30 ft. / 9 m (estimated)
+Variation:08W (1985)
+From city:2 miles S of CAPE CARTERET, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28584
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/1985
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR MIRL RWY 05/23 CALL 919-393-8038.
+
+Airport Communications
+
+WX ASOS at NCA (19 nm W):288.325
+WX ASOS at MRH (19 nm E):135.375 (252-728-2055)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+EWNr189/20.6NEW BERN VOR/DME113.6008W
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:2750 x 100 ft. / 838 x 30 m
+Surface:turf, in good condition
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LACY EDWARD MC NEILLSTAR RT. BOX 21 CSWANSBORO, NC 28584Phone 919-393-8038
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:4
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 4NC5.
+Some nearby airports with instrument procedures:
+KNKT - Cherry Point Marine Corps Air Station (Cunningham Field) Airport (13 nm NE)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (19 nm W)
+KMRH - Michael J Smith Field Airport (19 nm E)
+KEWN - Coastal Carolina Regional Airport (21 nm N)
+KOAJ - Albert J Ellis Airport (28 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Triple M Airport?
+Find the distance to fly.
+From 
+to 4NC5
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1512:15
+Sunset17:2322:23
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:02:05
+Local (UTC-5)19-Jan-2024 17:02:05
+
+
+
+
+   
+
+METAR
+
+
+KNJM4nm SE192157Z AUTO 30009G20KT 8SM SCT065 BKN080 12/00 A2982 RMK AO2 SLP101 T01220000
+
+KNKT13nm NE192156Z 30014G24KT 10SM OVC080 12/M01 A2981 RMK AO2 SLP092 T01171011
+
+KNCA20nm W192156Z 32018G24KT 10SM SCT070 12/M02 A2983 RMK AO2 PK WND 31033/2123 SLP103 T01171022
+
+KMRH20nm E192158Z AUTO 29018G23KT 10SM SCT065 OVC080 12/02 A2980 RMK AO2 PK WND 29026/2136 SLP093 T01220022
+
+
+
+
+
+TAF
+
+
+KNKT13nm NE1915/2015 27012G22KT 9999 BKN060 521609 522509 523406 QNH2977INS BECMG 1916/1918 30015G28KT SCT050 510009 520909 521809 522709 523604 QNH2972INS FM200000 32015G25KT 9999 SKC 510009 520909 521809 522709 523604 QNH2988INS BECMG 2007/2009 32013KT 521609 522509 523406 QNH3007INS TEMPO 2012/2015 33015G22KT T13/1919Z TM03/2010Z 
+
+KNCA20nm W1915/2015 27014G26KT 9999 FEW030 QNH2977INS FM191600 29018G33KT 9999 FEW060 QNH2973INS FM200100 31011G21KT 9999 SKC QNH2999INS T13/1919Z TM04/2010Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Triple M Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Triple M Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

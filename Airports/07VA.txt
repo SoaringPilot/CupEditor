@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 07VA - Alpha Hotel Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+07VA
+ Alpha Hotel AirportClover, Virginia, USA 
+
+
+
+
+
+
+GOING TO CLOVER?
+
+
+ 
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:07VA
+Lat/Long:36-49-10.5010N 078-46-59.0240W36-49.175017N 078-46.983733W36.8195836,-78.7830622(estimated)
+Elevation:350 ft. / 107 m (estimated)
+Variation:07W (1985)
+From city:2 miles W of CLOVER, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24534
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1983
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W78 (7 nm SW):119.425 (434-575-0332)
+WX AWOS-3 at CXE (14 nm E):121.225 (434-372-4506)
+WX AWOS-3 at W63 (17 nm SE):118.225 (434-374-2431)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr057/14.1SOUTH BOSTON VORTAC110.4005W
+DANr067/(30.6)DANVILLE VOR113.1006W
+LYHr145/33.9LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO355/32.127109WHXO.... -..- ---
+PERSON029/37.722008WHUR.... ..- .-.
+BLACKSTONE251/39.932609WBKT-... -.- -
+
+Airport Services
+
+
+Runway Information
+Runway 16/34
+
+Dimensions:1600 x 50 ft. / 488 x 15 m
+Surface:turf
+RUNWAY 16RUNWAY 34
+Traffic pattern:leftright
+Obstructions:treesnone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES G. SMILEY2040 MILL RDCLOVER, VA 24534Phone 434-454-6729
+Manager:JAMES G. SMILEY2040 MILL RDCLOVER, VA 24534Phone 434-454-6729
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 07VA.
+Some nearby airports with instrument procedures:
+W78 - William M Tuck Airport (7 nm SW)
+KCXE - Chase City Municipal Airport (14 nm E)
+W63 - Lake Country Regional Airport (17 nm SE)
+0V4 - Brookneal/Campbell County Airport (22 nm NW)
+W31 - Lunenburg County Airport (30 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Alpha Hotel Airport?
+Find the distance to fly.
+From 
+to 07VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:09
+Local (UTC-5)19-Jan-2024 15:44:09
+
+
+
+
+   
+
+METAR
+
+
+KW787nm SW192035Z AUTO 31018G24KT 10SM SCT050 04/M08 A2988 RMK AO1 T00401081
+
+KCXE14nm E192035Z AUTO 10SM SCT050 04/M08 A2985 RMK AO1 T00381076
+
+KW6317nm SE192035Z AUTO 30013G25KT 10SM BKN055 05/M05 A2985 RMK AO1
+
+
+
+
+
+TAF
+
+
+KDAN31nm SW191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+KLYH36nm NW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Alpha Hotel Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Alpha Hotel Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

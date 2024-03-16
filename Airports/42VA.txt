@@ -1,0 +1,376 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 42VA - Virginia Beach Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1441 users online
+ 
+
+
+
+
+42VA
+ Virginia Beach AirportVirginia Beach, Virginia, USA 
+
+
+
+
+
+
+GOING TO VIRGINIA BEACH?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:42VA
+Lat/Long:36-40-44.0550N 076-01-57.9950W36-40.734250N 076-01.966583W36.6789042,-76.0327764(estimated)
+Elevation:15 ft. / 5 m (estimated)
+Variation:10W (1990)
+From city:4 miles SE of VIRGINIA BEACH, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23457
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/1993
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at NTU (9 nm N):PHONE DSN 433-3619 or 757-433-3619
+WX AWOS-3 at CPK (14 nm W):123.675 (757-204-4290)
+WX ASOS at ORF (15 nm NW):PHONE 757-460-9348
+WX AWOS-3 at ONX (17 nm S):119.775 (252-453-8939)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ORFr155/15.1NORFOLK VORTAC116.9007W
+ECGr022/26.2ELIZABETH CITY VOR/DME115.7507W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE037/28.025410WLLW.-.. .-.. .--
+
+Airport Services
+
+
+Runway Information
+Runway 11/29
+
+Dimensions:4845 x 190 ft. / 1477 x 58 m
+Surface:turf, in good condition
+Runway edge markings:RWY MARKED WITH WHITE PYLONS.
+RUNWAY 11RUNWAY 29
+Latitude:36-40.824167N36-40.644333N
+Longitude:076-02.449500W076-01.483667W
+Elevation:10.0 ft.9.0 ft.
+Traffic pattern:leftleft
+Markings:, in good condition
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:VIRGINIA BEACH ARPT, LLC4455 SOUTH BLVDVIRGINIA BEACH, VA 23452Phone 757-490-3157
+Manager:GERALD YAGEN4455 SOUTH BLVDVIRGINIA BEACH, VA 23452Phone 757-490-3157EXTENSION 500.
+
+Airport Operational Statistics
+
+Aircraft based on the field:54Single engine airplanes:50Multi engine airplanes:4
+Additional Remarks
+
+-AWOS - PHONE 757-204-2683, FREQUENCY 119.925
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 42VA.
+Some nearby airports with instrument procedures:
+KNTU - Oceana Naval Air Station (Apollo Soucek Field) (9 nm N)
+KCPK - Chesapeake Regional Airport (14 nm W)
+KORF - Norfolk International Airport (15 nm NW)
+KONX - Currituck County Regional Airport (17 nm S)
+KNGU - Norfolk Naval Station (Chambers Field) (20 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Jerry Yagen
+Photo taken 10-Nov-2012
+looking east.
+
+Do you have a better or more recent aerial photo of Virginia Beach Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Virginia Beach Airport?
+Find the distance to fly.
+From 
+to 42VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4711:47
+Sunrise07:1512:15
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:05:15
+Local (UTC-5)19-Jan-2024 17:05:15
+
+
+
+
+   
+
+METAR
+
+
+KNFE5nm W192056Z AUTO 32009G20KT 10SM SCT040 SCT050 OVC075 06/M02 A2979 RMK AO2 PK WND 30026/2000 SLP091 T00611017 53035
+
+KNTU8nm N192156Z 31021G31KT 10SM BKN041 BKN049 OVC060 04/M04 A2982 RMK AO2 PK WND 30037/2104 SLP100 T00441044
+
+KCPK14nm W192155Z AUTO 32010G14KT 10SM BKN033 BKN043 OVC075 04/M02 A2983 RMK AO2 T00431025
+
+KORF16nm NW192151Z 32008G17KT 290V360 10SM FEW039 BKN060 OVC080 04/M04 A2983 RMK AO2 PK WND 32029/2052 SLP100 T00441039
+
+KONX17nm S192145Z AUTO 32008G17KT 280V340 10SM SCT032 BKN042 OVC049 06/M01 A2982 RMK AO2 T00591007
+
+KNGU18nm NW192059Z 31026G35KT 10SM SCT035 BKN060 OVC080 05/M03 A2981 RMK AO2 PK WND 29035/2002 SLP095 T00501033 53034
+
+
+
+
+
+TAF
+
+
+KNTU8nm N1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1919 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191900 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0919/0923 28014KT 9000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 540009 520909 QNH2980INS TX08/1918Z TNM02/2009Z FN20008 
+
+KORF16nm NW191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KNGU18nm NW1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Virginia Beach Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Virginia Beach Airport
+
+
+
+www.vbairport.com
+
+
+
+
+
+Military Aviation Museum
+
+
+
+
+
+www.fighterfactory.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

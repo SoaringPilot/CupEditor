@@ -1,0 +1,354 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC29 - Bradley Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+NC29
+ Bradley Field AirportChina Grove, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CHINA GROVE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC29
+Lat/Long:35-37-12.5010N 080-35-51.2330W35-37.208350N 080-35.853883W35.6201392,-80.5975647(estimated)
+Elevation:795 ft. / 242 m (estimated)
+Variation:05W (1985)
+From city:3 miles NW of CHINA GROVE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28147
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1980
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at RUQ (4 nm E):118.175 (704-637-6197)
+WX AWOS-3 at JQF (15 nm S):133.675 (704-785-2145)
+WX AWOS-3 at EXX (17 nm NE):119.825 (336-956-2967)
+WX AWOS-3 at SVH (19 nm NW):119.225 (704-873-1978)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr039/31.1CHARLOTTE VOR/DME115.0005W
+BZMr121/34.7BARRETTS MOUNTAIN VOR/DME113.7506W
+GSOr233/39.6GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY224/8.627506WRU.-. ..-
+STONIA053/37.626006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2200 x 50 ft. / 671 x 15 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DAVID M. BRADLEY1705 ST. PAULS CHURCH ROADSALISBURY, NC 28146Phone 704-279-7683
+Manager:DAVID M. BRADLEY1705 ST. PAULS CHURCH ROADSALISBURY, NC 28146Phone 704-279-1191
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at NC29.
+Some nearby airports with instrument procedures:
+KRUQ - Mid-Carolina Regional Airport (4 nm E)
+14A - Lake Norman Airpark (15 nm W)
+KJQF - Concord-Padgett Regional Airport (15 nm S)
+KEXX - Davidson County Executive Airport (17 nm NE)
+8A7 - Twin Lakes Airport (19 nm N)
+KSVH - Statesville Regional Airport (19 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bradley Field Airport?
+Find the distance to fly.
+From 
+to NC29
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:29
+Local (UTC-5)19-Jan-2024 15:44:29
+
+
+
+
+   
+
+METAR
+
+
+KRUQ4nm NE192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+KJQF15nm S191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+KEXX17nm NE192025Z AUTO 28009G19KT 240V360 10SM CLR 06/M08 A2993 RMK AO2 T00571076
+
+KSVH19nm NW192025Z AUTO 31016G23KT 10SM CLR 04/M10 A2997 RMK AO2 T00381100
+
+
+
+
+
+TAF
+
+
+KCLT30nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KINT36nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bradley Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bradley Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

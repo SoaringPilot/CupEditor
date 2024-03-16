@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 27NR - C A G Farms Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1617 users online
+ 
+
+
+
+
+27NR
+ C A G Farms AirportAngier, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ANGIER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:27NR
+Lat/Long:35-28-10.0000N 078-39-16.0000W35-28.166667N 078-39.266667W35.4694444,-78.6544444(estimated)
+Elevation:310 ft. / 94 m (estimated)
+Variation:08W (2000)
+From city:7 miles SE of ANGIER, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27521
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/2002
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HRJ (7 nm SW):119.025 (910-814-3946)
+WX AWOS-3 at JNX (14 nm E):120.225 (919-934-3851)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr174/25.0RALEIGH/DURHAM VORTAC117.2009W
+FAYr024/31.0FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT032/2.441708WHQT.... --.- -
+JURLY277/11.226309WJN.--- -.
+CLINTON343/32.941209WCTZ-.-. - --..
+
+Airport Services
+
+
+Runway Information
+Runway 6/24
+
+Dimensions:2000 x 50 ft. / 610 x 15 m
+Surface:turf
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+Obstructions:none35 ft. pline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LANE GREGORY275 BOWLING SPRING DRANGIER, NC 27501Phone 919-369-3857
+Manager:C.A.G. FARMS275 BOWLING SPRING DRANGIER, NC 27501Phone 919-369-3857
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-RWY 24 HAS 35 FT POWER LINE 50 FT FM THR
+
+Instrument Procedures
+There are no published instrument procedures at 27NR.
+Some nearby airports with instrument procedures:
+KHRJ - Harnett Regional Jetport Airport (7 nm SW)
+KJNX - Johnston Regional Airport (14 nm E)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (23 nm W)
+KFBG - Simmons Army Airfield (24 nm SW)
+KPOB - Pope Army Airfield (25 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to C A G Farms Airport?
+Find the distance to fly.
+From 
+to 27NR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2312:23
+Sunset17:2822:28
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:18
+Local (UTC-5)19-Jan-2024 15:48:18
+
+
+
+
+   
+
+METAR
+
+
+KHRJ6nm SW192030Z AUTO 31016G25KT 10SM SCT080 11/M06 A2984 RMK AO2 T01091056
+
+KJNX14nm E192030Z AUTO 33012G19KT 10SM OVC060 12/M02 A2982 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRDU25nm N191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KFBG25nm SW192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KPOB25nm SW192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the C A G Farms Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about C A G Farms Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

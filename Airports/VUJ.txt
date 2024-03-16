@@ -1,0 +1,518 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KVUJ - Stanly County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1424 users online
+ 
+
+
+
+
+KVUJ
+ Stanly County AirportAlbemarle, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ALBEMARLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VUJ
+Lat/Long:35-25-00.0980N 080-09-02.8480W35-25.001633N 080-09.047467W35.4166939,-80.1507911(estimated)
+Elevation:609 ft. / 185.6 m (surveyed)
+Variation:06W (1985)
+From city:4 miles NE of ALBEMARLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28127
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1979
+Control tower:yes
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:VUJ (NOTAM-D service available)
+Attendance:0800-1800
+Pattern altitude:TPA: HEL 500 FT  (1200 FT MSL), SMALL FW 1000 FT (1700 MSL), LRG/HVY 1500 FT (2200 FT MSL), OVHD 1500 FT (2200 FT MSL) OR AS ASGND BY TWR.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 04R & 22L; HIRL RWY 04R/22L, MIRL RWY 04L/22R - CTAF. PAPI RWY 04R & 22L ON DRG TWR OPN, OTHER TIMES - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:126.275
+WX AWOS-3:128.175 (704-986-2097)
+STANLY COUNTY GROUND:121.75 254.375 [1300-2230Z++ OR BY NOTAM.]
+STANLY COUNTY TOWER:126.275 291.9 [1300-2230Z++ OR BY NOTAM.]
+CHARLOTTE APPROACH:128.325
+CHARLOTTE DEPARTURE:128.325
+CLEARANCE DELIVERY:121.75 254.375
+BARMY DP:128.325
+BEAVY DP:128.325
+BOBZY DP:128.325
+ESTRR DP:128.325
+ICONS DP:128.325
+JOJJO DP:128.325
+JOOLS STAR:135.6
+KABEE STAR:126.15
+KERMIT DP:128.325
+KILNS DP:128.325
+KNIGHTS DP:128.325
+KWEEN DP:128.325
+LILLS DP:128.325
+NASCR STAR:128.325
+WEAZL DP:128.325
+WX AWOS-3 at HBI (19 nm NE):119.275 (336-626-7933)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SDZr297/30.1SANDHILLS VORTAC111.8003W
+LIBr231/35.4LIBERTY VORTAC113.0003W
+GSOr196/38.7GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+ALLER223/5.534606WVU...- ..-
+
+Airport Services
+
+Fuel available:100LL JET-A+ JET-A1+100LL:100LL AVBL SELF SVC H24 WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:LOW
+
+Runway Information
+Runway 4R/22L
+
+Dimensions:5499 x 100 ft. / 1676 x 30 m
+Surface:asphalt/grooved, in excellent condition
+Weight bearing capacity:Double wheel:130.0
+Runway edge lights:high intensity
+RUNWAY 4RRUNWAY 22L
+Latitude:35-24.558567N35-25.280640N
+Longitude:080-09.389363W080-08.719998W
+Elevation:608.9 ft.577.3 ft.
+Traffic pattern:leftleft
+Runway heading:043 magnetic, 037 true223 magnetic, 217 true
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:32 ft. trees, 375 ft. from runway, 488 ft. left of centerline, 5:1 slope to clear137 ft. trees, 4194 ft. from runway, 176 ft. right of centerline, 29:1 slope to clear
+
+Runway 4L/22R
+
+Dimensions:3501 x 75 ft. / 1067 x 23 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Double wheel:130.0
+Runway edge lights:medium intensity
+RUNWAY 4LRUNWAY 22R
+Latitude:35-24.900662N35-25.360298N
+Longitude:080-09.249112W080-08.823057W
+Elevation:592.3 ft.580.9 ft.
+Traffic pattern:leftleft
+Runway heading:043 magnetic, 037 true223 magnetic, 217 true
+Markings:basic, in good conditionbasic, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:23 ft. fence, 411 ft. from runway, 301 ft. left of centerline, 9:1 slope to clear10 FT HILL 0-200 FT FROM THR 200 FT LEFT OF CNTRLN.32 ft. trees, 793 ft. from runway, 270 ft. right of centerline, 18:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:STANLY COUNTY43222 LOWDER AVIATION PARKWAYNEW LONDON, NC 28127Phone 704-982-9013
+Manager:KEN SWARINGEN43222 LOWDER AVIATION PARKWAYNEW LONDON, NC 28127Phone 704-982-9013
+
+Airport Operational Statistics
+
+Aircraft based on the field:44Single engine airplanes:38Multi engine airplanes:6
+Aircraft operations: avg 77/day*57%local general aviation38%military6%transient general aviation* for 12-month period ending 29 May 2023
+Additional Remarks
+
+-959 FT MSL LGTD TWR 1.5NW.
+-MISC:  REGIONAL TRAINING SITE (RTS) SUPPORT COORD THRU 145 AW/CE DSN 231-4229.
+-ANG: PPR ONLY IF RON ON ANG RAMP AND FBO RAMP, 145 AW BASOPS DSN 704-422-2551.
+-HEAVY PARACHUTE JUMPING NORTH END OF RWY 22L/R.
+-FOR CD WHEN ATCT IS CLSD CTC CHARLOTTE APCH AT 704-359-0241.
+-FBO OPERATIONAL HRS 0800-1800.
+-MILITARY FUEL - A+ (C704-982-9013, 1300-0000Z++, OT C704-984-3542 OR C704-961-8964) (NC-100LL).  FUEL AVBL FROM FBO 1400-2200Z++, OTHER TIMES PPR, C704-982-9013.
+-RSTD: ANG RAMP RSTD TO MIL USE ONLY WITH PPR. CTC 235ATCS/ATM DSN 484-2552, C704-422-2551 OR C704-763-4633 AFTER DUTY HOURS.
+-CAUTION: BE ALERT FOR HIGH SPEED LOW LEVEL MIL ACFT IN VCNTY.  FRQ NGT MIL OPR.  FREQ ASSAULT OPS TO RWY 22R.    DEER AND BIRD HAZARD.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+JOOLS ONE (RNAV)
+download (274KB)
+KABEE THREE (RNAV)
+download (152KB)
+NASCR FOUR
+download (243KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 22L
+download (235KB)
+RNAV (GPS) RWY 04R
+download (297KB)
+RNAV (GPS) RWY 22L
+download (263KB)
+NDB RWY 22L
+download (240KB)
+
+Radar Approach Procedures available**CHANGED**
+download (158KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+Departure Procedures
+
+BARMY FOUR (RNAV)
+download (202KB)
+BEAVY FIVE (RNAV)
+download (189KB)
+BOBZY FOUR (RNAV)
+download (195KB)
+ESTRR FOUR (RNAV)
+download (166KB)
+ICONS FOUR (RNAV)
+download (181KB)
+JOJJO FOUR (RNAV)
+download (222KB)
+KERMIT THREE
+2 pages:
+ [1] [2] (423KB)
+KILNS FOUR (RNAV)
+download (181KB)
+KNIGHTS TWO
+2 pages:
+ [1] [2] (473KB)
+KRITR FIVE (RNAV)
+download (170KB)
+KWEEN FOUR (RNAV)
+download (178KB)
+LILLS TWO (RNAV)
+download (159KB)
+WEAZL FOUR (RNAV)
+download (162KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (388KB)
+
+Other nearby airports with instrument procedures:
+43A - Montgomery County Airport (18 nm E)
+KHBI - Asheboro Regional Airport (19 nm NE)
+KRUQ - Mid-Carolina Regional Airport (23 nm NW)
+KEXX - Davidson County Executive Airport (23 nm N)
+KAFP - Anson County Airport - Jeff Cloud Field (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo courtesy of Pilot's View Photography
+Photo taken 22-Jan-2013
+looking northeast.
+
+Do you have a better or more recent aerial photo of Stanly County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Stanly County Airport?
+Find the distance to fly.
+From 
+to KVUJ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:3422:34
+Evening civil twilight18:0123:01
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:57:11
+Local (UTC-5)19-Jan-2024 16:57:11
+
+
+
+
+   
+
+METAR
+
+
+KVUJ192145Z AUTO 32009G17KT 270V020 10SM CLR 05/M09 A3001 RMK AO2 T00501086
+
+KHBI19nm NE192145Z AUTO 30012G19KT 260V330 10SM SCT060 04/M10 A2998 RMK AO2 T00421096
+
+
+
+
+
+TAF
+
+
+KCLT41nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KGSO42nm N191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT43nm N191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Stanly County Airport
+
+704-982-9013[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Rental cars delivered, Pilots lounge / snooze room, ...
+
+ 
+
+
+
+
+More info about Stanly County Airport
+
+
+
+
+
+Titan100LL Jet AFS$5.83$6.30SS$5.29---Updated 11-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Stanly County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Stanly County Airport
+
+
+
+stanlycountyairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

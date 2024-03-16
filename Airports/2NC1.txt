@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2NC1 - Hawk's Knoll Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1578 users online
+ 
+
+
+
+
+2NC1
+ Hawk's Knoll AirportWaxhaw, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WAXHAW?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2NC1
+Lat/Long:34-59-50.7800N 080-48-05.9100W34-59.846333N 080-48.098500W34.9974389,-80.8016417(estimated)
+Elevation:695 ft. / 212 m (estimated)
+Variation:05W (1985)
+From city:5 miles NW of WAXHAW, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28173
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1982
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at EQY (9 nm E):135.775 (704-283-5185)
+WX ASOS at UZA (13 nm W):120.775 (803-981-9388)
+WX ASOS at CLT (15 nm NW):PHONE 704-790-5484
+WX AWOS-3 at LKR (17 nm S):120.825 (803-286-6444)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr153/13.7CHARLOTTE VOR/DME115.0005W
+CTFr312/33.3CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA130/21.026006WGHJ--. .... .---
+CHESTER063/23.422006WDCM-.. -.-. --
+
+Airport Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:1800 x 100 ft. / 549 x 30 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:rightleft
+Obstructions:none100 ft. pline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DANIEL H. HUTSON2018 CRANE RDWAXHAW, NC 28173Phone 704-843-3437
+Manager:DAN HUTSONPO BOX 429WAXHAW, NC 28173Phone 704-843-2251
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 2NC1.
+Some nearby airports with instrument procedures:
+N52 - JAARS-Townsend Airport (8 nm S)
+KEQY - Charlotte-Monroe Executive Airport (9 nm E)
+KUZA - Rock Hill (York County) Airport-Bryant Field (13 nm W)
+KCLT - Charlotte/Douglas International Airport (15 nm NW)
+KLKR - Lancaster County Airport-Mc Whirter Field (17 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hawk's Knoll Airport?
+Find the distance to fly.
+From 
+to 2NC1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3822:38
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:16:08
+Local (UTC-5)19-Jan-2024 16:16:08
+
+
+
+
+   
+
+METAR
+
+
+KEQY9nm E192053Z AUTO 33015G26KT 10SM CLR 07/M09 A2994 RMK AO2 PK WND 32032/2039 SLP154 T00721089 53041
+
+KUZA12nm W192054Z AUTO 35015G20KT 10SM CLR 07/M07 A2997 RMK AO2 SLP152 T00671067 53038
+
+KCLT15nm NW192052Z 32016G27KT 10SM FEW060 06/M10 A2997 RMK AO2 PK WND 33034/2008 SLP166 T00611100 53045
+
+KLKR17nm S192055Z AUTO 29008G17KT 260V330 10SM CLR 08/M09 A2995 RMK AO2
+
+
+
+
+
+TAF
+
+
+KCLT15nm NW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hawk's Knoll Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hawk's Knoll Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

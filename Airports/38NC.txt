@@ -1,0 +1,326 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 38NC - BHH Aviation Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+38NC
+ BHH Aviation AirportRuffin, North Carolina, USA 
+
+
+
+
+
+
+GOING TO RUFFIN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:38NC
+Lat/Long:36-28-33.6538N 079-35-43.5562W36-28.560897N 079-35.725937W36.4760149,-79.5954323(estimated)
+Elevation:608 ft. / 185 m (estimated)
+From city:3 miles NW of RUFFIN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27326
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/2012
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SIF (13 nm W):119.775 (336-573-3677)
+WX ASOS at DAN (14 nm NE):128.125 (434-799-1701)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+DANr252/(13.7)DANVILLE VOR113.1006W
+SBVr252/30.4SOUTH BOSTON VORTAC110.4005W
+GSOr039/31.7GREENSBORO VORTAC116.2003W
+LIBr004/39.9LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER062/9.942307WSIF... .. ..-.
+PERSON308/29.422008WHUR.... ..- .-.
+
+Airport Services
+
+
+Runway Information
+Runway 16/34
+
+Dimensions:1700 x 50 ft. / 518 x 15 m
+Surface:turf, in good condition
+RUNWAY 16RUNWAY 34
+Traffic pattern:leftleft
+Obstructions:30 ft. tree, 50 ft. from runway50 ft. tree, 300 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BRENT H. HUSS181 CROWNOVER RDRUFFIN, NC 27326Phone 336-209-0264
+Manager:BRENT H. HUSS181 CROWNOVER RDRUFFIN, NC 27326Phone 336-209-0264OTHER CONTACT JACK HUSS; JHUSS@AOL.COM
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 38NC.
+Some nearby airports with instrument procedures:
+KSIF - Rockingham County NC Shiloh Airport (13 nm W)
+KDAN - Danville Regional Airport (14 nm NE)
+KMTV - Blue Ridge Airport (22 nm NW)
+KBUY - Burlington/Alamance Regional Airport (26 nm S)
+KGSO - Piedmont Triad International Airport (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to BHH Aviation Airport?
+Find the distance to fly.
+From 
+to 38NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:22
+Local (UTC-5)19-Jan-2024 15:44:22
+
+
+
+
+   
+
+METAR
+
+
+KSIF13nm W192030Z AUTO 28011G20KT 10SM SCT055 04/M09 A2992 RMK AO2 T00401090
+
+KDAN14nm NE191953Z AUTO 29018G29KT 10SM BKN042 04/M09 A2988 RMK AO2 PK WND 29036/1910 SLP115 T00441089
+
+KMTV22nm NW192035Z AUTO 33012G20KT 10SM OVC050 02/M12 A2993 RMK AO2 T00191116
+
+
+
+
+
+TAF
+
+
+KDAN14nm NE191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the BHH Aviation Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about BHH Aviation Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6NC4 - Brown Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1617 users online
+ 
+
+
+
+
+6NC4
+ Brown AirportTaylorsville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO TAYLORSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6NC4
+Lat/Long:35-54-20.4760N 081-08-22.2930W35-54.341267N 081-08.371550W35.9056878,-81.1395258(estimated)
+Elevation:1170 ft. / 357 m (estimated)
+Variation:05W (1980)
+From city:2 miles SE of TAYLORSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28681
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1986
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SVH (12 nm SE):119.225 (704-873-1978)
+WX ASOS at HKY (16 nm SW):118.325 (828-322-2996)
+WX AWOS-3 at UKF (19 nm N):126.625 (336-696-3788)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr072/5.4BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+TAWBA054/10.833206WHK.... -.-
+FIDDLERS073/28.439107WFIQ..-. .. --.-
+HEMLOCK114/38.932002WBAR-... .- .-.
+
+Airport Services
+
+
+Runway Information
+Runway 6/24
+
+Dimensions:1400 x 40 ft. / 427 x 12 m
+Surface:turf
+RUNWAY 6RUNWAY 24
+Traffic pattern:rightleft
+Obstructions:30 ft. pline, 300 ft. from runwaynone
+
+Runway 16/34
+
+Dimensions:1200 x 40 ft. / 366 x 12 m
+Surface:turf
+RUNWAY 16RUNWAY 34
+Traffic pattern:rightleft
+Obstructions:none30 ft. pline, 300 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:SCOTT BROWN45 AIRPORT FARM LANETAYLORSVILLE, NC 28681Phone 828-320-2655
+Manager:SCOTT BROWN45 AIRPORT FARM LANETAYLORSVILLE, NC 28681Phone 828-320-2655
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 6NC4.
+Some nearby airports with instrument procedures:
+KSVH - Statesville Regional Airport (12 nm SE)
+KHKY - Hickory Regional Airport (16 nm SW)
+KUKF - Wilkes County Airport (19 nm N)
+14A - Lake Norman Airpark (21 nm SE)
+KMRN - Foothills Regional Airport (24 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Brown Airport?
+Find the distance to fly.
+From 
+to 6NC4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0612:06
+Sunrise07:3412:34
+Sunset17:3722:37
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:12
+Local (UTC-5)19-Jan-2024 15:48:12
+
+
+
+
+   
+
+METAR
+
+
+KSVH13nm SE192025Z AUTO 31016G23KT 10SM CLR 04/M10 A2997 RMK AO2 T00381100
+
+KHKY15nm SW191953Z 28013G24KT 10SM FEW048 03/M07 A2994 RMK AO2 SLP134 T00331072
+
+KUKF19nm N192025Z AUTO 28011G17KT 10SM BKN047 OVC055 01/M09 A3000 RMK AO2
+
+KMRN24nm W192025Z AUTO 30010G14KT 10SM -SN SCT024 SCT030 BKN035 03/M06 A2998 RMK AO2 T00271062
+
+KIPJ25nm S192025Z AUTO 29014G20KT 260V320 10SM CLR 05/M08 A2997 RMK AO2 T00451085
+
+
+
+
+
+TAF
+
+
+KHKY15nm SW191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Brown Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Brown Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

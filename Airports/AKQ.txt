@@ -1,0 +1,448 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KAKQ - Wakefield Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1446 users online
+ 
+
+
+
+
+KAKQ
+ Wakefield Municipal AirportWakefield, Virginia, USA 
+
+
+
+
+
+
+GOING TO WAKEFIELD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:AKQ
+Lat/Long:36-59-14.0000N 077-00-04.1000W36-59.233333N 077-00.068333W36.9872222,-77.0011389(estimated)
+Elevation:111.4 ft. / 34 m (estimated)
+Variation:11W (2020)
+From city:2 miles NW of WAKEFIELD, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23888
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1967
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:AKQ (NOTAM-D service available)
+Attendance:IREG
+Wind indicator:lighted
+Segmented circle:yes
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX ASOS:128.325 (757-899-2300)
+NORFOLK APPROACH:127.9
+NORFOLK DEPARTURE:127.9
+WX AWOS-3PT at FKN (18 nm S):124.675 (757-562-8765)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FKNr011/16.4FRANKLIN VORTAC110.6009W
+HPWr171/21.2HOPEWELL VORTAC114.3506W
+HCMr214/31.0HARCUM VORTAC108.8007W
+RICr163/34.5RICHMOND VORTAC114.1009W
+CVIr359/37.4COFIELD VORTAC114.6009W
+ORFr285/38.8NORFOLK VORTAC116.9007W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELDat field27411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL100LL:24 HR SELF SERVICE FUEL
+Parking:hangars and tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 2/20
+
+Dimensions:4337 x 75 ft. / 1322 x 23 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+Runway edge markings:RWY 20 MRKGS CVRD WITH ALGAE.
+RUNWAY 2RUNWAY 20
+Latitude:36-58.890837N36-59.574702N
+Longitude:077-00.197130W076-59.938327W
+Elevation:107.4 ft.111.4 ft.
+Traffic pattern:leftleft
+Runway heading:028 magnetic, 017 true208 magnetic, 197 true
+Displaced threshold:298 ft.471 ft.
+Markings:nonprecision, in poor conditionnonprecision, in poor condition
+Runway end identifier lights:nono
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:28 ft. trees, 201 ft. from runway, 52 ft. left of centerlineRD +15' 70' FM THR CROSSING END.62 ft. trees, 1154 ft. from runway, 34 ft. right of centerline, 15:1 slope to clearROAD +15 FT 70 FT FM RY END.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF WAKEFIELDP O BOX 550WAKEFIELD, VA 23888Phone 757-899-2030
+Manager:BRIAN LAINEP.O. BOX 550WAKEFIELD, VA 23888Phone 757-899-0096
+
+Airport Operational Statistics
+
+Aircraft based on the field:25Single engine airplanes:24Gliders airplanes:1
+Aircraft operations: avg 68/day*51%local general aviation36%transient general aviation11%military2%air taxi* for 12-month period ending 31 July 2023
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 20
+download (144KB)
+NDB RWY 20
+download (149KB)
+
+NOTE: Special Alternate Minimums apply
+download
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (569KB)
+
+Other nearby airports with instrument procedures:
+KFKN - Franklin Regional Airport (18 nm S)
+KJGG - Williamsburg-Jamestown Airport (20 nm NE)
+KFAF - Felker Army Airfield (21 nm NE)
+KPHF - Newport News/Williamsburg International Airport (26 nm E)
+W94 - Camp Peary Landing Strip Airport (26 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Wakefield Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Wakefield Municipal Airport?
+Find the distance to fly.
+From 
+to KAKQ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:2012:20
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:05:36
+Local (UTC-5)19-Jan-2024 17:05:36
+
+
+
+
+   
+
+METAR
+
+
+KAKQ192154Z AUTO 32004KT 9SM SCT020 SCT043 OVC070 03/M02 A2987 RMK AO2 SNB26E49 SLP116 P0000 T00281017
+
+KFKN18nm S192155Z AUTO 31013G21KT 10SM BKN050 OVC065 04/M03 A2986 RMK AO2 T00411034
+
+KFAF20nm NE192155Z AUTO 30020G25KT 10SM OVC070 03/M05 A2982 RMK AO2 PK WND 30026/02 SLP102 T00341053 TSNO $
+
+
+
+
+
+TAF
+
+
+KFAF20nm NE191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Town of Wakefield Airport Commission
+
+757-334-6552757-899-4002[email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangar leasing / sales, Passenger terminal and lounge, Rental cars delivered, ...
+
+
+
+More info about Town of Wakefield Airport Commission
+
+
+
+
+
+independent100LLSS$5.85Updated 20-Apr-2023
+
+
+
+
+write
+
+
+
+SS=Self service
+
+
+
+
+Where to Eat: Catering, Restaurants, Food shops
+Business NameContact
+Services / DescriptionDistanceComments
+
+Virginia Diner
+
+757-899-3106
+
+
+no information available
+If you are affiliated with Virginia Diner and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+1 milefree shuttle
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wakefield Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wakefield Municipal Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

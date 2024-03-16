@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA50 - Woods Farm Airstrip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1454 users online
+ 
+
+
+
+
+VA50
+ Woods Farm AirstripHanover, Virginia, USA 
+
+
+
+
+
+
+GOING TO HANOVER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA50
+Lat/Long:37-42-54.5130N 077-18-08.9220W37-42.908550N 077-18.148700W37.7151425,-77.3024783(estimated)
+Elevation:57 ft. / 17 m (estimated)
+Variation:09W (1985)
+From city:LCTD 15 MI N OF RICHMOND, VA.
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23069
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1970
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:IREG
+Pattern altitude:857 ft. MSL
+Wind indicator:no
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at OFP (6 nm W):119.025 (804-752-2902)
+WX ASOS at RIC (13 nm S):PHONE 804-236-1091
+WX AWOS-3 at W96 (15 nm SE):119.875 (804-932-8863)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RICr013/12.8RICHMOND VORTAC114.1009W
+HPWr345/24.8HOPEWELL VORTAC114.3506W
+FAKr072/27.4FLAT ROCK VORTAC113.3006W
+HCMr307/32.3HARCUM VORTAC108.8007W
+BRVr185/37.3BROOKE VORTAC114.5009W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON178/33.823710WEZF. --.. ..-.
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 14/32
+
+Dimensions:2200 x 80 ft. / 671 x 24 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:E C C WOODS JR6033 RIVER RDHANOVER, VA 23069-1806Phone 804-746-3390
+Manager:E C C WOODS JR6033 RIVER RDHANOVER, VA 23069-1806Phone 804-746-3390
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+A52-14WOODS AND BLDGS AT WEST END.  FARM CNTR PIVOT IRRIGATION SYS MAY OBST RWY TMPRLY.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VA50.
+Some nearby airports with instrument procedures:
+KOFP - Hanover County Municipal Airport (6 nm W)
+KRIC - Richmond International Airport (13 nm S)
+W96 - New Kent County Airport (15 nm SE)
+KXSA - Tappahannock/Essex County Airport (21 nm NE)
+KFCI - Richmond Executive-Chesterfield County Airport (21 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Woods Farm Airstrip?
+Find the distance to fly.
+From 
+to VA50
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2312:23
+Sunset17:1722:17
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:11:44
+Local (UTC-5)19-Jan-2024 17:11:44
+
+
+
+
+   
+
+METAR
+
+
+KOFP6nm W192154Z AUTO 35004KT 10SM SCT034 BKN070 OVC120 02/M04 A2990 RMK AO2 SLP125 T00221039
+
+KRIC12nm S192154Z 32012KT 10SM SCT033 SCT060 BKN120 02/M04 A2987 RMK AO2 SNB39E54 SLP121 P0000 T00221044
+
+KW9615nm SE192155Z AUTO 33005KT 10SM SCT031 SCT035 BKN055 01/M05 A2987 RMK AO1 T00131047
+
+
+
+
+
+TAF
+
+
+KRIC12nm S191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Woods Farm Airstrip, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Woods Farm Airstrip
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

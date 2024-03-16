@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 36NC - Fly Sky Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1558 users online
+ 
+
+
+
+
+36NC
+ Fly Sky AirportHickory, North Carolina, USA 
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:36NC
+Lat/Long:35-37-45.0000N 081-20-37.5000W35-37.750000N 081-20.625000W35.6291667,-81.3437500(estimated)
+Elevation:1025 ft. / 312 m (estimated)
+From city:6 miles S of HICKORY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28602
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/2021
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at HKY (7 nm N):118.325 (828-322-2996)
+WX AWOS-3 at IPJ (12 nm SE):119.675 (704-735-6954)
+WX AWOS-3P at MRN (17 nm NW):124.175 (828-757-0788)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr205/15.2BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr329/32.6CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+TAWBA197/9.633206WHK.... -.-
+FIDDLERS114/16.739107WFIQ..-. .. --.-
+FIRST RIVER035/25.841706WSLP... .-.. .--.
+STONIA347/27.826006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 12/30
+
+Dimensions:2007 x 100 ft. / 612 x 30 m
+Surface:turf
+RUNWAY 12RUNWAY 30
+Latitude:35-37.833333N35-37.666667N
+Longitude:081-20.800000W081-20.450000W
+Elevation:980.0 ft.1025.0 ft.
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JARED AND TABITHA YATES2201 FINGER BRIDGE ROADHICKORY, NC 28602Phone 828-308-1543
+Manager:JARED AND TABITHA YATES2201 FINGER BRIDGE ROADHICKORY, NC 28602Phone 828-308-1543
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Instrument Procedures
+There are no published instrument procedures at 36NC.
+Some nearby airports with instrument procedures:
+KHKY - Hickory Regional Airport (7 nm N)
+KIPJ - Lincolnton-Lincoln County Regional Airport (12 nm SE)
+KMRN - Foothills Regional Airport (17 nm NW)
+KSVH - Statesville Regional Airport (21 nm NE)
+14A - Lake Norman Airpark (22 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Fly Sky Airport?
+Find the distance to fly.
+From 
+to 36NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3412:34
+Sunset17:3822:38
+Evening civil twilight18:0623:06
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:13:09
+Local (UTC-5)19-Jan-2024 16:13:09
+
+
+
+
+   
+
+METAR
+
+
+KHKY8nm N192053Z 30009G21KT 10SM FEW043 02/M07 A2998 RMK AO2 SLP147 T00171072 51030
+
+KIPJ12nm SE192045Z AUTO 28012G19KT 240V310 10SM CLR 04/M09 A2999 RMK AO2 T00411086
+
+KMRN17nm NW192045Z AUTO 30011G19KT 10SM SCT030 SCT035 SCT043 03/M08 A2999 RMK AO2 T00251078
+
+
+
+
+
+TAF
+
+
+KHKY8nm N191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Fly Sky Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Fly Sky Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

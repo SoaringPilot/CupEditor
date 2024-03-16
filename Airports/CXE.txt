@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KCXE - Chase City Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1619 users online
+ 
+
+
+
+
+KCXE
+ Chase City Municipal AirportChase City, Virginia, USA 
+
+
+
+
+
+
+GOING TO CHASE CITY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:CXE
+Lat/Long:36-47-18.0080N 078-30-05.5930W36-47.300133N 078-30.093217W36.7883356,-78.5015536(estimated)
+Elevation:503 ft. / 153.3 m (surveyed)
+Variation:09W (2005)
+From city:2 miles W of CHASE CITY, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23924
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1952
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:UNATTENDED
+Pattern altitude:1303 ft. MSL
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3:121.225 (434-372-4506)
+WX AWOS-3 at W63 (12 nm S):118.225 (434-374-2431)
+WX AWOS-3 at W78 (17 nm W):119.425 (434-575-0332)
+WX AWOS-3 at W31 (18 nm NE):123.875 (434-676-1078)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 118.75/377.1 (GREEN BAY RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr080/25.6SOUTH BOSTON VORTAC110.4005W
+LVLr274/28.8LAWRENCEVILLE VORTAC112.9008W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO020/29.827109WHXO.... -..- ---
+BLACKSTONE236/29.932609WBKT-... -.- -
+
+Airport Services
+
+Parking:tiedowns
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 18/36
+
+Dimensions:3400 x 50 ft. / 1036 x 15 m
+Surface:asphalt, in poor conditionSEVERE RY CRACKING.  1-2 INCHES IN PLACES AND ALG CNTRLN.LONGITUDINAL AND TRANSVERSE CRACKING.  SOME RAVELING IN CERTAIN AREAS.
+Weight bearing capacity:Single wheel:12.5
+Runway edge markings:MARKINGS SEVERELY FADEDMARKINGS SEVERELY FADED AND RAVELING.
+RUNWAY 18RUNWAY 36
+Latitude:36-47.578267N36-47.020417N
+Longitude:078-30.125467W078-30.060167W
+Elevation:503.0 ft.486.0 ft.
+Traffic pattern:leftleft
+Runway heading:184 magnetic, 175 true004 magnetic, 355 true
+Markings:nonprecision, in poor conditionnonprecision, in poor condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:23 ft. road, 200 ft. from runway, 108 ft. right of centerline+6' GND; 115'R OF RY END; +20' ROAD 100' FM THR, 125'R.32 ft. brush, 237 ft. from runway, 117 ft. right of centerline, 1:1 slope to clearRISING GROUND 150 FT FM END OF RY.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF CHASE CITY319 N MAIN STCHASE CITY, VA 23924Phone 434-372-5136
+Manager:CHARLES FORBES319 N MAIN STCHASE CITY, VA 23924Phone 434-372-5136TOWN MANAGER.
+
+Airport Operational Statistics
+
+Aircraft based on the field:6Single engine airplanes:6
+Aircraft operations: avg 50/week*77%transient general aviation23%local general aviation* for 12-month period ending 31 December 2019
+Additional Remarks
+
+-DEER ON AND INVOF ARPT.
+-FARM EQUIPMENT OPERATING NEAR RUNWAY.
+-ARPT CLSD SS-SR INDEFLY.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 18
+download (175KB)
+RNAV (GPS) RWY 36
+download (186KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+W63 - Lake Country Regional Airport (12 nm S)
+W78 - William M Tuck Airport (17 nm W)
+W31 - Lunenburg County Airport (18 nm NE)
+KAVC - Mecklenburg-Brunswick Regional Airport (22 nm E)
+KHNZ - Henderson/Oxford Airport (26 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 16-Sep-2019
+looking north.
+
+Do you have a better or more recent aerial photo of Chase City Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Chase City Municipal Airport?
+Find the distance to fly.
+From 
+to KCXE
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:2422:24
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:50:44
+Local (UTC-5)19-Jan-2024 15:50:44
+
+
+
+
+   
+
+METAR
+
+
+KCXE192035Z AUTO 10SM SCT050 04/M08 A2985 RMK AO1 T00381076
+
+KW6312nm S192035Z AUTO 30013G25KT 10SM BKN055 05/M05 A2985 RMK AO1
+
+KW7817nm W192035Z AUTO 31018G24KT 10SM SCT050 04/M08 A2988 RMK AO1 T00401081
+
+KW3118nm NE192035Z AUTO 29009G26KT 250V310 10SM BKN060 05/M07 A2982 RMK AO1 T00471070
+
+
+
+
+
+TAF
+
+
+KDAN42nm W191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+KLYH46nm NW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Chase City Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Chase City Municipal Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

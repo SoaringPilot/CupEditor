@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: SC16 - Curry Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+SC16
+ Curry AirportHartsville, South Carolina, USA 
+
+
+
+
+
+
+GOING TO HARTSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SC16
+Lat/Long:34-22-40.5560N 080-00-19.2370W34-22.675933N 080-00.320617W34.3779322,-80.0053436(estimated)
+Elevation:199 ft. / 60.7 m (surveyed)
+Variation:06W (1985)
+From city:3 miles E of HARTSVILLE, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29550
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1963
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+Attendance:MAY-SEP MON-FRI 0700-1800
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HVS (6 nm W):118.225 (843-339-9625)
+WX AWOS-3PT at UDG (7 nm NE):119.925 (843-393-8220)
+WX ASOS at FLO (18 nm SE):PHONE 843-665-1306
+WX AWOS-3PT at BBP (20 nm NE):123.825 (843-479-5817)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr300/19.3FLORENCE VORTAC115.2003W
+CTFr144/21.1CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+HARTSVILLE114/5.934107WHVS.... ...- ...
+DARLINGTON242/7.024506WUDG..- -.. --.
+BENNETTSVILLE231/19.823008WBES-... . ...
+SUMTER044/29.125207WSMS... -- ...
+DILLON271/31.827409WDLC-.. .-.. -.-.
+EVANS345/33.542006WCFY-.-. ..-. -.--
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:2600 x 200 ft. / 792 x 61 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:trees50 ft. trees, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:B. W. CURRYPO BOX 294HARTSVILLE, SC 29550Phone 803-332-9351
+Manager:B. W. CURRYPO BOX 294HARTSVILLE, SC 29550Phone 803-332-9351
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC FLORENCE APCH AT 843-669-5194, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at SC16.
+Some nearby airports with instrument procedures:
+KHVS - Hartsville Regional Airport (6 nm W)
+KUDG - Darlington County Airport (7 nm NE)
+KFLO - Florence Regional Airport (18 nm SE)
+KBBP - Marlboro County Jetport - H E Avent Field (20 nm NE)
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (20 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Curry Airport?
+Find the distance to fly.
+From 
+to SC16
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2612:26
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:57:33
+Local (UTC-5)19-Jan-2024 15:57:33
+
+
+
+
+   
+
+METAR
+
+
+KHVS6nm W192035Z AUTO VRB07G19KT 10SM OVC060 11/M06 A2988 RMK AO2
+
+KUDG7nm NE191956Z AUTO 31016G26KT 10SM OVC055 13/01 A2984 RMK AO2 PK WND 28028/1925 SLP107 T01280006
+
+KFLO18nm SE192053Z 32018G28KT 10SM SCT065 13/M01 A2986 RMK AO2 PK WND 31029/2043 PRESRR SLP110 T01331006 53016
+
+KBBP20nm NE192035Z AUTO 31018G26KT 10SM OVC070 12/M02 A2987 RMK AO2
+
+
+
+
+
+TAF
+
+
+KFLO18nm SE191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Curry Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Curry Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

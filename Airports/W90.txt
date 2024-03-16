@@ -1,0 +1,364 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W90 - New London Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1440 users online
+ 
+
+
+
+
+W90
+ New London AirportForest, Virginia, USA 
+
+
+
+
+
+
+GOING TO FOREST?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W90
+Lat/Long:37-16-18.2200N 079-20-09.2400W37-16.303667N 079-20.154000W37.2717278,-79.3359000(estimated)
+Elevation:842 ft. / 256.6 m (surveyed)
+Variation:09W (2010)
+From city:6 miles SW of FOREST, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24550
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:11/1960
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+ROANOKE APPROACH:135.0
+ROANOKE DEPARTURE:135.0
+IC:135.0
+WX ASOS at LYH (7 nm NE):PHONE 434-237-0749
+WX AWOS-3 at 0V4 (17 nm SE):120.575 (434-283-7826)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr287/4.9LYNCHBURG VOR/DME109.2005W
+ODRr104/(30.9)WOODRUM VOR114.9008W
+ROAr101/35.3ROANOKE VOR/DME109.4004W
+SBVr342/39.0SOUTH BOSTON VORTAC110.4005W
+MOLr201/39.3MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+BOJAR285/4.538508WLY.-.. -.--
+VINTON089/26.427708WVIT...- .. -
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 18/36
+
+Dimensions:3164 x 40 ft. / 964 x 12 m
+Surface:asphalt, in fair condition
+Operational restrictions:RWY 18/36 CLSD DAILY SS-SR.
+RUNWAY 18RUNWAY 36
+Latitude:37-16.557333N37-16.050167N
+Longitude:079-20.230000W079-20.078000W
+Elevation:842.0 ft.770.0 ft.
+Traffic pattern:leftleft
+Runway heading:176 magnetic, 167 true356 magnetic, 347 true
+Displaced threshold:115 ft.no
+Markings:basic, in fair conditionbasic, in fair condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:23 ft. pole, 654 ft. from runway, 62 ft. left of centerline, 19:1 slope to clearAPCH RATIO 8:1 TO DSPLCD THLD.116 ft. trees, 2345 ft. from runway, 63 ft. right of centerline, 18:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LIBERTY UNIVERSITY, INC.1971 UNIVERSITY BLVDLYNCHBURG, VA 24515
+Manager:JOSEPH WALLACE310 HANGAR RDLYNCHBURG, VA 24502Phone 434-582-3028
+
+Airport Operational Statistics
+
+Aircraft based on the field:43Single engine airplanes:41Multi engine airplanes:1Ultralights:1
+Aircraft operations: avg 90/day*79%local general aviation19%transient general aviation2%military* for 12-month period ending 31 July 2018
+Additional Remarks
+
+-STAND, FENCE & TOWER IN PRIM AND/OR TRNSL SFCS WITH GUARDRAIL BOTH SIDES OF RWY 36.
+-RWY USED AS DRAG STRIP ON CERTAIN SUNDAYS SUMMER MONTHS.  NOTAMED WHEN ARPT CLSD.
+-ULTRA LGT ACFT ON & INVOF ARPT.
+-ROA TWR SVCS AVBL AT 540-563-1307.
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 18
+download (186KB)
+RNAV (GPS) RWY 36
+download (175KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (7 nm NE)
+W24 - Falwell Airport (12 nm NE)
+W91 - Smith Mountain Lake Airport (16 nm SW)
+0V4 - Brookneal/Campbell County Airport (17 nm SE)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (31 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of New London Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to New London Airport?
+Find the distance to fly.
+From 
+to W90
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:2622:26
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:38:17
+Local (UTC-5)19-Jan-2024 16:38:17
+
+
+
+
+   
+
+METAR
+
+
+KLYH7nm NE192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+K0V417nm SE192115Z AUTO 10SM SCT050 02/M08 A2989 RMK AO1
+
+
+
+
+
+TAF
+
+
+KLYH7nm NE191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the New London Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about New London Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

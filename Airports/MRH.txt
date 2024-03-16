@@ -1,0 +1,473 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KMRH - Michael J Smith Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1486 users online
+ 
+
+
+
+
+KMRH
+ Michael J Smith Field AirportBeaufort, North Carolina, USA 
+
+
+
+
+
+
+GOING TO BEAUFORT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:MRH
+Lat/Long:34-44-01.5310N 076-39-37.2770W34-44.025517N 076-39.621283W34.7337586,-76.6603547(estimated)
+Elevation:10.1 ft. / 3.1 m (surveyed)
+Variation:08W (1985)
+From city:1 mile N of BEAUFORT, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28516
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1949
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:MRH (NOTAM-D service available)
+Attendance:0800-DUSKFOR SERVICE AFTER HOURS CALL 843-465-2846.
+Pattern altitude:TPA: SINGLE ENGINE 1000 FT AGL,  TWIN ENGINE 1500 FT AGL.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 08 & 26; PAPI RWY 03 & 21; MIRL RWY 03/21 & RWY 08/26 - CTAF. PAPI RWY 08 & 26 OPER CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+International operations:customs landing rights airport 
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX ASOS:135.375 (252-728-2055)
+CHERRY POINT APPROACH:132.575 [0630-2300]
+CHERRY POINT DEPARTURE:132.575 [0630-2300]
+CLEARANCE DELIVERY:125.65
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+EWNr145/27.8NEW BERN VOR/DME113.6008W
+
+Airport Services
+
+Fuel available:100LL JET-A1+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 8/26
+
+Dimensions:5004 x 100 ft. / 1525 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Double wheel:60.0
+Runway edge lights:medium intensity
+RUNWAY 8RUNWAY 26
+Latitude:34-43.987585N34-44.296187N
+Longitude:076-40.143842W076-39.217192W
+Elevation:6.4 ft.9.6 ft.
+Traffic pattern:leftright
+Runway heading:076 magnetic, 068 true256 magnetic, 248 true
+Displaced threshold:no289 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on right (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:12 ft. brush, 321 ft. from runway, 142 ft. right of centerline, 10:1 slope to clear7 FT BRUSH 100-200 FT FM THR OFFSET 113 FT R OF CNTRLN.20 ft. road, 325 ft. from runway, 6:1 slope to clear
+
+Runway 3/21
+
+Dimensions:4192 x 150 ft. / 1278 x 46 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 3RUNWAY 21
+Latitude:34-43.647803N34-44.272613N
+Longitude:076-39.714480W076-39.356975W
+Elevation:6.0 ft.6.5 ft.
+Traffic pattern:leftright
+Runway heading:033 magnetic, 025 true213 magnetic, 205 true
+Displaced threshold:864 ft.516 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (4.00 degrees glide path)2-light PAPI on left (4.00 degrees glide path)
+Runway end identifier lights:nono
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:20 ft. road, 312 ft. from runway, 5:1 slope to clear9 FT FENCE 191 FT FM END OF RWY BOTH SIDES OF CNTRLN.55 ft. trees, 1118 ft. from runway, 137 ft. left of centerline, 16:1 slope to clear8 FT BRUSH 48 FT FM END OF RWY OFFSET 170 FT R OF CNTRLN.
+
+Runway 14/32
+
+Dimensions:4001 x 100 ft. / 1220 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+RUNWAY 14RUNWAY 32
+Latitude:34-44.171438N34-43.725350N
+Longitude:076-39.931157W076-39.342540W
+Elevation:6.1 ft.10.1 ft.
+Traffic pattern:leftleft
+Runway heading:141 magnetic, 133 true321 magnetic, 313 true
+Displaced threshold:no490 ft.
+Markings:basic, in good conditionbasic, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:6 ft. brush, 268 ft. from runway, 46 ft. left of centerline, 11:1 slope to clear10 FT BRUSH 0-200 FT FM THR OFFSET 171 FT R OF CNTRLN, AND 11 FT TREES 43 FT FM THR OFFSET 206 FT R OF CNTRLN.55 ft. trees, 505 ft. from runway, 79 ft. right of centerline, 5:1 slope to clear7 FT FENCE 121 FT FM END RWY BOTH SIDES OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:BEAUFORT-MOREHEAD ARPT AUTH180 AIRPORT ROADBEAUFORT, NC 28516Phone 252-728-1928
+Manager:JESSE VINSON180 AIRPORT ROADBEAUFORT, NC 28516Phone 252-728-1928
+
+Airport Operational Statistics
+
+Aircraft based on the field:54Single engine airplanes:45Multi engine airplanes:6Jet airplanes:3
+Aircraft operations: avg 120/day*77%local general aviation9%transient general aviation9%air taxi6%military* for 12-month period ending 24 July 2021
+Additional Remarks
+
+-NO LINE OF SIGHT BTWN RWY ENDS.
+-DEER AND BIRDS ON & INVOF ARPT AND BIRD-DROPPED SHELLS MAY CAUSE FOD.
+-NOISE ABATEMENT PROCEDURES IN EFFECT, CTC AMGR 252-728-1928.
+-AVOID OVERFLIGHTS OF BEAUFORT WATERFRONT AND BEAUFORT NATIONAL REGISTER HISTORIC DISTRICT.
+-FOR CD CTC CHERRY POINT APCH AT 252-466-5960.
+-MIL ACFT RWY 08/26 REQUIRED FOR NOISE ABATEMENT.
+-SKYDIVING OPERATIONS - DO NOT OVERFLY ARPT.
+-DUE TO VOLUME OF MIL TFC AND TRNG RCMD ALL ACFT USING MRH CTC CHERRY POINT APP 132.57 AB AND 125.65 PRIOR TO MRH DEP.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 03
+download (278KB)
+RNAV (GPS) RWY 08
+download (252KB)
+RNAV (GPS) RWY 14
+download (242KB)
+RNAV (GPS) RWY 21
+download (257KB)
+RNAV (GPS) RWY 26
+download (264KB)
+RNAV (GPS) RWY 32
+download (269KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (364KB)
+
+Other nearby airports with instrument procedures:
+KNKT - Cherry Point Marine Corps Air Station (Cunningham Field) Airport (15 nm NW)
+KEWN - Coastal Carolina Regional Airport (28 nm NW)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (38 nm W)
+W95 - Ocracoke Island Airport (41 nm NE)
+KOAJ - Albert J Ellis Airport (47 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Brian Corley
+Photo taken 20-Jan-2015
+looking southeast.
+
+Do you have a better or more recent aerial photo of Michael J Smith Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Michael J Smith Field Airport?
+Find the distance to fly.
+From 
+to KMRH
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4611:46
+Sunrise07:1312:13
+Sunset17:2222:22
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:33:54
+Local (UTC-5)19-Jan-2024 16:33:54
+
+
+
+
+   
+
+METAR
+
+
+KMRH192058Z AUTO 30015KT 10SM FEW055 OVC075 13/03 A2977 RMK AO2 SLP080 T01330033 53016
+
+KNKT14nm NW192056Z 28015G23KT 10SM BKN065 12/01 A2978 RMK AO2 PK WND 29026/2037 SLP080 T01220006 53017
+
+KNJM18nm W192057Z AUTO 31010G18KT 260V320 8SM BKN060 OVC075 12/02 A2978 RMK AO2 SLP089 T01220022 53016
+
+
+
+
+
+TAF
+
+
+KNKT14nm NW1915/2015 27012G22KT 9999 BKN060 521609 522509 523406 QNH2977INS BECMG 1916/1918 30015G28KT SCT050 510009 520909 521809 522709 523604 QNH2972INS FM200000 32015G25KT 9999 SKC 510009 520909 521809 522709 523604 QNH2988INS BECMG 2007/2009 32013KT 521609 522509 523406 QNH3007INS TEMPO 2012/2015 33015G22KT T13/1919Z TM03/2010Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.80252-728-2323[web site][email]
+
+
+Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Passenger terminal and lounge, Flight training, Aircraft rental, ...
+
+
+
+More info and photos of Crystal Coast Aviation
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$5.83$6.05GUARANTEED
+
+
+
+
+3readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Michael J Smith Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Michael J Smith Field Airport
+
+
+
+historicbeaufort.com/airport.htm
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

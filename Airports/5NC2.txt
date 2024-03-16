@@ -1,0 +1,383 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 5NC2 - Sugar Valley Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1428 users online
+ 
+
+
+
+
+5NC2
+ Sugar Valley AirportMocksville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOCKSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:5NC2
+Lat/Long:35-59-05.5000N 080-30-41.1000W35-59.091667N 080-30.685000W35.9848611,-80.5114167(estimated)
+Elevation:731 ft. / 222.8 m (surveyed)
+Variation:06W (1985)
+From city:6 miles NE of MOCKSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27028
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/1970
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:MON-SAT 0930-1530,  ALL SUN 1300-1530
+Pattern altitude:1500 ft. MSL
+Wind indicator:lighted
+Segmented circle:no
+Lights:TO ACTVT LIRL RWY 02L/20R, KEY 123.00 5 TIMES.
+
+Airport Communications
+
+UNICOM:123.0
+WX AWOS-3 at EXX (16 nm SE):119.825 (336-956-2967)
+WX ASOS at INT (17 nm NE):PHONE 336-661-3096
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr265/26.2GREENSBORO VORTAC116.2003W
+BZMr085/36.1BARRETTS MOUNTAIN VOR/DME113.7506W
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 2L/20R
+
+Dimensions:2424 x 36 ft. / 739 x 11 m
+Surface:asphalt, in good condition
+Runway edge lights:non-standardNSTD LIRL; NOT FAA APPROVED L-800 SERIES.  THLD LGTS 13 FT FM PAVEMENT.
+Runway edge markings:RY 02L/20R NRS ARE SMALLER THAN STANDARD.
+RUNWAY 2LRUNWAY 20R
+Latitude:35-58.894175N35-59.287968N
+Longitude:080-30.726007W080-30.642330W
+Elevation:716.0 ft.720.0 ft.
+Traffic pattern:rightleft
+Runway heading:016 magnetic, 010 true196 magnetic, 190 true
+Markings:NSTD, in fair conditionNSTD, in fair condition
+Obstructions:60 ft. trees, 660 ft. from runway, 58 ft. right of centerline, 7:1 slope to clear60 ft. trees, 200 ft. from runwayRY 20R HAS 60 FT TREES 50 FT FM THLD ON CNTRLN.
+
+Runway 2R/20L
+
+Dimensions:1000 x 35 ft. / 305 x 11 m
+Surface:turf, in good condition
+RUNWAY 2RRUNWAY 20L
+Traffic pattern:rightleft
+Obstructions:60 ft. trees, 1500 ft. from runway60 ft. trees, 900 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:HUMAN SERVICE ALLIANCE, INC.249 GILBERT ROADMOCKSVILLE, NC 27028Phone 336-998-3971
+Manager:LEE KOSUB249 GILBERT ROADMOCKSVILLE, NC 27028Phone 336-998-3971
+
+Airport Operational Statistics
+
+Aircraft based on the field:14Single engine airplanes:14
+Aircraft operations: avg 50/week*77%local general aviation23%transient general aviation* for 12-month period ending 28 May 2009
+Additional Remarks
+
+-RECOMMEND LANDING RY 02L AND TAKEOFF RY 20R DUE TO OBSTRUCTING TREES ON NE END.
+-RY 02L/20R SAFETY AREA HAS HAZARDOUS DEPRESSIONS AS CLOSE AS 15 FT FROM PAVEMENT.
+-ARPT CLSD TO TRANSIENT ACFT 1800-0600.
+-DAY VFR OPNS FOR TSNT ACFT ONLY.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 5NC2.
+Some nearby airports with instrument procedures:
+8A7 - Twin Lakes Airport (5 nm SE)
+KEXX - Davidson County Executive Airport (16 nm SE)
+KINT - Smith Reynolds Airport (17 nm NE)
+KRUQ - Mid-Carolina Regional Airport (20 nm S)
+KZEF - Elkin Municipal Airport (22 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Deborah Leighton
+Taken in 2015
+looking southwest
+
+Do you have a better or more recent aerial photo of Sugar Valley Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Sugar Valley Airport?
+Find the distance to fly.
+From 
+to 5NC2
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3422:34
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:58:35
+Local (UTC-5)19-Jan-2024 16:58:35
+
+
+
+
+   
+
+METAR
+
+
+KEXX16nm SE192145Z AUTO 30009G18KT 280V360 10SM CLR 03/M09 A2999 RMK AO2 T00301086
+
+KINT17nm NE192154Z 29011G26KT 10SM OVC055 03/M10 A2999 RMK AO2 PK WND 28026/2147 SLP158 T00281100
+
+KRUQ20nm S192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+KSVH26nm SW192145Z AUTO 30010G19KT 10SM CLR 03/M10 A3001 RMK AO2 T00251100
+
+KGSO28nm E192154Z 32013G21KT 10SM FEW055 02/M11 A2996 RMK AO2 PK WND 31030/2130 SLP150 T00221106
+
+KMWK29nm N192145Z AUTO 29008G17KT 250V330 10SM OVC050 01/M10 A3000 RMK AO2 T00051100
+
+
+
+
+
+TAF
+
+
+KINT17nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Sugar Valley Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Sugar Valley Airport
+
+
+
+www.sugarvalleyairport.org
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9NR8 - Buie Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1619 users online
+ 
+
+
+
+
+9NR8
+ Buie Field AirportRed Springs, North Carolina, USA 
+
+
+
+
+
+
+GOING TO RED SPRINGS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9NR8
+Lat/Long:34-47-31.7900N 079-11-52.4200W34-47.529833N 079-11.873667W34.7921639,-79.1978944(estimated)
+Elevation:203 ft. / 62 m (estimated)
+From city:1 mile S of RED SPRINGS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28377
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/2008
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNND
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at MEB (8 nm W):134.125 (910-844-5338)
+WX ASOS at LBT (13 nm SE):134.775 (910-739-7120)
+WX ASOS at FAY (20 nm NE):121.25 (910-484-1546)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr238/19.7FAYETTEVILLE VOR/DME114.8504W
+SDZr146/31.8SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+MAXTN082/12.625708WME-- .
+DILLON031/22.227409WDLC-.. .-.. -.-.
+BENNETTSVILLE077/28.323008WBES-... . ...
+CAMP329/39.322707WCPC-.-. .--. -.-.
+DARLINGTON064/40.024506WUDG..- -.. --.
+
+Airport Services
+
+
+Runway Information
+Runway 6/24
+
+Dimensions:2780 x 50 ft. / 847 x 15 m
+Surface:turf
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+Obstructions:none15 ft. pline, 60 ft. from runway
+
+Runway 13/31
+
+Dimensions:2700 x 50 ft. / 823 x 15 m
+Surface:turf
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+Obstructions:none60 ft. tree, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOHN MCFADYEN BUIE8763 NC HWY 710 NRED SPRINGS, NC 28377Phone 910-258-9377
+Manager:JOHN MCFADYEN BUIE8763 NC HWY 710 NRED SPRINGS, NC 28377Phone 910-258-9377
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 9NR8.
+Some nearby airports with instrument procedures:
+KMEB - Laurinburg/Maxton Airport (8 nm W)
+KLBT - Lumberton Regional Airport (13 nm SE)
+5W4 - P K Airpark (14 nm N)
+KFAY - Fayetteville Regional Airport/Grannis Field (20 nm NE)
+KHFF - Mackall Army Airfield (21 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Buie Field Airport?
+Find the distance to fly.
+From 
+to 9NR8
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2412:24
+Sunset17:3222:32
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:14
+Local (UTC-5)19-Jan-2024 15:48:14
+
+
+
+
+   
+
+METAR
+
+
+KMEB8nm W191952Z AUTO 30022G32KT 10SM SCT070 13/M02 A2982 RMK AO2 PK WND 28032/1944 SLP097 T01281022
+
+KLBT13nm SE191956Z AUTO 30017G29KT 10SM SCT065 14/01 A2980 RMK AO2 PK WND 28029/1948 SLP092 T01390006
+
+KFAY19nm NE191953Z 29015G21KT 10SM OVC065 12/M02 A2980 RMK AO2 PK WND 29027/1907 SLP085 T01221022
+
+
+
+
+
+TAF
+
+
+KLBT13nm SE191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+KFAY19nm NE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Buie Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Buie Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

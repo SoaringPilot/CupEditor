@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 26NC - Boonville Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1597 users online
+ 
+
+
+
+
+26NC
+ Boonville AirportBoonville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO BOONVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:26NC
+Lat/Long:36-13-22.4890N 080-42-56.2360W36-13.374817N 080-42.937267W36.2229136,-80.7156211(estimated)
+Elevation:1003 ft. / 306 m (estimated)
+Variation:06W (1985)
+From city:1 mile SW of BOONVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27011
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1963
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at MWK (16 nm NE):121.125 (336-789-2299)
+WX AWOS-3 at UKF (19 nm W):126.625 (336-696-3788)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr056/33.2BARRETTS MOUNTAIN VOR/DME113.7506W
+GSOr290/37.4GREENSBORO VORTAC116.2003W
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:1500 x 50 ft. / 457 x 15 m
+Surface:turf, in good condition
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:15 ft. road, 30 ft. left of centerline15 ft. road, 30 ft. right of centerline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DANIEL SMITH3901 BAPTIST CHURCH RDBOONVILLE, NC 27011-7812Phone (336) 466-2017
+Manager:DANIEL SMITH3901 BAPTIST CHURCH RDBOONVILLE, NC 27011-8618Phone (336) 466-2017
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:4
+Aircraft operations: avg 29/week*67%local general aviation33%transient general aviation* for 12-month period ending 29 February 1996
+Additional Remarks
+
+-WHITE REFLECTORS LCTD ON EAST SIDE OF RWY ONLY INDICATING RWY EDGE.
+-RWY 1 UPHILL LANDING.
+-3 FT DITCH AT BOTH ENDS OF RWY; GREATER THAN 25 FT BLDGS 40 FT EAST SIDE OF RWY.
+-DEPARTURES TO THE SOUTH - LANDINGS TO THE NORTH DUE TO OBSTRUCTIONS AND SLOPING RWY.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 26NC.
+Some nearby airports with instrument procedures:
+KZEF - Elkin Municipal Airport (5 nm NW)
+KMWK - Mount Airy/Surry County Airport (16 nm NE)
+KUKF - Wilkes County Airport (19 nm W)
+8A7 - Twin Lakes Airport (22 nm SE)
+KINT - Smith Reynolds Airport (24 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Boonville Airport?
+Find the distance to fly.
+From 
+to 26NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3422:34
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:26
+Local (UTC-5)19-Jan-2024 15:44:26
+
+
+
+
+   
+
+METAR
+
+
+KMWK17nm NE192025Z AUTO 30009G21KT 270V350 10SM OVC050 01/M10 A2994 RMK AO2 T00111101
+
+KUKF19nm W192025Z AUTO 28011G17KT 10SM BKN047 OVC055 01/M09 A3000 RMK AO2
+
+KINT25nm E191954Z 31017G26KT 10SM BKN060 04/M10 A2991 RMK AO2 PK WND 30032/1904 SLP131 T00441100
+
+KSVH31nm S192025Z AUTO 31016G23KT 10SM CLR 04/M10 A2997 RMK AO2 T00381100
+
+KHLX33nm N192035Z AUTO 30022G29KT 10SM OVC033 M03/M10 A2983 RMK AO2 T10351103
+
+KEXX33nm SE192025Z AUTO 28009G19KT 240V360 10SM CLR 06/M08 A2993 RMK AO2 T00571076
+
+
+
+
+
+TAF
+
+
+KINT25nm E191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Boonville Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Boonville Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

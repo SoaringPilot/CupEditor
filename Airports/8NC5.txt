@@ -1,0 +1,257 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8NC5 - WB Heliport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1603 users online
+ 
+
+
+
+
+8NC5
+ WB HeliportConcord, North Carolina, USA 
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8NC5
+Lat/Long:35-24-24.0000N 080-30-54.0000W35-24.400000N 080-30.900000W35.4066667,-80.5150000(estimated)
+Elevation:690 ft. / 210 m (estimated)
+From city:4 miles E of CONCORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28025
+
+Heliport Operations
+
+Heliport use:Private use. Permission required prior to landing
+Activation date:07/2020
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Heliport Communications
+
+WX AWOS-3 at JQF (10 nm W):133.675 (704-785-2145)
+WX AWOS-3 at RUQ (14 nm N):118.175 (704-637-6197)
+WX AWOS-3 at VUJ (18 nm E):128.175 (704-986-2097)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr064/25.0CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA074/34.026006WGHJ--. .... .---
+
+Heliport Services
+
+
+Runway Information
+Helipad H1
+
+Dimensions:50 x 50 ft. / 15 x 15 m
+Surface:concrete, in fair condition
+Latitude:35-24.400000N
+Longitude:080-30.900000W
+Elevation:690.0 ft.
+Traffic pattern:leftleft
+
+Heliport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:WERNER BARKHUIZEN, PH.D.4011 ABSHIRE LANECONCORD, NC 28025Phone 704-920-8061
+Manager:WERNER BARKHUIZEN, PH.D.4011 ABSHIRE LANECONCORD, NC 28025Phone 704-920-8061
+
+Heliport Operational Statistics
+
+Aircraft based on the field:1Helicopters:1
+Instrument Procedures
+There are no published instrument procedures at 8NC5.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (10 nm W)
+KRUQ - Mid-Carolina Regional Airport (14 nm N)
+KVUJ - Stanly County Airport (18 nm E)
+14A - Lake Norman Airpark (23 nm NW)
+KEQY - Charlotte-Monroe Executive Airport (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to WB Heliport?
+Find the distance to fly.
+From 
+to 8NC5
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3012:30
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:05
+Local (UTC-5)19-Jan-2024 15:44:05
+
+
+
+
+   
+
+METAR
+
+
+KJQF10nm W191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+KRUQ15nm N192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+KVUJ18nm E192025Z AUTO 29013G20KT 10SM CLR 07/M09 A2996 RMK AO2 T00721086
+
+
+
+
+
+TAF
+
+
+KCLT24nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the WB Heliport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about WB Heliport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

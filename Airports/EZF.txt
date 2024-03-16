@@ -1,0 +1,498 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KEZF - Shannon Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1447 users online
+ 
+
+
+
+
+KEZF
+ Shannon AirportFredericksburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO FREDERICKSBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:EZF
+Lat/Long:38-15-58.4000N 077-26-57.8000W38-15.973333N 077-26.963333W38.2662222,-77.4493889(estimated)
+Elevation:85 ft. / 25.9 m (surveyed)
+Variation:10W (1995)
+From city:2 miles S of FREDERICKSBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22408
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1950
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:EZF (NOTAM-D service available)
+Attendance:0800-1700UNATNDD NEW YEAR'S, EASTER, INDEPENDENCE, THANKSGIVING, & CHRISTMAS DAYS.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MIRL RWY 06/24 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:128.125 (540-372-6794)
+POTOMAC APPROACH:127.05 128.525 ;WHEN NYG TWR CLSD
+POTOMAC DEPARTURE:127.05 128.525 ;WHEN NYG TWR CLSD
+HYPER STAR:133.0
+TIKEE STAR:120.45
+TRSTN STAR:126.75
+WX AWOS-3 at RMN (8 nm N):126.325 (540-657-8283)
+
+
+COMMUNICATIONS PRVDD BY LEESBURG RADIO ON FREQS 122.1R/114.5T (BROOKE RCO).
+APCH/DEP SVC PRVDD BY POTOMAC TRACON (PCT) ON 128.525/ 306.925 WHEN QUANTICO (NYG) CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BRVr236/6.2BROOKE VORTAC114.5009W
+CSNr145/29.8CASANOVA VORTAC116.3006W
+GVEr071/36.5GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNONat field23710WEZF. --.. ..-.
+NAILR128/24.235110WMSQ-- ... --.-
+DAVEE223/28.622309WDAA-.. .- .-
+OXONN224/35.933211WDCA-.. -.-. .-
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:2999 x 100 ft. / 914 x 30 m
+Surface:asphalt, in good condition
+Runway edge lights:medium intensity
+Runway edge markings:FIRST 89 FT PAVEMENT RWY 06 MARKED AS UNUSBL.
+RUNWAY 6RUNWAY 24
+Latitude:38-15.794383N38-16.141150N
+Longitude:077-27.178633W077-26.732317W
+Elevation:83.0 ft.85.0 ft.
+Traffic pattern:leftleft
+Runway heading:055 magnetic, 045 true235 magnetic, 225 true
+Displaced threshold:240 ft.35 ft.
+Markings:basic, in good conditionnonprecision, in good condition
+Visual slope indicator:pulsating/steady burning VASI on leftRWY 06 PVASI OTS INDEFLY.pulsating/steady burning VASI on left
+Runway end identifier lights:nono
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:23 ft. rr, 205 ft. from runway, 1:1 slope to clear+20 FT TRR 180-200 FT FM RWY END 143 FT L TO 145 R.25 ft. tree, 694 ft. from runway, 54 ft. right of centerline, 19:1 slope to clear12 FT ROAD 126 FT FM RWY END 2 FT L.
+
+Helipad H1
+
+Dimensions:30 x 30 ft. / 9 x 9 m
+Surface:concrete, in good condition
+Traffic pattern:leftleft
+Markings:, in fair condition
+
+Runway 15/33
+
+Dimensions:1300 x 100 ft. / 396 x 30 m
+Surface:turf, in good condition
+Runway edge markings:15/33 OUTLINED WITH YELLOW CONES.
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+Runway heading:143 magnetic, 133 true323 magnetic, 313 true
+Obstructions:29 ft. brush, 274 ft. from runway, 90 ft. right of centerline, 10:1 slope to clearFROM RWY END.none
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:SHANNON AIRPORT LLC3380 SHANNON AIRPORT CIRCLEFREDERICKSBURG, VA 22408Phone 540-373-4431
+Manager:JOHN MCLANAHAN3380 SHANNON AIRPORT CIRCLEFREDERICKSBURG, VA 22408Phone 540-373-4431
+
+Airport Operational Statistics
+
+Aircraft based on the field:95Single engine airplanes:85Multi engine airplanes:5Helicopters:2Gliders airplanes:1Ultralights:2
+Aircraft operations: avg 81/day*85%local general aviation14%transient general aviation<1%military* for 12-month period ending 31 December 2018
+Additional Remarks
+
+-RWY 15 CLSD TO LNDG.
+-CLEARANCE DELIVERY PHONE: GCO AVBL ON FREQ 135.075; QUANTICO CD DURING OP HRS - 6 CLICKS, POTOMAC CD ALL OTR TIMES - 4 CLICKS. IF UNA, FOR CD CTC QUANTICO CD DURING OP HOURS AT 703-784-5990, POTOMAC APCH ALL OTR TIMES AT 866-709-4993.
+-24 HR SELF-SVC AVBL, FUEL TRUCK AVBL DURG OPR HRS.
+-15 FT ROAD, 188 FT FM THR, BOTH SIDES CNTRLN.
+-RWY 33 CLSD DLY SS-SR.
+-APCHS TO RWY 6/24 WILL BE MADE SUFLY HIGH TO CROSS RT. 2 (RWY 24)  OR THE RAILROAD TRACKS (RWY 6) AT OR ABV 135 FT MSL (50 FT AGL).
+-TRAN ACFT PARK ON RAMP NE SIDE OF TRML.
+-REQ R/W ACFT NOT TAXI NEXT TO TRML.
+-RWY 33 CLSD FOR TKOF.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+HYPER EIGHT (RNAV)
+2 pages:
+ [1] [2] (398KB)
+HYPER EIGHT (RNAV), CONT.2
+download (293KB)
+TIKEE FOUR (RNAV)
+download (215KB)
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 24
+download (218KB)
+NDB RWY 24
+download (192KB)
+
+NOTE: Special Alternate Minimums apply
+download (21KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KRMN - Stafford Regional Airport (8 nm N)
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (16 nm NE)
+KHWY - Warrenton/Fauquier Airport (23 nm NW)
+7W4 - Lake Anna Airport (23 nm SW)
+KCJR - Culpeper Regional Airport (25 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Roger Snyder
+Photo taken 13-Jun-2020
+looking southwest.
+
+Do you have a better or more recent aerial photo of Shannon Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Shannon Airport?
+Find the distance to fly.
+From 
+to KEZF
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2512:25
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:52:38
+Local (UTC-5)19-Jan-2024 16:52:38
+
+
+
+
+   
+
+METAR
+
+
+KEZF192135Z AUTO 34004KT 5SM -RA SCT023 BKN048 OVC065 01/M02 A2987 RMK AO2 P0001 T00051019
+
+KRMN8nm N192135Z AUTO 31003KT 5SM -SN SCT016 BKN041 OVC060 M01/M03 A2987 RMK AO2 T10101032
+
+KNYG16nm NE192056Z AUTO 31010KT 7SM FEW027 BKN055 OVC070 01/ A2987 RMK AO2 SNE18 SLP117 P0000 60000 T0011 53029 $
+
+
+
+
+
+TAF
+
+
+KNYG16nm NE1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.80540-373-4431[web site][email]
+
+Home of the Shannon Air Museum 501(c)3 non-profit
+
+
+
+More info and photos of Shannon Airport LLC
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.09$5.79SS$5.49$5.79GUARANTEED
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Shannon Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Shannon Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

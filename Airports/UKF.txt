@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KUKF - Wilkes County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1468 users online
+ 
+
+
+
+
+KUKF
+ Wilkes County AirportNorth Wilkesboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO NORTH WILKESBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:UKF
+Lat/Long:36-13-24.9676N 081-05-54.9827W36-13.416127N 081-05.916378W36.2236021,-81.0986063(estimated)
+Elevation:1303.1 ft. / 397.2 m (surveyed)
+Variation:08W (2020)
+From city:4 miles NE of NORTH WILKESBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28659
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1990
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:UKF (NOTAM-D service available)
+Attendance:DAWN-DUSKARPT UNATTENDED THANKSGIVING & CHRISTMAS.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 01; REIL 19; PAPI RWY 01 & 19; MIRL RWY 01/19; TWY LGTS - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:126.625 (336-696-3788)
+WX AWOS-3 at GEV (20 nm NW):120.675 (336-982-5555)
+
+
+APCH/DEP SVC PRVDD BY ATLANTA ARTCC ON FREQS 125.15/263.0 (HICKORY RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr024/22.4BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+HEMLOCK086/38.132002WBAR-... .- .-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:FUELING DURING REGULAR FBO BUSINESS HOURS, PLUS 24 HOURS CALL-OUT SERVICE (WITH PRIOR ARRANGEMENT AND/OR A CALLOUT FEE); CALL FBO FOR DETAILS.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:6200 x 100 ft. / 1890 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:45.0Double wheel:60.0
+Runway edge lights:medium intensity
+RUNWAY 1RUNWAY 19
+Latitude:36-12.905365N36-13.926887N
+Longitude:081-05.901543W081-05.931212W
+Elevation:1247.0 ft.1303.1 ft.
+Traffic pattern:leftleft
+Runway heading:007 magnetic, 359 true187 magnetic, 179 true
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)RWY 01 PAPI UNUSBL BYD 8 DEGS RIGHT OF CNTRLN.2-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:8 ft. trees, 271 ft. from runway, 231 ft. right of centerline, 8:1 slope to clear7 FT BRUSH 0-200 FT FM THR OFFSET 274 R OF CNTRLN AND 10 FT BRUSH 0-200 FT FM THR OFFSET 299 L OF CNTRLN.41 ft. trees, 228 ft. from runway, 315 ft. right of centerline, 1:1 slope to clear34 FT TREES 0-200 FT FM THR OFFSET 363 FT R OF CNTRLN  AND 31 FT TREES 0-200 FT FM THR OFFSET 291 FT L OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:WILKES COUNTY110 NORTH STREETWILKESBORO, NC 28697Phone 336-651-7345
+Manager:DUSTIN CAUDILL640 WOOD WALLACENORTH WILKESBORO, NC 28659Phone 336-696-2000FOR SVC AFTER HOURS CALL NUMBER POSTED ON DOOR.
+
+Airport Operational Statistics
+
+Aircraft based on the field:38Single engine airplanes:25Multi engine airplanes:6Jet airplanes:5Helicopters:2
+Aircraft operations: avg 28/day*50%local general aviation35%transient general aviation15%air taxi1%military* for 12-month period ending 05 July 2021
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-NO LINE OF SIGHT BTWN RWY ENDS.
+-FOR CD IF UNA TO CTC ON FSS FREQ, CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS Y OR LOC Y RWY 01
+download (271KB)
+ILS Z OR LOC Z RWY 01
+download (274KB)
+RNAV (GPS) RWY 01
+download (250KB)
+RNAV (GPS) RWY 19
+download (245KB)
+
+NOTE: Special Alternate Minimums apply
+download (163KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (284KB)
+
+Other nearby airports with instrument procedures:
+KZEF - Elkin Municipal Airport (15 nm E)
+KGEV - Ashe County Airport (20 nm NW)
+KSVH - Statesville Regional Airport (28 nm S)
+KMWK - Mount Airy/Surry County Airport (30 nm NE)
+KHKY - Hickory Regional Airport (32 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by AirNav, LLC
+Photo taken 18-Oct-2010
+looking northwest.
+
+Do you have a better or more recent aerial photo of Wilkes County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Wilkes County Airport?
+Find the distance to fly.
+From 
+to KUKF
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3512:35
+Sunset17:3622:36
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:08:44
+Local (UTC-5)19-Jan-2024 17:08:44
+
+
+
+
+   
+
+METAR
+
+
+KUKF192145Z AUTO 31008G14KT 10SM BKN049 BKN055 00/M10 A3005 RMK AO2
+
+KGEV20nm NW192145Z AUTO 30011G32KT 270V330 7SM BKN023 OVC029 M06/M11 A2989 RMK AO2 T10621115
+
+
+
+
+
+TAF
+
+
+KHKY32nm SW191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Wilkes County Airport
+
+336-696-2000[email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangar leasing / sales, Flight training, Aircraft rental, Aircraft manufacturer, Aircraft maintenance, ...
+
+ 
+ 
+
+
+
+
+More info about Wilkes County Airport
+
+
+
+
+
+Titan100LL Jet AFS$5.60$5.35Updated 17-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wilkes County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wilkes County Airport
+
+
+
+wilkescounty.net/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

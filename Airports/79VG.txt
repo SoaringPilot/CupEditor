@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 79VG - Perkey Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1443 users online
+ 
+
+
+
+
+79VG
+ Perkey AirportEagle Rock, Virginia, USA 
+
+
+
+
+
+
+GOING TO EAGLE ROCK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:79VG
+Lat/Long:37-39-55.0000N 079-48-44.7000W37-39.916667N 079-48.745000W37.6652778,-79.8124167(estimated)
+Elevation:1200 ft. / 366 m (estimated)
+From city:25 miles SW of EAGLE ROCK, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24130
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/2010
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HSP (17 nm N):118.8 (540-839-5974)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr029/(21.9)WOODRUM VOR114.9008W
+ROAr036/22.9ROANOKE VOR/DME109.4004W
+MOLr252/36.3MONTEBELLO VOR/DME115.3005W
+LYHr317/36.9LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON015/27.927708WVIT...- .. -
+TECH054/39.336808WTEC- . -.-.
+
+Airport Services
+
+
+Runway Information
+Runway 7/25
+
+Dimensions:2250 x 32 ft. / 686 x 10 m
+Surface:asphalt
+RUNWAY 7RUNWAY 25
+Traffic pattern:rightleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GILBERT J. PERKEY779 MISTY HOLLOW RDEAGLE ROCK, VA 24085Phone 540-354-3332
+Manager:GILBERT J. PERKEY779 MISTY HOLLOW RDEAGLE ROCK, VA 24085Phone 540-354-3332
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:2Multi engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 79VG.
+Some nearby airports with instrument procedures:
+KHSP - Ingalls Field Airport (17 nm N)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (22 nm S)
+KLWB - Greenbrier Valley Airport (30 nm NW)
+W90 - New London Airport (33 nm SE)
+W91 - Smith Mountain Lake Airport (35 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Perkey Airport?
+Find the distance to fly.
+From 
+to 79VG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3312:33
+Sunset17:2722:27
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:41:27
+Local (UTC-5)19-Jan-2024 16:41:27
+
+
+
+
+   
+
+METAR
+
+
+KROA22nm S192054Z 29015G24KT 10SM BKN042 M01/M07 A2992 RMK AO2 PK WND 30033/2004 SLP141 T10061072 51032 $
+
+KLWB30nm NW192045Z 31011G21KT 3SM -SN SCT010 BKN023 OVC029 M04/M09 A2987
+
+
+
+
+
+TAF
+
+
+KROA22nm S191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Perkey Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Perkey Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

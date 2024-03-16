@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6VA4 - Summit Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1435 users online
+ 
+
+
+
+
+6VA4
+ Summit AirportSalem, Virginia, USA 
+
+
+
+
+
+
+GOING TO SALEM?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6VA4
+Lat/Long:37-17-05.4840N 080-04-11.1450W37-17.091400N 080-04.185750W37.2848567,-80.0697625(estimated)
+Elevation:1030 ft. / 314 m (estimated)
+Variation:06W (1985)
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24153
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ROA (5 nm NE):PHONE 540-265-0680
+WX AWOS-3 at BCB (17 nm W):133.325 (540-231-4837)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ROAr184/3.5ROANOKE VOR/DME109.4004W
+ODRr249/(4.9)WOODRUM VOR114.9008W
+PSKr075/32.9PULASKI VORTAC116.8006W
+LYHr278/39.8LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON306/10.227708WVIT...- .. -
+TECH082/16.636808WTEC- . -.-.
+
+Airport Services
+
+
+Runway Information
+Runway 12/30
+
+Dimensions:1400 x 60 ft. / 427 x 18 m
+Surface:turf, in good condition
+RUNWAY 12RUNWAY 30
+Traffic pattern:leftleft
+Obstructions:60 ft. pline, 400 ft. from runway60 ft. trees, 400 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:SUMMIT HELICOPTERS INC.525 MC CLELLAND ST PO BOX 909SALEM, VA 24153Phone (540) 375-8909
+Manager:CARL MILKO525 MC CLELLAND ST PO BOX 909SALEM, VA 24153Phone (540) 992-5500
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:1Helicopters:7
+Aircraft operations: 2/year50%local general aviation50%air taxi
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at 6VA4.
+Some nearby airports with instrument procedures:
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (5 nm NE)
+KBCB - Virginia Tech/Montgomery Executive Airport (17 nm W)
+W91 - Smith Mountain Lake Airport (25 nm SE)
+KPSK - New River Valley Airport (30 nm W)
+W90 - New London Airport (35 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Summit Airport?
+Find the distance to fly.
+From 
+to 6VA4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:2922:29
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:02:26
+Local (UTC-5)19-Jan-2024 17:02:26
+
+
+
+
+   
+
+METAR
+
+
+KROA5nm E192154Z 30013G26KT 10SM FEW043 BKN050 M01/M09 A2997 RMK AO2 PK WND 29031/2101 SLP156 T10061089 $
+
+KBCB17nm W192155Z AUTO 32013G19KT 3/4SM -SN BKN015 OVC023 M04/M06 A2996 RMK AO2 T10401063
+
+
+
+
+
+TAF
+
+
+KROA5nm E191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+KBCB17nm W191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Summit Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Summit Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2VG8 - Folly Neck Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1581 users online
+ 
+
+
+
+
+2VG8
+ Folly Neck AirportWarsaw, Virginia, USA 
+
+
+
+
+
+
+GOING TO WARSAW?
+
+
+ 
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2VG8
+Lat/Long:37-52-20.0000N 076-43-52.0000W37-52.333333N 076-43.866667W37.8722222,-76.7311111(estimated)
+Elevation:12 ft. / 4 m (estimated)
+From city:6 miles S of WARSAW, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22454
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/2006
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at XSA (8 nm W):125.775 (804-445-8724)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr005/25.4HARCUM VORTAC108.8007W
+PXTr222/29.4PATUXENT VORTAC117.6010W
+RICr061/35.7RICHMOND VORTAC114.1009W
+HPWr035/37.4HOPEWELL VORTAC114.3506W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT222/29.340010WNHK-. .... -.-
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:2300 x 70 ft. / 701 x 21 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:none392 ft. tower, 2000 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MARVIN & CATHERINE NIELSEN27938 OAKLANDS CIRCLEEASTON, MD 21601Phone 410-822-9527CELL: 410-829-9488.
+Manager:MARVIN & CATHERINE NIELSEN27938 OAKLANDS CIRCLEEASTON, MD 21601Phone 410-822-9527
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 2VG8.
+Some nearby airports with instrument procedures:
+KXSA - Tappahannock/Essex County Airport (8 nm W)
+W75 - Hummel Field Airport (21 nm SE)
+KFYJ - Middle Peninsula Regional Airport (21 nm S)
+2W6 - St Mary's County Regional Airport (28 nm N)
+W96 - New Kent County Airport (29 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Folly Neck Airport?
+Find the distance to fly.
+From 
+to 2VG8
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:2112:21
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:09:39
+Local (UTC-5)19-Jan-2024 16:09:39
+
+
+
+
+   
+
+METAR
+
+
+KXSA8nm W192055Z AUTO 30003KT 10SM -SN SCT014 SCT046 OVC065 00/M02 A2985 RMK AO2 T00021017
+
+
+
+
+
+TAF
+
+
+KNHK28nm NE1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+KRIC35nm SW191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Folly Neck Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Folly Neck Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

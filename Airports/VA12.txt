@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA12 - Gravely Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1553 users online
+ 
+
+
+
+
+VA12
+ Gravely AirportMartinsville, Virginia, USA 
+
+
+
+
+
+
+GOING TO MARTINSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA12
+Lat/Long:36-38-48.4950N 079-47-49.1300W36-38.808250N 079-47.818833W36.6468042,-79.7969806(estimated)
+Elevation:750 ft. / 229 m (estimated)
+Variation:06W (1985)
+From city:4 miles SE of MARTINSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24054
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1988
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at MTV (11 nm W):118.45 (276-957-3784)
+WX AWOS-3 at SIF (13 nm S):119.775 (336-573-3677)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+DANr288/(22.7)DANVILLE VOR113.1006W
+GSOr017/37.1GREENSBORO VORTAC116.2003W
+SBVr272/37.7SOUTH BOSTON VORTAC110.4005W
+
+
+NDBnameHdg/DistFreqVarID
+BALES067/6.739607WUV..- ...-
+SLAMMER001/16.042307WSIF... .. ..-.
+VINTON181/33.727708WVIT...- .. -
+
+Airport Services
+
+
+Runway Information
+Runway 10/28
+
+Dimensions:1500 x 60 ft. / 457 x 18 m
+Surface:turf
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftleft
+Obstructions:200 ft. tower, 1500 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:EDWARD M. GRAVELY514 COUNTRY PLACE RDAXTON, VA 24054-2566Phone 276-732-3121
+Manager:EDWARD M. GRAVELY514 COUNTRY PLACE RDAXTON, VA 24054-2566Phone 276-732-3121
+
+Additional Remarks
+
+-OWNER REQUESTS ARPT BE CHARTED.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at VA12.
+Some nearby airports with instrument procedures:
+KMTV - Blue Ridge Airport (11 nm W)
+KSIF - Rockingham County NC Shiloh Airport (13 nm S)
+KDAN - Danville Regional Airport (23 nm E)
+N63 - Meadow Brook Field Airport (27 nm SW)
+W91 - Smith Mountain Lake Airport (29 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Gravely Airport?
+Find the distance to fly.
+From 
+to VA12
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3022:30
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:12:27
+Local (UTC-5)19-Jan-2024 16:12:27
+
+
+
+
+   
+
+METAR
+
+
+KMTV11nm W192055Z AUTO 34012G19KT 10SM OVC050 02/M11 A2995 RMK AO2 T00211114
+
+KSIF13nm S192050Z AUTO 29013G21KT 10SM SCT060 04/M09 A2993 RMK AO2 T00391091
+
+
+
+
+
+TAF
+
+
+KDAN23nm E191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Gravely Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Gravely Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

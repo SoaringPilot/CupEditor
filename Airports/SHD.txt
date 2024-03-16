@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KSHD - Shenandoah Valley Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1451 users online
+ 
+
+
+
+
+KSHD
+ Shenandoah Valley Regional AirportStaunton/Waynesboro/Harrisonburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO STAUNTON/WAYNESBORO/HARRISONBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SHD
+Lat/Long:38-15-49.8000N 078-53-47.2000W38-15.830000N 078-53.786667W38.2638333,-78.8964444(estimated)
+Elevation:1201 ft. / 366.1 m (surveyed)
+Variation:09W (2010)
+From city:10 miles NE of central business district of the associated city
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24486
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1958
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:SHD (NOTAM-D service available)
+Attendance:CONTINUOUS
+Pattern altitude:TPA 800 FT PISTON ACFT, 1500 FT JET/TURBO ACFT.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MALSR RWY 05; REIL RWY 23; HIRL RWY 05/23 & TWY LGTS - CTAF. PAPI RWY 05 & 23 OPRS CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index B
+Airline operations:PPR 12 HRS FOR UNSKED ACR OPNS WITH MORE THAN 30 PSGR SEATS CALL 540-234-8304.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:124.925 (540-234-0110)
+POTOMAC APPROACH:132.85
+POTOMAC DEPARTURE:132.85
+CLEARANCE DELIVERY:118.35
+WX AWOS-3 at VBW (7 nm NW):119.55 (540-828-2076)
+WX AWOS-3PT at W13 (11 nm S):118.625 (540-941-7570)
+
+
+COMMUNICATIONS PRVDD BY LEESBURG RADIO 122.1R/115.3T (MONTEBELLO RCO).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr030/24.0MONTEBELLO VOR/DME115.3005W
+GVEr299/38.2GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+STAUT047/4.737509WSH... ....
+CAVERNS226/32.924509WLUA.-.. ..- .-
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:6002 x 150 ft. / 1829 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 44 /F/B/X/USingle wheel:75.0Double wheel:150.0Double tandem:215.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:38-15.442043N38-16.219052N
+Longitude:078-54.173705W078-53.398037W
+Elevation:1174.3 ft.1200.9 ft.
+Traffic pattern:leftleft
+Runway heading:047 magnetic, 038 true227 magnetic, 218 true
+Declared distances:TORA:6002 TODA:6002 ASDA:6002 LDA:6002TORA:6002 TODA:6002 ASDA:6002 LDA:6002
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:59 ft. pole, lighted, 2500 ft. from runway, 300 ft. left of centerline, 38:1 slope to clearnone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:SHENANDOAH VAL REG ARPT COMM77 AVIATION CIR.WEYERS CAVE, VA 24486Phone 540-234-8304
+Manager:LISA BOTKIN77 AVIATION CIR.WEYERS CAVE, VA 24486Phone 540-234-8304
+
+Airport Operational Statistics
+
+Aircraft based on the field:64Single engine airplanes:49Multi engine airplanes:12Jet airplanes:2Helicopters:1
+Aircraft operations: avg 102/day*72%local general aviation23%transient general aviation4%commercial<1%military* for 12-month period ending 31 December 2021
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05
+download (312KB)
+RNAV (GPS) RWY 05
+download (308KB)
+RNAV (GPS) RWY 23
+download (298KB)
+NDB RWY 05
+download (237KB)
+
+NOTE: Special Alternate Minimums apply
+download (152KB)
+Departure Procedures
+
+SHENANDOAH THREE
+download (155KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (360KB)
+
+Other nearby airports with instrument procedures:
+KVBW - Bridgewater Air Park (7 nm NW)
+W13 - Eagle's Nest Airport (11 nm S)
+KCHO - Charlottesville-Albemarle Airport (22 nm E)
+8W2 - New Market Airport (25 nm N)
+KLUA - Luray Caverns Airport (30 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by J.E. Herrington
+Photo taken 09-Oct-2006
+from 4,500 ft MSL
+
+Do you have a better or more recent aerial photo of Shenandoah Valley Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Shenandoah Valley Regional Airport?
+Find the distance to fly.
+From 
+to KSHD
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3112:31
+Sunset17:2222:22
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:52:49
+Local (UTC-5)19-Jan-2024 16:52:49
+
+
+
+
+   
+
+METAR
+
+
+KSHD192135Z AUTO 31011G18KT 10SM SCT055 M01/M11 A2989 RMK AO2 T10091109
+
+KVBW7nm NW192135Z AUTO 28008G17KT 10SM OVC050 M01/M11 A2987 RMK AO1 T10141108
+
+KW1311nm S192135Z AUTO 32009G16KT 280V340 10SM SCT048 SCT055 M01/M11 A2983 RMK AO1 T10071110
+
+
+
+
+
+TAF
+
+
+KCHO22nm E191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Shenandoah Valley Regional Airport
+
+540-234-8304[web site][email]
+
+Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, ...
+
+
+
+More info about Shenandoah Valley Regional Airport
+
+
+
+
+
+Avfuel100LL Jet AFS$6.49$6.59Updated 12-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Shenandoah Valley Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Shenandoah Valley Regional Airport
+
+
+
+www.flyshd.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

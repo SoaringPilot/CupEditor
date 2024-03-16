@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 5NC1 - Tara Airbase Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1421 users online
+ 
+
+
+
+
+5NC1
+ Tara Airbase AirportMocksville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOCKSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:5NC1
+Lat/Long:35-47-35.4990N 080-30-44.2120W35-47.591650N 080-30.736867W35.7931942,-80.5122811(estimated)
+Elevation:756 ft. / 230 m (estimated)
+Variation:06W (1985)
+From city:4 miles N of MOCKSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27028
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1986
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Beacon:white-green (lighted land airport)FOR RTG BCN CALL 336-284-2161. FOR ROTG BCN CALL 704-284-2161.
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3 at RUQ (9 nm S):118.175 (704-637-6197)
+WX AWOS-3 at EXX (10 nm E):119.825 (336-956-2967)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr243/30.1GREENSBORO VORTAC116.2003W
+BZMr103/35.7BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY349/3.827506WRU.-. ..-
+
+Airport Services
+
+Fuel available:MOGAS
+
+Runway Information
+Runway 18/36
+
+Dimensions:2100 x 75 ft. / 640 x 23 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:50 ft. trees, 1000 ft. from runway10 ft. trees, 500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:COLONIAL AIRLINES227 RIVERDALE ROADMOCKSVILLE, NC 27028Phone 336-284-2151
+Manager:NOVARO NICHOLS227 RIVERDALE ROADMOCKSVILLE, NC 27028Phone 336-284-2151
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:4Multi engine airplanes:4
+Additional Remarks
+
+-PUBLIC USE OK AT AIRCRAFT OPERATOR'S OWN RISK.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 5NC1.
+Some nearby airports with instrument procedures:
+8A7 - Twin Lakes Airport (8 nm N)
+KRUQ - Mid-Carolina Regional Airport (9 nm S)
+KEXX - Davidson County Executive Airport (10 nm E)
+KSVH - Statesville Regional Airport (22 nm W)
+14A - Lake Norman Airpark (22 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Tara Airbase Airport?
+Find the distance to fly.
+From 
+to 5NC1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:59:39
+Local (UTC-5)19-Jan-2024 16:59:39
+
+
+
+
+   
+
+METAR
+
+
+KRUQ9nm S192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+KEXX10nm E192145Z AUTO 30009G18KT 280V360 10SM CLR 03/M09 A2999 RMK AO2 T00301086
+
+
+
+
+
+TAF
+
+
+KINT25nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Tara Airbase Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Tara Airbase Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6VA9 - Bush Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1616 users online
+ 
+
+
+
+
+6VA9
+ Bush AirportWoolwine, Virginia, USA 
+
+
+
+
+
+
+GOING TO WOOLWINE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6VA9
+Lat/Long:36-50-33.4840N 080-14-18.1760W36-50.558067N 080-14.302933W36.8426344,-80.2383822(estimated)
+Elevation:1500 ft. / 457 m (estimated)
+Variation:06W (1985)
+From city:4 miles NE of WOOLWINE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24185
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/1980
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at MTV (17 nm SE):118.45 (276-957-3784)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PSKr129/27.1PULASKI VORTAC116.8006W
+ROAr199/31.1ROANOKE VOR/DME109.4004W
+ODRr211/(31.4)WOODRUM VOR114.9008W
+
+
+NDBnameHdg/DistFreqVarID
+TECH168/23.336808WTEC- . -.-.
+VINTON226/27.627708WVIT...- .. -
+SLAMMER327/35.942307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:2800 x 100 ft. / 853 x 30 m
+Surface:turf
+Operational restrictions:RWY 15 NOT USABLE FOR LANDING.
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+Obstructions:hilltrees, 50 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LARRY E. DONLEY4461 WOODS GAP RDWOOLWINE, VA 24185Phone 276-692-6789
+Manager:LARRY E. DONLEY4461 WOODS GAP RDWOOLWINE, VA 24185Phone 276-930-4311
+
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at 6VA9.
+Some nearby airports with instrument procedures:
+KMTV - Blue Ridge Airport (17 nm SE)
+KBCB - Virginia Tech/Montgomery Executive Airport (24 nm N)
+KMWK - Mount Airy/Surry County Airport (27 nm SW)
+KPSK - New River Valley Airport (28 nm NW)
+KHLX - Twin County Airport (28 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bush Airport?
+Find the distance to fly.
+From 
+to 6VA9
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:17
+Local (UTC-5)19-Jan-2024 15:48:17
+
+
+
+
+   
+
+METAR
+
+
+KMTV17nm SE192035Z AUTO 33012G20KT 10SM OVC050 02/M12 A2993 RMK AO2 T00191116
+
+KBCB24nm N192035Z AUTO 29011G22KT 250V320 10SM OVC033 M03/M09 A2990 RMK AO2 T10261092
+
+KPSK26nm NW192035Z AUTO 31014G22KT 260V320 7SM -SN SCT029 BKN034 OVC040 M03/M08 A2989 RMK AO2 T10341083
+
+KMWK27nm SW192025Z AUTO 30009G21KT 270V350 10SM OVC050 01/M10 A2994 RMK AO2 T00111101
+
+KHLX28nm W192035Z AUTO 30022G29KT 10SM OVC033 M03/M10 A2983 RMK AO2 T10351103
+
+KSIF31nm SE192030Z AUTO 28011G20KT 10SM SCT055 04/M09 A2992 RMK AO2 T00401090
+
+KROA31nm NE191954Z 30019G28KT 10SM BKN045 01/M08 A2989 RMK AO2 PK WND 32034/1934 SLP128 T00061078 $
+
+
+
+
+
+TAF
+
+
+KBCB24nm N191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bush Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bush Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

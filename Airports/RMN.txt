@@ -1,0 +1,533 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KRMN - Stafford Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1429 users online
+ 
+
+
+
+
+KRMN
+ Stafford Regional AirportStafford, Virginia, USA 
+
+
+
+
+
+
+GOING TO STAFFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:RMN
+Lat/Long:38-23-53.2000N 077-27-19.7000W38-23.886667N 077-27.328333W38.3981111,-77.4554722(estimated)
+Elevation:211.2 ft. / 64.4 m (surveyed)
+Variation:10W (2000)
+From city:3 miles SW of STAFFORD, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22406
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/2001
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:RMN (NOTAM-D service available)
+Attendance:0800-1800UNATNDD THANKSGIVING, CHRISTMAS, & NEW YEARS DAYS.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALS RWY 33; REIL RWY 15; HIRL RWY 15/33 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.725
+WX AWOS-3:126.325 (540-657-8283)
+QUANTICO APPROACH:127.05
+POTOMAC APPROACH:128.525 ;WHEN NYG TWR CLSD
+QUANTICO DEPARTURE:127.05
+POTOMAC DEPARTURE:128.525 ;WHEN NYG TWR CLSD
+HYPER STAR:133.0
+TIKEE STAR:120.45
+TRSTN STAR:126.75
+WX AWOS-3 at EZF (8 nm S):128.125 (540-372-6794)
+WX AWOS-3 at HWY (16 nm NW):120.350 (540-788-4078)
+WX AWOS-3PT at HEF (20 nm N):PHONE 703-361-6160
+
+
+APCH/DEP SVC PRVDD BY POTOMAC TRACON (PCT) ON 128.525/ 306.925 WHEN QUANTICO (NYG) CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BRVr317/6.1BROOKE VORTAC114.5009W
+CSNr133/24.2CASANOVA VORTAC116.3006W
+AMLr187/32.2ARMEL VOR/DME113.5008W
+DCAr224/33.9WASHINGTON VOR/DME111.0009W
+ADWr238/37.0ANDREWS VORTAC113.1010W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON008/7.923710WEZF. --.. ..-.
+NAILR109/21.435110WMSQ-- ... --.-
+DAVEE235/22.622309WDAA-.. .- .-
+OXONN233/29.833211WDCA-.. -.-. .-
+GEORGETOWN215/35.532309WGTN--. - -.
+
+Airport Services
+
+Fuel available:100LL JET-A100LL:FUEL AVBL UNTIL 1800; AFTER HRS CALL 540-288-3838 WITHIN 12 HRS NOTICE. PRIST AVBL.A:GOVT CONTR FUEL.
+Parking:tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:LOW
+
+Runway Information
+Runway 15/33
+
+Dimensions:5000 x 100 ft. / 1524 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Single wheel:30.0Double wheel:70.0
+Runway edge lights:high intensity
+RUNWAY 15RUNWAY 33
+Latitude:38-24.197408N38-23.574242N
+Longitude:077-27.670310W077-26.985673W
+Elevation:211.2 ft.171.2 ft.
+Traffic pattern:leftleft
+Runway heading:149 magnetic, 139 true329 magnetic, 319 true
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALS: 1,400 foot medium intensity approach lighting system
+Runway end identifier lights:yesno
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:28 ft. trees, 1227 ft. from runway, 10 ft. right of centerline, 36:1 slope to clear36 ft. trees, 441 ft. from runway, 503 ft. right of centerline, 6:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:STATE95 AVIATION WAYFREDERICKSBURG, VA 22406Phone 540-658-1212
+Manager:JAMES STOVER95 AVIATION WAYFREDERICKSBURG, VA 22406Phone 540-658-1212
+
+Airport Operational Statistics
+
+Aircraft based on the field:88Single engine airplanes:77Multi engine airplanes:5Helicopters:6
+Aircraft operations: avg 83/day*67%transient general aviation26%local general aviation7%military* for 12-month period ending 31 December 2018
+Additional Remarks
+
+-DEER & FLOCKS OF BIRDS ON & INVOF ARPT.
+-GCO AVBL ON FREQ 135.075 SERVICED BY QUANTICO AND POTOMAC APP.  IF UNA, FOR CD CTC POTOMAC APCH AT 866-709-4993.
+-NOISE: IN EFF 24 HRS. VFR ACFT DEPARTING RWY 33 FLY RWY HEADING UNTIL BASEBALL FIELDS 1 NM THEN TURN LEFT.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+HYPER EIGHT (RNAV)
+2 pages:
+ [1] [2] (398KB)
+HYPER EIGHT (RNAV), CONT.2
+download (293KB)
+TIKEE FOUR (RNAV)
+download (215KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 33
+download (296KB)
+RNAV (GPS) RWY 33
+download (286KB)
+VOR RWY 33
+download (241KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (154KB)
+
+Other nearby airports with instrument procedures:
+KEZF - Shannon Airport (8 nm S)
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (9 nm NE)
+KHWY - Warrenton/Fauquier Airport (16 nm NW)
+KHEF - Manassas Regional Airport/Harry P. Davis Field (20 nm N)
+KCJR - Culpeper Regional Airport (20 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Roger W. Snyder
+Photo taken 31-Mar-2014
+looking northwest.
+
+Do you have a better or more recent aerial photo of Stafford Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Stafford Regional Airport?
+Find the distance to fly.
+From 
+to KRMN
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2512:25
+Sunset17:1622:16
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:56:50
+Local (UTC-5)19-Jan-2024 16:56:50
+
+
+
+
+   
+
+METAR
+
+
+KRMN192135Z AUTO 31003KT 5SM -SN SCT016 BKN041 OVC060 M01/M03 A2987 RMK AO2 T10101032
+
+KEZF8nm S192135Z AUTO 34004KT 5SM -RA SCT023 BKN048 OVC065 01/M02 A2987 RMK AO2 P0001 T00051019
+
+KNYG10nm NE192056Z AUTO 31010KT 7SM FEW027 BKN055 OVC070 01/ A2987 RMK AO2 SNE18 SLP117 P0000 60000 T0011 53029 $
+
+KHWY16nm NW192135Z AUTO 31009G14KT 4SM -SN SCT015 BKN038 OVC060 00/M03 A2987 RMK AO2 T00011032
+
+KHEF19nm N192120Z 33008KT 9SM -SN BR SCT019 BKN046 OVC090 M01/M03 A2988 RMK AO2 P0000
+
+
+
+
+
+TAF
+
+
+KNYG10nm NE1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Stafford Regional Airport
+
+
+
+UNICOM 122.725540-658-1212[web site][email]
+
+The Stafford Regional Airport (RMN) is located just 25 miles south of Washington, D.C. and 50 miles north of Richmond, which is the largest metropolitan economy in the US. The airport has direct access to Interstate-95, and offers prime access to key markets. The runway is designed for coast-to-coast corporate access. Its 6,000 feet of operational capabilities eliminates the need for travel to D.C.-based airports. Located outside the Special Flight Rules Area surrounding D.C., it's simple to take a meeting in Stafford, and fly back in time for dinner.
+
+
+
+More info and photos of Stafford Regional Airport
+
+
+
+
+
+100LL Jet AFS$5.95$5.95GUARANTEED
+
+
+
+
+2readwrite
+
+
+
+FS=Full service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+SkyWorld Aviation
+
+540-788-9300[web site][email]
+
+Oxygen service, Hangars, Hangar leasing / sales, GPU / Power cart, Aircraft maintenance, Avionics sales and service, Aircraft modifications, ...
+
+ 
+ 
+
+
+
+
+More info about SkyWorld Aviation
+
+
+
+
+16 miles
+
+
+
+1readwrite
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Stafford Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Stafford Regional Airport
+
+
+
+www.staffordairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

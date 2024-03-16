@@ -1,0 +1,489 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KFLO - Florence Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1589 users online
+ 
+
+
+
+
+KFLO
+ Florence Regional AirportFlorence, South Carolina, USA 
+
+
+
+
+
+
+GOING TO FLORENCE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Hertz location serving airline terminal
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:FLO
+Lat/Long:34-11-07.3080N 079-43-25.9790W34-11.121800N 079-43.432983W34.1853633,-79.7238831(estimated)
+Elevation:146.6 ft. / 44.7 m (surveyed)
+Variation:09W (2025)
+From city:3 miles E of FLORENCE, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29506
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/1937
+Control tower:yes
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:FLO (NOTAM-D service available)
+Attendance:0630-2200
+Wind indicator:lighted
+Segmented circle:yes
+Lights:WHEN ATCT CLSD ACTVT MALSR RWY 09; REIL RWY 01, 19 & 27; PAPI RWY 01 & 19; HIRL RWY 09/27; AND TWY LGTS - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index B
+
+Airport Communications
+
+CTAF:125.1
+UNICOM:122.95
+ATIS:123.625
+WX ASOS:PHONE 843-665-1306
+FLORENCE GROUND:121.9 353.85 [0630-2200]
+FLORENCE TOWER:125.1 353.85 [0630-2200]
+FLORENCE APPROACH:118.6 ;256-074 135.25 ;075-255 316.15 ;075-255 341.7 ;256-074 [0630-2200]
+FLORENCE DEPARTURE:118.6 ;256-074 135.25 ;075-255 316.15 ;075-255 341.7 ;256-074 [0630-2200]
+CLEARANCE DELIVERY:121.9 353.85
+WX AWOS-3PT at UDG (18 nm NW):119.925 (843-393-8220)
+WX AWOS-3 at MAO (19 nm E):119.875 (843-423-4231)
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ARTCC ON FREQS 133.45/306.3 (FLORENCE RCAG) WHEN FLORENCE APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr232/4.4FLORENCE VORTAC115.2003W
+CTFr139/39.0CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+DARLINGTON158/17.524506WUDG..- -.. --.
+EVANS012/19.942006WCFY-.-. ..-. -.--
+HARTSVILLE131/23.734107WHVS.... ...- ...
+DILLON237/23.727409WDLC-.. .-.. -.-.
+BENNETTSVILLE187/26.123008WBES-... . ...
+SUMTER077/33.725207WSMS... -- ...
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH
+Bulk oxygen:HIGH
+
+Runway Information
+Runway 9/27
+
+Dimensions:6502 x 150 ft. / 1982 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 38 /F/B/X/TSingle wheel:97.0Double wheel:156.0Double tandem:261.0
+Runway edge lights:high intensity
+RUNWAY 9RUNWAY 27
+Latitude:34-11.120812N34-11.241215N
+Longitude:079-44.036615W079-42.754957W
+Elevation:146.5 ft.121.5 ft.
+Traffic pattern:leftleft
+Runway heading:093 magnetic, 084 true273 magnetic, 264 true
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+
+Runway 1/19
+
+Dimensions:6000 x 150 ft. / 1829 x 46 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:PCN 34 /F/B/Y/TSingle wheel:87.0Double wheel:139.0Double tandem:238.0
+Runway edge lights:medium intensity
+RUNWAY 1RUNWAY 19
+Latitude:34-10.563218N34-11.552002N
+Longitude:079-43.488813W079-43.457782W
+Elevation:112.2 ft.143.4 ft.
+Traffic pattern:leftleft
+Runway heading:010 magnetic, 001 true190 magnetic, 181 true
+Markings:nonprecision, in fair conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:42 ft. tree, 1250 ft. from runway, 25:1 slope to clear90 ft. trees, 2000 ft. from runway, 20:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:PEE DEE REGIONAL ARPT AUTHORITY2100 TERMINAL DRIVEFLORENCE, SC 29506Phone 843-669-5001
+Manager:CONNIE G. ANDERSON2100 TERMINAL DRIVEFLORENCE, SC 29506Phone 843-669-5001
+
+Airport Operational Statistics
+
+Aircraft based on the field:47Single engine airplanes:25Multi engine airplanes:14Jet airplanes:2Helicopters:6
+Aircraft operations: avg 65/day*58%local general aviation26%transient general aviation11%air taxi6%military<1%commercial* for 12-month period ending 22 February 2022
+Additional Remarks
+
+-24 HR PPR FOR UNSKED ACR OPNS WITH MORE THAN 30 PSGR SEATS; CTC AMGR AT 843-669-5001.
+-FOR CD IF UNA TO CTC ON FSS FREQ, CTC FLORENCE APCH AT 843-665-0632, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 09
+download (242KB)
+RNAV (GPS) RWY 01**CHANGED**
+download (227KB)
+RNAV (GPS) RWY 09**CHANGED**
+download (250KB)
+RNAV (GPS) RWY 19**CHANGED**
+download (249KB)
+RNAV (GPS) RWY 27**CHANGED**
+download (247KB)
+VOR OR TACAN-A
+download (241KB)
+
+NOTE: Special Alternate Minimums apply
+download (144KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KUDG - Darlington County Airport (18 nm NW)
+KMAO - Marion County Airport (19 nm E)
+51J - Lake City Municipal Airport-CJ Evans Field (20 nm S)
+KHVS - Hartsville Regional Airport (24 nm NW)
+KDLC - Dillon County Airport (24 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Brian Corley
+Photo taken 04-Feb-2015
+looking west.
+
+Do you have a better or more recent aerial photo of Florence Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Florence Regional Airport?
+Find the distance to fly.
+From 
+to KFLO
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:08:26
+Local (UTC-5)19-Jan-2024 16:08:26
+
+
+
+
+   
+
+METAR
+
+
+KFLO192053Z 32018G28KT 10SM SCT065 13/M01 A2986 RMK AO2 PK WND 31029/2043 PRESRR SLP110 T01331006 53016
+
+KUDG18nm NW192056Z AUTO 31019G26KT 10SM BKN065 11/M03 A2989 RMK AO2 PK WND 32030/2026 SLP123 T01111033 53024
+
+KMAO19nm E192055Z AUTO 32011G26KT 10SM SCT060 12/00 A2985 RMK AO2
+
+
+
+
+
+TAF
+
+
+KFLO191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Precision Air, Inc.
+
+
+
+UNICOM 122.95843-667-9627843-409-4556[web site][email]
+
+Precision Air, Inc. (Florence) is the general aviation hub of our nine-county corner of the state, known as the Great Pee Dee. Our mission is to provide excellent line, customer and maintenance services to our customers. We look forward to your visit to Precision Air, Inc.
+
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Precision Air, Inc.
+
+
+
+
+
+100LL Jet AFS$6.10$5.80SS$5.90---Updated 09-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Florence Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Florence Regional Airport
+
+
+
+www.florencescairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

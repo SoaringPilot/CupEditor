@@ -1,0 +1,7 @@
+AirNav: VA34 - Big Buffalo Airstrip
+CTAF:
+Lat/Long:WW37.28978,-78.45354(estimated)
+Runway 18/36
+Elevation:510 ft.
+Surface:turf
+Dimensions:1400 x 50 ft.

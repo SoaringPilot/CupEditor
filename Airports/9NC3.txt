@@ -1,0 +1,302 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9NC3 - Edwards Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1605 users online
+ 
+
+
+
+
+9NC3
+ Edwards AirportMonroe, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MONROE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9NC3
+Lat/Long:35-04-15.0000N 080-33-59.0000W35-04.250000N 080-33.983333W35.0708333,-80.5663889(estimated)
+Elevation:640 ft. / 195 m (estimated)
+Variation:06W (1995)
+From city:4 miles S of MONROE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28110
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1999
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at EQY (4 nm SW):135.775 (704-283-5185)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr116/20.2CHARLOTTE VOR/DME115.0005W
+CTFr333/29.0CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA110/29.926006WGHJ--. .... .---
+CHESTER067/35.622006WDCM-.. -.-. --
+
+Airport Services
+
+
+Runway Information
+Runway 6/24
+
+Dimensions:2650 x 100 ft. / 808 x 30 m
+Surface:turf, in good condition
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+Obstructions:50 ft. trees, 100 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:REX EDWARDS4006 POPLIN ROADMONROE, NC 28110Phone 704-993-6897
+Manager:REX. EDWARDS4006 POPLIN ROADMONROE, NC 28110Phone 704-993-6897
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 9NC3.
+Some nearby airports with instrument procedures:
+KEQY - Charlotte-Monroe Executive Airport (4 nm SW)
+N52 - JAARS-Townsend Airport (15 nm SW)
+KJQF - Concord-Padgett Regional Airport (20 nm N)
+KCLT - Charlotte/Douglas International Airport (21 nm NW)
+KPYG - Pageland Airport (23 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Edwards Airport?
+Find the distance to fly.
+From 
+to 9NC3
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3622:36
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:03:53
+Local (UTC-5)19-Jan-2024 16:03:53
+
+
+
+
+   
+
+METAR
+
+
+KEQY4nm SW192053Z AUTO 33015G26KT 10SM CLR 07/M09 A2994 RMK AO2 PK WND 32032/2039 SLP154 T00721089 53041
+
+
+
+
+
+TAF
+
+
+KCLT21nm NW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Edwards Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Edwards Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N63 - Meadow Brook Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1497 users online
+ 
+
+
+
+
+N63
+ Meadow Brook Field AirportWalnut Cove, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WALNUT COVE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N63
+Lat/Long:36-18-05.4940N 080-08-54.1650W36-18.091567N 080-08.902750W36.3015261,-80.1483792(estimated)
+Elevation:631 ft. / 192.3 m (surveyed)
+Variation:06W (1980)
+From city:1 mile NW of WALNUT COVE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27052
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1966
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:IRREGULAR
+Wind indicator:yes
+Segmented circle:no
+Lights:ACTVT LIRL RWY 16/34 - CTAF.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+GREENSBORO APPROACH:124.35
+GREENSBORO DEPARTURE:124.35
+WX ASOS at INT (11 nm S):PHONE 336-661-3096
+WX ASOS at GSO (16 nm SE):128.55 (336-393-0168)
+WX AWOS-3 at SIF (17 nm NE):119.775 (336-573-3677)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr335/17.5GREENSBORO VORTAC116.2003W
+LIBr322/39.2LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER263/19.242307WSIF... .. ..-.
+
+Airport Services
+
+Fuel available:100LL100LL:100LL SELF SVC AVBL BY FULP'S AVIATION.
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 16/34
+
+Dimensions:2725 x 32 ft. / 831 x 10 m
+Surface:asphalt, in good condition
+Runway edge lights:low intensityNSTD LIRL; LGTS 30 FT EITHER SIDE OF ASPH ALONG OLD TURF RWY. NSTD THR LGTS WITH GREEN, RED, CLEAR AND BI-DIRECTIONAL LENS.
+Runway edge markings:RWY MKNG SMALLER THAN NORMAL AND FADED; CNTRLN NSTD.
+RUNWAY 16RUNWAY 34
+Latitude:36-18.302500N36-17.880500N
+Longitude:080-08.997667W080-08.807833W
+Elevation:631.0 ft.631.0 ft.
+Traffic pattern:leftleft
+Runway heading:166 magnetic, 160 true346 magnetic, 340 true
+Markings:NSTD, in fair conditionNSTD, in fair condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:29 ft. trees, 336 ft. from runway, 92 ft. right of centerline, 4:1 slope to clearSCRUB TREES RANGING FROM 6 FT - 35 FT LCTD 0-200 FT FM THR OFFSET 100 FT RIGHT OF CNTRLN.25 ft. trees, 377 ft. from runway, 34 ft. left of centerline, 7:1 slope to clear+3 FT FENCE 30 FT FM THR BOTH SIDES OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BIG CREEK PROPERTIES3653 NORTH PATTERSON AVEWINSTON-SALEM, NC 27105Phone 336-661-8032
+Manager:LOGAN FULP1060 AIRPORT ROADWALNUT COVE, NC 27052Phone 336-413-3967
+
+Airport Operational Statistics
+
+Aircraft based on the field:10Single engine airplanes:4Multi engine airplanes:6
+Aircraft operations: avg 33/day*100%local general aviation<1%transient general aviation* for 12-month period ending 20 April 2022
+Additional Remarks
+
+-HIGH TRRN IN ALL QUADS.
+-NO TSNT TFC BEFORE DALGT OR AFT DARK.
+-ED'S FLYING SERVICE IS NO LONGER THE FBO IT IS NOW FULP'S AVIATION LLC.
+-+65 FT TREES WITHIN 110 FT OF CNTRLN EAST OF RWY.
+-FENCING IN THE CLEAR ZONE RWYS 16 & 34.
+-+8 FT DROP-OFF AER RWY 16.
+-ARPT CLSD TO TSNTS EXCP PPR CALL 336-403-1796.
+-DO NOT LAND ON GRASS ADJ TO RWY. DEEP DITCHES.
+-FOR CD CTC GREENSBORO APCH AT 336-333-5119.
+-NO HEAVY TRNG TFC NO MORE THAN TWO TOUCH AND GOES AT ONE GIVEN TIME.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+VOR/DME OR GPS RWY 34
+download (182KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KINT - Smith Reynolds Airport (11 nm S)
+KGSO - Piedmont Triad International Airport (16 nm SE)
+KSIF - Rockingham County NC Shiloh Airport (17 nm NE)
+KMTV - Blue Ridge Airport (21 nm N)
+KMWK - Mount Airy/Surry County Airport (22 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Meadow Brook Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Meadow Brook Field Airport?
+Find the distance to fly.
+From 
+to N63
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:32:39
+Local (UTC-5)19-Jan-2024 16:32:39
+
+
+
+
+   
+
+METAR
+
+
+KINT11nm S192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+KGSO15nm SE192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KSIF17nm NE192110Z AUTO 28011G22KT 10SM SCT060 04/M09 A2995 RMK AO2 T00371093
+
+KMTV20nm N192115Z AUTO 33013G21KT 10SM OVC050 02/M11 A2997 RMK AO2 T00151115
+
+
+
+
+
+TAF
+
+
+KINT11nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KGSO15nm SE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Meadow Brook Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Meadow Brook Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

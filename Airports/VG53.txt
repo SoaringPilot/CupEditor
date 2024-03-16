@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG53 - Venning's Landing Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1428 users online
+ 
+
+
+
+
+VG53
+ Venning's Landing AirportRocky Mount, Virginia, USA 
+
+
+
+
+
+
+GOING TO ROCKY MOUNT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG53
+Lat/Long:37-02-37.0000N 079-48-05.0000W37-02.616667N 079-48.083333W37.0436111,-79.8013889(estimated)
+Elevation:1100 ft. / 335 m (estimated)
+Variation:10W (2000)
+From city:5 miles NE of ROCKY MOUNT, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24092
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/2002
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ROA (19 nm NW):PHONE 540-265-0680
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr161/(18.9)WOODRUM VOR114.9008W
+ROAr148/22.1ROANOKE VOR/DME109.4004W
+LYHr250/29.8LYNCHBURG VOR/DME109.2005W
+DANr328/(36.2)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON166/10.427708WVIT...- .. -
+TECH117/30.536808WTEC- . -.-.
+SLAMMER004/39.842307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:1976 x 80 ft. / 602 x 24 m
+Surface:turf
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:S. GREGORY VENNING695 LAKEWOOD FOREST RDMONETA, VA 24121Phone 540-721-3550
+Manager:S. GREGORY VENNING695 LAKEWOOD FOREST RDMONETA, VA 24121Phone 540-721-3550
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:3Ultralights:1
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at VG53.
+Some nearby airports with instrument procedures:
+W91 - Smith Mountain Lake Airport (11 nm E)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (19 nm NW)
+W90 - New London Airport (26 nm NE)
+KMTV - Blue Ridge Airport (27 nm SW)
+KBCB - Virginia Tech/Montgomery Executive Airport (31 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Venning's Landing Airport?
+Find the distance to fly.
+From 
+to VG53
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:04:43
+Local (UTC-5)19-Jan-2024 17:04:43
+
+
+
+
+   
+
+METAR
+
+
+KROA18nm NW192154Z 30013G26KT 10SM FEW043 BKN050 M01/M09 A2997 RMK AO2 PK WND 29031/2101 SLP156 T10061089 $
+
+KMTV28nm S192155Z AUTO 33014KT 10SM OVC055 01/M12 A3000 RMK AO2 T00051120
+
+KBCB31nm W192155Z AUTO 32013G19KT 3/4SM -SN BKN015 OVC023 M04/M06 A2996 RMK AO2 T10401063
+
+KLYH33nm NE192154Z 28007G18KT 250V320 10SM BKN055 01/M09 A2992 RMK AO2 SLP139 T00111094
+
+
+
+
+
+TAF
+
+
+KROA18nm NW191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Venning's Landing Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Venning's Landing Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

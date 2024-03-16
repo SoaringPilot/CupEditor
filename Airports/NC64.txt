@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC64 - Barringer Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1596 users online
+ 
+
+
+
+
+NC64
+ Barringer Field AirportKannapolis, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KANNAPOLIS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC64
+Lat/Long:35-31-40.0000N 080-41-48.0000W35-31.666667N 080-41.800000W35.5277778,-80.6966667(estimated)
+Elevation:800 ft. / 244 m (estimated)
+Variation:06W (1995)
+From city:4 miles NW of KANNAPOLIS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28081
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:05/1999
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at JQF (8 nm S):133.675 (704-785-2145)
+WX AWOS-3 at RUQ (11 nm NE):118.175 (704-637-6197)
+WX AWOS-3 at SVH (19 nm NW):119.225 (704-873-1978)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr037/23.8CHARLOTTE VOR/DME115.0005W
+BZMr134/33.5BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA054/30.326006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 10/28
+
+Dimensions:2000 x 80 ft. / 610 x 24 m
+Surface:turf
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftleft
+Obstructions:70 ft. pline, 1500 ft. from runway25 ft. trees, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOHN BARRINGER235 MISTY LANEKANNAPOLIS, NC 28081Phone 704-786-3375
+Manager:JOHN BARRINGER235 MISTY LANEKANNAPOLIS, NC 28081Phone 704-309-4634
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at NC64.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (8 nm S)
+KRUQ - Mid-Carolina Regional Airport (11 nm NE)
+14A - Lake Norman Airpark (11 nm NW)
+KSVH - Statesville Regional Airport (19 nm NW)
+KCLT - Charlotte/Douglas International Airport (23 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Barringer Field Airport?
+Find the distance to fly.
+From 
+to NC64
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:16
+Local (UTC-5)19-Jan-2024 15:44:16
+
+
+
+
+   
+
+METAR
+
+
+KJQF9nm S191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+KRUQ11nm NE192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+KSVH18nm NW192025Z AUTO 31016G23KT 10SM CLR 04/M10 A2997 RMK AO2 T00381100
+
+
+
+
+
+TAF
+
+
+KCLT22nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Barringer Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Barringer Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

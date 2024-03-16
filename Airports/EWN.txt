@@ -1,0 +1,514 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KEWN - Coastal Carolina Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1634 users online
+ 
+
+
+
+
+KEWN
+ Coastal Carolina Regional AirportNew Bern, North Carolina, USA 
+
+
+
+
+
+
+GOING TO NEW BERN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Tidewater Air Services, LLC
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:EWN
+Lat/Long:35-04-22.2760N 077-02-34.8710W35-04.371267N 077-02.581183W35.0728544,-77.0430197(estimated)
+Elevation:17.9 ft. / 5.5 m (surveyed)
+Variation:08W (1985)
+From city:3 miles SE of NEW BERN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28562
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1941
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:EWN (NOTAM-D service available)
+Attendance:0500-2330
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT REIL RWY 04, 22, 14 & 32; HIRL 04/22, MIRL 14/32  - CTAF.  PAPI RWY 04, 22, 14 & 32 OPER CONTINUOUSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index A
+Airline operations:CLSD TO UNSKED ACR OPNS WITH MORE THAN 30 PSGR SEATS EXCP 24 HR PPR CALL AMGR 252-638-8591.
+
+Airport Communications
+
+CTAF:124.25
+WX ASOS:118.525 (252-514-2086)
+NEW BERN GROUND:121.7 [0600-2200]
+NEW BERN TOWER:124.25 [0600-2200]
+CHERRY POINT APPROACH:119.35
+CHERRY POINT DEPARTURE:119.35
+CLEARANCE DELIVERY:120.525 ;2200-0600 121.7
+EMERG:121.5
+
+
+APCH/DEP SVC PRVDD BY NAS CHERRY POINT  APCH CNTL ON FREQ 120.525.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+EWN at fieldNEW BERN VOR/DME113.6008W
+ISOr130/30.9KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+KATFI038/3.636208WEW. .--
+CHOCOWINITY181/26.438808WRNW.-. -. .--
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:6452 x 150 ft. / 1967 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 31 /F/B/X/TSingle wheel:80.0Double wheel:123.0
+Runway edge lights:high intensity
+RUNWAY 4RUNWAY 22
+Latitude:35-03.884003N35-04.798432N
+Longitude:077-02.927338W077-02.266663W
+Elevation:13.4 ft.14.5 ft.
+Traffic pattern:leftleft
+Runway heading:039 magnetic, 031 true219 magnetic, 211 true
+Displaced threshold:299 ft.no
+Declared distances:TORA:6453 TODA:6453 ASDA:6053 LDA:5753TORA:6453 TODA:6453 ASDA:6153 LDA:6153
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:none68 ft. trees, 2543 ft. from runway, 558 ft. left of centerline, 34:1 slope to clear
+
+Runway 14/32
+
+Dimensions:4001 x 150 ft. / 1220 x 46 m
+Surface:asphalt, in good condition
+Weight bearing capacity:PCN 14 /F/C/X/TSingle wheel:28.0Double wheel:45.0
+Runway edge lights:medium intensity
+RUNWAY 14RUNWAY 32
+Latitude:35-04.622387N35-04.216995N
+Longitude:077-02.871970W077-02.239283W
+Elevation:11.6 ft.17.6 ft.
+Traffic pattern:leftleft
+Runway heading:136 magnetic, 128 true316 magnetic, 308 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (4.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:28 ft. trees, 1000 ft. from runway, 500 ft. right of centerline, 20:1 slope to clear26 ft. tree, 862 ft. from runway, 80 ft. left of centerline, 25:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CRAVEN COUNTYPO BOX 3258NEW BERN, NC 28560Phone 252-638-8591
+Manager:ANDREW SHORTER200 TERMINAL DRIVENEW BERN, NC 28562-6455Phone 252-638-8591
+
+Airport Operational Statistics
+
+Aircraft based on the field:90Single engine airplanes:80Multi engine airplanes:5Jet airplanes:3Helicopters:2
+Aircraft operations: avg 162/day*54%local general aviation32%transient general aviation6%air taxi4%commercial4%military* for 12-month period ending 31 July 2023
+Additional Remarks
+
+E60-22ARRESTING GEAR/SYSTEM: ENGINEERED MATERIALS ARRESTING SYSTEM (EMAS) 279.42 FT IN LENGTH BY 162 FT IN WIDTH LOCATED AT THE DEPARTURE END OF RWY 22.
+-MIL TACTICAL JET ACFT; STRAIGHT IN, FULL STOP LDGS ONLY; RWY 14/32 FOR EUO.
+-RWY 14/32 AND ASSOCIATED TWYS NOT AVBL FOR SCHEDULED ACR OPNS WITH MORE THAN 9 PSGR SEATS OR UNSCHEDULED ACR AT LEAST 31 PSGR SEATS.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 04
+download (262KB)
+RNAV (GPS) RWY 04
+download (218KB)
+RNAV (GPS) RWY 22
+download (283KB)
+VOR RWY 22
+download (282KB)
+
+NOTE: Special Alternate Minimums apply
+download (155KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KNKT - Cherry Point Marine Corps Air Station (Cunningham Field) Airport (13 nm SE)
+KMRH - Michael J Smith Field Airport (28 nm SE)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (29 nm SW)
+KOCW - Washington-Warren Airport (30 nm N)
+KOAJ - Albert J Ellis Airport (32 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Mr. Verdier
+Taken in October 2014
+looking north.
+
+Do you have a better or more recent aerial photo of Coastal Carolina Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Coastal Carolina Regional Airport?
+Find the distance to fly.
+From 
+to KEWN
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:2222:22
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:52:54
+Local (UTC-5)19-Jan-2024 15:52:54
+
+
+
+
+   
+
+METAR
+
+
+KEWN191954Z AUTO 29015G21KT 10SM OVC065 12/01 A2975 RMK AO2 SLP073 T01220011
+
+KNKT14nm SE191956Z 29016G25KT 10SM SCT055 BKN070 13/01 A2975 RMK AO2 PK WND 27026/1944 SLP070 T01280011
+
+
+
+
+
+TAF
+
+
+KEWN191727Z 1918/2018 29014G26KT P6SM SCT050 FM200300 30010G18KT P6SM SKC 
+
+KNKT14nm SE1915/2015 27012G22KT 9999 BKN060 521609 522509 523406 QNH2977INS BECMG 1916/1918 30015G28KT SCT050 510009 520909 521809 522709 523604 QNH2972INS FM200000 32015G25KT 9999 SKC 510009 520909 521809 522709 523604 QNH2988INS BECMG 2007/2009 32013KT 521609 522509 523406 QNH3007INS TEMPO 2012/2015 33015G22KT T13/1919Z TM03/2010Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Tidewater Air Services, LLC
+
+
+
+ASRI 129.65252-633-1400[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Passenger terminal and lounge, Flight training, Aircraft rental, ...
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Tidewater Air Services, LLC
+
+
+
+
+
+100LL Jet AFS$6.58$5.99Updated 15-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Pilot John International, a Carolina GSE Company
+
+252-565-0288[web site][email]
+
+GPU / Power cart, Aviation accessories, Other business
+
+
+
+More info about Pilot John International, a Carolina GSE Company
+
+
+
+
+10.6 miles
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Coastal Carolina Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Coastal Carolina Regional Airport
+
+
+
+www.newbernairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

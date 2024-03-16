@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG07 - Rular Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1439 users online
+ 
+
+
+
+
+VG07
+ Rular AirportRemington, Virginia, USA 
+
+
+
+
+
+
+GOING TO REMINGTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG07
+Lat/Long:38-32-20.0000N 077-49-42.0000W38-32.333333N 077-49.700000W38.5388889,-77.8283333(estimated)
+Elevation:305 ft. / 93 m (estimated)
+Variation:09W (1995)
+From city:1 mile W of REMINGTON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22508
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1997
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at CJR (1.7 nm SW):119.325 (540-727-0523)
+WX AWOS-3 at HWY (6 nm NE):120.350 (540-788-4078)
+WX AWOS-3PT at HEF (18 nm NE):PHONE 703-361-6160
+WX AWOS-3 at RMN (19 nm SE):126.325 (540-657-8283)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CSNr170/6.4CASANOVA VORTAC116.3006W
+BRVr308/25.4BROOKE VORTAC114.5009W
+LDNr143/25.9LINDEN VORTAC114.3006W
+AMLr223/29.2ARMEL VOR/DME113.5008W
+GVEr032/35.0GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR045/6.235110WMSQ-- ... --.-
+SHANNON323/24.123710WEZF. --.. ..-.
+CAVERNS117/31.724509WLUA.-.. ..- .-
+DAVEE267/34.522309WDAA-.. .- .-
+OXONN261/39.933211WDCA-.. -.-. .-
+
+Airport Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:1500 x 75 ft. / 457 x 23 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftright
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LARRY L. SETTI12028 FREEMAN'S FORD ROADREMINGTON, VA 22734Phone 540-905-1870
+Manager:LARRY L. SETTI12028 FREEMAN'S FORD ROADREMINGTON, VA 22734Phone 540-905-1870OTHER EMAIL: FITEAFOU@GMAIL.COM
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-709-4993.
+
+Instrument Procedures
+There are no published instrument procedures at VG07.
+Some nearby airports with instrument procedures:
+KCJR - Culpeper Regional Airport (2 nm SW)
+KHWY - Warrenton/Fauquier Airport (6 nm NE)
+KHEF - Manassas Regional Airport/Harry P. Davis Field (18 nm NE)
+KRMN - Stafford Regional Airport (19 nm SE)
+KOMH - Orange County Airport (20 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Steve Beste
+Photo taken 17-Jul-2020
+looking west.
+
+Do you have a better or more recent aerial photo of Rular Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Rular Airport?
+Find the distance to fly.
+From 
+to VG07
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2712:27
+Sunset17:1722:17
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:50:43
+Local (UTC-5)19-Jan-2024 16:50:43
+
+
+
+
+   
+
+METAR
+
+
+KHWY6nm NE192135Z AUTO 31009G14KT 4SM -SN SCT015 BKN038 OVC060 00/M03 A2987 RMK AO2 T00011032
+
+KCJR14nm W192135Z AUTO 33008KT 10SM BKN060 OVC075 01/M05 A2988 RMK AO2 T00101051
+
+KHEF18nm NE192120Z 33008KT 9SM -SN BR SCT019 BKN046 OVC090 M01/M03 A2988 RMK AO2 P0000
+
+KRMN19nm SE192135Z AUTO 31003KT 5SM -SN SCT016 BKN041 OVC060 M01/M03 A2987 RMK AO2 T10101032
+
+
+
+
+
+TAF
+
+
+KNYG26nm E1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+KIAD30nm NE191727Z 1918/2024 06004KT 1SM -SN BR BKN008 OVC025 TEMPO 1918/1920 1/2SM SN BKN006 FM192000 32006KT 2SM -SHSN BR OVC008 FM192300 32008KT 5SM -SHSN BR OVC025 FM200400 31010G18KT P6SM SCT050 FM202000 30017G30KT P6SM SCT250 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Rular Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Rular Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

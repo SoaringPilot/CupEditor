@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 78A - Swan Creek Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1422 users online
+ 
+
+
+
+
+78A
+ Swan Creek AirportJonesville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO JONESVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:78A
+Lat/Long:36-12-08.4830N 080-52-05.2580W36-12.141383N 080-52.087633W36.2023564,-80.8681272(estimated)
+Elevation:1135 ft. / 345.9 m (surveyed)
+Variation:05W (1985)
+From city:3 miles SW of JONESVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28642
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1942
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:no
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at UKF (11 nm W):126.625 (336-696-3788)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr048/27.0BARRETTS MOUNTAIN VOR/DME113.7506W
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 10/28
+
+Dimensions:2600 x 200 ft. / 792 x 61 m
+Surface:turf, in good condition
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftleft
+Obstructions:23 ft. trees, 41 ft. from runway, 107 ft. right of centerline, 1:1 slope to clear18 ft. road, 25 ft. from runway, 1:1 slope to clear
+
+Runway 2/20
+
+Dimensions:1650 x 200 ft. / 503 x 61 m
+Surface:turf, in good condition
+RUNWAY 2RUNWAY 20
+Traffic pattern:leftleft
+Obstructions:20 ft. road, 12 ft. from runway, 1:1 slope to clearRWY 2 HAS 59 FT TREE 60 FT FROM THR OFFSET 29 FT RIGHT OF CNTRLN.49 ft. trees, 1 ft. from runway, 104 ft. right of centerline, 1:1 slope to clearRWY 20 HAS 11-60 FT TREES 0-50 FT FROM THR BOTH SIDES OF CNTRLN WHICH HIDE +3 FT FENCE 20 FT FROM THR 0 FT LEFT & RIGHT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:HOLLIDAY AND SHELLY OBRECHTP. O. BOX 675JONESVILLE, NC 28642Phone 704-495-9784
+Manager:HOLLIDAY OBRECHT165 NORMANDY RDMORRESVILLE, NC 28117Phone 704-360-4770
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Aircraft operations: avg 29/day*95%local general aviation5%transient general aviation* for 12-month period ending 08 July 2022
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+-RWY 02/20 AS 60+ FT TREES ALONG BOTH SIDES AND NOT REGULARLY MAINTAINED DUE TO WET AREAS.
+-TOWER INVOF RWY 28 LEFT BASE.
+-4 FT FENCE ALONG LEFT EDGE RWY 10.
+-NO LINE-OF-SIGHT BTWN RWY ENDS.
+-RWY 10 SLOPES UPHILL; RWY 02 FIRST HALF SLOPES UPHILL.
+-FARM EQUIP ON AND INVOF ARPT.
+
+Instrument Procedures
+There are no published instrument procedures at 78A.
+Some nearby airports with instrument procedures:
+KZEF - Elkin Municipal Airport (6 nm NE)
+KUKF - Wilkes County Airport (11 nm W)
+KMWK - Mount Airy/Surry County Airport (22 nm NE)
+8A7 - Twin Lakes Airport (26 nm SE)
+KSVH - Statesville Regional Airport (27 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Swan Creek Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Swan Creek Airport?
+Find the distance to fly.
+From 
+to 78A
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0612:06
+Sunrise07:3412:34
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:58:56
+Local (UTC-5)19-Jan-2024 16:58:56
+
+
+
+
+   
+
+METAR
+
+
+KUKF11nm W192145Z AUTO 31008G14KT 10SM BKN049 BKN055 00/M10 A3005 RMK AO2
+
+KMWK22nm NE192145Z AUTO 29008G17KT 250V330 10SM OVC050 01/M10 A3000 RMK AO2 T00051100
+
+
+
+
+
+TAF
+
+
+KINT32nm E191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KHKY37nm SW191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Swan Creek Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Swan Creek Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

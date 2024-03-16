@@ -1,0 +1,7 @@
+AirNav: 4NC4 - Bear Creek Airport
+CTAF:
+Lat/Long:WW35.4064900,-80.3580500(estimated)
+Runway 3/21
+Elevation:795 ft.
+Surface:turf
+Dimensions:2074 x 85 ft.

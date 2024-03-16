@@ -1,0 +1,330 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2VA5 - Rosegill Farm Airstrip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1451 users online
+ 
+
+
+
+
+2VA5
+ Rosegill Farm AirstripUrbanna, Virginia, USA 
+
+
+
+
+
+
+GOING TO URBANNA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2VA5
+Lat/Long:37-37-50.5040N 076-33-53.8290W37-37.841733N 076-33.897150W37.6306956,-76.5649525(estimated)
+Elevation:32 ft. / 9.8 m (surveyed)
+Variation:09W (1985)
+From city:1 mile E of URBANNA, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23149
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1965
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W75 (6 nm E):118.45 (804-758-8592)
+WX AWOS-3 at FYJ (11 nm SW):132.825 (804-785-2307)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr040/13.0HARCUM VORTAC108.8007W
+HPWr061/31.9HOPEWELL VORTAC114.3506W
+CCVr312/31.9CAPE CHARLES VORTAC112.2010W
+RICr087/36.7RICHMOND VORTAC114.1009W
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:2400 x 200 ft. / 732 x 61 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ALFRED P. SCOTT1824 URBANNA ROADSALUDA, VA 23175Phone 804-690-4591
+Manager:ALFRED P. SCOTT1824 URBANNA ROADSALUDA, VA 23175Phone 804-690-4591
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 2VA5.
+Some nearby airports with instrument procedures:
+W75 - Hummel Field Airport (6 nm E)
+KFYJ - Middle Peninsula Regional Airport (11 nm SW)
+W94 - Camp Peary Landing Strip Airport (19 nm S)
+KXSA - Tappahannock/Essex County Airport (21 nm NW)
+KJGG - Williamsburg-Jamestown Airport (25 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Rosegill Farm Airstrip that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Rosegill Farm Airstrip?
+Find the distance to fly.
+From 
+to 2VA5
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:2012:20
+Sunset17:1422:14
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:50:01
+Local (UTC-5)19-Jan-2024 16:50:01
+
+
+
+
+   
+
+METAR
+
+
+KW756nm E192135Z AUTO 31011G23KT 10SM BKN017 OVC050 01/M03 A2985 RMK AO1 T00081026
+
+KFYJ12nm SW192135Z AUTO 00000KT 10SM SCT080 01/M04 A2987 RMK AO1 T00101037
+
+
+
+
+
+TAF
+
+
+KPHF30nm S191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KFAF31nm S191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KLFI35nm S191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KRIC36nm W191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Rosegill Farm Airstrip, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Rosegill Farm Airstrip
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,425 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KMQI - Dare County Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1602 users online
+ 
+
+
+
+
+KMQI
+ Dare County Regional AirportManteo, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MANTEO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:MQI
+Lat/Long:35-55-08.3380N 075-41-43.9290W35-55.138967N 075-41.732150W35.9189828,-75.6955358(estimated)
+Elevation:12.8 ft. / 3.9 m (surveyed)
+Variation:09W (1985)
+From city:1 mile NW of MANTEO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27954
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:MQI (NOTAM-D service available)
+Attendance:0800-1900UNATTNDD CHRISTMAS DAY. FOR SVC AFT HRS CALL 252-216-7028 OR 252-216-8407.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 05; MIRL RWY 05/23 & 17/35 - CTAF.  PAPI RWY 05 & 23 OPR CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:128.275 (252-473-2826)
+CHERRY POINT APPROACH:124.725
+CHERRY POINT DEPARTURE:124.725
+WX AWOS-3 at FFA (6 nm N):118.075 (252-449-0698)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RBX at fieldWRIGHT BROTHERS VOR/DME111.6008W
+ECGr138/30.9ELIZABETH CITY VOR/DME115.7507W
+
+
+NDBnameHdg/DistFreqVarID
+MANTEOat field37009WMQI-- --.- ..
+WOODVILLE135/35.825410WLLW.-.. .-.. .--
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:100LL AVBL AFT HRS SELF SVC  WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:4306 x 100 ft. / 1312 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:48.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:35-54.837537N35-55.396470N
+Longitude:075-42.045227W075-41.507538W
+Elevation:9.0 ft.12.1 ft.
+Traffic pattern:leftleft
+Runway heading:047 magnetic, 038 true227 magnetic, 218 true
+Displaced threshold:305 ft.301 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (4.00 degrees glide path)
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:none25 ft. bldg, 301 ft. from runway, 262 ft. left of centerline, 4:1 slope to clear7 FT FENCE 100-300 FT FM END OF PAVEMENT BOTH SIDES OF CNTRLN; 15 FT ROAD 90 FT FM END OF PAVEMENT AND BOTH SIDES OF CNTRLN; 12 FT TRUCK 193 FT FM END OF PAVEMENT OFFSET 120 FT LEFT OF CNTRLN.
+
+Runway 17/35
+
+Dimensions:3303 x 75 ft. / 1007 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:20.0
+Runway edge lights:medium intensity
+RUNWAY 17RUNWAY 35
+Latitude:35-55.419973N35-54.915253N
+Longitude:075-41.799742W075-41.549152W
+Elevation:12.6 ft.9.5 ft.
+Traffic pattern:leftleft
+Runway heading:167 magnetic, 158 true347 magnetic, 338 true
+Displaced threshold:290 ft.989 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:67 ft. trees, 364 ft. from runway, 261 ft. left of centerline, 2:1 slope to clearAPCH SLOPE 6:1 AT DSPLCD.80 ft. trees, 615 ft. from runway, 206 ft. right of centerline, 5:1 slope to clear9 FT BRUSH 131 FT FM END OF PAVEMENT OFFSET 16 FT RIGHT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:DARE COUNTYPO BOX 429MANTEO, NC 27954Phone 252-475-5570
+Manager:STACY AMBROSE410 AIRPORT ROADMANTEO, NC 27954-9110Phone 252-475-5571
+
+Airport Operational Statistics
+
+Aircraft based on the field:47Single engine airplanes:44Multi engine airplanes:1Helicopters:2
+Aircraft operations: avg 46/day*59%air taxi26%transient general aviation14%local general aviation1%military* for 12-month period ending 08 July 2023
+Additional Remarks
+
+-RWY 05 15 FT DROP-OFF 40 FT FM THR 0B.
+-TWY F CLSD PERMLY.
+-FOR CD CTC CHERRY POINT APCH AT 252-466-5960, OR WHEN APCH CLSD CTC WASHINGTON ARTCC AT 703-771-3587.
+-MIGRATORY WATERFOWL OCT - FEB.
+-BANNER TOWING OPNS 200 FT W OF RWY 35.
+-SEAPLANE RAMP NEAR APRON.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 05
+download (232KB)
+RNAV (GPS) RWY 17
+download (223KB)
+RNAV (GPS) RWY 23
+download (226KB)
+
+NOTE: Special Alternate Minimums apply
+download (25KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KFFA - First Flight Airport (6 nm N)
+7W6 - Hyde County Airport (25 nm SW)
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (31 nm NW)
+KONX - Currituck County Regional Airport (33 nm NW)
+KHSE - Billy Mitchell Airport (41 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Taken in June 2009
+from 3000' altitude looking East.
+
+Do you have a better or more recent aerial photo of Dare County Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Dare County Regional Airport?
+Find the distance to fly.
+From 
+to KMQI
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4511:45
+Sunrise07:1212:12
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:58:05
+Local (UTC-5)19-Jan-2024 15:58:05
+
+
+
+
+   
+
+METAR
+
+
+KMQI192050Z AUTO 32015G24KT 10SM BKN050 OVC070 08/00 A2977 RMK AO2 T00811002
+
+KFFA6nm N192045Z AUTO 30013G21KT 10SM SCT060 OVC070 08/01 A2974 RMK AO2 T00790006
+
+K2DP17nm SW191955Z AUTO 31011G20KT 10SM M 11/00 A2969 RMK AO2 SLPNO T01050002 $
+
+
+
+
+
+TAF
+
+
+KECG32nm NW191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Dare County Regional Airport
+
+
+
+252-475-5575252-475-5570[web site][email]
+
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Passenger terminal and lounge, ...
+
+
+
+More info about Dare County Regional Airport
+
+
+
+
+
+100LL Jet AFS$5.80$5.70SS$5.50---Updated 18-Jan-2024
+
+
+
+
+4readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dare County Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Dare County Regional Airport
+
+
+
+www.darenc.com/Airport
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

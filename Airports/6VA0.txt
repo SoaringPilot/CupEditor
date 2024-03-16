@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6VA0 - Remo Private Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1438 users online
+ 
+
+
+
+
+6VA0
+ Remo Private AirportReidville, Virginia, USA 
+
+
+
+
+
+
+GOING TO REIDVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6VA0
+Lat/Long:37-49-07.4740N 076-19-03.8030W37-49.124567N 076-19.063383W37.8187428,-76.3177231(estimated)
+Elevation:13 ft. / 4 m (estimated)
+Variation:10W (1990)
+From city:3 miles SW of REIDVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22473
+
+Airport Operations
+
+Airport use:CLOSED INDEFINITELY
+Activation date:02/1992
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W75 (14 nm SW):118.45 (804-758-8592)
+WX AWOS-3 at TGI (15 nm E):119.8 (757-891-2246)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PXTr182/28.4PATUXENT VORTAC117.6010W
+HCMr047/29.0HARCUM VORTAC108.8007W
+CCVr342/32.1CAPE CHARLES VORTAC112.2010W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT182/28.340010WNHK-. .... -.-
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:1400 x 40 ft. / 427 x 12 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:STANLEY OGINZPINK DOGWOOD FARMHADENSVILLE, VA 23067Phone 804-457-2244
+Manager:MICHAEL L. COOK2015 STAPLES MILL RDRICHMOND, VA 23230Phone 804-359-5854
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-(ARPT STATUS) ARPT CLSD INDEFLY.
+
+Instrument Procedures
+There are no published instrument procedures at 6VA0.
+Some nearby airports with instrument procedures:
+W75 - Hummel Field Airport (14 nm SW)
+KTGI - Tangier Island Airport (15 nm E)
+W41 - Crisfield-Somerset County Airport (26 nm NE)
+KXSA - Tappahannock/Essex County Airport (27 nm W)
+KFYJ - Middle Peninsula Regional Airport (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Remo Private Airport?
+Find the distance to fly.
+From 
+to 6VA0
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:1322:13
+Evening civil twilight17:4222:42
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:46:52
+Local (UTC-5)19-Jan-2024 16:46:52
+
+
+
+
+   
+
+METAR
+
+
+KW7514nm SW192135Z AUTO 31011G23KT 10SM BKN017 OVC050 01/M03 A2985 RMK AO1 T00081026
+
+KTGI15nm E192135Z AUTO 29026G30KT 2 1/2SM BKN008 OVC012 01/00 A2981 RMK AO1 P0001 T00110001
+
+KNUI20nm N192138Z AUTO 30012G20KT 2 1/2SM -SN BR SCT012 BKN019 OVC075 00/M02 A2984 RMK AO2 P0000 T00001017
+
+KNHK27nm N192059Z 29013G19KT 2SM -SN SCT013 BKN019 OVC024 01/M02 A2981 RMK AO2 SFC VIS 3 P0000 T00111022 $
+
+KXSA27nm W192135Z AUTO 31005KT 10SM SCT019 BKN050 BKN065 01/M02 A2987 RMK AO2 T00051023
+
+KFYJ28nm SW192135Z AUTO 00000KT 10SM SCT080 01/M04 A2987 RMK AO1 T00101037
+
+KMFV28nm SE192135Z AUTO 29020G27KT 7SM -SN OVC009 00/M01 A2979 RMK AO2 T00021012
+
+
+
+
+
+TAF
+
+
+KNHK27nm N1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Remo Private Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Remo Private Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

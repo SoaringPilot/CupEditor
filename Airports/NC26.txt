@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC26 - Long Island Airpark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1539 users online
+ 
+
+
+
+
+NC26
+ Long Island AirparkCatawba, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CATAWBA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC26
+Lat/Long:35-39-38.6700N 080-58-24.0200W35-39.644500N 080-58.400333W35.6607417,-80.9733389(estimated)
+Elevation:864 ft. / 263.3 m (surveyed)
+Variation:05W (1985)
+From city:6 miles SE of CATAWBA, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28609
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1964
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:ACTVT RWY 05/23 LIRL ON 122.9.
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at SVH (6 nm N):119.225 (704-873-1978)
+WX AWOS-3 at IPJ (14 nm SW):119.675 (704-735-6954)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr140/18.0BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr003/28.2CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA024/29.626006WGHJ--. .... .---
+FIDDLERS102/34.139107WFIQ..-. .. --.-
+FIRST RIVER057/39.241706WSLP... .-.. .--.
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:3000 x 100 ft. / 914 x 30 m
+Surface:turf
+Runway edge lights:low intensity
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LONG ISLAND AIRPARK HOMEOWNERS ASSOP.O. BOX 281SHERRILLS FORD, NC 28673Phone 877-359-6226
+Manager:LONG ISLAND HOA BOARD OF DIRECTORSP.O. BOX 281SHERRILLS FORD, NC 28673Phone 877-359-6226
+
+Airport Operational Statistics
+
+Aircraft based on the field:30Single engine airplanes:27Multi engine airplanes:3
+Aircraft operations: avg 83/month100%local general aviation
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+-RWY 23 PREF FOR TKOFS AND LNDGS DUE TO UPHILL SLP.
+
+Instrument Procedures
+There are no published instrument procedures at NC26.
+Some nearby airports with instrument procedures:
+14A - Lake Norman Airpark (5 nm SE)
+KSVH - Statesville Regional Airport (6 nm N)
+KIPJ - Lincolnton-Lincoln County Regional Airport (14 nm SW)
+KHKY - Hickory Regional Airport (21 nm W)
+KJQF - Concord-Padgett Regional Airport (21 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Bob Perkins from a 1939 Waco.
+Taken in the Spring of 2010
+looking southwest.
+
+Do you have a better or more recent aerial photo of Long Island Airpark that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Long Island Airpark?
+Find the distance to fly.
+From 
+to NC26
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3722:37
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:27:55
+Local (UTC-5)19-Jan-2024 16:27:55
+
+
+
+
+   
+
+METAR
+
+
+KSVH5nm N192105Z AUTO 29014G24KT 10SM CLR 03/M10 A2999 RMK AO2 T00251096
+
+KIPJ14nm SW192105Z AUTO 29009G19KT 250V310 10SM SCT055 03/M09 A3000 RMK AO2 T00341090
+
+
+
+
+
+TAF
+
+
+KHKY21nm W191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Long Island Airpark, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Long Island Airpark
+
+
+
+www.longislandairpark.com/airparkInfo.shtml
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

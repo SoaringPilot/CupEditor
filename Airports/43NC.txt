@@ -1,0 +1,345 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 43NC - Bahnson Gliderport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1601 users online
+ 
+
+
+
+
+43NC
+ Bahnson GliderportMocksville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOCKSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:43NC
+Lat/Long:36-01-15.0000N 080-30-59.0000W36-01.250000N 080-30.983333W36.0208333,-80.5163889(estimated)
+Elevation:810 ft. / 247 m (estimated)
+Variation:07W (1995)
+From city:7 miles NE of MOCKSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27028
+
+Gliderport Operations
+
+Gliderport use:Private use. Permission required prior to landing
+Activation date:01/2000
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:yes
+
+Gliderport Communications
+
+WX ASOS at INT (16 nm NE):PHONE 336-661-3096
+WX AWOS-3 at EXX (18 nm SE):119.825 (336-956-2967)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr270/26.2GREENSBORO VORTAC116.2003W
+BZMr081/36.3BARRETTS MOUNTAIN VOR/DME113.7506W
+
+Gliderport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:3000 x 100 ft. / 914 x 30 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftright
+
+Gliderport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MARY LOUISE BAHNSON2078 HI-WAY 801NMOCKSVILLE, NC 27028Phone 828-216-8062
+Manager:ROBERT HILLS5201 FERN RIDGE DR.WINSTON-SALEM, NC 27104Phone 248-778-8468
+
+Gliderport Operational Statistics
+
+Aircraft based on the field:17Single engine airplanes:2Gliders airplanes:15
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+-MUCH OF FIELD IS UNUSBL IN JAN/FEB DUE TO LACK OF WATER DRAINAGE.
+
+Instrument Procedures
+There are no published instrument procedures at 43NC.
+Some nearby airports with instrument procedures:
+8A7 - Twin Lakes Airport (7 nm SE)
+KINT - Smith Reynolds Airport (16 nm NE)
+KEXX - Davidson County Executive Airport (18 nm SE)
+KZEF - Elkin Municipal Airport (20 nm NW)
+KRUQ - Mid-Carolina Regional Airport (22 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Bahnson Gliderport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bahnson Gliderport?
+Find the distance to fly.
+From 
+to 43NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3422:34
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:14
+Local (UTC-5)19-Jan-2024 15:44:14
+
+
+
+
+   
+
+METAR
+
+
+KINT16nm NE191954Z 31017G26KT 10SM BKN060 04/M10 A2991 RMK AO2 PK WND 30032/1904 SLP131 T00441100
+
+KEXX18nm SE192025Z AUTO 28009G19KT 240V360 10SM CLR 06/M08 A2993 RMK AO2 T00571076
+
+KRUQ22nm S192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+KSVH27nm SW192025Z AUTO 31016G23KT 10SM CLR 04/M10 A2997 RMK AO2 T00381100
+
+KMWK27nm N192025Z AUTO 30009G21KT 270V350 10SM OVC050 01/M10 A2994 RMK AO2 T00111101
+
+KGSO28nm E191954Z 31020G34KT 10SM FEW055 05/M09 A2988 RMK AO2 PK WND 30041/1906 SLP119 T00501089
+
+KUKF31nm NW192025Z AUTO 28011G17KT 10SM BKN047 OVC055 01/M09 A3000 RMK AO2
+
+
+
+
+
+TAF
+
+
+KINT16nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bahnson Gliderport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bahnson Gliderport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

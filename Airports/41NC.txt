@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 41NC - Sloop Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1446 users online
+ 
+
+
+
+
+41NC
+ Sloop AirportKannapolis, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KANNAPOLIS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:41NC
+Lat/Long:35-31-18.5000N 080-31-19.2000W35-31.308333N 080-31.320000W35.5218056,-80.5220000(estimated)
+Elevation:794 ft. / 242 m (estimated)
+Variation:06W (1995)
+From city:7 miles E of KANNAPOLIS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28138
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at RUQ (7 nm N):118.175 (704-637-6197)
+WX AWOS-3 at JQF (12 nm SW):133.675 (704-785-2145)
+WX AWOS-3 at EXX (19 nm NE):119.825 (336-956-2967)
+WX AWOS-3 at VUJ (19 nm E):128.175 (704-986-2097)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr052/28.9CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY193/12.827506WRU.-. ..-
+STONIA064/36.926006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 4/22
+
+Dimensions:2000 x 100 ft. / 610 x 30 m
+Surface:turf
+RUNWAY 4RUNWAY 22
+Traffic pattern:rightleft
+Obstructions:25 ft. pline, 300 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DANNY H. SLOOP6070 OLD BEATTY FORD ROADROCKWELL, NC 28138-7634Phone 704-232-0006
+Manager:DANNY H. SLOOP6070 OLD BEATTY FORD ROADROCKWELL, NC 28138-7634Phone 704-232-0006
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 41NC.
+Some nearby airports with instrument procedures:
+KRUQ - Mid-Carolina Regional Airport (7 nm N)
+KJQF - Concord-Padgett Regional Airport (12 nm SW)
+KEXX - Davidson County Executive Airport (19 nm NE)
+KVUJ - Stanly County Airport (19 nm E)
+14A - Lake Norman Airpark (19 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken by Danny Sloop.
+
+Do you have a better or more recent aerial photo of Sloop Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Sloop Airport?
+Find the distance to fly.
+From 
+to 41NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:54:02
+Local (UTC-5)19-Jan-2024 16:54:02
+
+
+
+
+   
+
+METAR
+
+
+KRUQ8nm N192130Z AUTO 32009G15KT 280V340 10SM CLR 04/M09 A2998 RMK AO2 T00371094
+
+KJQF13nm SW192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+KEXX19nm NE192125Z AUTO 29011G18KT 220V340 10SM CLR 04/M09 A2998 RMK AO2 T00381086
+
+KVUJ19nm E192125Z AUTO 30004G15KT 10SM CLR 06/M08 A3000 RMK AO2 T00571084
+
+
+
+
+
+TAF
+
+
+KCLT28nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Sloop Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Sloop Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

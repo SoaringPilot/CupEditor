@@ -1,0 +1,306 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 75NR - Hamptonville Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1569 users online
+ 
+
+
+
+
+75NR
+ Hamptonville AirportHamptonville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HAMPTONVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:75NR
+Lat/Long:36-05-31.2500N 080-47-20.3100W36-05.520833N 080-47.338500W36.0920139,-80.7889750(estimated)
+Elevation:1028 ft. / 313 m (estimated)
+From city:2 miles SE of HAMPTONVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27020
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/2016
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at UKF (17 nm NW):126.625 (336-696-3788)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr065/25.7BARRETTS MOUNTAIN VOR/DME113.7506W
+GSOr277/39.5GREENSBORO VORTAC116.2003W
+
+Airport Services
+
+
+Runway Information
+Runway 2/20
+
+Dimensions:1913 x 60 ft. / 583 x 18 m
+Surface:turf
+RUNWAY 2RUNWAY 20
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MATTHEW BROWN2136 KRISTY DRIVEHAMPTONVILLE, NC 27020-7874Phone 336-374-8732
+Manager:MATTHEW BROWN2136 KRISTY DRIVEHAMPTONVILLE, NC 27020-7874Phone 336-374-8732
+
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 75NR.
+Some nearby airports with instrument procedures:
+KZEF - Elkin Municipal Airport (11 nm N)
+KUKF - Wilkes County Airport (17 nm NW)
+8A7 - Twin Lakes Airport (19 nm SE)
+KSVH - Statesville Regional Airport (21 nm S)
+KMWK - Mount Airy/Surry County Airport (25 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hamptonville Airport?
+Find the distance to fly.
+From 
+to 75NR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:14:43
+Local (UTC-5)19-Jan-2024 16:14:43
+
+
+
+
+   
+
+METAR
+
+
+KUKF17nm NW192045Z AUTO 31008G27KT 280V350 10SM BKN047 BKN055 01/M10 A3001 RMK AO2
+
+KSVH22nm S192045Z AUTO 30014G22KT 10SM CLR 03/M10 A2998 RMK AO2 T00301096
+
+KMWK25nm NE192045Z AUTO 30012G21KT 280V340 10SM BKN050 01/M10 A2995 RMK AO2 T00071100
+
+KINT28nm E192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+KRUQ30nm SE192050Z AUTO 29011G19KT 250V320 10SM CLR 04/M09 A2995 RMK AO2 T00421095
+
+KEXX30nm SE192045Z AUTO 30012G22KT 10SM SCT060 05/M08 A2995 RMK AO2 T00501076
+
+
+
+
+
+TAF
+
+
+KINT28nm E191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hamptonville Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hamptonville Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

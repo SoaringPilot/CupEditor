@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA83 - Fincastle Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1599 users online
+ 
+
+
+
+
+VA83
+ Fincastle AirportFincastle, Virginia, USA 
+
+
+
+
+
+
+GOING TO FINCASTLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA83
+Lat/Long:37-31-20.4740N 079-51-07.1530W37-31.341233N 079-51.119217W37.5223539,-79.8519869(estimated)
+Elevation:1140 ft. / 347 m (estimated)
+Variation:07W (1990)
+From city:2 miles N of FINCASTLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24090
+
+Airport Operations
+
+Airport use:Private use, PERSONAL USE.
+Activation date:04/1993
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ROA (13 nm SW):PHONE 540-265-0680
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr035/(13.3)WOODRUM VOR114.9008W
+ROAr048/14.9ROANOKE VOR/DME109.4004W
+LYHr304/33.5LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON012/19.127708WVIT...- .. -
+TECH062/32.336808WTEC- . -.-.
+
+Airport Services
+
+
+Runway Information
+Runway 11/29
+
+Dimensions:3039 x 150 ft. / 926 x 46 m
+Surface:turf
+RUNWAY 11RUNWAY 29
+Traffic pattern:leftleft
+Obstructions:none150 ft. hills, 2000 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GEORGE P MOORE JR.RD 2 BOX 61FINCASTLE, VA 24090Phone 703-473-3183
+Manager:CHRIS MOORERD 2 BOX 61FINCASTLE, VA 24090Phone (703) 473-3183
+
+Airport Operational Statistics
+
+Aircraft based on the field:6Single engine airplanes:5Multi engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at VA83.
+Some nearby airports with instrument procedures:
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (13 nm SW)
+KHSP - Ingalls Field Airport (26 nm N)
+W91 - Smith Mountain Lake Airport (28 nm SE)
+W90 - New London Airport (29 nm SE)
+KBCB - Virginia Tech/Montgomery Executive Airport (33 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Fincastle Airport?
+Find the distance to fly.
+From 
+to VA83
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3312:33
+Sunset17:2822:28
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:07:23
+Local (UTC-5)19-Jan-2024 16:07:23
+
+
+
+
+   
+
+METAR
+
+
+KROA13nm SW192054Z 29015G24KT 10SM BKN042 M01/M07 A2992 RMK AO2 PK WND 30033/2004 SLP141 T10061072 51032 $
+
+
+
+
+
+TAF
+
+
+KROA13nm SW191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Fincastle Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Fincastle Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

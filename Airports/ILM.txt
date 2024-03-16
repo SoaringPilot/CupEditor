@@ -1,0 +1,544 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KILM - Wilmington International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1471 users online
+ 
+
+
+
+
+KILM
+ Wilmington International AirportWilmington, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WILMINGTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ILM
+Lat/Long:34-16-16.1000N 077-54-10.4000W34-16.268333N 077-54.173333W34.2711389,-77.9028889(estimated)
+Elevation:31.7 ft. / 9.7 m (surveyed)
+Variation:10W (2020)
+From city:3 miles NE of WILMINGTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28405
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1937
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATIONFSS-RALEIGH RDU-NOTAM ILM
+NOTAMs facility:ILM (NOTAM-D service available)
+Attendance:CONTINUOUS
+Pattern altitude:TPA: 1000 FT AGL RECIPROCATING ENGINE, 1500 FT AGL TBJT/JET. OHD: 5 MILE INITIAL 2500 FT AGL, BREAK 2000 FT AGL. TOWER CALLS DRCTN OF BREAK. CARRIER BREAK NA.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MALSR RWY 24 & 35; REIL RWY 06 & 17; PAPI RWY 06, 17, 24; HIRL RWY 06/24 & 17/35; AND ALL TWY LGTS - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index B
+International operations:customs landing rights airport 
+
+Airport Communications
+
+CTAF:119.9
+UNICOM:122.95
+ATIS:124.975
+WX ASOS:PHONE 910-254-5254
+WILMINGTON GROUND:121.9 348.6 [0600-2300]
+WILMINGTON TOWER:119.9 239.3 [0600-2300]
+WILMINGTON APPROACH:118.25 ;164-343 135.75 ;344-163 284.65 ;164-343 317.425 ;344-163 [0600-2300]
+WILMINGTON DEPARTURE:118.25 ;164-343 135.75 ;344-163 284.65 ;164-343 317.425 ;344-163 [0600-2300]
+EMERG:121.5 243.0
+TRSA:118.25 ;164-343 135.75 ;344-163 284.65 ;164-343 317.425 ;344-163
+VFR ADZY:119.9 239.3
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 124.025/269.15 (WILMINGTON RCAG)  WHEN WILMINGTON APCH CTL CLSD.
+TWR PH #910-815-4530 X220.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ILMr203/5.0WILMINGTON VORTAC117.0007W
+
+
+NDBnameHdg/DistFreqVarID
+AIRLI349/5.128110WIL.. .-..
+WILZE239/6.020510WGM--. --
+
+Airport Services
+
+Fuel available:100LL JET-A JET-A+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:HIGH/LOW
+
+Runway Information
+Runway 6/24
+
+Dimensions:8016 x 150 ft. / 2443 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 78 /F/B/W/TSingle wheel:75.0Double wheel:160.0Double tandem:275.0
+Runway edge lights:high intensity
+RUNWAY 6RUNWAY 24
+Latitude:34-15.713047N34-16.591130N
+Longitude:077-54.618382W077-53.428677W
+Elevation:21.0 ft.20.2 ft.
+Traffic pattern:leftleft
+Runway heading:058 magnetic, 048 true238 magnetic, 228 true
+Declared distances:TORA:8016 TODA:8016 ASDA:8016 LDA:8016TORA:8016 TODA:8016 ASDA:8016 LDA:8016
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on right (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdown, rollouttouchdown, rollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yesno
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DMEILS
+
+Runway 17/35
+
+Dimensions:7754 x 150 ft. / 2363 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 61 /F/B/W/TSingle wheel:60.0Double wheel:185.0Double tandem:300.0
+Runway edge lights:high intensity
+RUNWAY 17RUNWAY 35
+Latitude:34-16.987627N34-15.792463N
+Longitude:077-54.601528W077-54.055325W
+Elevation:30.9 ft.18.3 ft.
+Traffic pattern:leftleft
+Runway heading:169 magnetic, 159 true349 magnetic, 339 true
+Displaced threshold:350 ft.400 ft.
+Declared distances:TORA:7754 TODA:7754 ASDA:6954 LDA:6604TORA:7754 TODA:7754 ASDA:7604 LDA:7204
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:rollouttouchdown
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:NEW HANOVER COUNTY1740 AIRPORT BLVDWILMINGTON, NC 28405Phone 910-341-4333
+Manager:JEFFREY BOURK, A.A.E.1740 AIRPORT BLVDWILMINGTON, NC 28405Phone 910-341-4333EXT 1001.
+
+Airport Operational Statistics
+
+Aircraft based on the field:107Single engine airplanes:67Multi engine airplanes:11Jet airplanes:21Helicopters:8
+Aircraft operations: avg 223/day*39%transient general aviation20%local general aviation18%commercial12%military12%air taxi* for 12-month period ending 30 April 2023
+Additional Remarks
+
+-FUEL:  AIR WILMINGTON, INC, 910-763-4691
+-BEARING STRENGTH RWY 06-24: ST175
+-BEARING STRENGTH RWY 17-35: ST175
+-FOR CD IF UNA TO CTC ON FSS FREQ, CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS Y OR LOC RWY 06
+download (268KB)
+ILS Y OR LOC RWY 24
+download (256KB)
+ILS Y OR LOC RWY 35
+download (252KB)
+ILS Z RWY 06
+download (237KB)
+ILS Z RWY 24
+download (226KB)
+ILS Z RWY 35
+download (223KB)
+ILS Y RWY 24 (SA CAT I - II)
+download (276KB)
+RNAV (GPS) RWY 06
+download (262KB)
+RNAV (GPS) RWY 17
+download (245KB)
+RNAV (GPS) RWY 24
+download (250KB)
+RNAV (GPS) RWY 35
+download (255KB)
+TACAN-A
+download (191KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KSUT - Cape Fear Regional Jetport/Howie Franklin Field Airport (22 nm SW)
+KACZ - Henderson Field Airport (27 nm N)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (35 nm NE)
+KOAJ - Albert J Ellis Airport (36 nm NE)
+KEYF - Curtis L Brown Jr. Field Airport (39 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Miyuki Cook
+Photo taken 16-Apr-2017
+looking east.
+
+Do you have a better or more recent aerial photo of Wilmington International Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Wilmington International Airport?
+Find the distance to fly.
+From 
+to KILM
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1712:17
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:09:48
+Local (UTC-5)19-Jan-2024 17:09:48
+
+
+
+
+   
+
+METAR
+
+
+KILM192153Z 29019G27KT 10SM SCT070 13/00 A2984 RMK AO2 PK WND 30027/2153 SLP104 T01280000
+
+
+
+
+
+TAF
+
+
+KILM191732Z 1918/2018 28016G26KT P6SM FEW040 FM200000 31012G18KT P6SM SKC FM200300 31008KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+ASRI 130.40910-763-0146[web site][email]
+
+Modern Aviation Wilmington has over 100,800 square feet of hangar space, staffed by NATA Safety First Trained and IS-BAH Stage I certified Line Technicians 24 hours, 7 days a week all year round.
+
+
+
+More info and photos of Modern Aviation (formerly Air Wilmington)
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.96$5.95GUARANTEED
+
+
+
+
+5readwrite
+
+
+
+
+
+
+ASRI 130.325910-260-4933[web site][email]
+
+Welcome to the newest FBO on the KILM field.
+
+
+
+More info and photos of Aero Center Wilmington
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.87$5.87GUARANTEED
+
+
+
+
+4readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wilmington International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wilmington International Airport
+
+
+
+www.flyilm.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

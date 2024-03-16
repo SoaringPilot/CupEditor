@@ -1,0 +1,306 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR02 - Jordan Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1572 users online
+ 
+
+
+
+
+NR02
+ Jordan Field AirportMount Gilead, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOUNT GILEAD?
+
+
+ 
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR02
+Lat/Long:35-14-16.0000N 079-59-44.0000W35-14.266667N 079-59.733333W35.2377778,-79.9955556(estimated)
+Elevation:600 ft. / 183 m (estimated)
+From city:1 mile NE of MOUNT GILEAD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27306
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/2007
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:JONESBORO FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at VUJ (13 nm NW):128.175 (704-986-2097)
+WX AWOS-3 at AFP (14 nm S):119.325 (704-695-0623)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SDZr277/20.0SANDHILLS VORTAC111.8003W
+CTFr024/37.8CHESTERFIELD VOR/DME114.5503W
+LIBr212/39.2LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLE349/39.223008WBES-... . ...
+
+Airport Services
+
+
+Runway Information
+Runway 4/22
+
+Dimensions:3900 x 70 ft. / 1189 x 21 m
+Surface:turf
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftleft
+Obstructions:100 ft. trees, 20 ft. from runway100 ft. trees, 20 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JORDAN LUMBER COMPANY1939 N. C. 109 S.MOUNT GILEAD, NC 27306Phone 910-439-6121
+Manager:JACK JORDAN1939 N. C.109 S.MOUNT GILEAD, NC 27306Phone (910) 439-8127
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NR02.
+Some nearby airports with instrument procedures:
+KVUJ - Stanly County Airport (13 nm NW)
+43A - Montgomery County Airport (13 nm NE)
+KAFP - Anson County Airport - Jeff Cloud Field (14 nm S)
+KRCZ - Richmond County Airport (24 nm SE)
+KHBI - Asheboro Regional Airport (25 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Jordan Field Airport?
+Find the distance to fly.
+From 
+to NR02
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:3422:34
+Evening civil twilight18:0123:01
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:21:23
+Local (UTC-5)19-Jan-2024 16:21:23
+
+
+
+
+   
+
+METAR
+
+
+KVUJ13nm NW192045Z AUTO 31008G20KT 10SM CLR 07/M09 A2997 RMK AO2 T00691086
+
+KAFP14nm S192050Z AUTO 30017G24KT 10SM SCT075 09/M10 A2993 RMK AO2 T00891101
+
+KRCZ24nm SE192050Z AUTO 31016G22KT 10SM SCT075 09/M07 A2990 RMK AO2 T00901074
+
+KHBI25nm N191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+
+
+
+
+TAF
+
+
+KCLT47nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KPOB48nm E192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Jordan Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Jordan Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

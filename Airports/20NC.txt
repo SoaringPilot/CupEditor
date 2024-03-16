@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 20NC - Mountain View Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1464 users online
+ 
+
+
+
+
+20NC
+ Mountain View AirportSherrills Ford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SHERRILLS FORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:20NC
+Lat/Long:35-35-32.4820N 081-03-21.2800W35-35.541367N 081-03.354667W35.5923561,-81.0559111(estimated)
+Elevation:1020 ft. / 311 m (estimated)
+Variation:05W (1990)
+From city:6 miles NW of SHERRILLS FORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28650
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1994
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at IPJ (8 nm SW):119.675 (704-735-6954)
+WX AWOS-3 at SVH (11 nm NE):119.225 (704-873-1978)
+WX ASOS at HKY (19 nm NW):118.325 (828-322-2996)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr158/18.9BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr353/24.7CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA018/24.626006WGHJ--. .... .---
+FIDDLERS110/30.839107WFIQ..-. .. --.-
+FIRST RIVER058/33.541706WSLP... .-.. .--.
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:2000 x 50 ft. / 610 x 15 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:R A JEFFORDS JR3545 MT BEULAH RDSHERRILLS FORD, NC 28673Phone 704-483-4330
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 20NC.
+Some nearby airports with instrument procedures:
+14A - Lake Norman Airpark (8 nm E)
+KIPJ - Lincolnton-Lincoln County Regional Airport (8 nm SW)
+KSVH - Statesville Regional Airport (11 nm NE)
+KHKY - Hickory Regional Airport (19 nm NW)
+KJQF - Concord-Padgett Regional Airport (21 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mountain View Airport?
+Find the distance to fly.
+From 
+to 20NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3722:37
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:36:11
+Local (UTC-5)19-Jan-2024 16:36:11
+
+
+
+
+   
+
+METAR
+
+
+KIPJ8nm SW192105Z AUTO 29009G19KT 250V310 10SM SCT055 03/M09 A3000 RMK AO2 T00341090
+
+KSVH11nm NE192105Z AUTO 29014G24KT 10SM CLR 03/M10 A2999 RMK AO2 T00251096
+
+KHKY19nm NW192053Z 30009G21KT 10SM FEW043 02/M07 A2998 RMK AO2 SLP147 T00171072 51030
+
+
+
+
+
+TAF
+
+
+KHKY19nm NW191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+KCLT23nm S191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mountain View Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mountain View Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

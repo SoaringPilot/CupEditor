@@ -1,0 +1,457 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W96 - New Kent County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1444 users online
+ 
+
+
+
+
+W96
+ New Kent County AirportQuinton, Virginia, USA 
+
+
+
+
+
+
+GOING TO QUINTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W96
+Lat/Long:37-30-12.3460N 077-07-35.6100W37-30.205767N 077-07.593500W37.5034294,-77.1265583(estimated)
+Elevation:120.7 ft. / 36.8 m (surveyed)
+Variation:10W (2005)
+From city:8 miles W of QUINTON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23141
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1938
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:0900-1700
+Pattern altitude:920.7 ft. MSL
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 11 & 29; MIRL RWY 11/29 - CTAF.
+Beacon:white-green (lighted land airport)ROTG BCN NOT VISIBLE WHEN APPROACHING FM THE NORTH. Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.875 (804-932-8863)
+POTOMAC APPROACH:126.4
+POTOMAC DEPARTURE:126.4
+WX ASOS at RIC (9 nm W):PHONE 804-236-1091
+WX AWOS-3 at FYJ (17 nm E):132.825 (804-785-2307)
+WX ASOS at OFP (19 nm NW):119.025 (804-752-2902)
+WX AWOS-3PT at FCI (20 nm W):128.625 (804-271-8426)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RICr099/9.2RICHMOND VORTAC114.1009W
+HPWr003/10.5HOPEWELL VORTAC114.3506W
+HCMr286/20.0HARCUM VORTAC108.8007W
+FAKr099/33.4FLAT ROCK VORTAC113.3006W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD000/31.827411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL100LL:FUEL AVBL 24 HRS, CREDIT CARD REQUIRED WHEN UNATTENDED.
+Parking:hangars and tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 11/29
+
+Dimensions:3602 x 75 ft. / 1098 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 11RUNWAY 29
+Latitude:37-30.237100N37-30.174408N
+Longitude:077-07.963902W077-07.223118W
+Elevation:120.7 ft.107.5 ft.
+Traffic pattern:leftleft
+Runway heading:106 magnetic, 096 true286 magnetic, 276 true
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Visual slope indicator:2-light PAPI on right (4.00 degrees glide path)2-light PAPI on left (4.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:5 ft. road, 258 ft. from runway, 9 ft. both sides of centerline, 11:1 slope to clearRWY 11 - ROADWAY +15 FT 260 FT FM RWY END.20 ft. trees, 438 ft. from runway, 165 ft. right of centerline, 11:1 slope to clear13 FT BRUSH, 101 FT RIGHT OF CTRLN ON APCH AT THLD.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY OF NEW KENTP. O. BOX 150, 12007 COURT HOUSE CIRCLENEW KENT, VA 23124Phone 804-966-9683
+Manager:DUANE GOSS6901 TERMINAL RDQUINTON, VA 23141-2427Phone 804-932-3984
+
+Airport Operational Statistics
+
+Aircraft based on the field:30Single engine airplanes:28Multi engine airplanes:1Jet airplanes:1
+Aircraft operations: avg 55/day*68%transient general aviation25%local general aviation7%air taxi* for 12-month period ending 31 December 2022
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 11
+download (223KB)
+RNAV (GPS) RWY 29
+download (252KB)
+VOR-A
+download (227KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (155KB)
+
+Other nearby airports with instrument procedures:
+KRIC - Richmond International Airport (9 nm W)
+KFYJ - Middle Peninsula Regional Airport (17 nm E)
+KOFP - Hanover County Municipal Airport (19 nm NW)
+KFCI - Richmond Executive-Chesterfield County Airport (20 nm W)
+KXSA - Tappahannock/Essex County Airport (24 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of New Kent County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to New Kent County Airport?
+Find the distance to fly.
+From 
+to W96
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2212:22
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:38:06
+Local (UTC-5)19-Jan-2024 16:38:06
+
+
+
+
+   
+
+METAR
+
+
+KW96192115Z AUTO 31007G16KT 10SM SCT032 BKN060 OVC070 02/M04 A2984 RMK AO1 T00231040
+
+KRIC9nm W192054Z 33016G24KT 10SM SCT028 BKN070 03/M04 A2984 RMK AO2 SLP110 60000 T00281039 53033
+
+KFYJ17nm E192115Z AUTO 30008G18KT 10SM SCT025 SCT030 SCT080 02/M03 A2985 RMK AO1 T00151035
+
+KOFP19nm NW192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+KFCI20nm W192056Z AUTO 31014G17KT 10SM FEW029 OVC065 02/M03 A2983 RMK AO2 SLP116 T00221028 53031 FZRANO
+
+
+
+
+
+TAF
+
+
+KRIC9nm W191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+New Kent County Airport
+
+
+
+UNICOM 122.80804-932-3984[web site][email]
+
+Tie Downs, Enclosed Hangars and Open Bay Hangars available...Call for pricing.NOTICE: There are no ultralight aircraft operations at the airport. The RIC FSDO has been notified of this correction.
+
+
+
+More info about New Kent County Airport
+
+
+
+
+
+100LLSS$5.99Updated 26-Dec-2023
+
+
+
+
+1readwrite
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the New Kent County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about New Kent County Airport
+
+
+
+www.co.newkent.state.va.us/index.aspx?NID=177
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

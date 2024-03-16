@@ -1,0 +1,323 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 62NC - Hickory Hill Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1550 users online
+ 
+
+
+
+
+62NC
+ Hickory Hill AirportHavelock, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HAVELOCK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:62NC
+Lat/Long:34-56-12.5750N 076-56-40.7960W34-56.209583N 076-56.679933W34.9368264,-76.9446656(estimated)
+Elevation:30 ft. / 9 m (estimated)
+Variation:08W (1985)
+From city:4 miles N of HAVELOCK, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28560
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1974
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at EWN (9 nm NW):118.525 (252-514-2086)
+WX ASOS at MRH (19 nm SE):135.375 (252-728-2055)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+EWNr157/9.6NEW BERN VOR/DME113.6008W
+ISOr136/39.8KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+KATFI136/8.436208WEW. .--
+CHOCOWINITY175/35.338808WRNW.-. -. .--
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:2200 x 100 ft. / 671 x 30 m
+Surface:asphalt/turfCNTR 30' ASPH FULL LENGTH.
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftright
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOHN TYLER JACKSON TRUSTP. O. BOX 300BEAUFORT, NC 28516Phone 252-670-8500
+Manager:JERRY A JACKSONP. O. BOX 300BEAUFORT, NC 28516Phone 252-670-8500
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-LAND BY PERMISSION
+-LOCATED INSIDE CHERRY PT. AIRPORT TRAFFIC AREA; CONTACT CHERRY PT TOWER ON 121.3 PRIOR TO ENTERING AIRPORT TRAFFIC AREA
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 62NC.
+Some nearby airports with instrument procedures:
+KNKT - Cherry Point Marine Corps Air Station (Cunningham Field) Airport (4 nm SE)
+KEWN - Coastal Carolina Regional Airport (9 nm NW)
+KMRH - Michael J Smith Field Airport (19 nm SE)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (28 nm SW)
+KOAJ - Albert J Ellis Airport (33 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hickory Hill Airport?
+Find the distance to fly.
+From 
+to 62NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1512:15
+Sunset17:2222:22
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:17:54
+Local (UTC-5)19-Jan-2024 16:17:54
+
+
+
+
+   
+
+METAR
+
+
+KNKT5nm SE192056Z 28015G23KT 10SM BKN065 12/01 A2978 RMK AO2 PK WND 29026/2037 SLP080 T01220006 53017
+
+KEWN9nm NW192054Z 29014G26KT 10SM BKN085 12/M01 A2978 RMK AO2 PK WND 27026/2049 SLP084 T01221006 53017
+
+KNJM17nm S192057Z AUTO 31010G18KT 260V320 8SM BKN060 OVC075 12/02 A2978 RMK AO2 SLP089 T01220022 53016
+
+KMRH19nm SE192058Z AUTO 30015KT 10SM FEW055 OVC075 13/03 A2977 RMK AO2 SLP080 T01330033 53016
+
+
+
+
+
+TAF
+
+
+KNKT5nm SE1915/2015 27012G22KT 9999 BKN060 521609 522509 523406 QNH2977INS BECMG 1916/1918 30015G28KT SCT050 510009 520909 521809 522709 523604 QNH2972INS FM200000 32015G25KT 9999 SKC 510009 520909 521809 522709 523604 QNH2988INS BECMG 2007/2009 32013KT 521609 522509 523406 QNH3007INS TEMPO 2012/2015 33015G22KT T13/1919Z TM03/2010Z 
+
+KEWN9nm NW191727Z 1918/2018 29014G26KT P6SM SCT050 FM200300 30010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hickory Hill Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hickory Hill Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,410 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KEDE - Northeastern Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1439 users online
+ 
+
+
+
+
+KEDE
+ Northeastern Regional AirportEdenton, North Carolina, USA 
+
+
+
+
+
+
+GOING TO EDENTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:EDE
+Lat/Long:36-01-42.9240N 076-34-11.1630W36-01.715400N 076-34.186050W36.0285900,-76.5697675(estimated)
+Elevation:18.7 ft. / 5.7 m (surveyed)
+Variation:10W (2000)
+From city:3 miles SE of EDENTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27932
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:EDE (NOTAM-D service available)
+Attendance:0800-1700FOR AFTER HOURS SERVICE CALL 252-217-4975.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:PAPI RYS 01& 19 OPER CONT. ACTVT MIRL RY 1/19 AND REIL RYS 01 & 19 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:118.275 (252-482-0757)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr241/23.5ELIZABETH CITY VOR/DME115.7507W
+CVIr154/25.3COFIELD VORTAC114.6009W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE233/19.325410WLLW.-.. .-.. .--
+
+Airport Services
+
+Fuel available:100LL JET-A1+A1+:JET A TRUCK AVAILABLE WITH SINGLE POINT AND OVER THE WING FILLING100LL:AFTER HRS SELF SERVICE FUEL FOR 100LL AND A1+ AVBL WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:6001 x 100 ft. / 1829 x 30 mRY 01/19 HAS 1500 FT STOPWAY AT N END & 500 FT STOPWAY AT S END.
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:60.0Double wheel:80.0
+Runway edge lights:medium intensity
+RUNWAY 1RUNWAY 19
+Latitude:36-01.220892N36-02.209893N
+Longitude:076-34.185113W076-34.186980W
+Elevation:17.5 ft.17.3 ft.
+Traffic pattern:leftleft
+Runway heading:010 magnetic, 000 true190 magnetic, 180 true
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on right (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:78 ft. trees, 2182 ft. from runway, 272 ft. left of centerline, 25:1 slope to clear36 ft. trees, 1131 ft. from runway, 561 ft. right of centerline, 25:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF EDENTONPO BOX 300EDENTON, NC 27932Phone (252) 482-2155
+Manager:HARRY DAVIS113 AIRPORT ROADEDENTON, NC 27932Phone 252-482-4664
+
+Airport Operational Statistics
+
+Aircraft based on the field:19Single engine airplanes:17Multi engine airplanes:1Helicopters:1
+Aircraft operations: avg 38/day*50%transient general aviation43%local general aviation4%military4%air taxi* for 12-month period ending 08 July 2023
+Additional Remarks
+
+-SEASONAL PROBLEM WITH BIRDS & DEER ON & INVOF ARPT.
+-TWYS SERVING RY 01/19 HAVE GREEN CNTRLN REFLECTORS AND NSTD SOLAR LGTS.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 19
+download (288KB)
+RNAV (GPS) RWY 01
+download (195KB)
+RNAV (GPS) RWY 19
+download (282KB)
+
+NOTE: Special Alternate Minimums apply
+download (24KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KPMZ - Plymouth Municipal Airport (16 nm SW)
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (24 nm NE)
+KMCZ - Martin County Airport (31 nm W)
+KASJ - Tri-County Airport at Henry Joyner Field (33 nm NW)
+KONX - Currituck County Regional Airport (35 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 22-Nov-2007
+
+Do you have a better or more recent aerial photo of Northeastern Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Northeastern Regional Airport?
+Find the distance to fly.
+From 
+to KEDE
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:39:20
+Local (UTC-5)19-Jan-2024 16:39:20
+
+
+
+
+   
+
+METAR
+
+
+KEDE192110Z AUTO 33014G20KT 10SM SCT050 OVC080 09/02 A2981 RMK AO2 T00850019
+
+
+
+
+
+TAF
+
+
+KECG24nm NE191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Edenton Aviation Services
+
+252-482-4664
+
+
+no information available
+If you are affiliated with Edenton Aviation Services and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AAS$6.50---FS---$5.50Updated 11-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+AS=Assisted/Self ServiceFS=Full service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+J.H. Sanders Jr. Aviation Services
+
+252-435-4028[web site][email]
+
+Aircraft maintenance, Internet access
+
+
+
+More info about J.H. Sanders Jr. Aviation Services
+
+
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Northeastern Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Northeastern Regional Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,470 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KDAN - Danville Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1596 users online
+ 
+
+
+
+
+KDAN
+ Danville Regional AirportDanville, Virginia, USA 
+
+
+
+
+
+
+GOING TO DANVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:DAN
+Lat/Long:36-34-20.9000N 079-20-10.5000W36-34.348333N 079-20.175000W36.5724722,-79.3362500(estimated)
+Elevation:571.1 ft. / 174.1 m (surveyed)
+Variation:09W (2010)
+From city:3 miles E of DANVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24586
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/1937
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DAN (NOTAM-D service available)
+Attendance:MON-FRI 0700-1900,  ALL SAT-SUN 0700-1900ARPT UNATTND CHRISTMAS DAY
+Pattern altitude:TPA 800 FT AGL LGT ACFT; 1500 FT AGL TURBINE ACFT.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT HIRL RY 02/20, MIRL RY 13/31, REIL RYS 13, 31, & 20, MALSR RY 02, VASI RY 13, & PAPIS RYS 02, 20, & 31 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.05
+WX ASOS:128.125 (434-799-1701)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 124.05/352.0 (SOUTH BOSTON RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+DAN at fieldDANVILLE VOR113.1006W
+SBVr253/16.7SOUTH BOSTON VORTAC110.4005W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER068/23.542307WSIF... .. ..-.
+PERSON335/24.222008WHUR.... ..- .-.
+HUNTSBORO304/38.327109WHXO.... -..- ---
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 2/20
+
+Dimensions:5900 x 100 ft. / 1798 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Single wheel:90.0Double wheel:130.0
+Runway edge lights:high intensity
+RUNWAY 2RUNWAY 20
+Latitude:36-33.775873N36-34.708968N
+Longitude:079-20.488862W079-20.150287W
+Elevation:535.6 ft.564.6 ft.
+Traffic pattern:leftleft
+Runway heading:025 magnetic, 016 true205 magnetic, 196 true
+Displaced threshold:no300 ft.
+Declared distances:TORA:5600 TODA:5900 ASDA:5600 LDA:5600TORA:5900 TODA:5900 ASDA:5900 LDA:5600
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:53 ft. tree, 2255 ft. from runway, 750 ft. left of centerline, 38:1 slope to clear129 ft. tree, 4436 ft. from runway, 552 ft. right of centerline, 32:1 slope to clearSLP TO DTHR 39:1.
+
+Runway 13/31
+
+Dimensions:3910 x 100 ft. / 1192 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:90.0Double wheel:130.0
+Runway edge lights:medium intensity
+RUNWAY 13RUNWAY 31
+Latitude:36-34.691188N36-34.325965N
+Longitude:079-20.284113W079-19.625885W
+Elevation:571.1 ft.527.8 ft.
+Traffic pattern:leftleft
+Runway heading:134 magnetic, 125 true314 magnetic, 305 true
+Markings:basic, in good conditionnonprecision, in good condition
+Visual slope indicator:2-box VASI on left (3.00 degrees glide path)2-light PAPI on left (4.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:120 ft. tree, 2708 ft. from runway, 429 ft. left of centerline, 20:1 slope to clear19 ft. trees, 464 ft. from runway, 61 ft. left of centerline, 13:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF DANVILLEPO BOX 3300DANVILLE, VA 24543Phone 434-799-5110
+Manager:MARC ADELMAN424 AIRPORT DRIVEDANVILLE, VA 24540Phone 434-799-5110
+
+Airport Operational Statistics
+
+Aircraft based on the field:38Single engine airplanes:35Multi engine airplanes:1Jet airplanes:1Helicopters:1
+Aircraft operations: avg 64/day*50%transient general aviation50%local general aviation<1%military* for 12-month period ending 31 July 2023
+Additional Remarks
+
+-BIRDS & DEER ON & INVOF ARPT.
+-RY 02 IS DESIGNATED CALM WIND RY.
+-CTC ARPT ADMIN PRIOR TO CONDUCTING SPECIALIZED AERO ACTIVITIES 434-799-5110.
+-TREES PENETRATING 7:1 TRANSITIONAL SURFACE, RY 31 BOTH SIDES, FIRST 1000 FT.
+-FOR CD IF UNA TO CTC ON FSS FREQ, CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 02
+download (225KB)
+RNAV (GPS) RWY 02
+download (219KB)
+RNAV (GPS) RWY 20
+download (234KB)
+RNAV (GPS) RWY 31
+download (188KB)
+
+NOTE: Special Alternate Minimums apply
+download (147KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (219KB)
+
+Other nearby airports with instrument procedures:
+KTDF - Raleigh Regional Airport at Person County (24 nm SE)
+W78 - William M Tuck Airport (25 nm E)
+KSIF - Rockingham County NC Shiloh Airport (26 nm W)
+KBUY - Burlington/Alamance Regional Airport (32 nm S)
+KMTV - Blue Ridge Airport (33 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo courtesy of AirNav, LLC
+Photo taken 03-Nov-2013
+looking northwest.
+
+Do you have a better or more recent aerial photo of Danville Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Danville Regional Airport?
+Find the distance to fly.
+From 
+to KDAN
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2822:28
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:57:54
+Local (UTC-5)19-Jan-2024 15:57:54
+
+
+
+
+   
+
+METAR
+
+
+KDAN192053Z AUTO 28016G26KT 10SM BKN037 04/M09 A2991 RMK AO2 PK WND 28027/1955 SLP127 T00391089 51040
+
+
+
+
+
+TAF
+
+
+KDAN191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+AU Aviation Services
+
+
+
+UNICOM 123.05434-791-7232[web site][email]
+
+Aviation fuel, Aircraft ground handling, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Passenger terminal and lounge, Flight training, ...
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+More info about AU Aviation Services
+
+
+
+
+
+100LL Jet AFS$6.22$6.00GUARANTEED
+
+
+
+
+4readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Danville Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Danville Regional Airport
+
+
+
+www.ci.danville.va.us/...
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

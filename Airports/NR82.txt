@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR82 - Carolina Bay Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1617 users online
+ 
+
+
+
+
+NR82
+ Carolina Bay AirportWhiteville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WHITEVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR82
+Lat/Long:34-05-50.0000N 078-43-11.0000W34-05.833333N 078-43.183333W34.0972222,-78.7197222(estimated)
+Elevation:50 ft. / 15 m (estimated)
+From city:11 miles S of WHITEVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28455
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/2011
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Pattern altitude:1100 ft. MSL
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at CPC (11 nm N):118.375 (910-642-7508)
+WX ASOS at CRE (17 nm S):119.625 (843-361-2802)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CREr004/17.0GRAND STRAND VORTAC114.4003W
+
+
+NDBnameHdg/DistFreqVarID
+CAMP189/10.622707WCPC-.-. .--. -.-.
+DILLON132/38.527409WDLC-.. .-.. -.-.
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:2000 x 100 ft. / 610 x 30 m
+Surface:turf, in good condition
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MILTON R. WARD9782 LEBANON CHURCH RD.CLARENDON, NC 28432Phone 910-840-7957
+Manager:MILTON R. WARD9782 LEBANON CHURCH RD.CLARENDON, NC 28432Phone 910-840-7957
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Aircraft operations: 55/year55%local general aviation45%transient general aviation
+Additional Remarks
+
+-FOR CD CTC MYRTLE BEACH APCH AT 843-477-2727 OR 843-477-2704, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at NR82.
+Some nearby airports with instrument procedures:
+5J9 - Twin City Airport (7 nm W)
+KCPC - Columbus County Municipal Airport (11 nm N)
+KCRE - Grand Strand Airport (17 nm S)
+KHYW - Conway-Horry County Airport (26 nm SW)
+KMYR - Myrtle Beach International Airport (27 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Milt Ward
+Taken in September 2016
+
+Do you have a better or more recent aerial photo of Carolina Bay Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Airport distance calculator
+
+
+Flying to Carolina Bay Airport?
+Find the distance to fly.
+From 
+to NR82
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2012:20
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:49:48
+Local (UTC-5)19-Jan-2024 15:49:48
+
+
+
+
+   
+
+METAR
+
+
+KCPC10nm N192030Z AUTO 31011KT 10SM SCT050 BKN065 BKN080 13/01 A2983 RMK AO2 T01290010
+
+KCRE17nm S191953Z 28009G22KT 10SM FEW060 15/02 A2978 RMK AO1 PK WND 29028/1933 SLP086 T01500022
+
+
+
+
+
+TAF
+
+
+KCRE17nm S191732Z 1918/2018 28012G23KT P6SM FEW040 FM200000 32011G19KT P6SM SKC FM200600 32009KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Carolina Bay Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Carolina Bay Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

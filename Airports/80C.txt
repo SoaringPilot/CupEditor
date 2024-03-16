@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 80C - Lone Hickory Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1538 users online
+ 
+
+
+
+
+80C
+ Lone Hickory AirportYadkinville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO YADKINVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:80C
+Lat/Long:36-03-37.8520N 080-41-24.3600W36-03.630867N 080-41.406000W36.0605144,-80.6901000(estimated)
+Elevation:1015 ft. / 309 m (estimated)
+Variation:06W (1995)
+From city:6 miles S of YADKINVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27055
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:12/1997
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr073/29.1BARRETTS MOUNTAIN VOR/DME113.7506W
+GSOr274/34.6GREENSBORO VORTAC116.2003W
+
+Airport Services
+
+
+Runway Information
+Runway 16/34
+
+Dimensions:2000 x 60 ft. / 610 x 18 m
+Surface:turf, in excellent condition
+RUNWAY 16RUNWAY 34
+Latitude:36-03.773400N36-03.488333N
+Longitude:080-41.508000W080-41.304000W
+Elevation:943.0 ft.1015.0 ft.
+Traffic pattern:leftleft
+Runway heading:156 magnetic, 150 true336 magnetic, 330 true
+Obstructions:10 ft. road, 6 ft. from runway, 25 ft. left and right of centerline, 1:1 slope to clear89 ft. trees, 519 ft. from runway, 95 ft. left of centerline, 5:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:HAROLD DEAN HOLCOMB1205 RUNWAY TRAILYADKINVILLE, NC 27055Phone (336) 468-0641
+Manager:HAROLD DEAN HOLCOMB1205 RUNWAY TRAILYADKINVILLE, NC 27055Phone (336) 468-0641
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Aircraft operations: avg 46/month*91%local general aviation9%transient general aviation* for 12-month period ending 08 July 2022
+Additional Remarks
+
+-ACFT OPERATING FM PINEY RIDGE ARPT 1.3 MI NW.
+-UNMARKED PLINES 500-1000 FT N RWY 16 THR.
+-RWY 16/34 HAS 3% GRADE; WINDS PERMITTING TKOF RWY 16 LND RWY 34.
+-NO FLIGHT TRAINING OR STUDENT PILOTS; ONLY EXPERIENCED PILOTS PERMITTED.
+-RWY 16 DEPARTURES MAKE LEFT TURN FOR NOISE & OBSTRUCTION AVOIDANCE.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+-RWY CLOSED TO TURBINE AIRCRAFT AND GROSS WEIGHTS GREATER THAN 5000 POUNDS EXCEPT WITH PRIOR PERMISSION (DUE TO SOFT TURF).
+-RWY 16 APCH HAS 62 FT TREE 111 FT FM RWY END OFFSET 73 FT LEFT.
+
+Instrument Procedures
+There are no published instrument procedures at 80C.
+Some nearby airports with instrument procedures:
+KZEF - Elkin Municipal Airport (14 nm N)
+8A7 - Twin Lakes Airport (14 nm SE)
+KSVH - Statesville Regional Airport (22 nm SW)
+KUKF - Wilkes County Airport (22 nm NW)
+KINT - Smith Reynolds Airport (23 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lone Hickory Airport?
+Find the distance to fly.
+From 
+to 80C
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:27:24
+Local (UTC-5)19-Jan-2024 16:27:24
+
+
+
+
+   
+
+METAR
+
+
+KUKF22nm NW192105Z AUTO 30007G17KT 280V360 10SM SCT049 BKN055 00/M10 A3003 RMK AO2
+
+KSVH23nm SW192105Z AUTO 29014G24KT 10SM CLR 03/M10 A2999 RMK AO2 T00251096
+
+KINT23nm E192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+KEXX25nm SE192105Z AUTO 29011G17KT 260V350 10SM SCT060 04/M08 A2996 RMK AO2 T00381084
+
+KMWK25nm N192105Z AUTO 30009G22KT 10SM SCT046 SCT050 01/M10 A2997 RMK AO2 T00081104
+
+KRUQ26nm S192110Z AUTO 29011G20KT 10SM CLR 04/M10 A2997 RMK AO2 T00381096
+
+KGSO36nm E192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KHKY38nm SW192053Z 30009G21KT 10SM FEW043 02/M07 A2998 RMK AO2 SLP147 T00171072 51030
+
+KJQF41nm S192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+KGEV42nm NW192105Z AUTO 31011G21KT 290V350 2SM -SN OVC021 M06/M10 A2987 RMK AO2 VIS 1 1/2V3 T10581101
+
+
+
+
+
+TAF
+
+
+KINT23nm E191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lone Hickory Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lone Hickory Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 11VG - Devil's Reach Landing Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1594 users online
+ 
+
+
+
+
+11VG
+ Devil's Reach Landing AirportOak Grove, Virginia, USA 
+
+
+
+
+
+
+GOING TO OAK GROVE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:11VG
+Lat/Long:38-12-34.0000N 077-00-02.0000W38-12.566667N 077-00.033333W38.2094444,-77.0005556(estimated)
+Elevation:28 ft. / 9 m (estimated)
+From city:2 miles N of OAK GROVE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22443
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/2004
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BRVr124/18.3BROOKE VORTAC114.5009W
+PXTr271/28.7PATUXENT VORTAC117.6010W
+ADWr200/36.4ANDREWS VORTAC113.1010W
+DCAr187/39.0WASHINGTON VOR/DME111.0009W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON109/21.523710WEZF. --.. ..-.
+DAVEE178/27.622309WDAA-.. .- .-
+PATUXENT271/28.540010WNHK-. .... -.-
+OXONN189/33.433211WDCA-.. -.-. .-
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:1800 x 70 ft. / 549 x 21 m
+Surface:turf
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+Obstructions:50 ft. pline20 ft. trees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LARRY SPROUSE2986 KINGS HWY SUITE HOAK GROVE, VA 22443Phone 804-224-2406
+Manager:LARRY SPROUSE/ARTHUR NEWLON2986 KINGS HWY SUITE HOAK GROVE, VA 22443Phone 804-224-2406
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:1Ultralights:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 11VG.
+Some nearby airports with instrument procedures:
+KEZF - Shannon Airport (21 nm W)
+KXSA - Tappahannock/Essex County Airport (22 nm S)
+2W6 - St Mary's County Regional Airport (22 nm E)
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (23 nm NW)
+2W5 - Maryland Airport (24 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Devil's Reach Landing Airport?
+Find the distance to fly.
+From 
+to 11VG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2312:23
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:00:23
+Local (UTC-5)19-Jan-2024 16:00:23
+
+
+
+
+   
+
+METAR
+
+
+KEZF21nm W192035Z AUTO 31011KT 10SM BKN055 BKN070 OVC120 01/M02 A2984 RMK AO2 T00091024
+
+KXSA22nm S192055Z AUTO 30003KT 10SM -SN SCT014 SCT046 OVC065 00/M02 A2985 RMK AO2 T00021017
+
+KNYG22nm NW192020Z AUTO 31008KT 4SM HZ OVC055 00/ A2985 RMK AO2 SNE18 P0000 T0000 $
+
+K2W622nm E192050Z AUTO 00000KT 4SM OVC008 00/M01 A2983 RMK AO1
+
+KRMN24nm NW192035Z AUTO 31004KT 10SM SCT039 SCT050 OVC060 00/M04 A2984 RMK AO2 T00001045
+
+KNUI27nm E192053Z AUTO 32009G21KT 290V350 3SM -SN BR BKN013 BKN030 OVC043 00/M02 A2981 RMK AO2 PRESRR SLP093 P0000 60004 T00001017 53032
+
+KNHK29nm E192052Z 29014KT 3SM -SN SCT009 BKN013 OVC024 01/M02 A2981 RMK AO2 SLP094 P0000 60001 T00111017 53029 $
+
+KDAA31nm N192023Z AUTO 30014KT 9SM -RA FEW014 BKN033 OVC043 00/M03 A2980 RMK AO2 SNE07UPB07E10RAB10 SLP095 $
+
+KOFP37nm SW192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+KADW37nm N192034Z 30010KT 4SM -SN OVC014 M00/M03 A2979 RMK CIG 014V019 OVC V FEW CIG 011 RWY19L PRESRR SLP097 $
+
+
+
+
+
+TAF
+
+
+KNYG22nm NW1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Devil's Reach Landing Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Devil's Reach Landing Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

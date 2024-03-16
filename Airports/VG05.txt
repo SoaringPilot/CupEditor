@@ -1,0 +1,326 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG05 - Payne Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1443 users online
+ 
+
+
+
+
+VG05
+ Payne AirportKents Store, Virginia, USA 
+
+
+
+
+
+
+GOING TO KENTS STORE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG05
+Lat/Long:37-52-46.5120N 078-03-26.9970W37-52.775200N 078-03.449950W37.8795867,-78.0574992(estimated)
+Elevation:463 ft. / 141 m (estimated)
+Variation:09W (1995)
+From city:4 miles NE of KENTS STORE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23084
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1997
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at LKU (9 nm NE):119.475 (540-967-1983)
+WX AWOS-3 at 7W4 (16 nm E):120.775 (540-872-0303)
+WX AWOS-3 at GVE (17 nm N):120.225 (540-832-2095)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GVEr157/9.2GORDONSVILLE VORTAC115.6006W
+FAKr339/23.7FLAT ROCK VORTAC113.3006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR202/35.235110WMSQ-- ... --.-
+SHANNON241/36.923710WEZF. --.. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 8/26
+
+Dimensions:2300 x 135 ft. / 701 x 41 m
+Surface:turf, in good condition
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Obstructions:50 ft. trees, 500 ft. from runway50 ft. trees, 500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:PHILLIP THOMAS COON5370 MARTIN ROADKENTS STORE, VA 23084Phone 804-514-3662
+Manager:PHILLIP THOMAS COON5370 MARTIN ROADKENTS STORE, VA 23084Phone 804-514-3662
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VG05.
+Some nearby airports with instrument procedures:
+KLKU - Louisa County Airport/Freeman Field (9 nm NE)
+7W4 - Lake Anna Airport (16 nm E)
+KGVE - Gordonsville Municipal Airport (17 nm N)
+KOMH - Orange County Airport (22 nm N)
+KCHO - Charlottesville-Albemarle Airport (24 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Payne Airport?
+Find the distance to fly.
+From 
+to VG05
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2612:26
+Sunset17:2022:20
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:41:06
+Local (UTC-5)19-Jan-2024 16:41:06
+
+
+
+
+   
+
+METAR
+
+
+KLKU9nm NE192055Z AUTO 31012G18KT 10SM SCT035 BKN060 OVC085 01/M05 A2985 RMK AO2 T00141045 60001
+
+K7W416nm E192115Z AUTO 35005KT 2 1/2SM SCT007 BKN028 OVC036 00/M02 A2986 RMK AO1 T00041021
+
+KGVE17nm N192115Z AUTO 00000KT 10SM SCT044 SCT055 BKN095 01/M05 A2985 RMK AO1 T00121052
+
+
+
+
+
+TAF
+
+
+KCHO24nm NW191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Payne Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Payne Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

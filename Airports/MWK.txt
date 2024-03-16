@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KMWK - Mount Airy/Surry County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1466 users online
+ 
+
+
+
+
+KMWK
+ Mount Airy/Surry County AirportMount Airy, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOUNT AIRY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:MWK
+Lat/Long:36-27-40.9020N 080-33-11.5570W36-27.681700N 080-33.192617W36.4613617,-80.5532103(estimated)
+Elevation:1268.9 ft. / 386.8 m (surveyed)
+Variation:07W (1995)
+From city:3 miles SE of MOUNT AIRY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27030
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1968
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:MWK (NOTAM-D service available)
+Attendance:ALL/ALL/0800- (EARLIER OF) 1800 LOCAL OR SS.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 18 & 36; PAPI RWY 18 & 36; MIRL RWY 18/36 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:121.125 (336-789-2299)
+GREENSBORO APPROACH:124.35
+GREENSBORO DEPARTURE:124.35
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr315/37.4GREENSBORO VORTAC116.2003W
+PSKr174/38.4PULASKI VORTAC116.8006W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER284/38.542307WSIF... .. ..-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 18/36
+
+Dimensions:5500 x 75 ft. / 1676 x 23 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:PCN 8  /F/B/X/TSingle wheel:27.0Double wheel:42.0
+Runway edge lights:medium intensity
+RUNWAY 18RUNWAY 36
+Latitude:36-28.131702N36-27.231712N
+Longitude:080-33.258470W080-33.126773W
+Elevation:1268.9 ft.1208.5 ft.
+Traffic pattern:leftleft
+Runway heading:180 magnetic, 173 true000 magnetic, 353 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on right (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:58 ft. trees, 1245 ft. from runway, 217 ft. left of centerline, 18:1 slope to clearCHURCH STEEPLE.63 ft. other, 1840 ft. from runway, 103 ft. left of centerline, 26:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF MOUNT AIRY & SURRY COUNTY146 HOWARD WOLTZ JR. WAYMOUNT AIRY, NC 27030-9020Phone 336-401-8201
+Manager:GEORGE CRATER146 HOWARD WOLTZ JR. WAYMOUNT AIRY, NC 27030-9020Phone 336-789-5153
+
+Airport Operational Statistics
+
+Aircraft based on the field:28Single engine airplanes:21Multi engine airplanes:3Jet airplanes:4
+Aircraft operations: avg 47/day*52%local general aviation41%transient general aviation6%air taxi1%military* for 12-month period ending 08 May 2021
+Additional Remarks
+
+-RWY 36 SLOPES UPHILL 34 FEET.
+-AFTER HOURS SERVICE AVAILABLE/POSTED ON PHONE BOX.
+-RWY 36 - 50 FT DROP-OFF 300 FT FM THR AND 150 FT RIGHT & LEFT OF CNTRLN.
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+-RWY HAS 100 FT DROP-OFFS 90 FT FM CNTRLN  BOTH SIDES AND 300 FT FM THR.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 18
+download (255KB)
+RNAV (GPS) RWY 36
+download (232KB)
+
+NOTE: Special Alternate Minimums apply
+download (155KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (142KB)
+
+Other nearby airports with instrument procedures:
+KZEF - Elkin Municipal Airport (16 nm SW)
+N63 - Meadow Brook Field Airport (22 nm SE)
+KHLX - Twin County Airport (22 nm NW)
+KINT - Smith Reynolds Airport (25 nm SE)
+KMTV - Blue Ridge Airport (28 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Grant Gordon of Plane Fun Aviation, LLC
+Photo taken 05-May-2012
+looking north.
+
+Do you have a better or more recent aerial photo of Mount Airy/Surry County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mount Airy/Surry County Airport?
+Find the distance to fly.
+From 
+to KMWK
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3322:33
+Evening civil twilight18:0123:01
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:36:32
+Local (UTC-5)19-Jan-2024 16:36:32
+
+
+
+
+   
+
+METAR
+
+
+KMWK192105Z AUTO 30009G22KT 10SM SCT046 SCT050 01/M10 A2997 RMK AO2 T00081104
+
+
+
+
+
+TAF
+
+
+KINT26nm SE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+City of Mount Airy and Surry County Airport Authority
+
+336-789-5153[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Passenger terminal and lounge, Rental cars delivered, ...
+
+
+
+More info about City of Mount Airy and Surry County Airport Authority
+
+
+
+
+
+Phillips 66100LL Jet AFS$5.12$5.82SS$5.12---Updated 17-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mount Airy/Surry County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mount Airy/Surry County Airport
+
+
+
+www.mascairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

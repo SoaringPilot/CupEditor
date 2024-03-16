@@ -1,0 +1,461 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KOAJ - Albert J Ellis Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+KOAJ
+ Albert J Ellis AirportJacksonville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO JACKSONVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:OAJ
+Lat/Long:34-49-45.0000N 077-36-43.7000W34-49.750000N 077-36.728333W34.8291667,-77.6121389(estimated)
+Elevation:92.9 ft. / 28.3 m (surveyed)
+Variation:08W (1990)
+From city:10 miles NW of JACKSONVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28574
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/1971
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:OAJ (NOTAM-D service available)
+Attendance:0500-2400
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 05; REIL RWY 23; PAPI RWY 05 & 23; HIRL RWY 05/23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index B
+Airline operations:CLSD TO UNSKED ACR OPNS WITH MORE THAN 30 PSGR SEATS EXCP PPR CALL AMGR 910-324-1100 OR 910-989-3168.
+
+Airport Communications
+
+CTAF:132.65
+UNICOM:122.95
+ATIS:124.475
+WX AWOS-3PT:PHONE 910-324-5233
+ELLIS TOWER GROUND:125.4 [0700-2200]
+ELLIS TOWER TOWER:132.65 [0700-2200]
+WILMINGTON APPROACH:135.75
+WILMINGTON DEPARTURE:135.75
+CLEARANCE DELIVERY:125.4 121.4 ;WHEN TWR CLSD
+WX ASOS at NCA (11 nm SE):288.325
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 135.75/269.15 (WILMINGTON RCAG) WHEN WILMINGTON APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ILMr031/31.4WILMINGTON VORTAC117.0007W
+EWNr250/31.5NEW BERN VOR/DME113.6008W
+ISOr190/32.6KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+ELLAS052/6.626108WOA--- .-
+CLINTON112/37.941209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL JET-A100LL:FOR FUEL OTHER HRS CALL 910-347-8366.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:7100 x 150 ft. / 2164 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 51 /F/A/W/TSingle wheel:120.0Double wheel:211.0Double tandem:388.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:34-49.331452N34-50.167698N
+Longitude:077-37.224467W077-36.231462W
+Elevation:88.9 ft.90.4 ft.
+Traffic pattern:leftleft
+Runway heading:052 magnetic, 044 true232 magnetic, 224 true
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:ONSLOW COUNTY234 NW CORRIDOR BLVDJACKSONVILLE, NC 28540Phone 910-347-4717
+Manager:CHRISTOPHER WHITE264 ELLIS AIRPORT RDRICHLANDS, NC 28574Phone 910-324-1100
+
+Airport Operational Statistics
+
+Aircraft based on the field:26Single engine airplanes:22Multi engine airplanes:1Helicopters:3
+Aircraft operations: avg 66/day*40%military17%local general aviation16%transient general aviation15%commercial12%air taxi* for 12-month period ending 31 July 2023
+Additional Remarks
+
+-180 DEG TURNS ON RWY 05/23 NA FOR ACFT 60000 LBS AND OVER.
+-CLSD TO ALL MIL ACFT OVER 17000 LBS FOR ACR RAMP OPNS EXCP 24 HR PPR. CALL AMGR 910-324-1100 OR 910-989-3168.
+-INDEX B ARFF COVERAGE PROVIDED DURING COMMERCIAL AIR TRC OPS. INDEX C AVAILABLE UPON REQ.
+-FIELD CONDITIONS NOT MONITORED 0000LCL-0500LCL DAILY.
+-FOR CD WHEN ATCT CLSD, CTC WILMINGTON APCH AT 910-815-4676, OR WHEN APCH CLSD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05
+download (364KB)
+RNAV (GPS) RWY 05
+download (291KB)
+RNAV (GPS) RWY 23
+download (253KB)
+
+NOTE: Special Alternate Minimums apply
+download (25KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (11 nm SE)
+KACZ - Henderson Field Airport (20 nm W)
+KDPL - Duplin County Airport (21 nm NW)
+KISO - Kinston Regional Jetport at Stallings Field (30 nm N)
+W40 - Mount Olive Municipal Airport (32 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Gisela Schiffler from Bremen, Germany
+Photo taken 30-Sep-2005
+taken in left turn after departure from runway 5
+
+Do you have a better or more recent aerial photo of Albert J Ellis Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Albert J Ellis Airport?
+Find the distance to fly.
+From 
+to KOAJ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1712:17
+Sunset17:2522:25
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:07
+Local (UTC-5)19-Jan-2024 15:44:07
+
+
+
+
+   
+
+METAR
+
+
+KOAJ191956Z 29008G16KT 260V320 10SM SCT049 BKN060 OVC075 13/01 A2977 RMK AO2 SLP082 T01280011
+
+KNCA10nm SE191956Z 30017G25KT 10SM FEW048 BKN060 OVC070 13/02 A2975 RMK AO2 PK WND 31027/1944 SLP077 T01280017
+
+KACZ20nm W192025Z AUTO 30012G19KT 10SM OVC065 13/01 A2979 RMK AO2 T01280012
+
+
+
+
+
+TAF
+
+
+KOAJ191727Z 1918/2018 29015G26KT P6SM SCT050 FM200300 31009G18KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KNCA10nm SE1915/2015 27014G26KT 9999 FEW030 QNH2977INS FM191600 29018G33KT 9999 FEW060 QNH2973INS FM200100 31011G21KT 9999 SKC QNH2999INS T13/1919Z TM04/2010Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.95910-324-2500[web site][email]
+
+Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), GPU / Power cart, Passenger terminal and lounge, ...
+
+
+
+More info and photos of Skyport Aviation
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.30$6.13Updated 16-Jan-2024
+
+
+
+
+6readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Albert J Ellis Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Albert J Ellis Airport
+
+
+
+www.flyoaj.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

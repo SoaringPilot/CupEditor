@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 4VA9 - Pleasantdale Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1461 users online
+ 
+
+
+
+
+4VA9
+ Pleasantdale Field AirportRixeyville, Virginia, USA 
+
+
+
+
+
+
+GOING TO RIXEYVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:4VA9
+Lat/Long:38-34-08.4420N 077-55-13.9830W38-34.140700N 077-55.233050W38.5690117,-77.9205508(estimated)
+Elevation:420 ft. / 128 m (estimated)
+Variation:09W (1985)
+From city:3 miles E of RIXEYVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22737
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1978
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:0900-1700
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at CJR (4 nm SE):119.325 (540-727-0523)
+WX AWOS-3 at HWY (10 nm E):120.350 (540-788-4078)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CSNr217/5.0CASANOVA VORTAC116.3006W
+LDNr148/21.7LINDEN VORTAC114.3006W
+BRVr307/30.1BROOKE VORTAC114.5009W
+AMLr232/30.5ARMEL VOR/DME113.5008W
+GVEr024/35.1GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR004/6.935110WMSQ-- ... --.-
+CAVERNS116/27.024509WLUA.-.. ..- .-
+SHANNON319/28.623710WEZF. --.. ..-.
+DAVEE271/38.422309WDAA-.. .- .-
+
+Airport Services
+
+
+Runway Information
+Runway 12/30
+
+Dimensions:1800 x 50 ft. / 549 x 15 m
+Surface:turf
+RUNWAY 12RUNWAY 30
+Traffic pattern:leftleft
+Obstructions:trees, 25 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOHN M. CORRADI17586 RYLAND CHAPEL ROADRIXEYVILLE, VA 22737Phone 540-718-3717
+Manager:JOHN M. CORRADI17586 RYLAND CHAPEL ROADRIXEYVILLE, VA 22737Phone 540-718-3717
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-709-4993.
+
+Instrument Procedures
+There are no published instrument procedures at 4VA9.
+Some nearby airports with instrument procedures:
+KCJR - Culpeper Regional Airport (4 nm SE)
+KHWY - Warrenton/Fauquier Airport (10 nm E)
+KOMH - Orange County Airport (20 nm S)
+KHEF - Manassas Regional Airport/Harry P. Davis Field (21 nm NE)
+KRMN - Stafford Regional Airport (24 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 09-Jun-2012
+looking west. 
+
+Do you have a better or more recent aerial photo of Pleasantdale Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Pleasantdale Field Airport?
+Find the distance to fly.
+From 
+to 4VA9
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:44:04
+Local (UTC-5)19-Jan-2024 16:44:04
+
+
+
+
+   
+
+METAR
+
+
+KHWY10nm E192135Z AUTO 31009G14KT 4SM -SN SCT015 BKN038 OVC060 00/M03 A2987 RMK AO2 T00011032
+
+KCJR10nm W192135Z AUTO 33008KT 10SM BKN060 OVC075 01/M05 A2988 RMK AO2 T00101051
+
+
+
+
+
+TAF
+
+
+KNYG30nm E1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+KIAD31nm NE191727Z 1918/2024 06004KT 1SM -SN BR BKN008 OVC025 TEMPO 1918/1920 1/2SM SN BKN006 FM192000 32006KT 2SM -SHSN BR OVC008 FM192300 32008KT 5SM -SHSN BR OVC025 FM200400 31010G18KT P6SM SCT050 FM202000 30017G30KT P6SM SCT250 
+
+KCHO36nm SW191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+KDAA36nm E191300Z 1913/2019 VRB06KT 9000 -SN OVC008 650089 QNH2971INS TEMPO 1913/1914 0400 +SN OVC003 650039 BECMG 1913/1914 VRB06KT 6000 -SN OVC007 650079 QNH2971INS TEMPO 1914/1921 1600 BR VCSH SCT007 OVC015 630159 BECMG 1920/1921 30008KT 4800 -SN SCT008 OVC015 650157 QNH2983INS BECMG 1923/1924 31006KT 9999 NSW SCT008 OVC015 QNH2986INS BECMG 2003/2004 30006KT 9999 SCT023 OVC035 QNH2995INS BECMG 2010/2011 31009KT 9999 FEW080 QNH3008INS BECMG 2015/2016 30015G20KT 9999 FEW090 FEW120 510053 QNH3016INS TX01/
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Pleasantdale Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Pleasantdale Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

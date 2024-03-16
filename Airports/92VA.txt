@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 92VA - New Quarter Farm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1442 users online
+ 
+
+
+
+
+92VA
+ New Quarter Farm AirportGloucester, Virginia, USA 
+
+
+
+
+
+
+GOING TO GLOUCESTER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:92VA
+Lat/Long:37-20-41.0000N 076-33-52.0000W37-20.683333N 076-33.866667W37.3447222,-76.5644444(estimated)
+Elevation:38 ft. / 12 m (estimated)
+Variation:10W (1990)
+From city:5 miles SW of GLOUCESTER, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23061
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at JGG (10 nm SW):120.625 (757-220-8810)
+WX ASOS at PHF (13 nm S):PHONE 757-874-3682
+WX AWOS-3 at FYJ (14 nm NW):132.825 (804-785-2307)
+WX AWOS-3 at W75 (16 nm N):118.45 (804-758-8592)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr139/9.4HARCUM VORTAC108.8007W
+HPWr094/26.3HOPEWELL VORTAC114.3506W
+CCVr280/27.0CAPE CHARLES VORTAC112.2010W
+ORFr334/32.3NORFOLK VORTAC116.9007W
+RICr114/37.2RICHMOND VORTAC114.1009W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD055/30.127411WAKQ.- -.- --.-
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:3100 x 65 ft. / 945 x 20 m
+Surface:turf, in good condition
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftright
+Obstructions:80 ft. trees, 100 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RICHARD H LEIGH4714 NEW QUARTER FARM LNGLOUCESTER, VA 23061Phone 804-693-4520
+Manager:RICHARD H LEIGH4714 NEW QUARTER FARM LNGLOUCESTER, VA 23061Phone 804-693-4520
+
+Airport Operational Statistics
+
+Aircraft based on the field:6Single engine airplanes:2Ultralights:4
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 92VA.
+Some nearby airports with instrument procedures:
+W94 - Camp Peary Landing Strip Airport (4 nm SW)
+KJGG - Williamsburg-Jamestown Airport (10 nm SW)
+KFAF - Felker Army Airfield (13 nm S)
+KPHF - Newport News/Williamsburg International Airport (13 nm S)
+KFYJ - Middle Peninsula Regional Airport (14 nm NW)
+W75 - Hummel Field Airport (16 nm N)
+KLFI - Langley Air Force Base (18 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by "a friend of Bubba"
+Photo taken 16-Oct-2021
+looking northwest.
+
+Do you have a better or more recent aerial photo of New Quarter Farm Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to New Quarter Farm Airport?
+Find the distance to fly.
+From 
+to 92VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:38:38
+Local (UTC-5)19-Jan-2024 16:38:38
+
+
+
+
+   
+
+METAR
+
+
+KPHF13nm S192054Z 31021G31KT 10SM FEW034 SCT060 OVC075 04/M03 A2981 RMK AO2 PK WND 28031/2012 SLP094 T00391028 53033
+
+KFAF14nm S192055Z 30019G27KT 10SM SCT035 BKN050 BKN060 04/M03 A2978 RMK AO2A PK WND 29030/10 SLP088 60000 T00421027 53035 TSNO $
+
+KFYJ14nm NW192115Z AUTO 30008G18KT 10SM SCT025 SCT030 SCT080 02/M03 A2985 RMK AO1 T00151035
+
+KW7516nm N192115Z AUTO 31014G23KT 10SM BKN017 BKN025 OVC060 01/M02 A2983 RMK AO1 T00121018
+
+KLFI19nm SE192055Z 30012G24KT 10SM FEW038 OVC060 05/M03 A2979 RMK AO2A PK WND 30029/25 PRESRR SLP094 T00461034 53034 $
+
+
+
+
+
+TAF
+
+
+KPHF13nm S191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KFAF14nm S191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KLFI19nm SE191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the New Quarter Farm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about New Quarter Farm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

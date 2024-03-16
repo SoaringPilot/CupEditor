@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 33VA - Fox Fire Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1584 users online
+ 
+
+
+
+
+33VA
+ Fox Fire AirportHalifax, Virginia, USA 
+
+
+
+
+
+
+GOING TO HALIFAX?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:33VA
+Lat/Long:36-47-03.4940N 079-02-59.0510W36-47.058233N 079-02.984183W36.7843039,-79.0497364(estimated)
+Elevation:535 ft. / 163 m (estimated)
+Variation:07W (1985)
+From city:6 miles NW of HALIFAX, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24597
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/1985
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W78 (11 nm SE):119.425 (434-575-0332)
+WX ASOS at DAN (19 nm SW):128.125 (434-799-1701)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr351/6.8SOUTH BOSTON VORTAC110.4005W
+DANr053/(18.9)DANVILLE VOR113.1006W
+LYHr167/29.6LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON009/33.122008WHUR.... ..- .-.
+HUNTSBORO333/35.727109WHXO.... -..- ---
+
+Airport Services
+
+
+Runway Information
+Runway 13/31
+
+Dimensions:1600 x 60 ft. / 488 x 18 m
+Surface:turf
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+Obstructions:treestrees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:HAROLD W. FERRELL1101 FOXFIRE DR.VERNON HILL, VA 24597Phone 804-476-1124
+Manager:HAROLD W. FERRELL1101 FOXFIRE DR.VERNON HILL, VA 24597Phone 804-476-1124
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 33VA.
+Some nearby airports with instrument procedures:
+W78 - William M Tuck Airport (11 nm SE)
+KDAN - Danville Regional Airport (19 nm SW)
+0V4 - Brookneal/Campbell County Airport (22 nm N)
+W63 - Lake Country Regional Airport (26 nm SE)
+KCXE - Chase City Municipal Airport (26 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Fox Fire Airport?
+Find the distance to fly.
+From 
+to 33VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2622:26
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:09:50
+Local (UTC-5)19-Jan-2024 16:09:50
+
+
+
+
+   
+
+METAR
+
+
+KW7811nm SE192055Z AUTO 28012G18KT 10SM SCT055 SCT065 03/M09 A2990 RMK AO1 T00321087
+
+KDAN19nm SW192053Z AUTO 28016G26KT 10SM BKN037 04/M09 A2991 RMK AO2 PK WND 28027/1955 SLP127 T00391089 51040
+
+
+
+
+
+TAF
+
+
+KDAN19nm SW191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Fox Fire Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Fox Fire Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

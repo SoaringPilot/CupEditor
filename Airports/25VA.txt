@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 25VA - Toddsbury Farm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1444 users online
+ 
+
+
+
+
+25VA
+ Toddsbury Farm AirportAylett, Virginia, USA 
+
+
+
+
+
+
+GOING TO AYLETT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:25VA
+Lat/Long:37-49-17.7000N 077-06-45.5000W37-49.295000N 077-06.758333W37.8215833,-77.1126389(estimated)
+Elevation:50 ft. / 15 m (estimated)
+Variation:09W (1985)
+From city:2 miles N of AYLETT, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23148
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1985
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:DAWN-DUSK
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at XSA (11 nm E):125.775 (804-445-8724)
+WX ASOS at OFP (17 nm SW):119.025 (804-752-2902)
+WX AWOS-3 at W96 (19 nm S):119.875 (804-932-8863)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RICr036/21.5RICHMOND VORTAC114.1009W
+HCMr327/29.4HARCUM VORTAC108.8007W
+HPWr006/29.6HOPEWELL VORTAC114.3506W
+BRVr169/32.9BROOKE VORTAC114.5009W
+FAKr069/38.3FLAT ROCK VORTAC113.3006W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON159/31.123710WEZF. --.. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:2800 x 100 ft. / 853 x 30 m
+Surface:turf
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:WILLIAM F. GRIGG8627 CHIPPENHAM RDRICHMOND, VA 23235-1909Phone (804) 564-1234
+Manager:WILLIAM F. GRIGG8627 CHIPPENHAM RDRICHMOND, VA 23235-1909Phone (804) 564-1234
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Ultralights:2
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 25VA.
+Some nearby airports with instrument procedures:
+KXSA - Tappahannock/Essex County Airport (11 nm E)
+KOFP - Hanover County Municipal Airport (17 nm SW)
+W96 - New Kent County Airport (19 nm S)
+KRIC - Richmond International Airport (21 nm SW)
+KFYJ - Middle Peninsula Regional Airport (25 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Toddsbury Farm Airport?
+Find the distance to fly.
+From 
+to 25VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2212:22
+Sunset17:1622:16
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:01:13
+Local (UTC-5)19-Jan-2024 17:01:13
+
+
+
+
+   
+
+METAR
+
+
+KXSA11nm E192155Z AUTO 30003KT 10SM SCT050 00/M03 A2989 RMK AO2 T00011029
+
+KOFP17nm SW192154Z AUTO 35004KT 10SM SCT034 BKN070 OVC120 02/M04 A2990 RMK AO2 SLP125 T00221039
+
+KW9619nm S192155Z AUTO 33005KT 10SM SCT031 SCT035 BKN055 01/M05 A2987 RMK AO1 T00131047
+
+KRIC21nm SW192154Z 32012KT 10SM SCT033 SCT060 BKN120 02/M04 A2987 RMK AO2 SNB39E54 SLP121 P0000 T00221044
+
+
+
+
+
+TAF
+
+
+KRIC21nm SW191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Toddsbury Farm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Toddsbury Farm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

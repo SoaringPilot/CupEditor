@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KDLC - Dillon County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1587 users online
+ 
+
+
+
+
+KDLC
+ Dillon County AirportDillon, South Carolina, USA 
+
+
+
+
+
+
+GOING TO DILLON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:DLC
+Lat/Long:34-26-56.6000N 079-22-06.9000W34-26.943333N 079-22.115000W34.4490556,-79.3685833(estimated)
+Elevation:133.1 ft. / 40.6 m (surveyed)
+Variation:06W (1985)
+From city:3 miles N of DILLON, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29536
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1960
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:yes
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:122.9
+FLORENCE APPROACH:118.6
+FLORENCE DEPARTURE:118.6
+WX AWOS-3 at MAO (16 nm S):119.875 (843-423-4231)
+WX ASOS at LBT (18 nm NE):134.775 (910-739-7120)
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ARTCC ON FREQS 133.45/306.3 (FLORENCE RCAG) WHEN FLORENCE APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr051/19.3FLORENCE VORTAC115.2003W
+
+
+NDBnameHdg/DistFreqVarID
+DILLONat field27409WDLC-.. .-.. -.-.
+JIGEL251/12.838408WJB.--- -...
+BENNETTSVILLE128/20.723008WBES-... . ...
+DARLINGTON095/25.724506WUDG..- -.. --.
+CAMP295/34.222707WCPC-.-. .--. -.-.
+HARTSVILLE093/37.334107WHVS.... ...- ...
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 7/25
+
+Dimensions:3000 x 60 ft. / 914 x 18 m
+Surface:asphalt/aggregate friction seal coat, in fair condition
+Weight bearing capacity:Single wheel:10.0
+Runway edge lights:medium intensity
+RUNWAY 7RUNWAY 25
+Latitude:34-26.834567N34-27.051700N
+Longitude:079-22.383617W079-21.847200W
+Elevation:133.1 ft.117.3 ft.
+Traffic pattern:leftleft
+Runway heading:070 magnetic, 064 true250 magnetic, 244 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:44 ft. pole, 773 ft. from runway, 258 ft. right of centerline, 12:1 slope to clear50 ft. tree, 276 ft. from runway, 135 ft. left of centerline, 1:1 slope to clearRWY 25 APCH HAS LINES OF TREES PARL TO THE RWY 135 FT BOTH SIDES OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:DILLON COUNTYPO BOX 449DILLON, SC 29536Phone (843) 774-1401
+Manager:CASSIE KINNEYPO BOX 449DILLON, SC 29536Phone 843-845-8529
+
+Airport Operational Statistics
+
+
+Aircraft operations: avg 26/month*54%local general aviation36%transient general aviation10%military* for 12-month period ending 08 June 2021
+Additional Remarks
+
+-FOR CD CTC FLORENCE APCH AT 843-665-0632, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+VOR/DME OR GPS RWY 07
+download (170KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KMAO - Marion County Airport (16 nm S)
+KLBT - Lumberton Regional Airport (18 nm NE)
+KMEB - Laurinburg/Maxton Airport (21 nm N)
+KBBP - Marlboro County Jetport - H E Avent Field (21 nm NW)
+KFLO - Florence Regional Airport (24 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Dillon County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Dillon County Airport?
+Find the distance to fly.
+From 
+to KDLC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:3322:33
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:00:44
+Local (UTC-5)19-Jan-2024 16:00:44
+
+
+
+
+   
+
+METAR
+
+
+KMAO16nm S192035Z AUTO 32013G24KT 10SM BKN070 13/00 A2984 RMK AO2
+
+KLBT17nm NE191956Z AUTO 30017G29KT 10SM SCT065 14/01 A2980 RMK AO2 PK WND 28029/1948 SLP092 T01390006
+
+KMEB20nm N192052Z AUTO 32018G37KT 10SM BKN080 11/M06 A2987 RMK AO2 PK WND 34037/2048 SLP115 T01061061 53026
+
+KBBP21nm NW192035Z AUTO 31018G26KT 10SM OVC070 12/M02 A2987 RMK AO2
+
+KFLO24nm SW192053Z 32018G28KT 10SM SCT065 13/M01 A2986 RMK AO2 PK WND 31029/2043 PRESRR SLP110 T01331006 53016
+
+KUDG25nm W191956Z AUTO 31016G26KT 10SM OVC055 13/01 A2984 RMK AO2 PK WND 28028/1925 SLP107 T01280006
+
+
+
+
+
+TAF
+
+
+KLBT17nm NE191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Price Flying Service
+
+843-774-2636
+
+
+no information available
+If you are affiliated with Price Flying Service and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dillon County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Dillon County Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

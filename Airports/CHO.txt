@@ -1,0 +1,461 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KCHO - Charlottesville-Albemarle Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1615 users online
+ 
+
+
+
+
+KCHO
+ Charlottesville-Albemarle AirportCharlottesville, Virginia, USA 
+
+
+
+
+
+
+GOING TO CHARLOTTESVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Signature Aviation
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:CHO
+Lat/Long:38-08-22.7140N 078-27-08.4390W38-08.378567N 078-27.140650W38.1396428,-78.4523442(estimated)
+Elevation:640.1 ft. / 195.1 m (surveyed)
+Variation:08W (1985)
+From city:7 miles N of CHARLOTTESVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22936
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:CHO (NOTAM-D service available)
+Attendance:CONTINUOUS
+Wind indicator:lighted
+Segmented circle:yes
+Lights:WHEN ATCT CLSD HIRL RWY 03/21,  & TWY LIGHTS PRESET LOW INTST.  TO ACTVT & INCREASE INTST MALSR RWY 03; REIL RWY 21; HIRL RWY 03/21 & TWY LIGHTS - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Landing fee:yes, LNDG FEE ONLY FOR ACFT OVER 7000 LBS.
+Fire and rescue:ARFF index B
+Airline operations:PPR 8 HRS FOR UNSKED ACR OPNS WITH MORE THAN 9 PASSENGER SEATS BTWN 0400-1100Z; CALL APRT MGR 434-981-4152.
+
+Airport Communications
+
+CTAF:124.5
+UNICOM:122.95
+ATIS:118.425
+WX ASOS:PHONE 434-973-5024
+CHARLOTTESVILLE GROUND:121.9 338.275 [0600-2300]
+CHARLOTTESVILLE TOWER:124.5 338.275 [0600-2300]
+POTOMAC APPROACH:132.85 120.525
+POTOMAC DEPARTURE:132.85 120.525
+EMERG:121.5 243.0
+WX AWOS-3 at GVE (14 nm E):120.225 (540-832-2095)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GVEr304/16.0GORDONSVILLE VORTAC115.6006W
+MOLr070/34.1MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR244/31.935110WMSQ-- ... --.-
+CAVERNS187/33.624509WLUA.-.. ..- .-
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:6801 x 150 ft. / 2073 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 65 /F/C/X/TSingle wheel:120.0Double wheel:228.0Double tandem:368.0
+Runway edge lights:high intensity
+RUNWAY 3RUNWAY 21
+Latitude:38-07.859615N38-08.897513N
+Longitude:078-27.407948W078-26.873303W
+Elevation:640.1 ft.618.3 ft.
+Traffic pattern:leftleft
+Runway heading:030 magnetic, 022 true210 magnetic, 202 true
+Declared distances:TORA:6801 TODA:6801 ASDA:6801 LDA:6801TORA:6801 TODA:6801 ASDA:6801 LDA:6801
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on right (3.00 degrees glide path)UNUSBL BYD 6.5 DEG L OF RCL.
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CHRLTSVL-ALBMRL ARPT AUTH100 BOWEN LOOP, SUITE 200CHARLOTTESVILLE, VA 22911Phone 434-973-8341
+Manager:MELINDA CRAWFORD100 BOWEN LOOP, SUITE 200CHARLOTTESVILLE, VA 22911Phone 434-973-8342X104.
+
+Airport Operational Statistics
+
+Aircraft based on the field:62Single engine airplanes:48Multi engine airplanes:4Jet airplanes:8Helicopters:2
+Aircraft operations: avg 334/day*33%transient general aviation30%local general aviation21%air taxi12%military4%commercial* for 12-month period ending 28 February 2023
+Additional Remarks
+
+A58-21+7 FT OBST LGTD EQPT BOX RACK 78 FT FM AER, 250 FT L.
+-DEER & BIRDS ON & INVOF ARPT.
+-TWY 'J' UNCONTROLLED,  NOT VSB FROM TWR.
+-FOR CD WHEN ATCT IS CLSD CTC POTOMAC APCH AT 866-640-4124.
+-FOR ACFT SVCS CTC 126.925.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 03
+download (349KB)
+RNAV (GPS) RWY 03
+download (305KB)
+RNAV (GPS) Y RWY 21
+download (243KB)
+RNAV (GPS) Z RWY 21
+download (238KB)
+
+NOTE: Special Alternate Minimums apply
+download (129KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (189KB)
+
+Other nearby airports with instrument procedures:
+KGVE - Gordonsville Municipal Airport (14 nm E)
+KOMH - Orange County Airport (20 nm E)
+KSHD - Shenandoah Valley Regional Airport (22 nm W)
+W13 - Eagle's Nest Airport (24 nm W)
+KLKU - Louisa County Airport/Freeman Field (24 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Glenn Woodell, of NASA Langley Research Center
+Photo taken 10-Apr-2014
+looking south.
+
+Do you have a better or more recent aerial photo of Charlottesville-Albemarle Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Charlottesville-Albemarle Airport?
+Find the distance to fly.
+From 
+to KCHO
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2122:21
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:49:53
+Local (UTC-5)19-Jan-2024 15:49:53
+
+
+
+
+   
+
+METAR
+
+
+KCHO191953Z 32008KT 280V360 10SM SCT045 BKN055 OVC070 03/M06 A2981 RMK AO2 SLP097 T00281061
+
+KGVE14nm E192035Z AUTO 32006KT 10SM SCT050 OVC075 01/M04 A2984 RMK AO1 T00101038
+
+
+
+
+
+TAF
+
+
+KCHO191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Signature Aviation
+
+434-978-1474[web site][email]
+
+Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, GPU / Power cart, Passenger terminal and lounge, Rental cars, ...
+
+
+
+More info about Signature Aviation
+
+
+
+
+
+independent100LL Jet AFS$6.99$7.11Updated 19-Jan-2024
+
+
+
+
+4readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Charlottesville-Albemarle Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Charlottesville-Albemarle Airport
+
+
+
+www.gocho.com
+
+
+
+
+
+www.cho-airport.state.va.us
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

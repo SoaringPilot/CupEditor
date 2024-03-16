@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N08 - Flanagan Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1604 users online
+ 
+
+
+
+
+N08
+ Flanagan Field AirportFarmville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO FARMVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N08
+Lat/Long:35-33-24.0000N 077-33-38.0000W35-33.400000N 077-33.633333W35.5566667,-77.5605556(estimated)
+Elevation:75 ft. / 23 m (estimated)
+Variation:08W (1985)
+From city:3 miles SE of FARMVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27828
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:11/1989
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at PGV (10 nm NE):128.425 (252-758-6485)
+WX AWOS-3 at ISO (14 nm S):132.75 (252-522-2712)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr004/11.1KINSTON VORTAC117.5005W
+TYIr170/26.1TAR RIVER VORTAC117.8005W
+EWNr327/38.5NEW BERN VOR/DME113.6008W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD235/12.923009WAQE.- --.- .
+CHOCOWINITY285/22.338808WRNW.-. -. .--
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:2500 x 100 ft. / 762 x 30 mRWY MARKERS SHOW 75 FT RWY WIDTH.
+Surface:turf, in good condition
+Runway edge markings:NO DSPLCD THR MKGS.
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Displaced threshold:no300 ft.
+Markings:NSTDNSTD
+Obstructions:83 ft. trees, 2796 ft. from runway, 122 ft. left of centerline, 33:1 slope to clear52 ft. trees, 25 ft. from runway, 86 ft. left of centerline, 1:1 slope to clearAPCH RATIO 3:1 AT DSPLCD THR.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:HAROLD FLANAGAN3625 ARCH FLANAGAN ROADFARMVILLE, NC 27828Phone 252-341-4059
+Manager:SCOTT AND JERRY FLANAGAN3625 ARCH FLANAGAN ROADFARMVILLE, NC 27828Phone 252-341-2697ON-SITE AIRFIELD CONTACT IS WAYNE SLAUGHTER AT 252-714-4011.
+
+Airport Operational Statistics
+
+Aircraft based on the field:16Single engine airplanes:16
+Aircraft operations: avg 58/week*49%transient general aviation49%local general aviation2%military* for 12-month period ending 12 May 2022
+Additional Remarks
+
+-LIVESTOCK AND WILDLIFE INVOF ARPT.
+-+4 FT FENCE ALONG HWY AT NE END OF RWY 21 MARKED WITH YELLOW FENCE CAP AND RWY 03 HAS 3 FT UNMARKED ELECTRIC FENCE AT RWY END.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at N08.
+Some nearby airports with instrument procedures:
+KPGV - Pitt-Greenville Airport (10 nm NE)
+KISO - Kinston Regional Jetport at Stallings Field (14 nm S)
+KGWW - Wayne Executive Jetport Airport (21 nm W)
+KETC - Tarboro-Edgecombe Airport (23 nm N)
+KGSB - Seymour Johnson Air Force Base (24 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Flanagan Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Flanagan Field Airport?
+Find the distance to fly.
+From 
+to N08
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:2322:23
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:07:45
+Local (UTC-5)19-Jan-2024 16:07:45
+
+
+
+
+   
+
+METAR
+
+
+KPGV9nm NE192045Z AUTO 31009G20KT 10SM SCT055 OVC080 10/M01 A2980 RMK AO2
+
+KISO15nm S192056Z 35008G15KT 10SM SCT065 BKN075 11/M00 A2981
+
+
+
+
+
+TAF
+
+
+KPGV9nm NE191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KISO15nm S191727Z 1918/2018 30016G27KT P6SM SCT050 FM200300 31011G20KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Flanagan Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Flanagan Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

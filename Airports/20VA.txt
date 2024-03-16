@@ -1,0 +1,307 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 20VA - Woodford Airpark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1463 users online
+ 
+
+
+
+
+20VA
+ Woodford AirparkBowling Green, Virginia, USA 
+
+
+
+
+
+
+GOING TO BOWLING GREEN?
+
+
+ 
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:20VA
+Lat/Long:38-04-56.4830N 077-29-17.9380W38-04.941383N 077-29.298967W38.0823564,-77.4883161(estimated)
+Elevation:245 ft. / 75 m (estimated)
+Variation:09W (1985)
+From city:7 miles NW of BOWLING GREEN, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22580
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1984
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3 at EZF (11 nm N):128.125 (540-372-6794)
+WX AWOS-3 at 7W4 (14 nm SW):120.775 (540-872-0303)
+WX AWOS-3 at RMN (19 nm N):126.325 (540-657-8283)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BRVr212/16.5BROOKE VORTAC114.5009W
+GVEr089/31.7GORDONSVILLE VORTAC115.6006W
+RICr356/35.7RICHMOND VORTAC114.1009W
+FAKr032/36.9FLAT ROCK VORTAC113.3006W
+CSNr158/37.9CASANOVA VORTAC116.3006W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON199/11.223710WEZF. --.. ..-.
+NAILR149/29.735110WMSQ-- ... --.-
+DAVEE216/39.022309WDAA-.. .- .-
+
+Airport Services
+
+
+Runway Information
+Runway 8/26
+
+Dimensions:2600 x 150 ft. / 792 x 46 m
+Surface:turf
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Obstructions:50 ft. trees, 800 ft. from runway50 ft. trees, 800 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:KIRK HAARKLAU13253 BULL CHURCH ROADWOODFORD, VA 22580Phone 845-551-7342ARPT LOCATED AT 13253 BULL CHURCH RD, WOODFORD, VA 22580.
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 20VA.
+Some nearby airports with instrument procedures:
+KEZF - Shannon Airport (11 nm N)
+7W4 - Lake Anna Airport (14 nm SW)
+KRMN - Stafford Regional Airport (19 nm N)
+KOFP - Hanover County Municipal Airport (23 nm S)
+KLKU - Louisa County Airport/Freeman Field (23 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 16-Sep-2019
+looking east.
+
+Do you have a better or more recent aerial photo of Woodford Airpark that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Woodford Airpark?
+Find the distance to fly.
+From 
+to 20VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2412:24
+Sunset17:1722:17
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:11:23
+Local (UTC-5)19-Jan-2024 17:11:23
+
+
+
+
+   
+
+METAR
+
+
+KEZF11nm N192155Z AUTO 32004KT 10SM SCT029 SCT045 OVC065 00/M02 A2988 RMK AO2 P0001 T00011018
+
+K7W414nm SW192155Z AUTO 00000KT 10SM OVC075 00/M02 A2988 RMK AO1 T00001020
+
+KRMN19nm N192155Z AUTO 31003KT 10SM SCT047 OVC060 M01/M03 A2988 RMK AO2 T10071035
+
+
+
+
+
+TAF
+
+
+KNYG27nm N1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Woodford Airpark, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Woodford Airpark
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

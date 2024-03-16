@@ -1,0 +1,479 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KOFP - Hanover County Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1580 users online
+ 
+
+
+
+
+KOFP
+ Hanover County Municipal AirportRichmond/Ashland, Virginia, USA 
+
+
+
+
+
+
+GOING TO RICHMOND/ASHLAND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+HOVA Flight Services
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:OFP
+Lat/Long:37-42-32.2000N 077-26-11.9000W37-42.536667N 077-26.198333W37.7089444,-77.4366389(estimated)
+Elevation:206.5 ft. / 62.9 m (surveyed)
+Variation:09W (1985)
+From city:8 miles N of central business district of the associated city
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23005
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/1971
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:OFP (NOTAM-D service available)
+Attendance:JAN - DEC 0700-1900
+Pattern altitude:1006.5 ft. MSL
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWYS 16 & 34; MIRL RWY 16/34 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX ASOS:119.025 (804-752-2902)
+POTOMAC APPROACH:126.75 118.2
+POTOMAC DEPARTURE:126.75 118.2
+CLEARANCE DELIVERY:125.4
+WX ASOS at RIC (13 nm SE):PHONE 804-236-1091
+WX AWOS-3PT at FCI (19 nm S):128.625 (804-271-8426)
+WX AWOS-3 at W96 (19 nm SE):119.875 (804-932-8863)
+
+
+APCH/DEP SVC PRVDD BY POTOMAC TRACON 126.75/307.2.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RICr345/13.6RICHMOND VORTAC114.1009W
+FAKr066/21.5FLAT ROCK VORTAC113.3006W
+HPWr332/27.4HOPEWELL VORTAC114.3506W
+BRVr195/37.8BROOKE VORTAC114.5009W
+HCMr301/37.9HARCUM VORTAC108.8007W
+GVEr124/38.5GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON189/33.523710WEZF. --.. ..-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:HIGH/LOW
+
+Runway Information
+Runway 16/34
+
+Dimensions:5402 x 100 ft. / 1647 x 30 m
+Surface:asphalt/porous friction courses, in good condition
+Weight bearing capacity:Single wheel:40.0
+Runway edge lights:medium intensity
+RUNWAY 16RUNWAY 34
+Latitude:37-42.920487N37-42.152072N
+Longitude:077-26.480920W077-25.915685W
+Elevation:206.5 ft.201.2 ft.
+Traffic pattern:leftleft
+Runway heading:159 magnetic, 150 true339 magnetic, 330 true
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:108 ft. tree, 2901 ft. from runway, 42 ft. left of centerline, 25:1 slope to clear95 ft. trees, 3328 ft. from runway, 273 ft. right of centerline, 32:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY OF HANOVERDIRECTOR OF PUBLIC WORKSHANOVER, VA 23069Phone 804-365-6179
+Manager:CHARLES J SOBRITODEPARTMENT OF PUBLIC WORKS, PO BOX 470HANOVER, VA 23069Phone 804-365-6208
+
+Airport Operational Statistics
+
+Aircraft based on the field:102Single engine airplanes:93Multi engine airplanes:5Jet airplanes:2Helicopters:2
+Aircraft operations: avg 99/day*71%local general aviation26%transient general aviation3%air taxi* for 12-month period ending 31 December 2018
+Additional Remarks
+
+-NOISE SENSITIVE AREA SOUTH OF ARPT.
+-FOR ARPT SERVICES CALL 804-798-6500.
+-DEER & BIRDS ON & INVOF ARPT.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+-RWY 34 PREF RWY WITH WIND LESS THAN 5 KT.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 16
+download (250KB)
+RNAV (GPS) RWY 34
+download (222KB)
+LOC RWY 16
+download (288KB)
+VOR RWY 16
+download (251KB)
+
+NOTE: Special Alternate Minimums apply
+download (129KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (383KB)
+
+Other nearby airports with instrument procedures:
+KRIC - Richmond International Airport (13 nm SE)
+KFCI - Richmond Executive-Chesterfield County Airport (19 nm S)
+W96 - New Kent County Airport (19 nm SE)
+7W4 - Lake Anna Airport (21 nm NW)
+KXSA - Tappahannock/Essex County Airport (27 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 16-Aug-2006
+from a Cessna 340
+
+Do you have a better or more recent aerial photo of Hanover County Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Hanover County Municipal Airport?
+Find the distance to fly.
+From 
+to KOFP
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:15:15
+Local (UTC-5)19-Jan-2024 16:15:15
+
+
+
+
+   
+
+METAR
+
+
+KOFP192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+KRIC13nm SE192054Z 33016G24KT 10SM SCT028 BKN070 03/M04 A2984 RMK AO2 SLP110 60000 T00281039 53033
+
+KFCI19nm S192056Z AUTO 31014G17KT 10SM FEW029 OVC065 02/M03 A2983 RMK AO2 SLP116 T00221028 53031 FZRANO
+
+KW9619nm SE192055Z AUTO 30011G15KT 280V340 10SM BKN060 OVC080 02/M04 A2984 RMK AO1 T00201040
+
+
+
+
+
+TAF
+
+
+KRIC13nm SE191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.70804-798-6500[web site][email]
+
+HOVA Flight Services has proudly served the aviation community since 1992. Known for friendly staff and excellent service, HOVA Flight Services strives to provide first class service, catered to the specific needs of its customers.HOVA Flight Services at Hanover County Airport is conveniently located twenty minutes from Short Pump, Innsbrook, and the City of Richmond with easy access to I-95 & I-295. HOVA Flight Services is a FULL service FBO with everything an executive passenger/pilot or just recreational visitor may require. Contact us before your visit and allow us to to serve you.
+
+
+
+More info and photos of HOVA Flight Services
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.45$5.58GUARANTEEDMEMBERPRICINGFS$6.25$5.38
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hanover County Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hanover County Municipal Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

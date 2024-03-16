@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC03 - Darr Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1593 users online
+ 
+
+
+
+
+NC03
+ Darr Field AirportHigh Point, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HIGH POINT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC03
+Lat/Long:35-54-24.8200N 079-59-23.3500W35-54.413667N 079-59.389167W35.9068944,-79.9898194(estimated)
+Elevation:874 ft. / 266 m (estimated)
+Variation:06W (1985)
+From city:3 miles S of HIGH POINT, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27263
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/1958
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:MON-FRI 0800-1700
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at GSO (12 nm N):128.55 (336-393-0168)
+WX AWOS-3 at HBI (16 nm S):119.275 (336-626-7933)
+WX AWOS-3 at EXX (17 nm SW):119.825 (336-956-2967)
+WX ASOS at INT (18 nm NW):PHONE 336-661-3096
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr187/8.4GREENSBORO VORTAC116.2003W
+LIBr290/19.2LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER208/30.542307WSIF... .. ..-.
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 13/31
+
+Dimensions:2700 x 60 ft. / 823 x 18 m
+Surface:turf/gravel, in good conditionOUTER 20' ON EACH SIDE OF RWY IS TURF. CENTER 20' IS SAND & ROCK. FIRST 300' RWY 13 IS ROUGH.
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+Obstructions:25 ft. rr, 70 ft. right of centerline45 ft. trees, 80 ft. left of centerlinePLINE +20'; 200 FROM THR; 0 BOTH.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:HIGH POINT TRINITY AIR SERVICEPO BOX 7163HIGH POINT, NC 27264Phone 336-431-9158
+Manager:JACOB L. DARR100 SEALY DRTRINITY, NC 27370Phone (336) 442-0332
+
+Airport Operational Statistics
+
+Aircraft based on the field:35Single engine airplanes:34Multi engine airplanes:1
+Aircraft operations: avg 69/week*50%transient general aviation50%local general aviation* for 12-month period ending 08 April 1991
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at NC03.
+Some nearby airports with instrument procedures:
+KGSO - Piedmont Triad International Airport (12 nm N)
+KHBI - Asheboro Regional Airport (16 nm S)
+KEXX - Davidson County Executive Airport (17 nm SW)
+KINT - Smith Reynolds Airport (18 nm NW)
+8A7 - Twin Lakes Airport (23 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Darr Field Airport?
+Find the distance to fly.
+From 
+to NC03
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:2912:29
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:58:27
+Local (UTC-5)19-Jan-2024 15:58:27
+
+
+
+
+   
+
+METAR
+
+
+KGSO12nm N192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KHBI16nm S191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+KEXX17nm SW192045Z AUTO 30012G22KT 10SM SCT060 05/M08 A2995 RMK AO2 T00501076
+
+KINT17nm NW192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+
+
+
+
+TAF
+
+
+KGSO12nm N191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT17nm NW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Darr Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Darr Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

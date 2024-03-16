@@ -1,0 +1,498 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KSFQ - Suffolk Executive Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1429 users online
+ 
+
+
+
+
+KSFQ
+ Suffolk Executive AirportSuffolk, Virginia, USA 
+
+
+
+
+
+
+GOING TO SUFFOLK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Suffolk Executive Airport
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SFQ
+Lat/Long:36-40-58.3984N 076-35-58.6434W36-40.973307N 076-35.977390W36.6828884,-76.5996232(estimated)
+Elevation:70.1 ft. / 21.4 m (surveyed)
+Variation:10W (1995)
+From city:3 miles SW of SUFFOLK, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23434
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:SFQ (NOTAM-D service available)
+Attendance:0800-1700
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWYS 04 & 22; HIRL RWY 04/22; MIRL RWY 07/25 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:119.375 (757-934-3942)
+NORFOLK APPROACH:127.9
+NORFOLK DEPARTURE:127.9
+TERKS STAR:118.9
+WX AWOS-3PT at PVG (9 nm NE):118.375 (757-465-2175)
+WX AWOS-3 at CPK (13 nm E):123.675 (757-204-4290)
+WX AWOS-3PT at FKN (15 nm W):124.675 (757-562-8765)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FKNr104/19.9FRANKLIN VORTAC110.6009W
+CVIr044/22.8COFIELD VORTAC114.6009W
+ORFr244/22.9NORFOLK VORTAC116.9007W
+ECGr328/32.7ELIZABETH CITY VOR/DME115.7507W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD144/26.427411WAKQ.- -.- --.-
+WOODVILLE340/29.125410WLLW.-.. .-.. .--
+
+Airport Services
+
+Fuel available:100LL JET-A MOGAS
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:5007 x 100 ft. / 1526 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:30.0Double wheel:60.0Double tandem:60.0
+Runway edge lights:high intensity
+RUNWAY 4RUNWAY 22
+Latitude:36-40.568650N36-41.283183N
+Longitude:076-36.145852W076-35.633507W
+Elevation:66.3 ft.68.8 ft.
+Traffic pattern:rightleft
+Runway heading:040 magnetic, 030 true220 magnetic, 210 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.50 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:81 ft. tree, 2630 ft. from runway, 425 ft. right of centerline, 30:1 slope to clear55 ft. trees, 1155 ft. from runway, 388 ft. left of centerline, 17:1 slope to clear
+
+Runway 7/25
+
+Dimensions:3750 x 100 ft. / 1143 x 30 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:30.0Double wheel:50.0Double tandem:85.0
+Runway edge lights:medium intensity
+Runway edge markings:RWY 25 MARKINGS IN POOR CONDITION.
+RUNWAY 7RUNWAY 25
+Latitude:36-40.899333N36-41.173833N
+Longitude:076-36.438333W076-35.750667W
+Elevation:68.1 ft.66.7 ft.
+Traffic pattern:leftright
+Runway heading:074 magnetic, 064 true254 magnetic, 244 true
+Markings:NSTD, in poor conditionnonprecision, in poor condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:93 ft. tree, 1985 ft. from runway, 416 ft. left of centerline, 19:1 slope to clear68 ft. trees, 1128 ft. from runway, 167 ft. left of centerline, 13:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF SUFFOLKPO BOX 1858SUFFOLK, VA 23434Phone 757-514-4000
+Manager:TIM DANIEL1200 GENE BOLTON DRIVESUFFOLK, VA 23434Phone 757-514-4411
+
+Airport Operational Statistics
+
+Aircraft based on the field:54Single engine airplanes:44Multi engine airplanes:7Jet airplanes:1Helicopters:1Gliders airplanes:1
+Aircraft operations: avg 111/day*88%local general aviation9%transient general aviation2%air taxi1%military* for 12-month period ending 31 December 2019
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+TERKS TWO**CHANGED**
+download (168KB)
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 04
+download (226KB)
+RNAV (GPS) RWY 07
+download (192KB)
+RNAV (GPS) RWY 22
+download (208KB)
+RNAV (GPS) RWY 25
+download (180KB)
+LOC RWY 04
+download (254KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KPVG - Hampton Roads Executive Airport (9 nm NE)
+KCPK - Chesapeake Regional Airport (13 nm E)
+KFKN - Franklin Regional Airport (15 nm W)
+KNGU - Norfolk Naval Station (Chambers Field) (21 nm NE)
+KNHU - Norfolk Naval Station Airport (22 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Bob Warwick
+Taken in 2018
+looking northeast.
+
+Do you have a better or more recent aerial photo of Suffolk Executive Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Suffolk Executive Airport?
+Find the distance to fly.
+From 
+to KSFQ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:58:25
+Local (UTC-5)19-Jan-2024 16:58:25
+
+
+
+
+   
+
+METAR
+
+
+KSFQ192135Z AUTO 32014G20KT 10SM SCT033 BKN041 OVC055 05/M01 A2984 RMK AO2 T00521010
+
+KPVG9nm NE192155Z 31011G16KT 270V340 10SM BKN030 OVC040 04/M02 A2986 RMK AO2 SLP299 PWINO PNO FZRANO RVRNO
+
+KCPK14nm E192155Z AUTO 32010G14KT 10SM BKN033 BKN043 OVC075 04/M02 A2983 RMK AO2 T00431025
+
+KFKN14nm W192135Z AUTO 31009G18KT 10SM SCT039 BKN050 OVC065 04/M03 A2985 RMK AO2 T00411032
+
+
+
+
+
+TAF
+
+
+KNGU21nm NE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KORF23nm NE191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KLFI26nm NE191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KFAF26nm N191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Suffolk Executive Airport
+
+757-514-4411[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Skydiving, Public telephone, Computerized weather, Restrooms, Showers
+
+
+
+More info about Suffolk Executive Airport
+
+
+
+
+
+Phillips 66100LL Jet A MogasFS$6.39$5.29---SS$5.89---$4.99Updated 12-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Suffolk Executive Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Suffolk Executive Airport
+
+
+
+www.suffolk.va.us/airport
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

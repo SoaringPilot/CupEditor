@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KHLX - Twin County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1431 users online
+ 
+
+
+
+
+KHLX
+ Twin County AirportGalax Hillsville, Virginia, USA 
+
+
+
+
+
+
+GOING TO GALAX HILLSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:HLX
+Lat/Long:36-45-57.9990N 080-49-24.8160W36-45.966650N 080-49.413600W36.7661108,-80.8235600(estimated)
+Elevation:2693.6 ft. / 821.0 m (surveyed)
+Variation:08W (2010)
+From city:7 miles NE of GALAX HILLSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24343
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:HLX (NOTAM-D service available)
+Attendance:M-F 0800-1700WEEKEND ATTENDANCE: COORDINATE DURING REGULAR WEEKLY BUS. HRS.AFTER HOURS TERMINAL ACCESS AVAILABLE SOUTH SIDE OF BUILDING.UNATTENDED NEW YEAR'S DAY, EASTER, THANKSGIVING, & CHRISTMAS
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MIRL RY 1/19 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:118.375 (276-728-5897)
+ROANOKE APPROACH:126.0
+ROANOKE DEPARTURE:126.0
+IC:126.0
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PSKr201/20.0PULASKI VORTAC116.8006W
+BLFr154/37.0BLUEFIELD VOR/DME115.0503W
+
+
+NDBnameHdg/DistFreqVarID
+TECH225/33.336808WTEC- . -.-.
+
+Airport Services
+
+Fuel available:100LL JET-A+100LL:SELF-SVC  FUEL AVLB 24 HRS WITH  CREDIT CARD.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:4204 x 75 ft. / 1281 x 23 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+Runway edge markings:RY MARKING CONDITIONS VARY BTWN GOOD & FAIR.  RY DISPLACEMENT MARKING INCORRECT
+RUNWAY 1RUNWAY 19
+Latitude:36-45.620387N36-46.312903N
+Longitude:080-49.404570W080-49.422647W
+Elevation:2693.5 ft.2642.0 ft.
+Traffic pattern:leftleft
+Runway heading:007 magnetic, 359 true187 magnetic, 179 true
+Displaced threshold:no50 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:41 ft. trees, 985 ft. from runway, 355 ft. left of centerline, 19:1 slope to clearRY 01 HAS 10-20 FT HILL LCTD 150 FT WEST OF RY 01, BEGINS NORTH OF THLD.54 ft. trees, 1237 ft. from runway, 63 ft. right of centerline, 19:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TWIN COUNTY ARPT COMSN504 HANGAR RD.HILLSVILLE, VA 24343-5264Phone 276-728-4504FAX 276-728-4544.
+Manager:MICHAEL LAWSON504 HANGAR RD.HILLSVILLE, VA 24343-5264Phone 276-728-4504
+
+Airport Operational Statistics
+
+Aircraft based on the field:16Single engine airplanes:14Multi engine airplanes:1Helicopters:1
+Aircraft operations: avg 24/day*57%transient general aviation43%local general aviation<1%military* for 12-month period ending 31 December 2022
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-RY 01  10-20 FT HILL LCTD 150 FT WEST OF RY 01 BEGINS NORTH OF THLD.
+-ROA TWR SVCS AVBL AT 540-563-1307.
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 01
+download (286KB)
+RNAV (GPS) RWY 19
+download (231KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KMWK - Mount Airy/Surry County Airport (22 nm SE)
+KPSK - New River Valley Airport (23 nm N)
+KMKJ - Mountain Empire Airport (26 nm W)
+KZEF - Elkin Municipal Airport (29 nm S)
+KBCB - Virginia Tech/Montgomery Executive Airport (33 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Jeff Kennon
+Photo taken 17-Oct-2014
+looking south.
+
+Do you have a better or more recent aerial photo of Twin County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Twin County Airport?
+Find the distance to fly.
+From 
+to KHLX
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3512:35
+Sunset17:3422:34
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:03:08
+Local (UTC-5)19-Jan-2024 17:03:08
+
+
+
+
+   
+
+METAR
+
+
+KHLX192155Z AUTO 30016G23KT 10SM -SN OVC030 M05/M10 A2989 RMK AO2 T10481100
+
+
+
+
+
+TAF
+
+
+KBCB33nm NE191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+KBLF37nm NW191735Z 1918/2018 29016G27KT 1 1/2SM -SN BR OVC015 TEMPO 1918/1921 1/2SM SN VV008 FM192100 29017G28KT 4SM -SHSN OVC012 TEMPO 1921/1924 2SM -SHSN BR OVC006 FM201500 29010KT P6SM -SHSN OVC025 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Twin County Airport
+
+276-728-4504[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Passenger terminal and lounge, ...
+
+
+
+More info about Twin County Airport
+
+
+
+
+
+Titan100LL Jet ASS$5.85$3.20Updated 12-Jan-2024
+
+
+
+
+write
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Twin County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Twin County Airport
+
+
+
+twincountyairport.org
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,7 @@
+AirNav: VA18 - Bundoran Airport
+CTAF: 122.8
+Lat/Long:WW37.968473,-78.682240(estimated)
+Runway 15/33
+Elevation:840 ft.
+Surface:turf
+Dimensions:3000 x 100 ft.

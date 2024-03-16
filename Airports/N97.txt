@@ -1,0 +1,420 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N97 - Hiatt Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1551 users online
+ 
+
+
+
+
+N97
+ Hiatt AirportThomasville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO THOMASVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N97
+Lat/Long:35-49-48.4920N 080-06-27.1610W35-49.808200N 080-06.452683W35.8301367,-80.1075447(estimated)
+Elevation:855 ft. / 261 m (estimated)
+Variation:10W (2000)
+From city:3 miles SW of THOMASVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27360
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:11/1959
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:1200-DUSK
+Wind indicator:yes
+Segmented circle:no
+Lights:LIRL RWY 01/19; TRIL RWY 19 - ON TIMER. RWY 01/19 - NSTD END LIGHTS.
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at EXX (10 nm W):119.825 (336-956-2967)
+WX AWOS-3 at HBI (15 nm SE):119.275 (336-626-7933)
+WX ASOS at GSO (18 nm NE):128.55 (336-393-0168)
+WX ASOS at INT (19 nm N):PHONE 336-661-3096
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr209/14.4GREENSBORO VORTAC116.2003W
+LIBr276/24.1LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER214/37.142307WSIF... .. ..-.
+
+Airport Services
+
+Fuel available:100LL100LL:FOR FUEL CALL 336-881-0248.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:2500 x 75 ft. / 762 x 23 m
+Surface:turf, in good condition
+Runway edge lights:low intensity
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Visual slope indicator:tri-color VASI on left (3.20 degrees glide path)
+Obstructions:60 ft. trees, 10 ft. from runway, 67 ft. left of centerline, 1:1 slope to clear75 ft. trees, 379 ft. from runway, 97 ft. right of centerline, 5:1 slope to clear
+
+Runway 9/27
+
+Dimensions:1160 x 50 ft. / 354 x 15 m
+Surface:turf, in good condition
+Operational restrictions:USED PRIMARILY FOR ULTRALIGHTS.  RWY 27 UPHILL. MARKED WITH YELLOW CONES. NO LINE OF SIGHT BTWN RWY ENDS.
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+Obstructions:82 ft. trees, 181 ft. from runway, 142 ft. left of centerline, 2:1 slope to clear45 ft. trees, 63 ft. from runway, 1:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:PAUL DOUGLAS THARP701 MYRTLE DRIVETHOMASVILLE, NC 27260Phone (336) 881-0248
+Manager:PAUL DOUGLAS THARP701 MYRTLE DRIVETHOMASVILLE, NC 27260Phone 336-881-0248
+
+Airport Operational Statistics
+
+Aircraft based on the field:23Single engine airplanes:20Helicopters:1Ultralights:2
+Aircraft operations: avg 30/day*82%local general aviation14%transient general aviation5%military* for 12-month period ending 20 April 2022
+Additional Remarks
+
+-RWY 19 PREFERRED FOR LDNG UPHILL; RWY AND THRS MARKED WITH YELLOW CONES.
+-RWYS 01/19 & 09/27 VFR USE ONLY.
+-RWY 27 HAS +40 FT TREES 70 FT FROM THR.
+-BE ALERT FOR NUMEROUS TREES IN THE APCH.
+-AIRCRAFT MONITOR 122.9.
+-RWY 19 HAS 75 FT DROP-OFF 50 FT FROM END BOTH SIDES OF CNTRLN.
+-FOR CD CTC GREENSBORO APCH AT 336-333-5119.
+
+Instrument Procedures
+There are no published instrument procedures at N97.
+Some nearby airports with instrument procedures:
+KEXX - Davidson County Executive Airport (10 nm W)
+KHBI - Asheboro Regional Airport (15 nm SE)
+8A7 - Twin Lakes Airport (18 nm W)
+KGSO - Piedmont Triad International Airport (18 nm NE)
+KINT - Smith Reynolds Airport (19 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 07-Nov-2009
+
+Do you have a better or more recent aerial photo of Hiatt Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hiatt Airport?
+Find the distance to fly.
+From 
+to N97
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3322:33
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:17:48
+Local (UTC-5)19-Jan-2024 16:17:48
+
+
+
+
+   
+
+METAR
+
+
+KEXX10nm W192045Z AUTO 30012G22KT 10SM SCT060 05/M08 A2995 RMK AO2 T00501076
+
+KHBI15nm SE191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+KGSO18nm NE192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KINT19nm N192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+
+
+
+
+TAF
+
+
+KGSO18nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT19nm N191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Hiatt Airport
+
+336-881-0248
+
+
+no information available
+If you are affiliated with Hiatt Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLAS$5.80Updated 04-Dec-2023
+
+
+
+
+write
+
+
+
+AS=Assisted/Self Service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hiatt Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hiatt Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

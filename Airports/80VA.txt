@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 80VA - Holly Springs Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1550 users online
+ 
+
+
+
+
+80VA
+ Holly Springs AirportRichmond, Virginia, USA 
+
+
+
+
+
+
+GOING TO RICHMOND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:80VA
+Lat/Long:37-47-28.5180N 077-49-28.9780W37-47.475300N 077-49.482967W37.7912550,-77.8247161(estimated)
+Elevation:250 ft. / 76 m (estimated)
+Variation:09W (1990)
+From city:17 miles N of RICHMOND, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23024
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:SAT-SUN DAWN-DUSK
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR STROBE LIGHT & LIRL RY 06/24 CALL (804) 883-5314.
+Beacon:FLASHING STROBE LIGHT.
+
+Airport Communications
+
+WX AWOS-3 at 7W4 (11 nm N):120.775 (540-872-0303)
+WX AWOS-3 at LKU (15 nm NW):119.475 (540-967-1983)
+WX ASOS at OFP (19 nm E):119.025 (804-752-2902)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAKr007/15.8FLAT ROCK VORTAC113.3006W
+GVEr137/20.5GORDONSVILLE VORTAC115.6006W
+RICr315/29.6RICHMOND VORTAC114.1009W
+BRVr223/39.6BROOKE VORTAC114.5009W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON222/33.523710WEZF. --.. ..-.
+NAILR185/40.035110WMSQ-- ... --.-
+
+Airport Services
+
+Fuel available:MOGAS
+
+Runway Information
+Runway 6/24
+
+Dimensions:2000 x 90 ft. / 610 x 27 m
+Surface:turf
+Runway edge lights:low intensity
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES DUNN SRRT 1 BOX 2270MONTPELIER, VA 23192Phone 804-883-5314
+Manager:JAMES DUNN SRRT 1 BOX 2270MONTPELIER, VA 23193Phone 804-883-5314
+
+Airport Operational Statistics
+
+Aircraft based on the field:7Single engine airplanes:7
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 80VA.
+Some nearby airports with instrument procedures:
+7W4 - Lake Anna Airport (11 nm N)
+KLKU - Louisa County Airport/Freeman Field (15 nm NW)
+KOFP - Hanover County Municipal Airport (19 nm E)
+KFCI - Richmond Executive-Chesterfield County Airport (27 nm SE)
+KGVE - Gordonsville Municipal Airport (27 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Holly Springs Airport?
+Find the distance to fly.
+From 
+to 80VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:1922:19
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:18:59
+Local (UTC-5)19-Jan-2024 16:18:59
+
+
+
+
+   
+
+METAR
+
+
+K7W411nm N192055Z AUTO 36003KT 10SM SCT029 BKN038 OVC050 01/M03 A2985 RMK AO1 T00111032
+
+KLKU15nm NW192055Z AUTO 31012G18KT 10SM SCT035 BKN060 OVC085 01/M05 A2985 RMK AO2 T00141045 60001
+
+KOFP19nm E192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+
+
+
+
+TAF
+
+
+KRIC29nm SE191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+KCHO36nm NW191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Holly Springs Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Holly Springs Airport
+
+
+
+www.erols.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

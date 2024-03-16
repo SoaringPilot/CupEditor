@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA08 - Longbranch Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1537 users online
+ 
+
+
+
+
+VA08
+ Longbranch AirportKilmarnock, Virginia, USA 
+
+
+
+
+
+
+GOING TO KILMARNOCK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA08
+Lat/Long:37-43-01.4860N 076-21-31.8060W37-43.024767N 076-21.530100W37.7170794,-76.3588350(estimated)
+Elevation:20 ft. / 6 m (estimated)
+Variation:09W (1985)
+From city:1 mile E of KILMARNOCK, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22482
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1988
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W75 (8 nm SW):118.45 (804-758-8592)
+WX AWOS-3 at TGI (18 nm E):119.8 (757-891-2246)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr053/23.2HARCUM VORTAC108.8007W
+CCVr332/28.1CAPE CHARLES VORTAC112.2010W
+PXTr187/34.3PATUXENT VORTAC117.6010W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT186/34.240010WNHK-. .... -.-
+
+Airport Services
+
+
+Runway Information
+Runway 12/30
+
+Dimensions:2600 x 60 ft. / 792 x 18 m
+Surface:turf, in good condition
+RUNWAY 12RUNWAY 30
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CRAIG GRASS1064 BLUFF POINT RDKILMARNOCK, VA 22482Phone 301-807-4933
+Manager:CRAIG GRASS1064 BLUFF POINT RDKILMARNOCK, VA 22482Phone 301-807-4933
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at VA08.
+Some nearby airports with instrument procedures:
+W75 - Hummel Field Airport (8 nm SW)
+KTGI - Tangier Island Airport (18 nm E)
+KFYJ - Middle Peninsula Regional Airport (23 nm SW)
+KXSA - Tappahannock/Essex County Airport (27 nm W)
+W94 - Camp Peary Landing Strip Airport (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Longbranch Airport?
+Find the distance to fly.
+From 
+to VA08
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:1322:13
+Evening civil twilight17:4222:42
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:27:45
+Local (UTC-5)19-Jan-2024 16:27:45
+
+
+
+
+   
+
+METAR
+
+
+KW758nm SW192115Z AUTO 31014G23KT 10SM BKN017 BKN025 OVC060 01/M02 A2983 RMK AO1 T00121018
+
+KTGI18nm E192115Z AUTO 30025G31KT 5SM BKN008 OVC014 01/01 A2980 RMK AO1 P0001 T00140007
+
+
+
+
+
+TAF
+
+
+KNHK33nm N1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+KPHF36nm S191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KFAF38nm S191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KLFI39nm S191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Longbranch Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Longbranch Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

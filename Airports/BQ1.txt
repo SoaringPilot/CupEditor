@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: BQ1 - Gilliam - Mc Connell Airfield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1569 users online
+ 
+
+
+
+
+BQ1
+ Gilliam - Mc Connell AirfieldCarthage, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CARTHAGE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:BQ1
+Lat/Long:35-20-30.0000N 079-26-13.0000W35-20.500000N 079-26.216667W35.3416667,-79.4369444(estimated)
+Elevation:445 ft. / 136 m (estimated)
+Variation:07W ()
+From city:1 mile SW of CARTHAGE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28327
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/2000
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0900-SS
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3PT at SOP (7 nm S):127.575 (910-692-4287)
+WX ASOS at HFF (19 nm S):141.25 (910-396-7804)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SDZr047/10.6SANDHILLS VORTAC111.8003W
+LIBr166/29.5LIBERTY VORTAC113.0003W
+FAYr312/34.9FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT270/37.741708WHQT.... --.- -
+
+Airport Services
+
+Parking:hangars and tiedowns
+
+Runway Information
+Runway 13/31
+
+Dimensions:2538 x 36 ft. / 774 x 11 m
+Surface:asphalt, in good condition
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+Displaced threshold:no300 ft.RY 31 DSPLCD THLD MKD WITH 4 FT WIDE WHITE STRIPE.
+Markings:numbers only, in fair conditionnumbers only, in fair condition
+Obstructions:20 ft. trees, 200 ft. from runway, 92 ft. left of centerlineRWY 13 HAS  17 FT TREES 0-200 FT FM THLD OFFSET 62 FT RIGHT OF CNTRLN AND 21 FT TREES 16 FT FM THLD OFFSET 93 FT LEFT OF CNTRLN15 ft. trees, 202 ft. from runway, 4 ft. left of centerlineRWY 31 HAS A 40 FT TREES 161 FT FM THLD OFFSET 83 FT RIGHT OF CNTRLN AND 45 FT TREES 0-200 FT FM THLD OFFSET 70 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:S. ROLAND GILLIAM802 MCREYNOLDS STREETCARTHAGE, NC 28327Phone 910-695-5216DAY PHONE 910-695-5216.
+Manager:S. ROLAND GILLIAM194 GILLIAM-MC CONNELL ROADCARTHAGE, NC 28327Phone 910-695-5216
+
+Airport Operational Statistics
+
+Aircraft based on the field:16Single engine airplanes:14Multi engine airplanes:2
+Aircraft operations: avg 44/day*62%transient general aviation25%local general aviation12%military* for 12-month period ending 25 May 2021
+Additional Remarks
+
+-80+ FT TREES NORTH, SOUTH, & EAST OF ARPT.
+-TURF AREA MKD WITH YELLOW CONES
+-HELICOPTERS SHOULD LAND ON GRASS AREA SE OF THE COMPASS ROSE ADJ TO  RWY 31 NRS.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at BQ1.
+Some nearby airports with instrument procedures:
+KSOP - Moore County Airport (7 nm S)
+43A - Montgomery County Airport (17 nm W)
+KHFF - Mackall Army Airfield (19 nm S)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (22 nm NE)
+KSCR - Siler City Municipal Airport (22 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 01-Feb-2017
+looking northwest.
+
+Do you have a better or more recent aerial photo of Gilliam - Mc Connell Airfield that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Gilliam - Mc Connell Airfield?
+Find the distance to fly.
+From 
+to BQ1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2612:26
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:10:53
+Local (UTC-5)19-Jan-2024 16:10:53
+
+
+
+
+   
+
+METAR
+
+
+KSOP8nm S192056Z AUTO 32012G25KT 10SM CLR 08/M09 A2989 RMK AO2 PK WND 32028/2035 SLP129 T00831089 53038
+
+KHFF20nm S192055Z AUTO 33012G25KT 10SM BKN080 09/M09 A2986 RMK AO2 PK WND 35029/23 SLPNO T00941087 53032 $
+
+
+
+
+
+TAF
+
+
+KPOB23nm SE192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFBG29nm SE192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Gilliam - Mc Connell Airfield, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Gilliam - Mc Connell Airfield
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,471 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 14A - Lake Norman Airpark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1540 users online
+ 
+
+
+
+
+14A
+ Lake Norman AirparkMooresville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOORESVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:14A
+Lat/Long:35-36-49.9300N 080-53-57.9500W35-36.832167N 080-53.965833W35.6138694,-80.8994306(estimated)
+Elevation:839.4 ft. / 255.8 m (surveyed)
+Variation:07W (2005)
+From city:5 miles NW of MOORESVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28117
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1967
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:MON - FRI 0800-1700,  ALL SAT - SUN 1000-1600ARPT UNATNDD ALL MAJ HOLS.
+Wind indicator:yes
+Segmented circle:yesUNLGTD SEGMENTED CRC.
+Lights:ACTVT MIRL RWY 14/32 - CTAF (7 CLICKS).
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+CHARLOTTE APPROACH:134.75
+CHARLOTTE DEPARTURE:134.75
+KNIGHTS DP:134.75
+WX AWOS-3 at SVH (9 nm N):119.225 (704-873-1978)
+WX AWOS-3 at IPJ (15 nm SW):119.675 (704-735-6954)
+WX AWOS-3 at JQF (16 nm SE):133.675 (704-785-2145)
+WX AWOS-3 at RUQ (19 nm E):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr139/22.6BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr011/25.5CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA033/28.326006WGHJ--. .... .---
+FIDDLERS106/38.139107WFIQ..-. .. --.-
+
+Airport Services
+
+Fuel available:100LL
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 14/32
+
+Dimensions:3147 x 40 ft. / 959 x 12 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:8.0
+Runway edge lights:medium intensityRWY 14 HAS DSPLCD THR LIGHTS BUT NO LIGHTS AT BEGINNING OF PVMT.
+Runway edge markings:RWY 14/32 NUMBERS NSTD SIZE.
+RUNWAY 14RUNWAY 32
+Latitude:35-37.020667N35-36.643667N
+Longitude:080-54.184167W080-53.747667W
+Elevation:808.0 ft.839.4 ft.
+Traffic pattern:leftleft
+Displaced threshold:185 ft.no
+Markings:NSTD, in good conditionNSTD, in good condition
+Runway end identifier lights:nono
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:79 ft. trees, 711 ft. from runway, 41 ft. left of centerline, 6:1 slope to clear+10 FT TERRAIN 100 FT FM THR, 50 FT LEFT OF CNTRLN, AND 20 FT SUPPL LDI (TET) 100 FT FM THR, 100 FT LEFT OF CNTRLN.83 ft. trees, 792 ft. from runway, 220 ft. right of centerline, 7:1 slope to clear+27 TREES LINE 0-200 FT FM THR OFFSET 121 FT RIGHT.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LAKE NORMAN AIRPARK OWNERS ASSOC409 NORMANDY ROADMOORESVILLE, NC 28117-3732Phone 704-880-1563
+Manager:DEBBY DENNIS341 NORMANDY ROADMOORESVILLE, NC 28117Phone 704-880-1563
+
+Airport Operational Statistics
+
+Aircraft based on the field:92Single engine airplanes:86Multi engine airplanes:3Helicopters:2Ultralights:1
+Aircraft operations: avg 49/day*83%local general aviation17%transient general aviation* for 12-month period ending 19 August 2022
+Additional Remarks
+
+-ACFT TAXIING ON GRASS INVOF RESIDENTIAL AIRPARK HNGR ACCESS.
+-FOR CD CTC APCH AT 704-359-0241.  CALL WHEN AT RWY READY FOR DEP.
+-DEER INVOF RUNWAY.
+-CONTACT RACE CITY FLIGHT OPS FOR TIEDOWN AND FUEL INFO AT 704-662-6227.
+-AIRCRAFT MAX WEIGHT 8000 LB
+-RWY 14 HAS UPHILL GRADE.
+-DEP RWY 14 HDG 160 DEGS TO AVOID SCHOOL.
+-NOISE SENSITIVE AREA AVOID DEPS BTWN 2300 AND 0600.  DEP RWY 32 HDG 324 DEG UNTIL OVER LAKE TO AVOID HOUSES.
+-RWY 32 HAS 10 FT DROP-OFF 5 FT FM LEFT SIDE OF PVMNT AND ACFT PARKED 200 FT FM END OF RWY 100 FT RIGHT OF CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 14
+download (223KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KSVH - Statesville Regional Airport (9 nm N)
+KIPJ - Lincolnton-Lincoln County Regional Airport (15 nm SW)
+KJQF - Concord-Padgett Regional Airport (16 nm SE)
+KRUQ - Mid-Carolina Regional Airport (19 nm E)
+KCLT - Charlotte/Douglas International Airport (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Race City Flight Operations
+Photo taken 10-Jun-2019
+looking northwest.
+
+Do you have a better or more recent aerial photo of Lake Norman Airpark that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lake Norman Airpark?
+Find the distance to fly.
+From 
+to 14A
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3212:32
+Sunset17:3722:37
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:23:54
+Local (UTC-5)19-Jan-2024 16:23:54
+
+
+
+
+   
+
+METAR
+
+
+KSVH9nm N192045Z AUTO 30014G22KT 10SM CLR 03/M10 A2998 RMK AO2 T00301096
+
+KIPJ15nm SW192045Z AUTO 28012G19KT 240V310 10SM CLR 04/M09 A2999 RMK AO2 T00411086
+
+KJQF16nm SE192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+KRUQ19nm E192050Z AUTO 29011G19KT 250V320 10SM CLR 04/M09 A2995 RMK AO2 T00421095
+
+
+
+
+
+TAF
+
+
+KCLT24nm S191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KHKY25nm W191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Race City Flight Operations
+
+704-662-6227[web site][email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Passenger terminal and lounge, Flight training, Aircraft rental, Aerial tours / aerial sightseeing, ...
+
+
+
+More info about Race City Flight Operations
+
+
+
+
+
+Avfuel100LLFS$6.80SS$6.50Updated 18-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lake Norman Airpark, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lake Norman Airpark
+
+
+
+www.lakenormanairpark.org
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

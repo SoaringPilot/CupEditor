@@ -1,0 +1,387 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KFVX - Farmville Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1593 users online
+ 
+
+
+
+
+KFVX
+ Farmville Regional AirportFarmville, Virginia, USA 
+
+
+
+
+
+
+GOING TO FARMVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:FVX
+Lat/Long:37-21-27.1000N 078-26-16.1000W37-21.451667N 078-26.268333W37.3575278,-78.4378056(estimated)
+Elevation:415.7 ft. / 126.7 m (surveyed)
+Variation:09W (2000)
+From city:4 miles NW of FARMVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23901
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:FVX (NOTAM-D service available)
+Attendance:0730-1700
+Wind indicator:lighted
+Segmented circle:no
+Lights:REIL RWY 3 & 21; MIRL RWY 03/21; PRESET LOW INTST, TO INCR INTST ACTVT - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:132.725 (434-392-9718)
+ROANOKE APPROACH:135.0
+ROANOKE DEPARTURE:135.0
+IC:135.0
+WX AWOS-3 at W81 (19 nm SE):119.050
+
+
+APCH/DEP SVC PRVDD BY ATCT ROANOKE ON FREQS 135.0/254.32.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAKr257/30.8FLAT ROCK VORTAC113.3006W
+LYHr086/38.6LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE315/23.332609WBKT-... -.- -
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:4400 x 75 ft. / 1341 x 23 m
+Surface:asphalt/grooved, in excellent condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 3RUNWAY 21
+Latitude:37-21.111523N37-21.791737N
+Longitude:078-26.424647W078-26.110347W
+Elevation:409.7 ft.415.7 ft.
+Traffic pattern:leftleft
+Runway heading:029 magnetic, 020 true209 magnetic, 200 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:10 ft. hill, 333 ft. from runway, 128 ft. left of centerline, 13:1 slope to clearTERRAIN 333 FT FROM THR, 128 RIGHT OF CTLN AND 10 FT ABOVE RWY ELEVATION.35 ft. tree, 652 ft. from runway, 291 ft. right of centerline, 12:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF FARMVILLEP.O. DRAWER 368FARMVILLE, VA 23901Phone 434-392-5686
+Manager:SCOTT DAVISP.O. DRAWER 368FARMVILLE, VA 23901-9116Phone 434-392-5686
+
+Airport Operational Statistics
+
+Aircraft based on the field:12Single engine airplanes:10Multi engine airplanes:1Jet airplanes:1
+Aircraft operations: avg 39/day*55%local general aviation41%transient general aviation3%military* for 12-month period ending 31 December 2020
+Additional Remarks
+
+-DEER ON AND INVOF ARPT.
+-LGTD TWR 320 AGL 5.8 MI SW.
+-POSS UNMANNED AERIAL VEHICLE OPER 5 NM FROM FARMVILLE ARPT 3000 FT AGL & BLW.
+-ROA TWR SVCS AVBL AT 540-563-1307.
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 03
+download (251KB)
+RNAV (GPS) RWY 21
+download (246KB)
+
+NOTE: Special Alternate Minimums apply
+download (35KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (215KB)
+
+Other nearby airports with instrument procedures:
+W81 - Crewe Municipal Airport (19 nm SE)
+W31 - Lunenburg County Airport (27 nm SE)
+KBKT - Allen C Perkinson Airport/Blackstone Army Airfield (29 nm SE)
+0V4 - Brookneal/Campbell County Airport (31 nm SW)
+W24 - Falwell Airport (33 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Gregory York
+Photo taken 15-Mar-2012
+looking Southeast at 8,000 MSL.
+
+Do you have a better or more recent aerial photo of Farmville Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Farmville Regional Airport?
+Find the distance to fly.
+From 
+to KFVX
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2712:27
+Sunset17:2322:23
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:06:20
+Local (UTC-5)19-Jan-2024 16:06:20
+
+
+
+
+   
+
+METAR
+
+
+KFVX192055Z AUTO 32005G16KT 10SM SCT060 BKN070 04/M09 A2985 RMK AO2 T00421094
+
+KW8119nm SE192055Z AUTO 29012KT 240V330 10SM OVC070 04/M11 A2984 RMK AO1 T00351109
+
+
+
+
+
+TAF
+
+
+KLYH36nm W191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Town of Farmville
+
+434-391-6111
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Courtesy transportation, Pilots lounge / snooze room, Public telephone, Computerized weather, ...
+
+ 
+
+
+
+
+More info about Town of Farmville
+
+
+
+
+
+Titan100LL Jet ASS$6.36$5.00Updated 05-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Farmville Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Farmville Regional Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

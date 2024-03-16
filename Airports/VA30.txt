@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA30 - Berryvale Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+VA30
+ Berryvale AirportCulpeper, Virginia, USA 
+
+
+
+
+
+
+GOING TO CULPEPER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA30
+Lat/Long:38-31-36.4470N 077-57-22.9860W38-31.607450N 077-57.383100W38.5267908,-77.9563850(estimated)
+Elevation:470 ft. / 143 m (estimated)
+Variation:09W (1985)
+From city:4 miles NE of CULPEPER, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22701
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1976
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at CJR (5 nm E):119.325 (540-727-0523)
+WX AWOS-3 at HWY (12 nm E):120.350 (540-788-4078)
+WX AWOS-3 at OMH (17 nm S):118.075 (540-672-0505)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CSNr218/8.1CASANOVA VORTAC116.3006W
+LDNr155/22.9LINDEN VORTAC114.3006W
+BRVr301/30.6BROOKE VORTAC114.5009W
+GVEr023/32.2GORDONSVILLE VORTAC115.6006W
+AMLr231/33.5ARMEL VOR/DME113.5008W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR341/5.035110WMSQ-- ... --.-
+CAVERNS122/26.324509WLUA.-.. ..- .-
+SHANNON313/28.523710WEZF. --.. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 2/20
+
+Dimensions:2300 x 100 ft. / 701 x 30 m
+Surface:turf
+RUNWAY 2RUNWAY 20
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BERRYVALE PROP OWNERS ASSN16131 BERRYVALE LNCULPEPER, VA 22701-9774Phone 540-825-1753
+Manager:MIKE TRUSCHEL16135 BERRYVALE LNCULPEPER, VA 22701-5530Phone 540-717-2701
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:8
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-709-4993.
+
+Instrument Procedures
+There are no published instrument procedures at VA30.
+Some nearby airports with instrument procedures:
+KCJR - Culpeper Regional Airport (5 nm E)
+KHWY - Warrenton/Fauquier Airport (12 nm E)
+KOMH - Orange County Airport (17 nm S)
+KHEF - Manassas Regional Airport/Harry P. Davis Field (24 nm NE)
+KGVE - Gordonsville Municipal Airport (24 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 09-Jun-2012
+Looking south.
+
+Do you have a better or more recent aerial photo of Berryvale Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Berryvale Airport?
+Find the distance to fly.
+From 
+to VA30
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:1822:18
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:21
+Local (UTC-5)19-Jan-2024 15:44:21
+
+
+
+
+   
+
+METAR
+
+
+KCJR8nm W192035Z AUTO 34004KT 10SM SCT055 SCT070 OVC085 01/M04 A2986 RMK AO2 T00111042
+
+KHWY12nm E192035Z AUTO 29006KT 5SM -SN SCT018 SCT028 OVC035 00/M02 A2985 RMK AO2 T00011025
+
+KOMH17nm S192035Z AUTO 33007KT 10SM SCT039 SCT050 OVC090 01/M04 A2986 RMK AO2
+
+
+
+
+
+TAF
+
+
+KNYG32nm E1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+KCHO33nm SW191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+KIAD34nm NE191727Z 1918/2024 06004KT 1SM -SN BR BKN008 OVC025 TEMPO 1918/1920 1/2SM SN BKN006 FM192000 32006KT 2SM -SHSN BR OVC008 FM192300 32008KT 5SM -SHSN BR OVC025 FM200400 31010G18KT P6SM SCT050 FM202000 30017G30KT P6SM SCT250 
+
+KDAA39nm E191300Z 1913/2019 VRB06KT 9000 -SN OVC008 650089 QNH2971INS TEMPO 1913/1914 0400 +SN OVC003 650039 BECMG 1913/1914 VRB06KT 6000 -SN OVC007 650079 QNH2971INS TEMPO 1914/1921 1600 BR VCSH SCT007 OVC015 630159 BECMG 1920/1921 30008KT 4800 -SN SCT008 OVC015 650157 QNH2983INS BECMG 1923/1924 31006KT 9999 NSW SCT008 OVC015 QNH2986INS BECMG 2003/2004 30006KT 9999 SCT023 OVC035 QNH2995INS BECMG 2010/2011 31009KT 9999 FEW080 QNH3008INS BECMG 2015/2016 30015G20KT 9999 FEW090 FEW120 510053 QNH3016INS TX01/
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Berryvale Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Berryvale Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

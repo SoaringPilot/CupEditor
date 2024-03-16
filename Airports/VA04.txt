@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA04 - Barrows Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1597 users online
+ 
+
+
+
+
+VA04
+ Barrows AirportFincastle, Virginia, USA 
+
+
+
+
+
+
+GOING TO FINCASTLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA04
+Lat/Long:37-29-31.4720N 079-55-43.1550W37-29.524533N 079-55.719250W37.4920756,-79.9286542(estimated)
+Elevation:1100 ft. / 335 m (estimated)
+Variation:06W (1985)
+From city:2 miles W of FINCASTLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24090
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1988
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:DAWN-DUSK
+Wind indicator:yes
+Segmented circle:no
+Landing fee:yes
+
+Airport Communications
+
+WX ASOS at ROA (10 nm S):PHONE 540-265-0680
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr021/(10.4)WOODRUM VOR114.9008W
+ROAr041/11.2ROANOKE VOR/DME109.4004W
+LYHr298/36.0LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON001/17.427708WVIT...- .. -
+TECH061/28.336808WTEC- . -.-.
+
+Airport Services
+
+Powerplant service:MAJOR
+
+Runway Information
+Runway 8/26
+
+Dimensions:2100 x 40 ft. / 640 x 12 m
+Surface:turf
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Obstructions:15 ft. hill, 20 ft. from runwayTREES 15 FT HIGH AT END OF RWY.50 ft. trees, 20 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROBERT E. BARROWS2079 BRECKINRIDGE MILL RDFINCASTLE, VA 24090Phone 540-473-3661
+Manager:ROBERT E. BARROWS2079 BRECKINRIDGE MILL RDFINCASTLE, VA 24090Phone 540-473-3661
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:4
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at VA04.
+Some nearby airports with instrument procedures:
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (10 nm S)
+KHSP - Ingalls Field Airport (28 nm N)
+W91 - Smith Mountain Lake Airport (28 nm SE)
+KBCB - Virginia Tech/Montgomery Executive Airport (29 nm SW)
+W90 - New London Airport (31 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Barrows Airport?
+Find the distance to fly.
+From 
+to VA04
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3312:33
+Sunset17:2822:28
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:16
+Local (UTC-5)19-Jan-2024 15:44:16
+
+
+
+
+   
+
+METAR
+
+
+KROA11nm S191954Z 30019G28KT 10SM BKN045 01/M08 A2989 RMK AO2 PK WND 32034/1934 SLP128 T00061078 $
+
+
+
+
+
+TAF
+
+
+KROA11nm S191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Barrows Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Barrows Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

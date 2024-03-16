@@ -1,0 +1,368 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 31VA - Aberdeen Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1602 users online
+ 
+
+
+
+
+31VA
+ Aberdeen Field AirportSmithfield, Virginia, USA 
+
+
+
+
+
+
+GOING TO SMITHFIELD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:31VA
+Lat/Long:37-01-25.5330N 076-35-18.8330W37-01.425550N 076-35.313883W37.0237592,-76.5885647(estimated)
+Elevation:33 ft. / 10 m (estimated)
+Variation:09W (1985)
+From city:4 miles SW of SMITHFIELD, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23430
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1985
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:FDC (NOTAM-D service not available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR MIRL RY 02/20 CALL 757-833-6900.
+
+Airport Communications
+
+WX ASOS at PHF (8 nm NE):PHONE 757-874-3682
+WX AWOS-3 at JGG (14 nm NW):120.625 (757-220-8810)
+WX AWOS-3PT at PVG (16 nm SE):118.375 (757-465-2175)
+WX ASOS at AKQ (20 nm W):128.325 (757-899-2300)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ORFr300/20.2NORFOLK VORTAC116.9007W
+HCMr174/26.2HARCUM VORTAC108.8007W
+FKNr057/27.5FRANKLIN VORTAC110.6009W
+HPWr132/31.2HOPEWELL VORTAC114.3506W
+CCVr245/34.3CAPE CHARLES VORTAC112.2010W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD094/19.927411WAKQ.- -.- --.-
+
+Airport Services
+
+
+Runway Information
+Runway 2/20
+
+Dimensions:5921 x 60 ft. / 1805 x 18 m
+Surface:asphalt
+Runway edge lights:medium intensity
+RUNWAY 2RUNWAY 20
+Latitude:37-00.735707N37-01.688052N
+Longitude:076-35.465533W076-35.200480W
+Elevation:23.1 ft.28.6 ft.
+Traffic pattern:leftleft
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)RY 2 PAPI OTS INDEFLY.2-light PAPI on left (3.00 degrees glide path)RY 20 PAPI OTS INDEFLY.
+Runway end identifier lights:yesyes
+Obstructions:100 ft. trees, 500 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROSF, LLC19259 FARM RD.SMITHFIELD, VA 23430Phone 757-377-7733
+Manager:JOSEPH W. LUTER, IV19259 FARM RDSMITHFIELD, VA 23430Phone 757-377-7733
+
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 31VA.
+Some nearby airports with instrument procedures:
+KFAF - Felker Army Airfield (7 nm N)
+KPHF - Newport News/Williamsburg International Airport (8 nm NE)
+KLFI - Langley Air Force Base (11 nm E)
+KNHU - Norfolk Naval Station Airport (14 nm E)
+KJGG - Williamsburg-Jamestown Airport (14 nm NW)
+KNGU - Norfolk Naval Station (Chambers Field) (15 nm E)
+KPVG - Hampton Roads Executive Airport (16 nm SE)
+W94 - Camp Peary Landing Strip Airport (18 nm N)
+KAKQ - Wakefield Municipal Airport (20 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo courtesy of AirNav, LLC
+Photo taken 25-Jun-2011
+looking south.
+
+Do you have a better or more recent aerial photo of Aberdeen Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Aberdeen Field Airport?
+Find the distance to fly.
+From 
+to 31VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:04
+Local (UTC-5)19-Jan-2024 15:44:04
+
+
+
+
+   
+
+METAR
+
+
+KFAF6nm N191955Z AUTO 29016KT 10SM SCT030 BKN040 BKN049 OVC065 05/M01 A2973 RMK AO2 PK WND 29026/19 RAB21E29 SLP071 P0000 T00481008 TSNO $
+
+KPHF8nm NE191954Z 30014G27KT 10SM FEW029 OVC065 04/M01 A2975 RMK AO2 PK WND 32029/1935 SLP075 T00441011
+
+KLFI11nm E191955Z 30019G28KT 10SM BKN065 05/M02 A2973 RMK AO2A PK WND 29028/49 SLP074 T00491020 $
+
+KPVG16nm SE191956Z AUTO 28010G16KT 10SM SCT033 BKN048 OVC065 06/M01 A2976 RMK AO2 SLP079 T00561006
+
+KNGU17nm SE191959Z 30020G29KT 10SM SCT029 BKN036 OVC065 06/M01 A2976 RMK AO2 PK WND 29034/1935 SLP077 T00611006
+
+KAKQ20nm W191954Z AUTO 32008G19KT 10SM SCT032 BKN049 OVC080 05/M01 A2978 RMK AO2 SLP086 T00501011
+
+
+
+
+
+TAF
+
+
+KFAF6nm N191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KPHF8nm NE191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KLFI11nm E191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KNGU17nm SE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Aberdeen Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Aberdeen Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

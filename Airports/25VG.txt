@@ -1,0 +1,308 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 25VG - CT Fields Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1612 users online
+ 
+
+
+
+
+25VG
+ CT Fields AirportGalax, Virginia, USA 
+
+
+
+
+
+
+GOING TO GALAX?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:25VG
+Lat/Long:36-38-08.1600N 080-54-50.0400W36-38.136000N 080-54.834000W36.6356000,-80.9139000(estimated)
+Elevation:2350 ft. / 716 m (estimated)
+From city:2 miles N of GALAX, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24333
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/2011
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HLX (9 nm NE):118.375 (276-728-5897)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PSKr206/28.8PULASKI VORTAC116.8006W
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:800 x 60 ft. / 244 x 18 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CLAY AND JILAINE THOMPSON225 HILLCREST LANEGALAX, VA 24333Phone 276-237-3273
+Manager:CLAY AND JILAINE THOMPSON225 HILLCREST LANEGALAX, VA 24333Phone 276-237-3273
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 25VG.
+Some nearby airports with instrument procedures:
+KHLX - Twin County Airport (9 nm NE)
+KMWK - Mount Airy/Surry County Airport (20 nm SE)
+KZEF - Elkin Municipal Airport (22 nm S)
+KMKJ - Mountain Empire Airport (26 nm NW)
+KUKF - Wilkes County Airport (26 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to CT Fields Airport?
+Find the distance to fly.
+From 
+to 25VG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3512:35
+Sunset17:3422:34
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:55:42
+Local (UTC-5)19-Jan-2024 15:55:42
+
+
+
+
+   
+
+METAR
+
+
+KHLX9nm NE192035Z AUTO 30022G29KT 10SM OVC033 M03/M10 A2983 RMK AO2 T10351103
+
+
+
+
+
+TAF
+
+
+KBLF42nm N191735Z 1918/2018 29016G27KT 1 1/2SM -SN BR OVC015 TEMPO 1918/1921 1/2SM SN VV008 FM192100 29017G28KT 4SM -SHSN OVC012 TEMPO 1921/1924 2SM -SHSN BR OVC006 FM201500 29010KT P6SM -SHSN OVC025 
+
+KBCB42nm NE191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+KINT45nm SE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the CT Fields Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about CT Fields Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3VA3 - Flying Circus Aerodrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1575 users online
+ 
+
+
+
+
+3VA3
+ Flying Circus AerodromeWarrenton, Virginia, USA 
+
+
+
+
+
+
+GOING TO WARRENTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3VA3
+Lat/Long:38-33-01.4450N 077-42-56.9680W38-33.024083N 077-42.949467W38.5504014,-77.7158244(estimated)
+Elevation:315 ft. / 96 m (estimated)
+Variation:09W (1985)
+From city:10 miles SE of WARRENTON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22728
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1972
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:MON-FRI 0900-1700
+Wind indicator:yes
+Segmented circle:yes
+
+Airport Communications
+
+WX AWOS-3 at HWY (2.2 nm N):120.350 (540-788-4078)
+WX AWOS-3 at CJR (7 nm W):119.325 (540-727-0523)
+WX AWOS-3PT at HEF (14 nm NE):PHONE 703-361-6160
+WX AWOS-3 at RMN (15 nm SE):126.325 (540-657-8283)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CSNr134/8.9CASANOVA VORTAC116.3006W
+BRVr316/21.4BROOKE VORTAC114.5009W
+AMLr215/25.8ARMEL VOR/DME113.5008W
+LDNr134/29.3LINDEN VORTAC114.3006W
+DCAr249/36.8WASHINGTON VOR/DME111.0009W
+GVEr039/38.2GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR067/10.635110WMSQ-- ... --.-
+SHANNON334/21.123710WEZF. --.. ..-.
+DAVEE266/29.222309WDAA-.. .- .-
+OXONN259/34.833211WDCA-.. -.-. .-
+GEORGETOWN240/35.832309WGTN--. - -.
+CAVERNS113/36.624509WLUA.-.. ..- .-
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 16/34
+
+Dimensions:2500 x 150 ft. / 762 x 46 m
+Surface:turf
+RUNWAY 16RUNWAY 34
+Traffic pattern:rightleft
+
+Runway 2/20
+
+Dimensions:2000 x 150 ft. / 610 x 46 m
+Surface:turf
+RUNWAY 2RUNWAY 20
+Traffic pattern:leftright
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:FLYING CIRCUS AIRSHOWS INCP.O. BOX 99BEALTON, VA 22712Phone 703-439-8661
+Manager:JUSTIN B. CURRIER17375 CROOKES FARM RDRIXEYVILLE, VA 22737Phone 540-212-3900
+
+Airport Operational Statistics
+
+Aircraft based on the field:10Single engine airplanes:10
+Additional Remarks
+
+-THIS FIELD FOR FLYING CIRCUS AERO INC; PRIVATE-AIRSHOW.
+-UNMRKD/UNLGTD TREES & PLINES.
+-FOR CD CTC POTOMAC APCH AT 866-709-4993.
+
+Instrument Procedures
+There are no published instrument procedures at 3VA3.
+Some nearby airports with instrument procedures:
+KHWY - Warrenton/Fauquier Airport (2 nm N)
+KCJR - Culpeper Regional Airport (7 nm W)
+KHEF - Manassas Regional Airport/Harry P. Davis Field (14 nm NE)
+KRMN - Stafford Regional Airport (15 nm SE)
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (19 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Flying Circus Aerodrome?
+Find the distance to fly.
+From 
+to 3VA3
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2612:26
+Sunset17:1722:17
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:08:58
+Local (UTC-5)19-Jan-2024 16:08:58
+
+
+
+
+   
+
+METAR
+
+
+KHWY2nm N192055Z AUTO 29004KT 2 1/2SM -SN SCT015 BKN021 OVC035 00/M02 A2986 RMK AO2 T00011016
+
+KHEF14nm NE192056Z 31007KT 9SM -SN BR SCT017 BKN022 OVC038 00/M03 A2986 RMK AO2 RAB17E19SNB19 SLP121 P0000 60003 T00001028 53023
+
+KRMN15nm SE192055Z AUTO 31007KT 1 1/4SM -SN BKN017 BKN028 OVC039 00/M04 A2986 RMK AO2 T10051037
+
+KCJR20nm W192055Z AUTO 34004KT 10SM SCT070 OVC085 01/M04 A2987 RMK AO2 T00101039
+
+
+
+
+
+TAF
+
+
+KNYG21nm E1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Where to Eat: Catering, Restaurants, Food shops
+Business NameContact
+Services / DescriptionDistanceComments
+
+Fifi's Airfield Cafe
+
+
+
+
+no information available
+If you are affiliated with Fifi's Airfield Cafe and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Flying Circus Aerodrome, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Flying Circus Aerodrome
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

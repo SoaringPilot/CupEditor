@@ -1,0 +1,7 @@
+AirNav: NR32 - Holly Ridge/Topsail Island Airport
+CTAF: 122.9
+Lat/Long:WW34.4904918,-77.5321250(estimated)
+Runway 14/32
+Elevation:49 ft.
+Surface:turf
+Dimensions:3591 x 88 ft.

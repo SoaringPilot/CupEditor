@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3NC3 - Tucker Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1432 users online
+ 
+
+
+
+
+3NC3
+ Tucker Field AirportLocust, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LOCUST?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3NC3
+Lat/Long:35-14-49.0000N 080-24-27.0000W35-14.816667N 080-24.450000W35.2469444,-80.4075000(estimated)
+Elevation:645 ft. / 197 m (estimated)
+Variation:06W (1990)
+From city:1 mile SE of LOCUST, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28097
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/1993
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:SR-SS
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at VUJ (16 nm NE):128.175 (704-986-2097)
+WX AWOS-3 at JQF (17 nm NW):133.675 (704-785-2145)
+WX ASOS at EQY (17 nm SW):135.775 (704-283-5185)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr088/26.9CHARLOTTE VOR/DME115.0005W
+CTFr353/36.4CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA091/36.926006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 6/24
+
+Dimensions:1800 x 50 ft. / 549 x 15 m500 FT SW END CLSD INDEFLY DUE TO CONST.
+Surface:turf
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RICHARD D. TUCKERPO BOX 326LOCUST, NC 28097Phone (281) 827-2961
+Manager:RICHARD D. TUCKER14004 ELM STLOCUST, NC 28097Phone 281-827-2961
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:4Helicopters:4
+Aircraft operations: 12/year100%local general aviation
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 3NC3.
+Some nearby airports with instrument procedures:
+KVUJ - Stanly County Airport (16 nm NE)
+KJQF - Concord-Padgett Regional Airport (17 nm NW)
+KEQY - Charlotte-Monroe Executive Airport (17 nm SW)
+KAFP - Anson County Airport - Jeff Cloud Field (21 nm SE)
+KRUQ - Mid-Carolina Regional Airport (25 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Tucker Field Airport?
+Find the distance to fly.
+From 
+to 3NC3
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:02:37
+Local (UTC-5)19-Jan-2024 17:02:37
+
+
+
+
+   
+
+METAR
+
+
+KVUJ16nm NE192145Z AUTO 32009G17KT 270V020 10SM CLR 05/M09 A3001 RMK AO2 T00501086
+
+KJQF17nm NW192150Z 30014G27KT 10SM CLR 04/M09 A3002
+
+KEQY17nm SW192153Z AUTO 32015G27KT 10SM CLR 05/M10 A2999 RMK AO2 PK WND 34029/2108 SLP172 T00501100
+
+KAFP21nm SE192150Z AUTO 29010G18KT 250V310 10SM CLR 07/M10 A2998 RMK AO2 T00691102
+
+KRUQ25nm N192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+KCLT27nm W192152Z 30014G24KT 10SM FEW060 04/M10 A3002 RMK AO2 PK WND 29035/2108 SLP184 T00391100
+
+
+
+
+
+TAF
+
+
+KCLT27nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Tucker Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Tucker Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

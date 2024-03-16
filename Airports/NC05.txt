@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC05 - Bradford Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1599 users online
+ 
+
+
+
+
+NC05
+ Bradford Field AirportHuntersville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HUNTERSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC05
+Lat/Long:35-24-31.5000N 080-47-39.2570W35-24.525000N 080-47.654283W35.4087500,-80.7942381(estimated)
+Elevation:649 ft. / 198 m (estimated)
+Variation:05W (1985)
+From city:3 miles E of HUNTERSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28078
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1971
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:SAT-SUN 1200-DARK
+Wind indicator:yes
+Segmented circle:yes
+
+Airport Communications
+
+WX AWOS-3 at JQF (4 nm E):133.675 (704-785-2145)
+WX ASOS at CLT (14 nm SW):PHONE 704-790-5484
+WX AWOS-3 at IPJ (18 nm W):119.675 (704-735-6954)
+WX AWOS-3 at RUQ (20 nm NE):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr035/15.2CHARLOTTE VOR/DME115.0005W
+BZMr148/35.2BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA060/22.126006WGHJ--. .... .---
+
+Airport Services
+
+Fuel available:100LL
+Parking:hangars
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:3850 x 150 ft. / 1173 x 46 m
+Surface:turf
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftright
+Runway end identifier lights:nono
+Obstructions:none25 ft. pline, 400 ft. from runway, 10:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BRADFORD III PROPERTIES LLCPO BOX 1727HUNTERSVILLE, NC 28070Phone (704) 576-0513
+Manager:STEVE YANCEY14100 SIMS ROADHUNTERSVILLE, NC 28078Phone 704-231-1051
+
+Airport Operational Statistics
+
+Aircraft based on the field:32Single engine airplanes:32
+Aircraft operations: avg 26/day79%local general aviation21%transient general aviation
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+-OTHER CTC CECIL BRADFORD 704-576-0513; BBIDEE@AOL.COM.
+
+Instrument Procedures
+There are no published instrument procedures at NC05.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (4 nm E)
+14A - Lake Norman Airpark (13 nm NW)
+KCLT - Charlotte/Douglas International Airport (14 nm SW)
+KIPJ - Lincolnton-Lincoln County Regional Airport (18 nm W)
+KRUQ - Mid-Carolina Regional Airport (20 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 25-Mar-2006
+
+Do you have a better or more recent aerial photo of Bradford Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bradford Field Airport?
+Find the distance to fly.
+From 
+to NC05
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3722:37
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:29
+Local (UTC-5)19-Jan-2024 15:44:29
+
+
+
+
+   
+
+METAR
+
+
+KJQF4nm E191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+KCLT14nm SW191952Z 32018G36KT 10SM FEW060 07/M09 A2993 RMK AO2 PK WND 31036/1947 SLP150 T00721089
+
+KIPJ19nm W192025Z AUTO 29014G20KT 260V320 10SM CLR 05/M08 A2997 RMK AO2 T00451085
+
+KRUQ20nm NE192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+
+
+
+
+TAF
+
+
+KCLT14nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bradford Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bradford Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

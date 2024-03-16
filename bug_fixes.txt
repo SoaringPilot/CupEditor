@@ -1,0 +1,118 @@
+Noles Field 4NC2 shows the correct image, and the file data is correct in the viewer. It looks like the CUP data got assigned to the wrong airport
+    FIXED: there are two 4NC2's listed in the file
+
+VG40 has a position error, but it's not calling the pretty print, why?
+3NC9 does not show an error, but I should tighten the tolerance on position so this fails
+
+I need to create a method which gets cup files with: is_data_missing from cup, or is_file_empty from file,
+
+Types of errors/things to fix on the CUP
+1) Removing only heliport waypoints, or converting them to a stupid waypoint type
+2) Runway direction problems and converting the user intput to CUP format
+3) Relocating airport location and converting to CUP format
+4) Wrong airport ID that doesn't match with file, but the GPS location is a true airport
+5) Change CUP to show turf or solid runway
+
+Notes CSV:
+When I went to create the final CUP file, it was too large. I have to use csv.writer to create a file with similar size
+I probably should have used csv.reader, but things worked as is. My problem now is that I would prefer that the input to
+AirportFromCUP to be a Dictionary, and not the string of text. This will allow me to edit and compare the data that has
+been changed.
+
+Notes for new Class:
+LineEdits = group of lineEdits
+- clear all
+CupLineEdits(LineEdits)
+- populate with data
+- convert edit to CUP equivalent
+
+ImageGUI = label, buttons: Open Image File,
+cup_lineEdits
+file_lineEdits
+
+High Level Goals for Discrepancies:
+Research discrepancies
+Synthesize true errors
+Easy input for new CUP data
+Convert User input to CUP input
+Make new CUP file with User input
+Log report of changes
+
+High Level Goals for Scrolling
+Find bad airports, i.e. bad landing conditions
+Call and research airports in close proximity to flight path
+deactivate airports that have been found to be bad
+log report of changes
+
+Beaver Dam Airport:
+I"m not sure if this is an airport so I didn't update the airport file
+
+Big River Ranch:
+This airport doesn't have data online
+
+Flying T Farm is closed. I put "closed" in the airport code and changed the waypoint
+    data, but i need to go back to other airports and do the same.
+
+Grahm Airport in SC does not have data online, but what I have in the cup looks correct
+
+I need to check Bay Creek and Noles Field Airport
+
+Greensboro North airport is closed which in the CUP is listed as 36NC.
+
+The true 36NC, Fly Sky Airport, is not a good airport so I'm going to leave it out of the CUP
+
+Hidden River Airport 89VA, needs to be deleted from the CUP file (DONE)
+
+High towwer airport has no internet data, but I"ve updated the CUP
+
+Hoffman's Farm 1VA5 needs to be deleted (DONE)
+
+Holly Ridge's code was wrong
+
+Hurdle Airport looks to be a developement now, delete from CUP (DONE)
+
+JHarris doesn't have airport data online
+
+jmcgee, can't find any online data
+
+JWSTone, 75NC, has been a modified airport, it looks like a church
+    has modified the runway and a fence covers part of the runway.
+
+Lamar, SC, SC19 needs to be delete. It doesn't look like there is a runway there (DONE)
+
+No internet data on LGlynn, i think the runway is longer but I'll stick with the conservative 1800
+
+No internet data for Massengill Airport, had to move the marker over
+
+Pamlico airport, 7NC0 needs to be deleted (DONE)
+
+Pilot's Cove MD06 needs to be deleted (DONE)
+
+Pilot's Grove VA05 needs to be deleted (DONE)
+
+Red Bird's Airyard needs to be deleted 2VA0 (DONE)
+
+Red House Airfield, 7VA5 needs to be deleted. (DONE)
+
+Spencer NC35 needs to be deleted, it's been turned into a development (DONE)
+
+Spring Valley VA95, doesn't have airport data online, but it's a crappy airport
+
+Tuberville NC78, I need to delete, but when I made the update the program crashed (DONE)
+
+Rose Retreat VA44 needs to be deleted (DONE)
+
+Shivok VA 8VA2 needs to be deleted (DONE)
+
+Weavers landing VA63 has the same code as Twin River. Weaver is so far from Ball, I'm going to leave out of the CUP.
+
+WOW, revision 12 on the CUP file the last one, now I'm about to integrate runway width for all airports. I got 532 errors
+    when I enabled the runway width.
+
+I stopped at BentonFarm. I need to evaluate that airport and continue with the width analysis.
+
+I stopped at Berryvale VA
+
+I stopped at BridgewaterAirpark
+
+I need to make a way to filter airports that are close to where I might fly

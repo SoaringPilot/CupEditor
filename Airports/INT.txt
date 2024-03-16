@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KINT - Smith Reynolds Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1440 users online
+ 
+
+
+
+
+KINT
+ Smith Reynolds AirportWinston Salem, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WINSTON SALEM?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Signature Aviation
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:INT
+Lat/Long:36-08-01.3697N 080-13-19.1558W36-08.022828N 080-13.319263W36.1337138,-80.2219877(estimated)
+Elevation:969.4 ft. / 295.5 m (surveyed)
+Variation:07W (2000)
+From city:3 miles NE of WINSTON SALEM, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27105
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1938
+Control tower:yes
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:INT (NOTAM-D service available)
+Attendance:CONTINUOUS
+Wind indicator:lighted
+Segmented circle:yes
+Lights:WHEN TWR CLSD ACTVT MALSR RWY 33; REIL RWY 15; PAPI RWY 33; HIRL RWY 15/33  - CTAF.  MIRL RWY 04/22 UNAVBL WHEN TWR CLSD.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index A
+Airline operations:ARFF INDEX B COVERAGE AVBL, CALL OPS 336-607-6122.
+International operations:customs landing rights airport 
+
+Airport Communications
+
+CTAF:123.75
+UNICOM:122.95
+ATIS:121.3
+WX ASOS:PHONE 336-661-3096
+WINSTON-SALEM GROUND:128.25 [0645 - 2130]
+WINSTON-SALEM TOWER:123.75 257.8 [0645 - 2130]
+GREENSBORO APPROACH:124.35
+GREENSBORO DEPARTURE:124.35
+BLOCC STAR:124.35 ;250-049 126.6 ;050-249
+BROOK STAR:124.35 ;250-049 126.6 ;050-249
+HENBY STAR:124.35 ;250-049 126.6 ;050-249
+TRIAD DP:124.35
+TRSHA DP:124.35
+VFR ADZY:123.75 257.8
+WX ASOS at GSO (14 nm E):128.55 (336-393-0168)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr297/13.0GREENSBORO VORTAC116.2003W
+LIBr306/35.3LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER243/26.742307WSIF... .. ..-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:HIGH/LOW
+
+Runway Information
+Runway 15/33
+
+Dimensions:6655 x 150 ft. / 2028 x 46 m
+Surface:asphalt/grooved, in fair condition
+Weight bearing capacity:PCN 60 /F/C/W/TSingle wheel:120.0Double wheel:211.0Double tandem:342.0Dual double tandem:802.0
+Runway edge lights:high intensity
+Operational restrictions:ARRESTING GEAR/SYSTEM: ENGINEERED MATERIALS ARRESTING SYSTEM (EMAS) 304 FT IN LENGTH BY 170 FT WIDTH AT THE DEPARTURE END OF RWY 15.
+RUNWAY 15RUNWAY 33
+Latitude:36-08.328300N36-07.433935N
+Longitude:080-13.577420W080-12.795028W
+Elevation:967.7 ft.900.0 ft.
+Traffic pattern:leftleft
+Runway heading:152 magnetic, 145 true332 magnetic, 325 true
+Displaced threshold:585 ft.no
+Declared distances:TORA:6655 TODA:6655 ASDA:6655 LDA:6069TORA:6655 TODA:6655 ASDA:6655 LDA:6655
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:rollouttouchdown
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yesno
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:57 ft. bldg, 1250 ft. from runway, 450 ft. left of centerline, 18:1 slope to clearAPCH RATIO 32:1 FM DSPLCD THR.none
+
+Runway 4/22
+
+Dimensions:3938 x 150 ft. / 1200 x 46 m
+Surface:asphalt, in good condition
+Weight bearing capacity:PCN 6  /F/C/Y/TSingle wheel:18.0Double wheel:25.0
+Runway edge lights:medium intensity
+RUNWAY 4RUNWAY 22
+Latitude:36-07.983390N36-08.541235N
+Longitude:080-13.748463W080-13.339718W
+Elevation:949.7 ft.960.5 ft.
+Traffic pattern:leftleft
+Runway heading:038 magnetic, 031 true218 magnetic, 211 true
+Declared distances:TORA:3938 TODA:3938 ASDA:3938 LDA:3938TORA:3938 TODA:3938 ASDA:3938 LDA:3938
+Markings:basic, in good conditionbasic, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:85 ft. trees, 1700 ft. from runway, 100 ft. right of centerline, 20:1 slope to clear50 ft. trees, 1400 ft. from runway, 150 ft. right of centerline, 24:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:FORSYTH COUNTY3801 N LIBERTY ST., STE 204WINSTON SALEM, NC 27105Phone 336-607-6120
+Manager:MARK R. DAVIDSON, A.A.E.3801 N. LIBERTY ST., STE 204WINSTON SALEM, NC 27105Phone 336-607-6120
+
+Airport Operational Statistics
+
+Aircraft based on the field:69Single engine airplanes:56Multi engine airplanes:7Jet airplanes:6
+Aircraft operations: avg 103/day*44%local general aviation43%transient general aviation12%air taxi1%military<1%commercial* for 12-month period ending 30 April 2021
+Additional Remarks
+
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+-RWY 04/22 CLSD TO AIR CARRIER OPS EXC TAX.
+-ARPT SFC COND NOT RPRT DLY 1630-0830L, OR ON WKEND AND HOL.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+BLOCC TWO
+download (185KB)
+BROOK FOUR
+download (209KB)
+HENBY THREE
+download (158KB)
+TRAKS THREE (RNAV)
+download (250KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 33
+download (241KB)
+RNAV (GPS) RWY 15
+download (242KB)
+RNAV (GPS) RWY 33
+download (299KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+Departure Procedures
+
+QUAKER EIGHT
+download (348KB)
+TRIAD NINE
+download (269KB)
+TRSHA ONE (RNAV)
+download (226KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (389KB)
+
+Other nearby airports with instrument procedures:
+N63 - Meadow Brook Field Airport (11 nm N)
+KGSO - Piedmont Triad International Airport (14 nm E)
+8A7 - Twin Lakes Airport (17 nm SW)
+KEXX - Davidson County Executive Airport (22 nm S)
+KMWK - Mount Airy/Surry County Airport (25 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by AirNav, LLC
+Photo taken 18-Oct-2010
+from the north.
+
+Do you have a better or more recent aerial photo of Smith Reynolds Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Smith Reynolds Airport?
+Find the distance to fly.
+From 
+to KINT
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3322:33
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:54:34
+Local (UTC-5)19-Jan-2024 16:54:34
+
+
+
+
+   
+
+METAR
+
+
+KINT192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+KGSO13nm E192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+
+
+
+
+TAF
+
+
+KINT191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KGSO13nm E191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Signature Aviation
+
+336-776-6060[web site][email]
+
+Aviation fuel, Oxygen service, Aircraft parking (ramp or tiedown), GPU / Power cart, Passenger terminal and lounge, Aircraft maintenance, ...
+
+
+
+More info about Signature Aviation
+
+
+
+
+
+independent100LL Jet AFS$6.91$7.30SS$6.00---Updated 19-Jan-2024
+
+
+
+
+4readwrite
+
+
+
+Alternatives at nearby airportsIMPORTANT: Note that the FBOs below are NOT at KINT but at other nearby airports. Do not expect services from these FBOs to be available at KINT.
+
+Located at KEXX
+
+UNICOM 122.80336-956-7774[web site][email]
+
+At KEXX (Davidson County Executive Airport), 22 miles SCAA Preferred FBO and Contract fuel accepted.Repaved/Grooved Runway, widened taxiway connectors, Central North Carolina location with easy access to Greensboro, Winston-Salem and High Point, and less than 1 hour to Charlotte. Titan ACE Certified Crew.MALSR, GPU, full maintenance services on site, new 10,000 sq. ft. corporate hangars under construction.
+
+
+
+More info and photos of Fly High Lexington, LLC (KEXX)
+
+
+
+
+
+Located at KEXX100LL Jet AFS$6.00$5.40SS$5.50---GUARANTEEDMEMBERSONLYDiscounts
+
+
+
+
+write
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Smith Reynolds Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Smith Reynolds Airport
+
+
+
+www.smithreynolds.org
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

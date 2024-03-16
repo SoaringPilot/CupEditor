@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KDPL - Duplin County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1608 users online
+ 
+
+
+
+
+KDPL
+ Duplin County AirportKenansville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KENANSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:DPL
+Lat/Long:35-00-00.1310N 077-58-53.9700W35-00.002183N 077-58.899500W35.0000364,-77.9816583(estimated)
+Elevation:136.6 ft. / 41.6 m (surveyed)
+Variation:09W (2010)
+From city:2 miles NW of KENANSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28349
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1974
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:DPL (NOTAM-D service available)
+Attendance:SUN 1300-1800,  ALL MON-FRI 0700-1800,  ALL SAT 0800-1800UNATTENDED THANKSGIVING AND CHRISTMAS.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 05 & 23 - CTAF. MIRL RWY 05/23 ON UNTIL MIDNIGHT. AFTER MIDNIGHT, ACTVT MIRL RWY 05/23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:120.675 (910-296-9688)
+SEYMOUR JOHNSON APPROACH:119.7
+SEYMOUR JOHNSON DEPARTURE:119.7
+WX AWOS-3P at W40 (14 nm N):120.075 (919-658-8067)
+WX AWOS-3P at ACZ (17 nm S):121.07 (910-285-0419)
+WX AWOS-3 at CTZ (19 nm W):119.125 (910-592-7488)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG) WHEN APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr228/30.4KINSTON VORTAC117.5005W
+ILMr359/39.3WILMINGTON VORTAC117.0007W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON094/18.841209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:FUEL 24 HR CREDIT CARD SVC AVBL.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:6003 x 100 ft. / 1830 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:70.0Double wheel:95.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:34-59.603753N35-00.400592N
+Longitude:077-59.256085W077-58.542858W
+Elevation:134.9 ft.136.6 ft.
+Traffic pattern:leftleft
+Runway heading:045 magnetic, 036 true225 magnetic, 216 true
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOCALIZER
+Obstructions:8 ft. brush, 325 ft. from runway, 212 ft. right of centerline, 15:1 slope to clear41 ft. trees, 1283 ft. from runway, 153 ft. left of centerline, 26:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:DUPLIN COUNTY260 AIRPORT ROADKENANSVILLE, NC 28349Phone 910-296-2188
+Manager:GEORGE FUTRELLE260 AIRPORT ROADKENANSVILLE, NC 28349Phone 910-296-2188
+
+Airport Operational Statistics
+
+Aircraft based on the field:40Single engine airplanes:28Multi engine airplanes:6Jet airplanes:3Helicopters:2Gliders airplanes:1
+Aircraft operations: avg 48/day*51%transient general aviation31%local general aviation17%military* for 12-month period ending 22 April 2023
+Additional Remarks
+
+-DEER/DOGS/BIRDS ON & INVOF ARPT.
+-MIL ACFT LAND FORWARD OF NUMBERS AND LIMIT DELAY ON RWY TO AVOID DAMAGE TO RWY SURFACES.
+-NOISE ABATEMENT PROCEDURES IN EFFECT, CALL AMGR 910-296-2188.
+-DUPLIN CO ARPT CLSD TO TOUCH & GO/PRACTICE APPROACHES 2100-0600 LCL DLY. (ALL OTHER TIMES  T&G/PRACTICE APPROACHES LIMITED TO 30 MINUTES EACH).
+-ARPT CLSD TO MIL ACFT EXCEPT 1 HR PPR.
+-CD CTC SEYMOUR JOHNSON APCH AT 919-722-4186.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 05
+download (219KB)
+RNAV (GPS) RWY 23
+download (183KB)
+
+NOTE: Special Alternate Minimums apply
+download (24KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+W40 - Mount Olive Municipal Airport (14 nm N)
+KACZ - Henderson Field Airport (17 nm S)
+KCTZ - Clinton-Sampson County Airport (19 nm W)
+KGSB - Seymour Johnson Air Force Base (20 nm N)
+KOAJ - Albert J Ellis Airport (21 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 29-Sep-2008
+
+Do you have a better or more recent aerial photo of Duplin County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Duplin County Airport?
+Find the distance to fly.
+From 
+to KDPL
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:1912:19
+Sunset17:2622:26
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:02:40
+Local (UTC-5)19-Jan-2024 16:02:40
+
+
+
+
+   
+
+METAR
+
+
+KDPL192045Z AUTO 31014G20KT 10SM BKN070 OVC080 12/M02 A2980 RMK AO2
+
+KACZ16nm S192045Z AUTO 31011G17KT 10SM SCT060 OVC080 13/01 A2980 RMK AO2 T01310014
+
+KCTZ19nm W192045Z AUTO 30015G24KT 10SM SCT070 SCT080 12/M02 A2982 RMK AO2 T01201023
+
+KGSB19nm N192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+
+
+
+
+TAF
+
+
+KGSB19nm N191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+KOAJ21nm SE191727Z 1918/2018 29015G26KT P6SM SCT050 FM200300 31009G18KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Duplin County Airport
+
+
+
+910-296-2188[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), GPU / Power cart, Courtesy transportation, ...
+
+
+
+More info about Duplin County Airport
+
+
+
+
+
+100LL Jet AAS$5.15$5.15FS---$4.78Updated 17-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+AS=Assisted/Self ServiceFS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Duplin County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Duplin County Airport
+
+
+
+duplincountync.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

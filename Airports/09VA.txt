@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 09VA - Alum Ridge Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+09VA
+ Alum Ridge AirportFloyd, Virginia, USA 
+
+
+
+
+
+
+GOING TO FLOYD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:09VA
+Lat/Long:36-58-35.4640N 080-29-38.1970W36-58.591067N 080-29.636617W36.9765178,-80.4939436(estimated)
+Elevation:2375 ft. / 724 m (estimated)
+Variation:06W (1985)
+From city:10 miles NW of FLOYD, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24091
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1983
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at PSK (13 nm NW):127.375 (540-674-2731)
+WX AWOS-3 at BCB (15 nm N):133.325 (540-231-4837)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PSKr128/12.4PULASKI VORTAC116.8006W
+ROAr227/29.9ROANOKE VOR/DME109.4004W
+ODRr238/(32.3)WOODRUM VOR114.9008W
+BLFr124/38.9BLUEFIELD VOR/DME115.0503W
+
+
+NDBnameHdg/DistFreqVarID
+TECH205/14.636808WTEC- . -.-.
+VINTON253/32.327708WVIT...- .. -
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:1100 x 50 ft. / 335 x 15 m
+Surface:turf
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ANDREW G. MOLLICK392 CARTHAGE ROAD, NWFLOYD, VA 24091Phone 540-763-9158
+Manager:ANDREW G. MOLLICK392 CARTHAGE ROAD, NWFLOYD, VA 24091Phone 540-763-9158
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 09VA.
+Some nearby airports with instrument procedures:
+KPSK - New River Valley Airport (13 nm NW)
+KBCB - Virginia Tech/Montgomery Executive Airport (15 nm N)
+KHLX - Twin County Airport (20 nm SW)
+KMTV - Blue Ridge Airport (31 nm SE)
+KMWK - Mount Airy/Surry County Airport (31 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Alum Ridge Airport?
+Find the distance to fly.
+From 
+to 09VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0612:06
+Sunrise07:3412:34
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:10
+Local (UTC-5)19-Jan-2024 15:44:10
+
+
+
+
+   
+
+METAR
+
+
+KPSK12nm NW192035Z AUTO 31014G22KT 260V320 7SM -SN SCT029 BKN034 OVC040 M03/M08 A2989 RMK AO2 T10341083
+
+KBCB15nm N192035Z AUTO 29011G22KT 250V320 10SM OVC033 M03/M09 A2990 RMK AO2 T10261092
+
+KHLX20nm SW192035Z AUTO 30022G29KT 10SM OVC033 M03/M10 A2983 RMK AO2 T10351103
+
+
+
+
+
+TAF
+
+
+KBCB15nm N191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Alum Ridge Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Alum Ridge Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

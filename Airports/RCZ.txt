@@ -1,0 +1,443 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KRCZ - Richmond County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1450 users online
+ 
+
+
+
+
+KRCZ
+ Richmond County AirportRockingham, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ROCKINGHAM?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:RCZ
+Lat/Long:34-53-28.6920N 079-45-34.5520W34-53.478200N 079-45.575867W34.8913033,-79.7595978(estimated)
+Elevation:357.5 ft. / 109.0 m (surveyed)
+Variation:08W (2010)
+From city:3 miles S of ROCKINGHAM, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28379
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:04/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RCZ (NOTAM-D service available)
+Attendance:MON-FRI 0800-1700UNATNDD SAT, SUN AND FEDERAL HOLS.FOR ARPT ATTENDANT NGTS AND SUN CALL 910-997-5071.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT DUSK TO DAWN. REIL RWY 32; PAPI RWY 14 & 32; MIRL RWY 14/32 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:118.775 (910-997-4093)
+FAYETTEVILLE APPROACH:127.8
+FAYETTEVILLE DEPARTURE:127.8
+WX AWOS-3 at CQW (14 nm SW):124.825 (843-537-3301)
+WX ASOS at HFF (16 nm NE):141.25 (910-396-7804)
+WX AWOS-3PT at BBP (16 nm S):123.825 (843-479-5817)
+WX AWOS-3 at AFP (17 nm NW):119.325 (704-695-0623)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SDZr206/21.2SANDHILLS VORTAC111.8003W
+CTFr063/29.2CHESTERFIELD VOR/DME114.5503W
+FLOr356/39.8FLORENCE VORTAC115.2003W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLE003/16.323008WBES-... . ...
+DARLINGTON019/27.624506WUDG..- -.. --.
+DILLON333/32.727409WDLC-.. .-.. -.-.
+HARTSVILLE038/34.134107WHVS.... ...- ...
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:100LL AND JET A - 24 HR SELF-SERVICE WITH CREDIT CARD.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 14/32
+
+Dimensions:5001 x 100 ft. / 1524 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:30.0
+Runway edge lights:medium intensity
+RUNWAY 14RUNWAY 32
+Latitude:34-53.735585N34-53.244868N
+Longitude:079-45.797918W079-44.993985W
+Elevation:349.8 ft.354.5 ft.
+Traffic pattern:leftleft
+Runway heading:135 magnetic, 127 true315 magnetic, 307 true
+Displaced threshold:150 ft.201 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:14 ft. trees, 207 ft. from runway, 76 ft. right of centerlineAPCH SLOPE 9:1 AT DSPLCD THR DUE TO 16 FT TREES 357 FT FROM DSPLCD THR OFFSET 71 FT RIGHT OF CNTRLN.20 ft. rr, 215 ft. from runway, 243 ft. right of centerline15 FT ROAD, 5 FT FENCE, AND 20 FT RAILROAD ALL 0-200 FT FM RWY END OFFSET BETWEEN 90-200 FT RIGHT OF CNTRLN.
+
+Runway 4/22
+
+Dimensions:3009 x 490 ft. / 917 x 149 m
+Surface:turf, in good condition
+RUNWAY 4RUNWAY 22
+Latitude:34-53.268850N34-53.647533N
+Longitude:079-46.069318W079-45.680412W
+Elevation:356.4 ft.348.4 ft.
+Traffic pattern:leftleft
+Runway heading:049 magnetic, 041 true229 magnetic, 221 true
+Markings:nonenone
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:39 ft. trees, 75 ft. from runway, 66 ft. left of centerline, 1:1 slope to clear78 ft. trees, 1979 ft. from runway, 282 ft. right of centerline, 25:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:RICHMOND COUNTY656 AIRPORT ROADROCKINGHAM, NC 28379Phone 910-997-8211
+Manager:JEFF PRESSLEY656 AIRPORT ROADROCKINGHAM, NC 28379Phone 910-206-0419
+
+Airport Operational Statistics
+
+Aircraft based on the field:11Single engine airplanes:10Multi engine airplanes:1
+Aircraft operations: avg 28/day*50%transient general aviation50%local general aviation<1%military* for 12-month period ending 27 June 2023
+Additional Remarks
+
+-RWY 14 HAS 60 FT DROP-OFF 350 FT FROM DSPLCD THR ALL SIDES.
+-RWY 04/22 NOT IN USE WHEN WET - TURBINE ENGINE ACFT AND ACFT OVER 10K LBS. CALL 910-997-5071 FOR RUNWAY CONDITIONS BEFORE LANDING.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-RWY 32 HAS NUMEROUS OBSTRUCTIONS IN APCH INCLUDING 5 FT FENCE, 12 FT ROAD, AND 20 FT RAILROAD.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 32
+download (264KB)
+
+NOTE: Special Alternate Minimums apply
+download (25KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (14 nm SW)
+KHFF - Mackall Army Airfield (16 nm NE)
+KBBP - Marlboro County Jetport - H E Avent Field (16 nm S)
+KAFP - Anson County Airport - Jeff Cloud Field (17 nm NW)
+KMEB - Laurinburg/Maxton Airport (20 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+from about 3,000 ft
+
+Do you have a better or more recent aerial photo of Richmond County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Richmond County Airport?
+Find the distance to fly.
+From 
+to KRCZ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2612:26
+Sunset17:3422:34
+Evening civil twilight18:0123:01
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:47:12
+Local (UTC-5)19-Jan-2024 16:47:12
+
+
+
+
+   
+
+METAR
+
+
+KRCZ192130Z AUTO 32012G22KT 10SM SCT075 09/M09 A2993 RMK AO2 T00871089
+
+KCQW14nm SW192135Z AUTO 01014G22KT 10SM FEW075 09/M10 A2995 RMK AO2
+
+KHFF15nm NE192115Z AUTO 34009G16KT 10SM BKN080 09/M08 A2988 RMK AO2 SLPNO $
+
+KBBP16nm S192135Z AUTO 31019G30KT 10SM SCT070 09/M06 A2994 RMK AO2
+
+KAFP17nm NW192130Z AUTO 31013G22KT 10SM CLR 08/M10 A2996 RMK AO2 T00751103
+
+
+
+
+
+TAF
+
+
+KLBT38nm SE191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+KPOB40nm NE192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFLO42nm S191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+KFAY43nm E191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KFBG44nm E192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Richmond County (FBO)
+
+910-997-5071[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Passenger terminal and lounge, ...
+
+
+
+More info about Richmond County (FBO)
+
+
+
+
+
+Phillips 66100LL Jet AAS$5.48---PS---$6.25Updated 11-Jan-2024
+
+
+
+
+write
+
+
+
+AS=Assisted/Self ServicePS=Pump service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Richmond County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Richmond County Airport
+
+
+
+richmondnc.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

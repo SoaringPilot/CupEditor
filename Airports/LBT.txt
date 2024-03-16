@@ -1,0 +1,469 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KLBT - Lumberton Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1517 users online
+ 
+
+
+
+
+KLBT
+ Lumberton Regional AirportLumberton, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LUMBERTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:LBT
+Lat/Long:34-36-35.3000N 079-03-34.4000W34-36.588333N 079-03.573333W34.6098056,-79.0595556(estimated)
+Elevation:124.5 ft. / 38 m (estimated)
+Variation:08W (2000)
+From city:3 miles W of LUMBERTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28358
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:LBT (NOTAM-D service available)
+Attendance:SAT-SUN 1000-1700,  ALL MON-FRI 0800-1700UNATNDD CHRISTMAS & THANKSGIVING.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 05 & 23; PAPI RWY 05 & 23; MIRL RWY 05/23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX ASOS:134.775 (910-739-7120)
+FAYETTEVILLE APPROACH:133.0
+FAYETTEVILLE DEPARTURE:133.0
+WX ASOS at MEB (19 nm NW):134.125 (910-844-5338)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr206/24.3FAYETTEVILLE VOR/DME114.8504W
+FLOr056/37.2FLORENCE VORTAC115.2003W
+
+
+NDBnameHdg/DistFreqVarID
+JIGEL053/5.538408WJB.--- -...
+DILLON067/18.027409WDLC-.. .-.. -.-.
+CAMP327/26.522707WCPC-.-. .--. -.-.
+BENNETTSVILLE099/33.323008WBES-... . ...
+
+Airport Services
+
+Fuel available:100LL JET-A1+A1+:PPR FOR JET A FUEL AFTER HRS, CALL AMGR 910-608-1219.100LL:100LL FUEL 24 HR CREDIT CARD SVC AVBL.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:5502 x 150 ft. / 1677 x 46 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:PCN 22 /F/C/X/TSingle wheel:15.0Double wheel:80.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:34-36.256678N34-36.896695N
+Longitude:079-04.038543W079-03.261312W
+Elevation:123.2 ft.123.1 ft.
+Traffic pattern:leftleft
+Runway heading:053 magnetic, 045 true233 magnetic, 225 true
+Displaced threshold:160 ft.no
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.20 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:78 ft. trees, 2140 ft. from runway, 506 ft. right of centerline, 24:1 slope to clearAPCH RATIO 26:1 AT DSPLCD THR.44 ft. trees, 630 ft. from runway, 178 ft. left of centerline, 9:1 slope to clear56 FT TREES 0-200 FT FM THR OFFSET 233 FT LEFT.
+
+Runway 13/31
+
+Dimensions:5003 x 75 ft. / 1525 x 23 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:8.0
+RUNWAY 13RUNWAY 31
+Latitude:34-36.838105N34-36.365567N
+Longitude:079-03.897203W079-03.079477W
+Elevation:123.7 ft.121.3 ft.
+Traffic pattern:leftleft
+Runway heading:133 magnetic, 125 true313 magnetic, 305 true
+Displaced threshold:no589 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:38 ft. trees, 468 ft. from runway, 155 ft. left of centerline, 7:1 slope to clear9 FT FENCE 100 FT TO 200 FT FM THR OFFSET 240 FT L AND R OF CNTRLN.29 ft. trees, 297 ft. from runway, 7 ft. right of centerline, 3:1 slope to clear15 FT ROAD 170 FT FM THR BOTH SIDES AND 10 FT FENCE 154 FT FM THR BOTH SIDES.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF LUMBERTONP. O. BOX 1388LUMBERTON, NC 28359Phone 910-671-3800
+Manager:GARY LEWIS163 AIRPORT BLVDLUMBERTON, NC 28358Phone 910-739-6480
+
+Airport Operational Statistics
+
+Aircraft based on the field:38Single engine airplanes:32Multi engine airplanes:5Helicopters:1
+Aircraft operations: avg 68/day*48%transient general aviation40%local general aviation8%military4%air taxi* for 12-month period ending 02 November 2022
+Additional Remarks
+
+-RWYS 05/23 & 13/31 NO LN OF SIGHT BTN RWY ENDS.
+-DEER & BIRDS ON & INVOF ARPT.
+-FARMING OPS NEAR RWYS AND TWYS.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05
+download (257KB)
+RNAV (GPS) RWY 05
+download (245KB)
+RNAV (GPS) RWY 13
+download (234KB)
+RNAV (GPS) RWY 23
+download (258KB)
+
+NOTE: Special Alternate Minimums apply
+download (39KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download
+
+Other nearby airports with instrument procedures:
+KDLC - Dillon County Airport (18 nm SW)
+KMEB - Laurinburg/Maxton Airport (19 nm NW)
+KEYF - Curtis L Brown Jr. Field Airport (24 nm E)
+KFAY - Fayetteville Regional Airport/Grannis Field (25 nm N)
+5W4 - P K Airpark (25 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Mr. Bobby Jones
+Photo taken 07-Jul-2014
+looking northwest.
+
+Do you have a better or more recent aerial photo of Lumberton Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Lumberton Regional Airport?
+Find the distance to fly.
+From 
+to KLBT
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2312:23
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:28:37
+Local (UTC-5)19-Jan-2024 16:28:37
+
+
+
+
+   
+
+METAR
+
+
+KLBT192056Z AUTO 32017G27KT 10SM SCT075 12/M01 A2984 RMK AO2 PK WND 32031/2018 SLP105 T01221011 53022
+
+KMEB18nm NW192052Z AUTO 32018G37KT 10SM BKN080 11/M06 A2987 RMK AO2 PK WND 34037/2048 SLP115 T01061061 53026
+
+
+
+
+
+TAF
+
+
+KLBT191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Lumberton Regional Airport
+
+910-739-6480[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Passenger terminal and lounge, ...
+
+ 
+ 
+
+
+
+
+More info about Lumberton Regional Airport
+
+
+
+
+
+Phillips 66100LL Jet AFS$5.55$4.79SS$5.55---Updated 18-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lumberton Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lumberton Regional Airport
+
+
+
+www.lumbertonmunicipalairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

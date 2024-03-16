@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC28 - Meadstown Airstrip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1500 users online
+ 
+
+
+
+
+NC28
+ Meadstown AirstripElizabeth City, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ELIZABETH CITY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC28
+Lat/Long:36-12-00.5690N 076-14-08.7600W36-12.009483N 076-14.146000W36.2001581,-76.2357667(estimated)
+Elevation:7 ft. / 2.1 m (surveyed)
+Variation:09W (1985)
+From city:6 miles S of ELIZABETH CITY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27909
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1970
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ECG (5 nm NE):124.375 (252-338-4750)
+WX AWOS-3 at ONX (16 nm NE):119.775 (252-453-8939)
+WX AWOS-3 at EDE (19 nm SW):118.275 (252-482-0757)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr227/4.5ELIZABETH CITY VOR/DME115.7507W
+RBXr311/31.1WRIGHT BROTHERS VOR/DME111.6008W
+CVIr118/32.4COFIELD VORTAC114.6009W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE151/4.825410WLLW.-.. .-.. .--
+MANTEO312/31.337009WMQI-- --.- ..
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 2/20
+
+Dimensions:4400 x 150 ft. / 1341 x 46 m
+Surface:turf
+RUNWAY 2RUNWAY 20
+Traffic pattern:leftleft
+Obstructions:plinenone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:R. BRENT MEADS487C MEADSTOWN ROADELIZABETH CITY, NC 27909Phone (252) 330-4608
+Manager:R. BRENT MEADS JR1752 NIXONTON ROADELIZABETH CITY, NC 27909Phone 252-339-5783252-339-5783.
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at NC28.
+Some nearby airports with instrument procedures:
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (5 nm NE)
+KONX - Currituck County Regional Airport (16 nm NE)
+KEDE - Northeastern Regional Airport (19 nm SW)
+KCPK - Chesapeake Regional Airport (28 nm N)
+KFFA - First Flight Airport (29 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Meadstown Airstrip?
+Find the distance to fly.
+From 
+to NC28
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4711:47
+Sunrise07:1512:15
+Sunset17:1722:17
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:32:50
+Local (UTC-5)19-Jan-2024 16:32:50
+
+
+
+
+   
+
+METAR
+
+
+KECG5nm NE192054Z 31021G30KT 10SM FEW038 OVC070 07/M01 A2978 RMK AO2 PK WND 30031/2037 SLP084 T00671011 53028
+
+KONX16nm NE192105Z AUTO 29013G20KT 10SM SCT070 OVC075 07/M01 A2978 RMK AO2 T00671010
+
+KEDE19nm SW192110Z AUTO 33014G20KT 10SM SCT050 OVC080 09/02 A2981 RMK AO2 T00850019
+
+
+
+
+
+TAF
+
+
+KECG5nm NE191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Meadstown Airstrip, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Meadstown Airstrip
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

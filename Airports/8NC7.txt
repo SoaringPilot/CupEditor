@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8NC7 - Parker Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1438 users online
+ 
+
+
+
+
+8NC7
+ Parker Field AirportMaysville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MAYSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8NC7
+Lat/Long:34-56-07.5500N 077-16-24.3200W34-56.125833N 077-16.405333W34.9354306,-77.2734222(estimated)
+Elevation:40 ft. / 12 m (estimated)
+Variation:09W (2000)
+From city:3 miles NW of MAYSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28555
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/2003
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at EWN (14 nm NE):118.525 (252-514-2086)
+WX ASOS at NCA (16 nm SW):288.325
+WX AWOS-3PT at OAJ (18 nm W):PHONE 910-324-5233
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+EWNr242/13.9NEW BERN VOR/DME113.6008W
+ISOr157/29.6KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+KATFI250/10.836208WEW. .--
+CHOCOWINITY201/35.438808WRNW.-. -. .--
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:2200 x 75 ft. / 671 x 23 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Obstructions:none25 ft. pline, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RICHARD H. PARKER JR.114 GOSHEN RDPOLLOCKSVILLE, NC 28573Phone 252-670-6385
+Manager:RICHARD H. PARKER JR.114 GOSHEN RDPOLLOCKSVILLE, NC 28573Phone 252-670-6385
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 8NC7.
+Some nearby airports with instrument procedures:
+KEWN - Coastal Carolina Regional Airport (14 nm NE)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (16 nm SW)
+KOAJ - Albert J Ellis Airport (18 nm W)
+KNKT - Cherry Point Marine Corps Air Station (Cunningham Field) Airport (19 nm E)
+KISO - Kinston Regional Jetport at Stallings Field (29 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Parker Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Parker Field Airport?
+Find the distance to fly.
+From 
+to 8NC7
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4911:49
+Sunrise07:1612:16
+Sunset17:2422:24
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:40:55
+Local (UTC-5)19-Jan-2024 16:40:55
+
+
+
+
+   
+
+METAR
+
+
+KEWN14nm NE192054Z 29014G26KT 10SM BKN085 12/M01 A2978 RMK AO2 PK WND 27026/2049 SLP084 T01221006 53017
+
+KNCA16nm SW192056Z 32019G26KT 10SM FEW048 BKN060 12/01 A2979 RMK AO2 PK WND 29027/2046 SLP089 T01220011 53016
+
+KOAJ18nm SW192056Z 28010G15KT 240V310 10SM BKN060 OVC080 12/00 A2980 RMK AO2 SLP093 T01220000 53018
+
+KNKT20nm E192056Z 28015G23KT 10SM BKN065 12/01 A2978 RMK AO2 PK WND 29026/2037 SLP080 T01220006 53017
+
+KNJM20nm SE192057Z AUTO 31010G18KT 260V320 8SM BKN060 OVC075 12/02 A2978 RMK AO2 SLP089 T01220022 53016
+
+
+
+
+
+TAF
+
+
+KEWN14nm NE191727Z 1918/2018 29014G26KT P6SM SCT050 FM200300 30010G18KT P6SM SKC 
+
+KNCA16nm SW1915/2015 27014G26KT 9999 FEW030 QNH2977INS FM191600 29018G33KT 9999 FEW060 QNH2973INS FM200100 31011G21KT 9999 SKC QNH2999INS T13/1919Z TM04/2010Z 
+
+KOAJ18nm SW191727Z 1918/2018 29015G26KT P6SM SCT050 FM200300 31009G18KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Parker Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Parker Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

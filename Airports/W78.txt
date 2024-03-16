@@ -1,0 +1,456 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W78 - William M Tuck Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1466 users online
+ 
+
+
+
+
+W78
+ William M Tuck AirportSouth Boston, Virginia, USA 
+
+
+
+
+
+
+GOING TO SOUTH BOSTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W78
+Lat/Long:36-42-33.7407N 078-50-54.0149W36-42.562345N 078-50.900248W36.7093724,-78.8483375(estimated)
+Elevation:419.8 ft. / 128.0 m (surveyed)
+Variation:08W (1995)
+From city:3 miles E of SOUTH BOSTON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24592
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1949
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:UNATTENDED
+Pattern altitude:1219.8 ft. MSL
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MIRL RY 01/19 & REIL  RYS 01 & 19 - CTAF.  PAPI RYS 01 & 19 OPER CONT.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.425 (434-575-0332)
+WX AWOS-3 at W63 (15 nm SE):118.225 (434-374-2431)
+WX AWOS-3 at CXE (17 nm E):121.225 (434-372-4506)
+
+
+COMMUNICATIONS PRVDD BY LEESBURG RADIO ON FREQS 122.1R/110.4T (SOUTH BOSTON RCO).
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 124.05/352.0 (SOUTH BOSTON RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr081/8.3SOUTH BOSTON VORTAC110.4005W
+DANr076/(25.0)DANVILLE VOR113.1006W
+LYHr155/37.6LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO345/26.927109WHXO.... -..- ---
+PERSON028/30.422008WHUR.... ..- .-.
+
+Airport Services
+
+Fuel available:100LL
+Parking:tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:4003 x 75 ft. / 1220 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 1RUNWAY 19
+Latitude:36-42.272418N36-42.930965N
+Longitude:078-50.857067W078-50.904865W
+Elevation:382.5 ft.419.8 ft.
+Traffic pattern:leftleft
+Runway heading:005 magnetic, 357 true185 magnetic, 177 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:28 ft. trees, 481 ft. from runway, 265 ft. left of centerline, 10:1 slope to clear5 FT BRUSH 150 FT LEFT AND RIGHT OF RWY CNTRLN.42 ft. tree, 861 ft. from runway, 100 ft. right of centerline, 15:1 slope to clear
+
+Runway 6/24
+
+Dimensions:2065 x 200 ft. / 629 x 61 m
+Surface:turf, in good condition
+Runway edge markings:RY 24 OUTLINED WITH YELLOW CONES.
+RUNWAY 6RUNWAY 24
+Latitude:36-42.373102N36-42.599038N
+Longitude:078-51.095602W078-50.779653W
+Elevation:375.6 ft.389.8 ft.
+Traffic pattern:leftleft
+Runway heading:056 magnetic, 048 true236 magnetic, 228 true
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:69 ft. trees, 1134 ft. from runway, 143 ft. right of centerline, 13:1 slope to clear70 ft. trees, 891 ft. from runway, 70 ft. right of centerline, 9:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY OF HALIFAXPO BOX 699HALIFAX, VA 24558Phone 434-476-3300
+Manager:OTIS VAUGHANPO BOX 699HALIFAX, VA 24558Phone 434-476-3300
+
+Airport Operational Statistics
+
+Aircraft based on the field:16Single engine airplanes:14Helicopters:2
+Aircraft operations: avg 22/day*66%local general aviation34%transient general aviation* for 12-month period ending 31 July 2023
+Additional Remarks
+
+-WILDLIFE ON & INVOF RYS.
+-SELF-FUELING WITH A CREDIT CARD.
+-RWY 06/24 CLSD TO ACFT WITH AIRSPEED 50 KT OR MORE.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 01
+download (264KB)
+VOR-A
+download (216KB)
+
+NOTE: Special Alternate Minimums apply
+download (41KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (359KB)
+
+Other nearby airports with instrument procedures:
+W63 - Lake Country Regional Airport (15 nm SE)
+KCXE - Chase City Municipal Airport (17 nm E)
+KDAN - Danville Regional Airport (25 nm W)
+KHNZ - Henderson/Oxford Airport (26 nm SE)
+KTDF - Raleigh Regional Airport at Person County (26 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Kenton Good
+Taken in August 2017
+looking south.
+
+Do you have a better or more recent aerial photo of William M Tuck Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to William M Tuck Airport?
+Find the distance to fly.
+From 
+to W78
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:2622:26
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:09:06
+Local (UTC-5)19-Jan-2024 17:09:06
+
+
+
+
+   
+
+METAR
+
+
+KW78192155Z AUTO 29009G14KT 10SM BKN060 03/M10 A2995 RMK AO1 T00331097
+
+KW6315nm SE192155Z AUTO 30009G17KT 260V320 10SM SCT055 03/M07 A2990 RMK AO1
+
+KCXE17nm E192155Z AUTO 10SM CLR 02/M09 A2991 RMK AO1 T00231086
+
+
+
+
+
+TAF
+
+
+KDAN25nm W191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+County of Halifax
+
+434-476-3300
+
+
+no information available
+If you are affiliated with County of Halifax and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLSS$5.89Updated 12-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+SS=Self service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Dix Aviation
+
+336-514-2724[email]
+
+Aircraft maintenance, Avionics sales and service
+
+ 
+
+
+
+
+More info about Dix Aviation
+
+
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the William M Tuck Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about William M Tuck Airport
+
+
+
+www.halifaxvirginia.com/airport03.asp
+
+
+
+
+
+www.oldhalifax.com/airport
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,325 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8MD6 - Burgess Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1619 users online
+ 
+
+
+
+
+8MD6
+ Burgess Field AirportNanjemoy, Maryland, USA 
+
+
+
+
+
+
+GOING TO NANJEMOY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8MD6
+Lat/Long:38-23-49.4480N 077-08-48.9180W38-23.824133N 077-08.815300W38.3970689,-77.1469217(estimated)
+Elevation:35 ft. / 11 m (estimated)
+Variation:09W (1985)
+From city:5 miles SE of NANJEMOY, MD
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:20662
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1975
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at RMN (15 nm W):126.325 (540-657-8283)
+WX AWOS-3 at EZF (16 nm SW):128.125 (540-372-6794)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BRVr078/10.4BROOKE VORTAC114.5009W
+ADWr218/27.9ANDREWS VORTAC113.1010W
+DCAr200/28.2WASHINGTON VOR/DME111.0009W
+AMLr163/35.6ARMEL VOR/DME113.5008W
+PXTr291/35.7PATUXENT VORTAC117.6010W
+CSNr119/36.8CASANOVA VORTAC116.3006W
+
+
+NDBnameHdg/DistFreqVarID
+DAVEE195/16.022309WDAA-.. .- .-
+SHANNON071/16.323710WEZF. --.. ..-.
+OXONN205/22.833211WDCA-.. -.-. .-
+GEORGETOWN191/32.032309WGTN--. - -.
+PATUXENT291/35.640010WNHK-. .... -.-
+NAILR106/35.835110WMSQ-- ... --.-
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 15/33
+
+Dimensions:2200 x 30 ft. / 671 x 9 m
+Surface:gravel, in poor condition
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftright
+Markings:nonenone
+Obstructions:60 ft. trees, 20 ft. from runway, 1:1 slope to clear60 ft. trees, 100 ft. right of centerline, 1:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ALLEN G. BURGESS5045 BURGESS FARM ROADNANJEMOY, MD 20662Phone 781-290-6658
+Manager:ALLEN G. BURGESS228 HIGHLAND AVEWEST NEWTON, MA 02165Phone 781-290-6658OR 617-965-6261.
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-599-3874.
+
+Instrument Procedures
+There are no published instrument procedures at 8MD6.
+Some nearby airports with instrument procedures:
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (10 nm NW)
+2W5 - Maryland Airport (12 nm N)
+KRMN - Stafford Regional Airport (15 nm W)
+KEZF - Shannon Airport (16 nm SW)
+KDAA - Davison Army Airfield (19 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Burgess Field Airport?
+Find the distance to fly.
+From 
+to 8MD6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2412:24
+Sunset17:1522:15
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:15
+Local (UTC-5)19-Jan-2024 15:48:15
+
+
+
+
+   
+
+METAR
+
+
+KNYG9nm NW192020Z AUTO 31008KT 4SM HZ OVC055 00/ A2985 RMK AO2 SNE18 P0000 T0000 $
+
+KRMN15nm W192035Z AUTO 31004KT 10SM SCT039 SCT050 OVC060 00/M04 A2984 RMK AO2 T00001045
+
+KEZF16nm SW192035Z AUTO 31011KT 10SM BKN055 BKN070 OVC120 01/M02 A2984 RMK AO2 T00091024
+
+KDAA19nm N192023Z AUTO 30014KT 9SM -RA FEW014 BKN033 OVC043 00/M03 A2980 RMK AO2 SNE07UPB07E10RAB10 SLP095 $
+
+
+
+
+
+TAF
+
+
+KNYG9nm NW1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+KDAA19nm N191300Z 1913/2019 VRB06KT 9000 -SN OVC008 650089 QNH2971INS TEMPO 1913/1914 0400 +SN OVC003 650039 BECMG 1913/1914 VRB06KT 6000 -SN OVC007 650079 QNH2971INS TEMPO 1914/1921 1600 BR VCSH SCT007 OVC015 630159 BECMG 1920/1921 30008KT 4800 -SN SCT008 OVC015 650157 QNH2983INS BECMG 1923/1924 31006KT 9999 NSW SCT008 OVC015 QNH2986INS BECMG 2003/2004 30006KT 9999 SCT023 OVC035 QNH2995INS BECMG 2010/2011 31009KT 9999 FEW080 QNH3008INS BECMG 2015/2016 30015G20KT 9999 FEW090 FEW120 510053 QNH3016INS TX01/
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Burgess Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Burgess Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

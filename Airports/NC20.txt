@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC20 - Canaan Air Base Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1617 users online
+ 
+
+
+
+
+NC20
+ Canaan Air Base AirportNew Bern, North Carolina, USA 
+
+
+
+
+
+
+GOING TO NEW BERN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC20
+Lat/Long:35-05-23.5000N 077-10-15.0000W35-05.391667N 077-10.250000W35.0898611,-77.1708333(estimated)
+Elevation:33 ft. / 10 m (estimated)
+From city:4 miles W of NEW BERN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28562
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/2008
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:FDC (NOTAM-D service not available)
+Attendance:0800-1700
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at EWN (6 nm E):118.525 (252-514-2086)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+EWNr287/6.3NEW BERN VOR/DME113.6008W
+ISOr137/25.4KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+KATFI320/6.136208WEW. .--
+CHOCOWINITY195/25.438808WRNW.-. -. .--
+ALWOOD174/38.323009WAQE.- --.- .
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:1840 x 40 ft. / 561 x 12 m
+Surface:asphalt
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+Obstructions:50 ft. trees, 700 ft. from runway25 ft. bldg, 400 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CALVARY BAPTIST CHURCHP. O. BOX 1089NEW BERN, NC 28563Phone 252-671-7951
+Manager:JACK D. HUNT100 CANAAN RDNEW BERN, NC 28562Phone 252-671-7951
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:4
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC20.
+Some nearby airports with instrument procedures:
+KEWN - Coastal Carolina Regional Airport (6 nm E)
+KNKT - Cherry Point Marine Corps Air Station (Cunningham Field) Airport (18 nm SE)
+KISO - Kinston Regional Jetport at Stallings Field (26 nm NW)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (26 nm SW)
+KOAJ - Albert J Ellis Airport (27 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Canaan Air Base Airport?
+Find the distance to fly.
+From 
+to NC20
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4911:49
+Sunrise07:1612:16
+Sunset17:2322:23
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:19
+Local (UTC-5)19-Jan-2024 15:48:19
+
+
+
+
+   
+
+METAR
+
+
+KEWN6nm E191954Z AUTO 29015G21KT 10SM OVC065 12/01 A2975 RMK AO2 SLP073 T01220011
+
+KNKT19nm SE191956Z 29016G25KT 10SM SCT055 BKN070 13/01 A2975 RMK AO2 PK WND 27026/1944 SLP070 T01280011
+
+
+
+
+
+TAF
+
+
+KEWN6nm E191727Z 1918/2018 29014G26KT P6SM SCT050 FM200300 30010G18KT P6SM SKC 
+
+KNKT19nm SE1915/2015 27012G22KT 9999 BKN060 521609 522509 523406 QNH2977INS BECMG 1916/1918 30015G28KT SCT050 510009 520909 521809 522709 523604 QNH2972INS FM200000 32015G25KT 9999 SKC 510009 520909 521809 522709 523604 QNH2988INS BECMG 2007/2009 32013KT 521609 522509 523406 QNH3007INS TEMPO 2012/2015 33015G22KT T13/1919Z TM03/2010Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Canaan Air Base Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Canaan Air Base Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

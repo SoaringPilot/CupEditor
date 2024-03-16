@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KFYJ - Middle Peninsula Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1468 users online
+ 
+
+
+
+
+KFYJ
+ Middle Peninsula Regional AirportWest Point, Virginia, USA 
+
+
+
+
+
+
+GOING TO WEST POINT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:FYJ
+Lat/Long:37-31-16.9000N 076-45-45.9000W37-31.281667N 076-45.765000W37.5213611,-76.7627500(estimated)
+Elevation:20.4 ft. / 6.2 m (surveyed)
+Variation:11W (2010)
+From city:2 miles SE of WEST POINT, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23156
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:FYJ (NOTAM-D service available)
+Attendance:0800-1700
+Pattern altitude:TPA LGT ACFT 800', HVY ACFT 1500'.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:MIRL RY 10/28, REIL RY 10 & RY 28 OPR SS-SR.  DRG DALGT HRS, PCL AVBL UPON REQ, CTC AMGR 804-785-9725.  ACTVT MIRL RY 10/28, REIL RY 10 & RY 28-CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:132.825 (804-785-2307)
+POTOMAC APPROACH:126.4 126.75
+POTOMAC DEPARTURE:126.4 126.75
+WX AWOS-3 at W75 (16 nm E):118.45 (804-758-8592)
+WX AWOS-3 at JGG (17 nm S):120.625 (757-220-8810)
+WX AWOS-3 at W96 (17 nm W):119.875 (804-932-8863)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr338/5.0HARCUM VORTAC108.8007W
+HPWr062/20.4HOPEWELL VORTAC114.3506W
+RICr097/26.6RICHMOND VORTAC114.1009W
+CCVr296/37.9CAPE CHARLES VORTAC112.2010W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD030/34.327411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL JET-A+100LL:SELF SVC AVBL.A+:FULL & SELF SVC AVBL.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 10/28
+
+Dimensions:5000 x 75 ft. / 1524 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:30.0Double wheel:50.0Double tandem:85.0
+Runway edge lights:medium intensity
+Runway edge markings:NON-STD MARKING PLACEMENT.  MARKINGS NEED TO SHIFT 8 FT E OF CURRENT PLACEMENT.
+RUNWAY 10RUNWAY 28
+Latitude:37-31.253085N37-31.308563N
+Longitude:076-46.280842W076-45.248748W
+Elevation:13.0 ft.20.4 ft.
+Traffic pattern:leftleft
+Runway heading:097 magnetic, 086 true277 magnetic, 266 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.50 degrees glide path)2-light PAPI on left (3.50 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:30 ft. tree, 1050 ft. from runway, 351 ft. left of centerline, 28:1 slope to clear24 ft. trees, 331 ft. from runway, 97 ft. left of centerline, 5:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:MIDDLE PENISULA REG'L AIRPORT AUTHO1000 AIRPORT ROADMATTAPONI, VA 23110Phone 804-785-9725
+Manager:JOEL MOONEY1000 AIRPORT ROADMATTAPONI, VA 23110Phone 804-785-9725E-MAIL ADDRESS MANAGER@FLY-FYJ.COM.
+
+Airport Operational Statistics
+
+Aircraft based on the field:32Single engine airplanes:29Multi engine airplanes:2Helicopters:1
+Aircraft operations: avg 28/day*39%transient general aviation31%military30%local general aviation* for 12-month period ending 31 December 2019
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-ROTOR-WING AND TILTROTOR ACFT FLY TFC PATS SOUTH OF RWY 10/28 AT 800 FT AGL OR ABV.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 10
+download (236KB)
+RNAV (GPS)-B
+download (165KB)
+LOC RWY 10
+download (266KB)
+VOR-A
+download (168KB)
+
+NOTE: Special Alternate Minimums apply
+download (59KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+W94 - Camp Peary Landing Strip Airport (14 nm SE)
+W75 - Hummel Field Airport (16 nm E)
+KJGG - Williamsburg-Jamestown Airport (17 nm S)
+W96 - New Kent County Airport (17 nm W)
+KXSA - Tappahannock/Essex County Airport (21 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Photo taken 10-Sep-2019
+looking southwest from 5,000'.
+
+Do you have a better or more recent aerial photo of Middle Peninsula Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Middle Peninsula Regional Airport?
+Find the distance to fly.
+From 
+to KFYJ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:2012:20
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:34:15
+Local (UTC-5)19-Jan-2024 16:34:15
+
+
+
+
+   
+
+METAR
+
+
+KFYJ192115Z AUTO 30008G18KT 10SM SCT025 SCT030 SCT080 02/M03 A2985 RMK AO1 T00151035
+
+KW7516nm E192115Z AUTO 31014G23KT 10SM BKN017 BKN025 OVC060 01/M02 A2983 RMK AO1 T00121018
+
+KW9617nm W192115Z AUTO 31007G16KT 10SM SCT032 BKN060 OVC070 02/M04 A2984 RMK AO1 T00231040
+
+
+
+
+
+TAF
+
+
+KFAF25nm S191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KRIC26nm W191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+KPHF26nm SE191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Middle Peninsula Regional Airport Authority
+
+
+
+UNICOM 123.00804-785-9725804-832-0671[email]
+
+Airport Management, Aircraft Parking, Passenger Lounge, Pilot Lounge, Pilot Lounge, WSI, Crew Car, Restrooms, 24 hour Self-Service Jet-A/100LL fueling.
+
+ 
+ 
+
+
+
+
+More info about Middle Peninsula Regional Airport Authority
+
+
+
+
+
+100LL Jet AFS---$5.25SS$6.75$5.15Updated 15-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Middle Peninsula Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Middle Peninsula Regional Airport
+
+
+
+www.fly-fyj.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,418 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KCTZ - Clinton-Sampson County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1633 users online
+ 
+
+
+
+
+KCTZ
+ Clinton-Sampson County AirportClinton, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CLINTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:CTZ
+Lat/Long:34-58-29.7670N 078-21-56.2680W34-58.496117N 078-21.937800W34.9749353,-78.3656300(estimated)
+Elevation:144 ft. / 43.9 m (surveyed)
+Variation:09W (2005)
+From city:2 miles SW of CLINTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28328
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:CTZ (NOTAM-D service available)
+Attendance:MON-SAT 0830-1800,  ALL SUN 1300-1800FOR ARPT ATTENDANT AFTER HRS CALL 910-592-3295 OR 910-590-9100.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 06 & 24 - CTAF. PAPI RWY 06 & 24 ON 24 HRS. MIRL RWY 06/24 DUSK-DAWN.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.125 (910-592-7488)
+FAYETTEVILLE APPROACH:133.0
+FAYETTEVILLE DEPARTURE:133.0
+WX AWOS-3 at DPL (19 nm E):120.675 (910-296-9688)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr095/25.1FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTONat field41209WCTZ-.-. - --..
+HARNETT159/31.441708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:100LL JET-A1+
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:5008 x 75 ft. / 1526 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:26.0
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:34-58.236248N34-58.755950N
+Longitude:078-22.327388W078-21.548175W
+Elevation:129.8 ft.143.8 ft.
+Traffic pattern:leftleft
+Runway heading:060 magnetic, 051 true240 magnetic, 231 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOCALIZER
+Obstructions:21 ft. trees, 348 ft. from runway, 368 ft. left of centerline, 7:1 slope to clear10 ft. trees, 246 ft. from runway, 176 ft. right of centerline, 4:1 slope to clearHAS 79 FT TO 40 FT TREES 0-200 FT FM THR 278 FT RIGHT OF CNTRLN AND 81 FT TREES 102 FT FM THR 357 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:SAMPSON COUNTY/CITY OF CLINTON221 LISBON STREETCLINTON, NC 28328Phone 910-592-1961
+Manager:JAMES DUNCAN89 SAMPSON AIRPORT ROADCLINTON, NC 28328Phone 910-592-3295FBO-CLINTON FLYING SERVICE - JIM NAYLOR.
+
+Airport Operational Statistics
+
+Aircraft based on the field:16Single engine airplanes:15Jet airplanes:1
+Aircraft operations: avg 100/week*77%local general aviation12%military10%transient general aviation2%air taxi* for 12-month period ending 11 June 2022
+Additional Remarks
+
+-50 FT TREES 300 FT FM CNTRLN PENETRATE TRANSITIONAL SFC NW SIDE OF RWY FM RWY 24 APCH SFC TO RWY 06 THR.
+-40 FT DROP-OFF RWY 06 325 FT FROM THR & 120 FT LEFT.  60+ FT DROP-OFF 20 FT FM THR & 110 FT RIGHT OF CNTRLN.
+-30 FT DROP-OFF RWY 24 350 FT FM THR & 175 FT RIGHT OF CNTRLN.
+-TWY A AT RWY 06 HAS 70 FT DROP-OFF 50 FT TO 100 FT LEFT OF CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 06
+download (195KB)
+RNAV (GPS) Y RWY 24
+download (199KB)
+RNAV (GPS) Z RWY 24
+download (190KB)
+VOR/DME-A
+download (182KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KDPL - Duplin County Airport (19 nm E)
+W40 - Mount Olive Municipal Airport (22 nm NE)
+KACZ - Henderson Field Airport (24 nm SE)
+KEYF - Curtis L Brown Jr. Field Airport (25 nm SW)
+KFAY - Fayetteville Regional Airport/Grannis Field (25 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Clinton-Sampson County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Clinton-Sampson County Airport?
+Find the distance to fly.
+From 
+to KCTZ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2112:21
+Sunset17:2822:28
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:52:52
+Local (UTC-5)19-Jan-2024 15:52:52
+
+
+
+
+   
+
+METAR
+
+
+KCTZ192025Z AUTO 30013G18KT 10SM BKN060 OVC080 12/M01 A2981 RMK AO2 T01181015
+
+KDPL20nm E192025Z AUTO 30016G21KT 10SM BKN060 OVC085 12/M01 A2980 RMK AO2
+
+
+
+
+
+TAF
+
+
+KFAY25nm W191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KGSB28nm NE191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+KFBG28nm W192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Clinton Flying Service
+
+910-592-3295
+
+Airport management, Aviation fuel
+
+
+
+More info about Clinton Flying Service
+
+
+
+
+
+Avfuel100LL Jet AFS$5.85$5.75Updated 27-Dec-2023
+
+
+
+  no comments
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Clinton-Sampson County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Clinton-Sampson County Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

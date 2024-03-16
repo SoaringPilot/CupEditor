@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 50NC - Ervin Airfield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1599 users online
+ 
+
+
+
+
+50NC
+ Ervin AirfieldKannapolis, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KANNAPOLIS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:50NC
+Lat/Long:35-32-42.0000N 080-40-07.0000W35-32.700000N 080-40.116667W35.5450000,-80.6686111(estimated)
+Elevation:905 ft. / 276 m (estimated)
+Variation:06W ()
+From city:5 miles SW of KANNAPOLIS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28023
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/2000
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at RUQ (9 nm NE):118.175 (704-637-6197)
+WX AWOS-3 at JQF (10 nm S):133.675 (704-785-2145)
+WX AWOS-3 at SVH (19 nm NW):119.225 (704-873-1978)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr038/25.4CHARLOTTE VOR/DME115.0005W
+BZMr131/34.0BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY224/14.327506WRU.-. ..-
+STONIA054/32.026006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:2450 x 90 ft. / 747 x 27 m
+Surface:turf
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+Obstructions:25 ft. pline, 85 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DAVID ERVIN2480 SAW ROADCHINA GROVE, NC 28023Phone 704-791-5190
+Manager:DAVID ERVIN2480 SAW ROADCHINA GROVE, NC 28023Phone 704-932-5072
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 50NC.
+Some nearby airports with instrument procedures:
+KRUQ - Mid-Carolina Regional Airport (9 nm NE)
+KJQF - Concord-Padgett Regional Airport (10 nm S)
+14A - Lake Norman Airpark (12 nm W)
+KSVH - Statesville Regional Airport (19 nm NW)
+KEXX - Davidson County Executive Airport (23 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Ervin Airfield?
+Find the distance to fly.
+From 
+to 50NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:05:28
+Local (UTC-5)19-Jan-2024 16:05:28
+
+
+
+
+   
+
+METAR
+
+
+KRUQ10nm NE192050Z AUTO 29011G19KT 250V320 10SM CLR 04/M09 A2995 RMK AO2 T00421095
+
+KJQF10nm S191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+KSVH18nm NW192045Z AUTO 30014G22KT 10SM CLR 03/M10 A2998 RMK AO2 T00301096
+
+
+
+
+
+TAF
+
+
+KCLT24nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Ervin Airfield, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Ervin Airfield
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

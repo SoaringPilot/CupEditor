@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KLVL - Brunswick County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1541 users online
+ 
+
+
+
+
+KLVL
+ Brunswick County AirportLawrenceville, Virginia, USA 
+
+
+
+
+
+
+GOING TO LAWRENCEVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:LVL
+Lat/Long:36-46-28.6650N 077-47-37.6150W36-46.477750N 077-47.626917W36.7746292,-77.7937819(estimated)
+Elevation:328.7 ft. / 100 m (estimated)
+Variation:08W (1985)
+From city:3 miles E of LAWRENCEVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23868
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1942
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.625 (434-848-2017)
+WX AWOS-3 at AVC (14 nm W):127.525 (434-729-2229)
+WX AWOS-3 at EMV (16 nm E):124.175 (434-634-0656)
+WX ASOS at BKT (20 nm NW):119.225 (434-292-1400)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON FREQS 118.75/377.1 (GREEN BAY RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LVLr124/5.9LAWRENCEVILLE VORTAC112.9008W
+FKNr285/37.7FRANKLIN VORTAC110.6009W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE159/24.332609WBKT-... -.- -
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 18/36
+
+Dimensions:3020 x 50 ft. / 920 x 15 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:12.5
+RUNWAY 18RUNWAY 36
+Latitude:36-46.724500N36-46.231000N
+Longitude:077-47.667333W077-47.586500W
+Elevation:328.7 ft.311.4 ft.
+Traffic pattern:leftleft
+Runway heading:180 magnetic, 172 true000 magnetic, 352 true
+Markings:basic, in fair conditionbasic, in fair condition
+Runway end identifier lights:nono
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:48 ft. pole, 984 ft. from runway, 74 ft. right of centerline, 16:1 slope to clear10 ft. road, 254 ft. from runway, 5:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY OF BRUNSWICKPO BOX 399LAWRENCEVILLE, VA 23868Phone 434-848-3107
+Manager:ANDREW SYKES77 AIRPORT DRLAWRENCEVILLE, VA 23868Phone 434-848-2767
+
+Airport Operational Statistics
+
+
+Aircraft operations: avg 37/week*67%local general aviation26%transient general aviation7%military* for 12-month period ending 31 December 2021
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-ARPT CLSD SS-SR INDEFLY.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS)-A
+download (156KB)
+RNAV (GPS)-B
+download (174KB)
+
+NOTE: Special Alternate Minimums apply
+download (144KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KAVC - Mecklenburg-Brunswick Regional Airport (14 nm W)
+KEMV - Emporia-Greensville Regional Airport (16 nm E)
+KBKT - Allen C Perkinson Airport/Blackstone Army Airfield (20 nm NW)
+W31 - Lunenburg County Airport (22 nm NW)
+KIXA - Halifax/Northampton Regional Airport (28 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Alexander Peters
+Photo taken 16-Aug-2015
+looking northwest.
+
+Do you have a better or more recent aerial photo of Brunswick County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Brunswick County Airport?
+Find the distance to fly.
+From 
+to KLVL
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:2122:21
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:25:19
+Local (UTC-5)19-Jan-2024 16:25:19
+
+
+
+
+   
+
+METAR
+
+
+KLVL192055Z AUTO 28006G20KT 240V320 10SM SCT050 SCT070 07/M07 A2984 RMK AO1 T00651070
+
+KAVC13nm SW192055Z AUTO 29009G17KT 10SM SCT050 BKN060 05/M07 A2990 RMK AO2 T00481066
+
+KEMV16nm E192055Z AUTO RMK AO2 6//// PWINO PNO TSNO
+
+KBKT20nm NW192055Z AUTO 30015G26KT 9SM BKN050 OVC065 05/M07 A2982 RMK AO2 PK WND 31026/46 SLP104 60000 T00491069 52027 $
+
+
+
+
+
+TAF
+
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Brunswick County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Brunswick County Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

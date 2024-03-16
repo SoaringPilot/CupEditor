@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC10 - Nocarva Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1444 users online
+ 
+
+
+
+
+NC10
+ Nocarva AirportMacon, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MACON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC10
+Lat/Long:36-32-30.5270N 078-03-28.9740W36-32.508783N 078-03.482900W36.5418131,-78.0580483(estimated)
+Elevation:275 ft. / 84 m (estimated)
+Variation:08W (1985)
+From city:6 miles N of MACON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27551
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1966
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at AVC (9 nm N):127.525 (434-729-2229)
+WX AWOS-3 at LVL (19 nm NE):119.625 (434-848-2017)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LVLr212/18.2LAWRENCEVILLE VORTAC112.9008W
+TYIr338/38.0TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO071/30.727109WHXO.... -..- ---
+BLACKSTONE190/35.132609WBKT-... -.- -
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 18/36
+
+Dimensions:1900 x 100 ft. / 579 x 30 m
+Surface:turf, in fair conditionHAS OCNL EROSION DAMAGE ON BARE AREAS.
+Operational restrictions:FREQUENT MOWING OPERATIONS DURING SUMMER MONTHS
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:40 ft. pline, 90 ft. left of centerline90 ft. trees, 90 ft. right of centerlineTERRAIN ELEVATION DROPS; LAKE 150 FT FM THR.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:NOCARVA LANDOWERS INC127 CEDARWOOD STREETMACON, NC 27551Phone 919-612-9957
+Manager:BILL BEERMAN4125 IVERSON ST.RALEIGH, NC 27604Phone 919-612-9957BOARD OF DIRECTORS NOCARVA LANDOWNERS.
+
+Airport Operational Statistics
+
+Aircraft based on the field:5Single engine airplanes:5
+Aircraft operations: avg 25/week*62%transient general aviation31%local general aviation8%military* for 12-month period ending 17 June 1995
+Additional Remarks
+
+-WHEN WINDS PERMITS ALL TAKEOFFS SHOULD BE MADE TO AND ALL LANDINGS MADE FROM THE SOUTH BECAUSE OF STEEP GRADE OF STRIP.
+-RWY 36 FIRST 800' HAS AREAS OF ROCKS & GRAVEL.
+-NUMEROUS OBSTR INVOF ARPT AND PEOPLE ON RWY.
+-RY 18/36 HAS -4 FT DITCH AT BOTH THRS.
+-RY 36 HAS UPHILL GRADE.
+-BOATS & TRAILERS OCNLLY PARKED ON SOUTH END RY 18/36.
+-TERRAIN ELEVATION DROPS AT RY 36 END; LAKE 150 FT FROM THLD.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-FOR CTAF USE 122.9
+
+Instrument Procedures
+There are no published instrument procedures at NC10.
+Some nearby airports with instrument procedures:
+KAVC - Mecklenburg-Brunswick Regional Airport (9 nm N)
+KLVL - Brunswick County Airport (19 nm NE)
+KIXA - Halifax/Northampton Regional Airport (24 nm SE)
+W63 - Lake Country Regional Airport (24 nm W)
+KHNZ - Henderson/Oxford Airport (25 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Nocarva Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Nocarva Airport?
+Find the distance to fly.
+From 
+to NC10
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:2322:23
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:38:59
+Local (UTC-5)19-Jan-2024 16:38:59
+
+
+
+
+   
+
+METAR
+
+
+KAVC9nm N192115Z AUTO 31007G18KT 10SM SCT060 05/M08 A2992 RMK AO2 T00451076
+
+KLVL19nm NE192115Z AUTO 30012G22KT 270V340 10SM BKN060 07/M07 A2985 RMK AO1 T00651070
+
+
+
+
+
+TAF
+
+
+KRWI42nm S191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Nocarva Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Nocarva Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

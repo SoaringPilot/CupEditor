@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG24 - Mayers Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1488 users online
+ 
+
+
+
+
+VG24
+ Mayers AirportAshland, Virginia, USA 
+
+
+
+
+
+
+GOING TO ASHLAND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG24
+Lat/Long:37-46-54.5120N 077-29-37.9410W37-46.908533N 077-29.632350W37.7818089,-77.4938725(estimated)
+Elevation:215 ft. / 66 m (estimated)
+Variation:09W (1985)
+From city:1 mile NW of ASHLAND, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23005
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1973
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at OFP (5 nm SE):119.025 (804-752-2902)
+WX AWOS-3 at 7W4 (16 nm NW):120.775 (540-872-0303)
+WX ASOS at RIC (19 nm SE):PHONE 804-236-1091
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RICr343/18.7RICHMOND VORTAC114.1009W
+FAKr052/22.0FLAT ROCK VORTAC113.3006W
+HPWr333/32.6HOPEWELL VORTAC114.3506W
+BRVr200/33.9BROOKE VORTAC114.5009W
+GVEr120/34.2GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON194/29.123710WEZF. --.. ..-.
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 10/28
+
+Dimensions:2000 x 100 ft. / 610 x 30 m
+Surface:turf
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftleft
+Obstructions:50 ft. trees, 200 ft. from runwaypline, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GREENDALE RAILING CO.11267 MAYERS RUN DRIVEASHLAND, VA 23005-4114Phone 804-363-7813
+Manager:JERRY MAYERS11267 MAYERS RUN DRIVEASHLAND, VA 23005-4114Phone 804-363-7813
+
+Additional Remarks
+
+-RWY SOFT WHEN WET.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VG24.
+Some nearby airports with instrument procedures:
+KOFP - Hanover County Municipal Airport (5 nm SE)
+7W4 - Lake Anna Airport (16 nm NW)
+KRIC - Richmond International Airport (19 nm SE)
+KFCI - Richmond Executive-Chesterfield County Airport (23 nm S)
+W96 - New Kent County Airport (24 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mayers Airport?
+Find the distance to fly.
+From 
+to VG24
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2412:24
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:31:16
+Local (UTC-5)19-Jan-2024 16:31:16
+
+
+
+
+   
+
+METAR
+
+
+KOFP6nm SE192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+K7W416nm NW192115Z AUTO 35005KT 2 1/2SM SCT007 BKN028 OVC036 00/M02 A2986 RMK AO1 T00041021
+
+KRIC18nm SE192054Z 33016G24KT 10SM SCT028 BKN070 03/M04 A2984 RMK AO2 SLP110 60000 T00281039 53033
+
+
+
+
+
+TAF
+
+
+KRIC18nm SE191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mayers Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mayers Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

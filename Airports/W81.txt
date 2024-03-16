@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W81 - Crewe Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1612 users online
+ 
+
+
+
+
+W81
+ Crewe Municipal AirportCrewe, Virginia, USA 
+
+
+
+
+
+
+GOING TO CREWE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W81
+Lat/Long:37-10-51.6440N 078-05-54.5089W37-10.860733N 078-05.908482W37.1810122,-78.0984747(estimated)
+Elevation:422 ft. / 128.6 m (surveyed)
+Variation:10W (2010)
+From city:1 mile E of CREWE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23930
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1964
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:UNATNDDARPT UNATNDD CONTACT TOWN MGR FOR ASSISTANCE AT 434-645-9453
+Wind indicator:lighted
+Segmented circle:no
+Lights:FOR MIRL RWY 15/33 KEY CTAF 5 TIMES ON; 3 TIMES OFF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.050
+WX ASOS at BKT (9 nm SE):119.225 (434-292-1400)
+WX AWOS-3 at W31 (14 nm S):123.875 (434-676-1078)
+WX AWOS-3 at FVX (19 nm NW):132.725 (434-392-9718)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 118.75/377.10 (GREEN BAY RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LVLr345/23.7LAWRENCEVILLE VORTAC112.9008W
+FAKr218/24.5FLAT ROCK VORTAC113.3006W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE330/4.132609WBKT-... -.- -
+
+Airport Services
+
+Fuel available:100LL
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 15/33
+
+Dimensions:3300 x 60 ft. / 1006 x 18 m
+Surface:asphalt, in poor conditionRWY HAS LRG CRACKS.
+Weight bearing capacity:Single wheel:12.0
+Runway edge lights:medium intensity
+Runway edge markings:MRKGS FADED.
+RUNWAY 15RUNWAY 33
+Latitude:37-11.069165N37-10.652302N
+Longitude:078-06.126580W078-05.690383W
+Elevation:417.1 ft.385.0 ft.
+Traffic pattern:leftleft
+Runway heading:150 magnetic, 140 true330 magnetic, 320 true
+Displaced threshold:277 ft.no
+Declared distances:TORA:3300 TODA:3300 ASDA:3023 LDA:3023
+Markings:nonprecision, in poor conditionbasic, in poor condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:57 ft. tree, 569 ft. from runway, 121 ft. left of centerline, 6:1 slope to clearRISING GROUND OFF THE END OF RY 15.85 ft. tree, 2825 ft. from runway, 237 ft. right of centerline, 30:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF CREWE125 E CAROLINA AVECREWE, VA 23930Phone 434-645-9453
+Manager:JAY SCUDDER125 E CAROLINA AVECREWE, VA 23930Phone 434-645-1191
+
+Airport Operational Statistics
+
+Aircraft based on the field:14Single engine airplanes:12Multi engine airplanes:1Ultralights:1
+Aircraft operations: avg 80/week*77%local general aviation20%transient general aviation3%military* for 12-month period ending 30 June 2023
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS)-A**CHANGED**
+download (173KB)
+RNAV (GPS)-B**CHANGED**
+download (155KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KBKT - Allen C Perkinson Airport/Blackstone Army Airfield (9 nm SE)
+W31 - Lunenburg County Airport (14 nm S)
+KFVX - Farmville Regional Airport (19 nm NW)
+KPTB - Tri Cities Executive/Dinwiddie County Airport (28 nm E)
+KLVL - Brunswick County Airport (28 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo courtesy of Va Defense Force, Aviation Bn.
+Photo taken 02-Oct-2010
+looking southeast.
+
+Do you have a better or more recent aerial photo of Crewe Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Crewe Municipal Airport?
+Find the distance to fly.
+From 
+to W81
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:2222:22
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:55:18
+Local (UTC-5)19-Jan-2024 15:55:18
+
+
+
+
+   
+
+METAR
+
+
+KW81192035Z AUTO 10SM SCT060 OVC070 04/M11 A2982 RMK AO1 T00371106
+
+KBKT9nm SE192035Z AUTO 31014G22KT 10SM OVC060 04/M07 A2981 RMK AO1 T00441066
+
+KW3114nm S192035Z AUTO 29009G26KT 250V310 10SM BKN060 05/M07 A2982 RMK AO1 T00471070
+
+KFVX18nm NW192035Z AUTO 26008KT 200V320 10SM OVC065 05/M09 A2983 RMK AO2 T00451092
+
+
+
+
+
+TAF
+
+
+KRIC42nm NE191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Town of Crewe
+
+434-645-1191
+
+
+no information available
+If you are affiliated with Town of Crewe and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLPS$5.85Updated 28-Mar-2019
+
+
+
+
+write
+
+
+
+PS=Pump service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Crewe Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Crewe Municipal Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG28 - Mann Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1508 users online
+ 
+
+
+
+
+VG28
+ Mann AirportBoykins, Virginia, USA 
+
+
+
+
+
+
+GOING TO BOYKINS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG28
+Lat/Long:36-32-56.5460N 077-11-28.8820W36-32.942433N 077-11.481367W36.5490406,-77.1913561(estimated)
+Elevation:35 ft. / 11 m (estimated)
+Variation:08W (1985)
+From city:2 miles S of BOYKINS, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23827
+
+Airport Operations
+
+Airport use:CLOSED INDEFINITELY
+Activation date:01/1972
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at ASJ (15 nm S):119.075 (252-345-2967)
+WX AWOS-3 at EMV (16 nm NW):124.175 (434-634-0656)
+WX AWOS-3PT at FKN (17 nm NE):124.675 (757-562-8765)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FKNr230/13.1FRANKLIN VORTAC110.6009W
+CVIr313/18.7COFIELD VORTAC114.6009W
+LVLr123/37.9LAWRENCEVILLE VORTAC112.9008W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD210/27.627411WAKQ.- -.- --.-
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway N/S
+
+Dimensions:2300 x 60 ft. / 701 x 18 m
+Surface:turf
+RUNWAY NRUNWAY S
+Traffic pattern:rightright
+Obstructions:nonebarn
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Manager:MELVIN E MANN34327 MEHERRIN RDBOYKINS, VA 23827Phone 804-654-6336
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-(ARPT STATUS) ARPT CLSD INDEFLY.
+
+Instrument Procedures
+There are no published instrument procedures at VG28.
+Some nearby airports with instrument procedures:
+KASJ - Tri-County Airport at Henry Joyner Field (15 nm S)
+KEMV - Emporia-Greensville Regional Airport (16 nm NW)
+KFKN - Franklin Regional Airport (17 nm NE)
+KIXA - Halifax/Northampton Regional Airport (25 nm SW)
+KAKQ - Wakefield Municipal Airport (28 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mann Airport?
+Find the distance to fly.
+From 
+to VG28
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:2012:20
+Sunset17:2022:20
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:29:30
+Local (UTC-5)19-Jan-2024 16:29:30
+
+
+
+
+   
+
+METAR
+
+
+KASJ16nm S192105Z AUTO 29007G14KT 10SM SCT038 BKN047 OVC055 06/M03 A2983 RMK AO2 T00551026
+
+KEMV16nm NW192115Z AUTO RMK AO2 PWINO PNO TSNO
+
+KFKN17nm NE192115Z AUTO 31012G24KT 10SM BKN039 BKN049 OVC055 05/M03 A2984 RMK AO2 T00461031
+
+KIXA25nm SW192110Z AUTO 29014G28KT 10SM SCT041 BKN047 BKN060 05/00 A2984 RMK AO2
+
+KAKQ28nm N192054Z AUTO 31007G15KT 290V350 10SM BKN034 BKN043 OVC070 04/M02 A2982 RMK AO2 SLP101 T00441022 53034
+
+KSFQ30nm E192115Z AUTO 30014KT 10SM BKN035 BKN060 OVC075 06/00 A2983 RMK AO2 T00561003
+
+KLVL32nm NW192115Z AUTO 30012G22KT 270V340 10SM BKN060 07/M07 A2985 RMK AO1 T00651070
+
+
+
+
+
+TAF
+
+
+KFAF44nm NE191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KPHF48nm NE191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KNGU50nm NE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mann Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mann Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

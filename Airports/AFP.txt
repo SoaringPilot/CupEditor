@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KAFP - Anson County Airport - Jeff Cloud Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1601 users online
+ 
+
+
+
+
+KAFP
+ Anson County Airport - Jeff Cloud FieldWadesboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WADESBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:AFP
+Lat/Long:35-01-14.2960N 080-04-37.6230W35-01.238267N 080-04.627050W35.0206378,-80.0771175(estimated)
+Elevation:299.7 ft. / 91.3 m (surveyed)
+Variation:07W (2000)
+From city:3 miles N of WADESBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28170
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1941
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:MON-FRI 0830-1700FOR AFT HRS SVC CALL 704-389-0633.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REILS RWY 16 & 34; PAPI RWY 16 & 34; MIRL RWY 16/34 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.325 (704-695-0623)
+CHARLOTTE APPROACH:120.05
+CHARLOTTE DEPARTURE:120.05
+JOOLS STAR:135.6
+RASLN STAR:126.15
+WX AWOS-3 at RCZ (17 nm SE):118.775 (910-997-4093)
+WX AWOS-3 at CQW (19 nm S):124.825 (843-537-3301)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr027/24.3CHESTERFIELD VOR/DME114.5503W
+SDZr247/26.7SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLE333/29.423008WBES-... . ...
+DARLINGTON351/35.924506WUDG..- -.. --.
+HARTSVILLE010/36.934107WHVS.... ...- ...
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:100LL FUEL - 24 HR SELF SVC AVBL WITH CREDIT CARD.A1+:FOR JET-A AFT HRS CALL FBO DURG OFC HRS FOR PRE-ARNGMT.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 16/34
+
+Dimensions:5498 x 100 ft. / 1676 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:12.0Double wheel:60.0
+Runway edge lights:medium intensity
+RUNWAY 16RUNWAY 34
+Latitude:35-01.647418N35-00.829108N
+Longitude:080-04.863893W080-04.390240W
+Elevation:299.3 ft.296.8 ft.
+Traffic pattern:leftleft
+Runway heading:162 magnetic, 155 true342 magnetic, 335 true
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:83 ft. trees, 1426 ft. from runway, 221 ft. right of centerline, 14:1 slope to clear14 FT TREES 139 FT FROM END OF RWY AND OFFSET 308 FT RIGHT OF CNTRLN.23 ft. trees, 579 ft. from runway, 356 ft. right of centerline, 16:1 slope to clear17 FT HILL 0-200 FT FROM END OF RWY AND 364 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:ANSON COUNTY101 S. GREENE STREETWADESBORO, NC 28170Phone 704-994-3200
+Manager:REX EDWARDS2980 AIRPORT ROADWADESBORO, NC 28170Phone (704) 389-0633
+
+Airport Operational Statistics
+
+Aircraft based on the field:26Single engine airplanes:21Helicopters:5
+Aircraft operations: avg 125/week*61%transient general aviation38%local general aviation<1%military* for 12-month period ending 29 May 2023
+Additional Remarks
+
+-DEER IN VICINITY OF ARPT.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+-RWY 34 HAS 60+ FT UNMARKED POWER LINES 2700 FT FM THR BOTH SIDES OF CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+JOOLS ONE (RNAV)
+download (274KB)
+LIINN THREE
+2 pages:
+ [1] [2] (313KB)
+MAJIC FOUR
+download (263KB)
+RASLN THREE
+download (197KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 34
+download (223KB)
+RNAV (GPS) RWY 16
+download (196KB)
+RNAV (GPS) RWY 34
+download (216KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (384KB)
+
+Other nearby airports with instrument procedures:
+KRCZ - Richmond County Airport (17 nm SE)
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (19 nm S)
+KPYG - Pageland Airport (21 nm SW)
+KVUJ - Stanly County Airport (24 nm N)
+43A - Montgomery County Airport (26 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Gregory York
+Photo taken 17-Mar-2012
+looking West at 6,000 MSL.
+
+Do you have a better or more recent aerial photo of Anson County Airport - Jeff Cloud Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Anson County Airport - Jeff Cloud Field?
+Find the distance to fly.
+From 
+to KAFP
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:10
+Local (UTC-5)19-Jan-2024 15:44:10
+
+
+
+
+   
+
+METAR
+
+
+KAFP192030Z AUTO 30015G23KT 10SM BKN075 09/M08 A2990 RMK AO2 T00901083
+
+KRCZ17nm SE192030Z AUTO 31017G25KT 10SM SCT075 10/M06 A2987 RMK AO2 T00991063
+
+KCQW19nm S192035Z AUTO 02015G26KT 10SM BKN075 OVC085 11/M05 A2989 RMK AO2
+
+
+
+
+
+TAF
+
+
+KCLT44nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Anson County Airport
+
+704-389-0633[web site][email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Public telephone, Restrooms
+
+
+
+More info about Anson County Airport
+
+
+
+
+
+Phillips 66100LL Jet AFS---$5.24SS$4.99---Updated 18-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Anson County Airport - Jeff Cloud Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Anson County Airport - Jeff Cloud Field
+
+
+
+www.co.anson.nc.us/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

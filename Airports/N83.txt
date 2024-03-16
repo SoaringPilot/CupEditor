@@ -1,0 +1,370 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N83 - DS Butler Farm and Airfield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1613 users online
+ 
+
+
+
+
+N83
+ DS Butler Farm and AirfieldOak Ridge, North Carolina, USA 
+
+
+
+
+
+
+GOING TO OAK RIDGE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N83
+Lat/Long:36-11-42.4900N 080-00-19.1410W36-11.708167N 080-00.319017W36.1951361,-80.0053169(estimated)
+Elevation:950 ft. / 289.6 m (surveyed)
+Variation:06W (1985)
+From city:2 miles NW of OAK RIDGE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27284
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1975
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDDOWNER LIVES ON FIELD
+Wind indicator:no
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at GSO (6 nm SE):128.55 (336-393-0168)
+WX ASOS at INT (11 nm W):PHONE 336-661-3096
+WX AWOS-3 at SIF (16 nm NE):119.775 (336-573-3677)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr354/9.1GREENSBORO VORTAC116.2003W
+LIBr323/29.9LIBERTY VORTAC113.0003W
+DANr241/(39.3)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER233/16.242307WSIF... .. ..-.
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:2000 x 60 ft. / 610 x 18 m
+Surface:turf, in good condition
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:75 ft. trees, 24 ft. from runway, 78 ft. right of centerline52 ft. trees, 28 ft. from runway, 42 ft. left of centerline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:D.S. BUTLER8429 WEST HARRELL RDOAK RIDGE, NC 27310-9828Phone (336) 362-0055
+Manager:D.S. BUTLER8429 WEST HARRELL RDOAK RIDGE, NC 27310-9828Phone 336-362-0055EMERGENCY PHONE: 336-362-0055.
+
+Airport Operational Statistics
+
+Aircraft based on the field:6Single engine airplanes:1Multi engine airplanes:1Ultralights:4
+Aircraft operations: avg 40/week*52%local general aviation48%transient general aviation* for 12-month period ending 03 May 2021
+Additional Remarks
+
+-DUE TO SLOPING RYS - TKOFS RY 19 & LDGS RY 01.
+-RY 19 WIRE MARKERS ON PLINE 180 FT FM THLD; WIRE MARKERS +35 FT ABOVE THLD; ROAD APRXLY 10 FT ABOVE THR.
+-70 FT TREES ALONG BOTH SIDES OF RY 70 FT FROM CTRLN.
+-FOR CD CTC GREENSBORO APCH AT 336-333-5119.
+
+Instrument Procedures
+There are no published instrument procedures at N83.
+Some nearby airports with instrument procedures:
+KGSO - Piedmont Triad International Airport (6 nm SE)
+N63 - Meadow Brook Field Airport (9 nm NW)
+KINT - Smith Reynolds Airport (11 nm W)
+KSIF - Rockingham County NC Shiloh Airport (16 nm NE)
+KMTV - Blue Ridge Airport (26 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Brandon Hill
+Photo taken 04-Oct-2009
+
+Do you have a better or more recent aerial photo of DS Butler Farm and Airfield that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to DS Butler Farm and Airfield?
+Find the distance to fly.
+From 
+to N83
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3222:32
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:02:08
+Local (UTC-5)19-Jan-2024 16:02:08
+
+
+
+
+   
+
+METAR
+
+
+KGSO6nm SE192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KINT11nm W192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+KSIF16nm NE192050Z AUTO 29013G21KT 10SM SCT060 04/M09 A2993 RMK AO2 T00391091
+
+
+
+
+
+TAF
+
+
+KGSO6nm SE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT11nm W191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the DS Butler Farm and Airfield, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about DS Butler Farm and Airfield
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

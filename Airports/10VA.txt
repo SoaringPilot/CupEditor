@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 10VA - Nashs Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1452 users online
+ 
+
+
+
+
+10VA
+ Nashs AirportAppomattox, Virginia, USA 
+
+
+
+
+
+
+GOING TO APPOMATTOX?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:10VA
+Lat/Long:37-23-10.5200N 078-48-47.0470W37-23.175333N 078-48.784117W37.3862556,-78.8130686(estimated)
+Elevation:785 ft. / 239 m (estimated)
+Variation:07W (1985)
+From city:4 miles SW of APPOMATTOX, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24522
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/1983
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at 0V4 (18 nm SW):120.575 (434-283-7826)
+WX AWOS-3 at FVX (18 nm E):132.725 (434-392-9718)
+WX ASOS at LYH (19 nm W):PHONE 434-237-0749
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr074/21.7LYNCHBURG VOR/DME109.2005W
+MOLr161/33.9MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE302/39.932609WBKT-... -.- -
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:1800 x 20 ft. / 549 x 6 m
+Surface:asphalt
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JEANNE N AMOS & GRAY S NASH174A CLOVER LANEAPPOMATTOX, VA 24522Phone (434) 352-2366
+Manager:JEANNE N AMOS & GRAY S NASH174 A CLOVER LANEAPPOMATTOX, VA 24522Phone 434-352-2366
+
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at 10VA.
+Some nearby airports with instrument procedures:
+W24 - Falwell Airport (15 nm W)
+0V4 - Brookneal/Campbell County Airport (18 nm SW)
+KFVX - Farmville Regional Airport (18 nm E)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (19 nm W)
+W90 - New London Airport (26 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Nashs Airport?
+Find the distance to fly.
+From 
+to 10VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2422:24
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:37:35
+Local (UTC-5)19-Jan-2024 16:37:35
+
+
+
+
+   
+
+METAR
+
+
+K0V418nm SW192115Z AUTO 10SM SCT050 02/M08 A2989 RMK AO1
+
+KLYH19nm W192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+KFVX19nm E192115Z AUTO 27003KT 10SM SCT060 BKN070 04/M10 A2986 RMK AO2 T00361098
+
+
+
+
+
+TAF
+
+
+KLYH19nm W191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Nashs Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Nashs Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3W6 - Bladenboro Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1603 users online
+ 
+
+
+
+
+3W6
+ Bladenboro AirportBladenboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO BLADENBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3W6
+Lat/Long:34-32-34.3000N 078-46-41.4000W34-32.571667N 078-46.690000W34.5428611,-78.7781667(estimated)
+Elevation:116 ft. / 35 m (estimated)
+Variation:07W (1985)
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28320
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/1947
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3P at EYF (10 nm E):119.475 (910-862-9982)
+WX ASOS at LBT (14 nm W):134.775 (910-739-7120)
+WX AWOS-3 at CPC (16 nm S):118.375 (910-642-7508)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr174/27.0FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CAMP356/16.522707WCPC-.-. .--. -.-.
+DILLON088/29.727409WDLC-.. .-.. -.-.
+CLINTON227/33.141209WCTZ-.-. - --..
+
+Airport Services
+
+Parking:tiedowns
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 2/20
+
+Dimensions:2850 x 135 ft. / 869 x 41 mUSABLE RWY WIDTH IS 125 FT.
+Surface:turf, in good condition
+RUNWAY 2RUNWAY 20
+Latitude:34-32.349068N34-32.793973N
+Longitude:078-46.781303W078-46.598320W
+Elevation:100.0 ft.116.0 ft.
+Traffic pattern:leftleft
+Runway heading:026 magnetic, 019 true206 magnetic, 199 true
+Obstructions:47 ft. trees, 27 ft. from runway, 58 ft. right of centerline, 1:1 slope to clear94 ft. trees, 83 ft. from runway, 79 ft. right of centerline, 1:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:REYNOLD HESTERPO BOX 125BLADENBORO, NC 28320Phone 910-876-4225
+Manager:REYNOLD HESTER13442 N.C. 131BLADENBORO, NC 28320-8906Phone (910) 876-4225
+
+Airport Operational Statistics
+
+Aircraft based on the field:5Single engine airplanes:5
+Aircraft operations: avg 44/week*87%local general aviation9%transient general aviation4%military* for 12-month period ending 06 June 2022
+Additional Remarks
+
+-RWY 20 HAS 94 FT TREES 124 FT FROM THR OFFSET 32 FT RIGHT OF CNTRLN AND 96 FT TREES 260 FT FROM THR OFFSET 95 FT LEFT OF CNTRLN.
+-80 FT TREES WEST EDGE OF RWY THR TO THR & 80 FT TREES EAST EDGE OF RWY 02 FM THR TO 500 FT.
+-20 FT WIDE BY 10 FT DEEP DRAINAGE CANAL CROSSES RWY 02 10 FT SOUTH OF THR.
+-3 FT SIDE DRAINAGE DITCHES BOTH SIDES OF RWY AT RWY EDGES.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 3W6.
+Some nearby airports with instrument procedures:
+KEYF - Curtis L Brown Jr. Field Airport (10 nm E)
+KLBT - Lumberton Regional Airport (14 nm W)
+KCPC - Columbus County Municipal Airport (16 nm S)
+KFAY - Fayetteville Regional Airport/Grannis Field (27 nm N)
+5J9 - Twin City Airport (28 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 22-Jan-2009
+looking south.
+
+Do you have a better or more recent aerial photo of Bladenboro Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bladenboro Airport?
+Find the distance to fly.
+From 
+to 3W6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:3022:30
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:25
+Local (UTC-5)19-Jan-2024 15:44:25
+
+
+
+
+   
+
+METAR
+
+
+KEYF10nm E192030Z AUTO 30019G26KT 10SM SCT060 13/M01 A2981 RMK AO2 T01311008
+
+KLBT15nm W191956Z AUTO 30017G29KT 10SM SCT065 14/01 A2980 RMK AO2 PK WND 28029/1948 SLP092 T01390006
+
+KCPC17nm S192030Z AUTO 31011KT 10SM SCT050 BKN065 BKN080 13/01 A2983 RMK AO2 T01290010
+
+
+
+
+
+TAF
+
+
+KLBT15nm W191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bladenboro Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bladenboro Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KGWW - Wayne Executive Jetport Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1447 users online
+ 
+
+
+
+
+KGWW
+ Wayne Executive Jetport AirportGoldsboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GOLDSBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:GWW
+Lat/Long:35-27-37.9990N 077-57-53.7390W35-27.633317N 077-57.895650W35.4605553,-77.9649275(estimated)
+Elevation:133.6 ft. / 40.7 m (surveyed)
+Variation:08W (1990)
+From city:3 miles N of GOLDSBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27863
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:11/1967
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:GWW (NOTAM-D service available)
+Attendance:MON-SAT 0800-1700,  ALL SUN 1300-1700UNATNDD FEDERAL HOL.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 05 & 23; ODALS RWY 23; MIRL RWY 05/23 - CTAF. PAPIS RWY 05 & 23 OPERS CONS.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.975
+WX AWOS-3P:118.975 (919-731-4473)
+SEYMOUR JOHNSON APPROACH:121.175
+SEYMOUR JOHNSON DEPARTURE:121.175
+WX AWOS-3PT at GSB (7 nm S):317.625
+WX AWOS-3P at W40 (15 nm S):120.075 (919-658-8067)
+WX AWOS-3 at ISO (19 nm SE):132.75 (252-522-2712)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG) WHEN APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr290/20.6KINSTON VORTAC117.5005W
+TYIr207/33.5TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD252/32.523009WAQE.- --.- .
+HARNETT095/34.741708WHQT.... --.- -
+CLINTON043/35.041209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:24 HR SS FUEL AVAILABLE W CC.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:5501 x 100 ft. / 1677 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:PCN 19 /F/C/X/TSingle wheel:51.0Double wheel:71.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:35-27.279707N35-27.986923N
+Longitude:077-58.242470W077-57.548773W
+Elevation:132.7 ft.132.7 ft.
+Traffic pattern:leftleft
+Runway heading:047 magnetic, 039 true227 magnetic, 219 true
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)RWY 23 PAPI NOT COINCIDENTAL WITH ILS RWY 23 GP.
+Approach lights:ODALS: omnidirectional approach lighting system
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:93 ft. trees, 2163 ft. from runway, 393 ft. right of centerline, 21:1 slope to clearHAS 9 FT BRUSH 135 FT FM THR OFFSET 327 LEFT OF CNTRLN.52 ft. trees, 782 ft. from runway, 581 ft. right of centerline, 11:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:WAYNE COUNTY240 AVIATION ROADPIKEVILLE, NC 27863Phone 919-734-7630
+Manager:MARK LOVEDAY240 AVIATION ROADPIKEVILLE, NC 27863Phone 919-734-7630
+
+Airport Operational Statistics
+
+Aircraft based on the field:48Single engine airplanes:39Multi engine airplanes:5Helicopters:4
+Aircraft operations: avg 44/day*41%transient general aviation40%local general aviation12%air taxi6%military* for 12-month period ending 12 May 2023
+Additional Remarks
+
+-ULTRALIGHT; GLIDER & PARACHUTE ACTIVITY PPR CALL 919-734-7630.
+-HELICOPTER OPS ON TWY LEADING TO T HANGERS.  HELIPAD ON TWY WITH TRAFFIC CONES AND FLAGS.
+-BIRD ACTIVITY INVOF ARPT.
+-FOR EMERG SVC AFT HRS CALL 919-734-7630.
+-FOR CD CTC SEYMOUR JOHNSON APCH AT 919-722-4186.  WHEN APCH CLSD, FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 23
+download (273KB)
+RNAV (GPS) RWY 05
+download (258KB)
+RNAV (GPS) RWY 23
+download (281KB)
+RNAV (GPS)-A
+download (172KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (355KB)
+
+Other nearby airports with instrument procedures:
+KGSB - Seymour Johnson Air Force Base (7 nm S)
+W40 - Mount Olive Municipal Airport (15 nm S)
+W03 - Wilson Industrial Air Center Airport (19 nm N)
+KISO - Kinston Regional Jetport at Stallings Field (19 nm SE)
+KJNX - Johnston Regional Airport (21 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Wayne Executive Jetport Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Wayne Executive Jetport Airport?
+Find the distance to fly.
+From 
+to KGWW
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2012:20
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:06:28
+Local (UTC-5)19-Jan-2024 17:06:28
+
+
+
+
+   
+
+METAR
+
+
+KGWW192150Z AUTO 32006G20KT 10SM SCT080 08/M04 A2987 RMK AO2 T00831040
+
+KGSB9nm S192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KISO19nm SE192156Z 31014G22KT 10SM SCT055 BKN075 09/M03 A2986
+
+
+
+
+
+TAF
+
+
+KGSB9nm S191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+KISO19nm SE191727Z 1918/2018 30016G27KT P6SM SCT050 FM200300 31011G20KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Wayne Executive Jetport
+
+919-734-7630
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, ...
+
+
+
+More info about Wayne Executive Jetport
+
+
+
+
+
+Phillips 66100LL Jet AFS$5.80$5.15SS$5.45$4.65Updated 18-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wayne Executive Jetport Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wayne Executive Jetport Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 79NC - Ball Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1601 users online
+ 
+
+
+
+
+79NC
+ Ball AirportLouisburg, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LOUISBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:79NC
+Lat/Long:36-08-03.5390N 078-16-54.9790W36-08.058983N 078-16.916317W36.1343164,-78.2819386(estimated)
+Elevation:366 ft. / 111.6 m (surveyed)
+Variation:07W (1985)
+From city:3 miles NE of LOUISBURG, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27549
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1971
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:PHONE REQ.
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3 at LHZ (7 nm S):118.325 (919-497-0810)
+WX AWOS-3 at HNZ (18 nm NW):118.625 (919-693-9516)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr066/29.0RALEIGH/DURHAM VORTAC117.2009W
+TYIr294/29.6TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO131/19.127109WHXO.... -..- ---
+PERSON107/38.422008WHUR.... ..- .-.
+
+Airport Services
+
+Airframe service:MAJOR
+Powerplant service:MAJOR
+
+Runway Information
+Runway 18/36
+
+Dimensions:2459 x 40 ft. / 750 x 12 m741 FT TURF OVERRUN SOUTH END OF RWY.
+Surface:asphalt, in fair conditionPOT HOLES & GRAVEL FIRST 450 FT SOUTH END.
+Runway edge lights:low intensity
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Markings:NSTDNSTD
+Runway end identifier lights:nono
+Obstructions:tree, 2600 ft. from runway, 31:1 slope to clear+30 FT PLINE APPROX 1000 FT FROM THR ON CNTRLN.none50 FT TREES 50 FT FROM THR ON CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BALL AIRPORT ENTERPRISES, LLC145 BALL AIRPORT RDLOUISBURG, NC 27549-1786Phone 919-496-6125
+Manager:VERNON DICKERSON141 BALL AIRPORT RDLOUISBURG, NC 27549-1786Phone 919-496-0550
+
+Airport Operational Statistics
+
+Aircraft based on the field:21Single engine airplanes:11Gliders airplanes:10
+Aircraft operations: avg 96/week60%transient general aviation40%local general aviation
+Additional Remarks
+
+-GLIDER OPNS AT ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 79NC.
+Some nearby airports with instrument procedures:
+KLHZ - Triangle North Executive Airport (7 nm S)
+KHNZ - Henderson/Oxford Airport (18 nm NW)
+KRWI - Rocky Mount/Wilson Regional Airport (25 nm SE)
+W03 - Wilson Industrial Air Center Airport (27 nm SE)
+KRDU - Raleigh-Durham International Airport (29 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 04-Jun-2006
+
+Do you have a better or more recent aerial photo of Ball Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Ball Airport?
+Find the distance to fly.
+From 
+to 79NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:15
+Local (UTC-5)19-Jan-2024 15:44:15
+
+
+
+
+   
+
+METAR
+
+
+KLHZ7nm S192035Z AUTO 31011G21KT 270V340 10SM SCT039 SCT047 SCT060 07/M03 A2984 RMK AO2
+
+KHNZ19nm NW192030Z AUTO 29015G21KT 260V320 10SM SCT060 SCT070 04/M09 A2984 RMK AO2 T00371087
+
+
+
+
+
+TAF
+
+
+KRWI25nm SE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KRDU29nm SW191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Ball Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Ball Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 1NC6 - Arant Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1599 users online
+ 
+
+
+
+
+1NC6
+ Arant AirportWingate, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WINGATE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:1NC6
+Lat/Long:35-03-21.5360N 080-27-00.2350W35-03.358933N 080-27.003917W35.0559822,-80.4500653(estimated)
+Elevation:535 ft. / 163 m (estimated)
+Variation:05W (1985)
+From city:4 miles N of WINGATE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28110
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/1980
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:0700-2100ARPT ATTENDANCE WX DEPENDENT.
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX ASOS at EQY (9 nm W):135.775 (704-283-5185)
+WX AWOS-3 at AFP (18 nm E):119.325 (704-695-0623)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr343/25.8CHESTERFIELD VOR/DME114.5503W
+CLTr113/25.9CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA109/35.726006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:2800 x 70 ft. / 853 x 21 m
+Surface:turf
+Runway edge markings:RY 15/33 MKD BY CONES WITH BAND REFLECTORS.
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CHARLES ARANT3200 AUSTIN CHANEY RDMONROE, NC 28110Phone 704-283-2463
+Manager:CHARLES ARANT3202 AUSTIN CHANEY RDMONROE, NC 28110Phone 704-283-2463
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Aircraft operations: 160/year94%local general aviation6%military
+Additional Remarks
+
+-PPR FOR ARPT USE. CTC OWNER AT 122.8 OR CALL 704-283-2463.
+-ULTRALIGHT OPNS NOT PERMITTED WITHOUT RADIOS
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 1NC6.
+Some nearby airports with instrument procedures:
+KEQY - Charlotte-Monroe Executive Airport (9 nm W)
+KAFP - Anson County Airport - Jeff Cloud Field (18 nm E)
+N52 - JAARS-Townsend Airport (19 nm SW)
+KPYG - Pageland Airport (20 nm S)
+KJQF - Concord-Padgett Regional Airport (24 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Arant Airport?
+Find the distance to fly.
+From 
+to 1NC6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:2912:29
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:11
+Local (UTC-5)19-Jan-2024 15:44:11
+
+
+
+
+   
+
+METAR
+
+
+KEQY9nm W191953Z AUTO 32017G29KT 10SM BKN065 08/M06 A2989 RMK AO2 PK WND 31031/1921 WSHFT 1900 SLP136 T00781056
+
+KAFP18nm E192030Z AUTO 30015G23KT 10SM BKN075 09/M08 A2990 RMK AO2 T00901083
+
+
+
+
+
+TAF
+
+
+KCLT26nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Arant Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Arant Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

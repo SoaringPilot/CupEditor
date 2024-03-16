@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 13NR - Dusenbury Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1607 users online
+ 
+
+
+
+
+13NR
+ Dusenbury Field AirportWalnut Cove, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WALNUT COVE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:13NR
+Lat/Long:36-17-51.0000N 080-09-42.0000W36-17.850000N 080-09.700000W36.2975000,-80.1616667(estimated)
+Elevation:646 ft. / 197 m (estimated)
+From city:3 miles W of WALNUT COVE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27052
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/2012
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at INT (10 nm S):PHONE 336-661-3096
+WX ASOS at GSO (16 nm SE):128.55 (336-393-0168)
+WX AWOS-3 at SIF (17 nm NE):119.775 (336-573-3677)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr332/17.6GREENSBORO VORTAC116.2003W
+LIBr321/39.5LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER262/19.942307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:1900 x 50 ft. / 579 x 15 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:rightleft
+Obstructions:50 ft. trees, 500 ft. from runway100 ft. trees, 700 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:SUSAN B. DUSENBURY1374 BROOK COVE RDWALNUT COVE, NC 27052Phone 336-591-3931
+Manager:SUSAN B. DUSENBURY1374 BROOK COVE RDWALNUT COVE, NC 27052Phone 336-591-3931
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 13NR.
+Some nearby airports with instrument procedures:
+N63 - Meadow Brook Field Airport (1 nm E)
+KINT - Smith Reynolds Airport (10 nm S)
+KGSO - Piedmont Triad International Airport (16 nm SE)
+KSIF - Rockingham County NC Shiloh Airport (17 nm NE)
+KMTV - Blue Ridge Airport (21 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Dusenbury Field Airport?
+Find the distance to fly.
+From 
+to 13NR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:02:50
+Local (UTC-5)19-Jan-2024 16:02:50
+
+
+
+
+   
+
+METAR
+
+
+KINT10nm S192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+KGSO16nm SE192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KSIF17nm NE192050Z AUTO 29013G21KT 10SM SCT060 04/M09 A2993 RMK AO2 T00391091
+
+KMTV20nm N192055Z AUTO 34012G19KT 10SM OVC050 02/M11 A2995 RMK AO2 T00211114
+
+
+
+
+
+TAF
+
+
+KINT10nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KGSO16nm SE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dusenbury Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Dusenbury Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

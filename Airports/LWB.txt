@@ -1,0 +1,436 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KLWB - Greenbrier Valley Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1555 users online
+ 
+
+
+
+
+KLWB
+ Greenbrier Valley AirportLewisburg, West Virginia, USA 
+
+
+
+
+
+
+GOING TO LEWISBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:LWB
+Lat/Long:37-51-29.9040N 080-23-58.1370W37-51.498400N 080-23.968950W37.8583067,-80.3994825(estimated)
+Elevation:2301.6 ft. / 701.5 m (surveyed)
+Variation:08W (2000)
+From city:3 miles N of LEWISBURG, WV
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24938
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:ELKINS FLIGHT SERVICE STATION [703-724-4288]
+NOTAMs facility:LWB (NOTAM-D service available)
+Attendance:CONTINUOUS
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MALSR RWY 04; REIL RWY 22; HIRL RWY 04/22; TWY LGTS - CTAF. VASI RWY 22 OPR CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Landing fee:yes, MULTI ENG ONLY, FEE WAIVED IF PURCHASE FUEL.
+Fire and rescue:ARFF index B
+Airline operations:PPR 24 HRS FOR UNSKED ACR OPNS WITH MORE THAN 30 PSGR SEATS CALL AMGR 304-645-3961.  ARFF INDEX C EQPT AVBL UPON REQ.
+
+Airport Communications
+
+CTAF:118.9
+UNICOM:122.95
+ATIS:121.4
+WX AWOS-3:121.4 (304-645-4533)
+LEWISBURG GROUND:121.9 [0900-1900]
+LEWISBURG TOWER:118.9 [0900-1900]
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 134.4/353.9 (BUENA VISTA RCAG).
+WHEN ATCT CLSD CLEARANCE DELIVERY PRVDD BY WASHINGTON ARTCC ON FREQ 125.725 (LEWISBURG RCAG).
+IF UNABLE TO CONTACT WASHINGTON CENTER ON 134.4, CONTACT WASHINGTON CENTER ON 125.725.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ROAr337/34.6ROANOKE VOR/DME109.4004W
+BKWr088/34.6BECKLEY VOR/DME117.7006W
+ODRr336/(37.8)WOODRUM VOR114.9008W
+
+
+NDBnameHdg/DistFreqVarID
+BUSHI044/5.634608WLW.-.. .--
+TECH008/39.036808WTEC- . -.-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:7003 x 150 ft. / 2135 x 46 mUSBL PAINTED RWY WIDTH IS 100 FT WITH 25 FT PAVED SHOULDERS.
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 52 /F/D/X/USingle wheel:90.0Double wheel:120.0Double tandem:160.0
+Runway edge lights:high intensityRWY EDGE LGTS ARE 35 FT FM PAINTED RWY EDGE MRKG.
+RUNWAY 4RUNWAY 22
+Latitude:37-51.027527N37-51.969252N
+Longitude:080-24.389252W080-23.548547W
+Elevation:2287.3 ft.2292.5 ft.
+Traffic pattern:leftleft
+Runway heading:043 magnetic, 035 true223 magnetic, 215 true
+Declared distances:TORA:7003 TODA:7003 ASDA:7003 LDA:7003TORA:7003 TODA:7003 ASDA:7003 LDA:7003
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-box VASI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:GREENBRIER CO ARPT AUTH584 AIRPORT RD BOX 1LEWISBURG, WV 24901Phone 304-645-3961
+Manager:MARTHA LIVESAY584 AIRPORT RD BOX 1LEWISBURG, WV 24901Phone 304-646-7382MGR CELL: 304-992-4204
+
+Airport Operational Statistics
+
+Aircraft based on the field:18Single engine airplanes:15Multi engine airplanes:2Jet airplanes:1
+Aircraft operations: avg 22/day*36%transient general aviation31%local general aviation17%air taxi12%commercial4%military* for 12-month period ending 31 May 2023
+Additional Remarks
+
+-BIRDS & DEER ON & INVOF ARPT.
+-USE CTAF 118.9 WHEN TWR CLSD.  FREQ 121.5 NOT AVBL AT TWR.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 04
+download (264KB)
+RNAV (GPS) RWY 04
+download (240KB)
+RNAV (GPS) RWY 22
+download (224KB)
+
+NOTE: Special Alternate Minimums apply
+download (107KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (245KB)
+
+Other nearby airports with instrument procedures:
+KHSP - Ingalls Field Airport (27 nm E)
+KSXL - Summersville Airport (32 nm NW)
+KBKW - Raleigh County Memorial Airport (35 nm W)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (38 nm SE)
+KBCB - Virginia Tech/Montgomery Executive Airport (39 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Greenbrier Valley Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Greenbrier Valley Airport?
+Find the distance to fly.
+From 
+to KLWB
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3612:36
+Sunset17:2922:29
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:12:58
+Local (UTC-5)19-Jan-2024 16:12:58
+
+
+
+
+   
+
+METAR
+
+
+KLWB192045Z 31011G21KT 3SM -SN SCT010 BKN023 OVC029 M04/M09 A2987
+
+
+
+
+
+TAF
+
+
+KLWB191735Z 1918/2018 30012G22KT 5SM -SHSN OVC025 TEMPO 1918/1922 2SM -SHSN OVC015 FM200600 28008G19KT 6SM -SHSN OVC025 FM201500 30013G23KT P6SM -SHSN BKN035 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+304-645-3961[web site][email]
+
+NOTICE : Courtesy Car has a 2-hour Max limit - Fee applies after 2 hours use. Limited use with into Greenbrier County WV. Courtesy Car is offered on a 1st come 1st served basis, no reserving available.
+
+
+
+More info and photos of Greenbrier Valley Airport
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.79$7.04Updated 11-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Greenbrier Valley Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Greenbrier Valley Airport
+
+
+
+www.mylwb.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

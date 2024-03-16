@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 88VA - Belmont Farm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1602 users online
+ 
+
+
+
+
+88VA
+ Belmont Farm AirportCulpeper, Virginia, USA 
+
+
+
+
+
+
+GOING TO CULPEPER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:88VA
+Lat/Long:38-22-27.0000N 077-59-31.0000W38-22.450000N 077-59.516667W38.3741667,-77.9919444(estimated)
+Elevation:305 ft. / 93 m (estimated)
+Variation:09W (1990)
+From city:6 miles S of CULPEPER, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22701
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at OMH (8 nm S):118.075 (540-672-0505)
+WX AWOS-3 at CJR (11 nm NE):119.325 (540-727-0523)
+WX AWOS-3 at GVE (15 nm SW):120.225 (540-832-2095)
+WX AWOS-3 at HWY (18 nm NE):120.350 (540-788-4078)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CSNr206/17.1CASANOVA VORTAC116.3006W
+GVEr025/22.9GORDONSVILLE VORTAC115.6006W
+BRVr283/30.2BROOKE VORTAC114.5009W
+LDNr167/30.5LINDEN VORTAC114.3006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR230/6.335110WMSQ-- ... --.-
+SHANNON294/26.323710WEZF. --.. ..-.
+CAVERNS140/29.824509WLUA.-.. ..- .-
+
+Airport Services
+
+
+Runway Information
+Runway 4/22
+
+Dimensions:2200 x 50 ft. / 671 x 15 m
+Surface:turfNE 500 FT CLSD FOR RETURFING.
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftleft
+Obstructions:20 ft. trees, 400 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CHARLES A MILLER13490 CEDAR RUN RDCULPEPER, VA 22701Phone 540-825-3207
+Manager:CHARLES A MILLER13490 CEDAR RUN RDCULPEPER, VA 22701Phone 540-216-4004
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 88VA.
+Some nearby airports with instrument procedures:
+KOMH - Orange County Airport (8 nm S)
+KCJR - Culpeper Regional Airport (11 nm NE)
+KGVE - Gordonsville Municipal Airport (15 nm SW)
+KHWY - Warrenton/Fauquier Airport (18 nm NE)
+KLKU - Louisa County Airport/Freeman Field (22 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Belmont Farm Airport?
+Find the distance to fly.
+From 
+to 88VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2712:27
+Sunset17:1822:18
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:19
+Local (UTC-5)19-Jan-2024 15:44:19
+
+
+
+
+   
+
+METAR
+
+
+KOMH8nm S192035Z AUTO 33007KT 10SM SCT039 SCT050 OVC090 01/M04 A2986 RMK AO2
+
+KCJR11nm NW192035Z AUTO 34004KT 10SM SCT055 SCT070 OVC085 01/M04 A2986 RMK AO2 T00111042
+
+KGVE15nm SW192035Z AUTO 32006KT 10SM SCT050 OVC075 01/M04 A2984 RMK AO1 T00101038
+
+KHWY18nm NE192035Z AUTO 29006KT 5SM -SN SCT018 SCT028 OVC035 00/M02 A2985 RMK AO2 T00011025
+
+
+
+
+
+TAF
+
+
+KCHO26nm SW191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Belmont Farm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Belmont Farm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

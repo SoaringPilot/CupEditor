@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 1VA0 - Sabot Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1445 users online
+ 
+
+
+
+
+1VA0
+ Sabot AirportSabot, Virginia, USA 
+
+
+
+
+
+
+GOING TO SABOT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:1VA0
+Lat/Long:37-37-45.5270N 077-44-50.9770W37-37.758783N 077-44.849617W37.6293131,-77.7474936(estimated)
+Elevation:255 ft. / 78 m (estimated)
+Variation:08W (1985)
+From city:1 mile N of SABOT, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23103
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1964
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:yes
+
+Airport Communications
+
+WX ASOS at OFP (16 nm E):119.025 (804-752-2902)
+WX AWOS-3PT at FCI (17 nm SE):128.625 (804-271-8426)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAKr038/7.2FLAT ROCK VORTAC113.3006W
+RICr300/21.7RICHMOND VORTAC114.1009W
+GVEr146/30.0GORDONSVILLE VORTAC115.6006W
+HPWr307/35.1HOPEWELL VORTAC114.3506W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE034/33.332609WBKT-... -.- -
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:2400 x 100 ft. / 732 x 30 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Obstructions:treestrees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:SABOT HILL OWNERS ASSOCIATION, INC11543-A NUCKOLS ROADGLEN ALLEN, VA 23059-0290Phone 804-273-1333
+Manager:TRACEY TALBERT11543-A NUCKOLS ROADGLEN ALLEN, VA 23103-0290Phone 804-273-1333
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 1VA0.
+Some nearby airports with instrument procedures:
+KOFP - Hanover County Municipal Airport (16 nm E)
+KFCI - Richmond Executive-Chesterfield County Airport (17 nm SE)
+7W4 - Lake Anna Airport (20 nm N)
+KRIC - Richmond International Airport (22 nm E)
+KLKU - Louisa County Airport/Freeman Field (25 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 16-Apr-2018
+looking north.
+
+Do you have a better or more recent aerial photo of Sabot Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Sabot Airport?
+Find the distance to fly.
+From 
+to 1VA0
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2412:24
+Sunset17:1922:19
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:50:54
+Local (UTC-5)19-Jan-2024 16:50:54
+
+
+
+
+   
+
+METAR
+
+
+KOFP16nm E192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+KFCI17nm SE192056Z AUTO 31014G17KT 10SM FEW029 OVC065 02/M03 A2983 RMK AO2 SLP116 T00221028 53031 FZRANO
+
+K7W420nm N192135Z AUTO 00000KT 10SM SCT006 SCT020 OVC075 00/M02 A2987 RMK AO1 T00001017
+
+KRIC22nm E192139Z 33009KT 10SM -SN SCT032 BKN075 03/M04 A2986 RMK AO2 SNB39 P0000 T00281039
+
+KLKU25nm NW192135Z AUTO 31009G14KT 10SM SCT070 OVC100 01/M06 A2987 RMK AO2 T00131056
+
+KPTB30nm S192135Z AUTO 34013G18KT 10SM SCT028 BKN042 OVC065 03/M02 A2987 RMK AO2 T00311021
+
+KW9630nm E192135Z AUTO 34005KT 10SM BKN030 BKN037 OVC070 02/M04 A2986 RMK AO1 T00181038
+
+
+
+
+
+TAF
+
+
+KRIC22nm E191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Sabot Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Sabot Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

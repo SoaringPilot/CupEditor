@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 82NC - Pineview Air Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1450 users online
+ 
+
+
+
+
+82NC
+ Pineview Air AirportSanford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SANFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:82NC
+Lat/Long:35-18-29.0000N 079-04-24.0000W35-18.483333N 079-04.400000W35.3080556,-79.0733333(estimated)
+Elevation:300 ft. / 91 m (estimated)
+Variation:08W (2000)
+From city:13 miles SSE of SANFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27330
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/2002
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3PT at SOP (16 nm W):127.575 (910-692-4287)
+WX AWOS-3 at TTA (17 nm N):120.625 (919-708-5382)
+WX AWOS-3 at HRJ (17 nm E):119.025 (910-814-3946)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr337/21.7FAYETTEVILLE VOR/DME114.8504W
+SDZr081/25.8SANDHILLS VORTAC111.8003W
+RDUr212/36.7RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT257/20.941708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 13/31
+
+Dimensions:1400 x 60 ft. / 427 x 18 m
+Surface:turf
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+Obstructions:50 ft. trees50 ft. trees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GROVER D ELLIS17163 NC27 WSANFORD, NC 27330Phone 919-499-9900CELL: 919-770-0015
+Manager:GROVER D ELLIS17163 NC27 WSANFORD, NC 27330Phone 919-499-9900
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-OWNER DESIRES CHARTING.
+-ACFT MONITOR FREQ 122.9.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 82NC.
+Some nearby airports with instrument procedures:
+KPOB - Pope Army Airfield (9 nm S)
+KFBG - Simmons Army Airfield (13 nm SE)
+KSOP - Moore County Airport (16 nm W)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (17 nm N)
+KHRJ - Harnett Regional Jetport Airport (17 nm E)
+5W4 - P K Airpark (18 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Pineview Air Airport?
+Find the distance to fly.
+From 
+to 82NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:3022:30
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:43:01
+Local (UTC-5)19-Jan-2024 16:43:01
+
+
+
+
+   
+
+METAR
+
+
+KPOB9nm S192115Z AUTO 30015G24KT 10SM CLR 10/M09 A2988 RMK AO2 SLPNO $
+
+KFBG14nm SE192111Z AUTO 31017G26KT 10SM CLR 11/M09 A2985 RMK AO2 PRESRR SLPNO $
+
+KTTA17nm N192110Z AUTO 32018G25KT 10SM CLR 08/M08 A2990 RMK AO2 T00751082
+
+KSOP17nm W192056Z AUTO 32012G25KT 10SM CLR 08/M09 A2989 RMK AO2 PK WND 32028/2035 SLP129 T00831089 53038
+
+KHRJ17nm E192110Z AUTO 29016G27KT 10SM SCT080 10/M06 A2988 RMK AO2 T00971061
+
+
+
+
+
+TAF
+
+
+KPOB9nm S192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFBG14nm SE192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Pineview Air Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Pineview Air Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

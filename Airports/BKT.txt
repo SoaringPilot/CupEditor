@@ -1,0 +1,445 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KBKT - Allen C Perkinson Airport/Blackstone Army Airfield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+KBKT
+ Allen C Perkinson Airport/Blackstone Army AirfieldBlackstone, Virginia, USA 
+
+
+
+
+
+
+GOING TO BLACKSTONE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:BKT
+Lat/Long:37-04-29.1624N 077-57-23.7544W37-04.486040N 077-57.395907W37.0747673,-77.9565984(estimated)
+Elevation:437.4 ft. / 133.3 m (surveyed)
+Variation:09W (2000)
+From city:2 miles E of BLACKSTONE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23824
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1937
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:MON-FRI 0800-1800CLSD FEDERAL HOLS.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:WHEN ATCT CLSD ACTVT MIRL RWY 04/22 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:134.7
+WX ASOS:119.225 (434-292-1400)
+BLACKSTONE GROUND:127.625 [MON-FRI 1300-2300Z++; 1400-2200Z++ FIRST FULL WEEKEND OF EACH MONTH EXC FED HOLS; OT BY NOTAM.]
+BLACKSTONE TOWER:134.7 292.7 [MON-FRI 1300-2300Z++; 1400-2200Z++ FIRST FULL WEEKEND OF EACH MONTH EXC FED HOLS; OT BY NOTAM.]
+EMERG:121.5 243.0
+RANGE CTL:34.1 36.1
+WX AWOS-3 at W81 (9 nm NW):119.050
+WX AWOS-3 at W31 (13 nm SW):123.875 (434-676-1078)
+WX AWOS-3 at LVL (20 nm SE):119.625 (434-848-2017)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 118.75/377.1(GREEN BAY RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LVLr359/15.6LAWRENCEVILLE VORTAC112.9008W
+FAKr199/27.9FLAT ROCK VORTAC113.3006W
+RICr239/39.8RICHMOND VORTAC114.1009W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE136/5.332609WBKT-... -.- -
+
+Airport Services
+
+Fuel available:100LL JET-A100LL:SELF SVC FUEL (100LL) AVBL 24 HRS; J8 (MIL) AVBL 24 HRS BY REQ. CTC TOWN OF BLACKSTONE FUEL C434-294-7558.
+Parking:hangars and tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:5333 x 150 ft. / 1625 x 46 m
+Surface:concrete, in good condition
+Weight bearing capacity:PCN 51 /R/B/W/T
+Runway edge lights:medium intensity
+Runway edge markings:RWY MARKINGS IN POOR COND.  DSPLCD THR POOR VIS.  HOLD SHORT LINE POOR VIS.
+RUNWAY 4RUNWAY 22
+Latitude:37-04.122368N37-04.846140N
+Longitude:077-57.419722W077-56.797738W
+Elevation:400.2 ft.435.4 ft.
+Traffic pattern:leftleft
+Runway heading:044 magnetic, 035 true224 magnetic, 215 true
+Displaced threshold:no700 ft.
+Markings:nonprecision, in poor conditionnonprecision, in poor condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:84 ft. tree, 2102 ft. from runway, 342 ft. right of centerline, 22:1 slope to clear69 ft. tree, 1342 ft. from runway, 380 ft. right of centerline, 16:1 slope to clearOBSTN CLNC 18:1 AT DSPLCD THR.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:U.S. Army
+Owner:TOWN OF BLACKSTONE & US ARMY100 W ELM STBLACKSTONE, VA 23824Phone 434-292-7251C/O PHILIP VANNOORBEECK TOWN MANAGER.
+Manager:WALTER G. TISDALE49 DOMINY CORNER ROADBLACKSTONE, VA 23824Phone 434-292-2193
+
+Airport Operational Statistics
+
+Aircraft based on the field:12Single engine airplanes:9Ultralights:3ACFT ON FLD DURING SUMMER EXER.
+Aircraft operations: avg 25/week*72%military22%local general aviation6%transient general aviation* for 12-month period ending 31 December 2020
+Additional Remarks
+
+-AVOID FLT BLW 500 FT OVR AMMUNITION SUP POINT 1 NM S OF ARPT.
+-CRASH/RESCUE SVC C434-292-2217.
+-DEER AT TIMES NEAR RWY AND ON ARPT.
+-NO PPR RQRD FOR CIV ACFT.
+-SVC: C434-292-4914, OT 434-294-7558.
+-RWY 22 HAS 700 FT DSPLCD THR.
+-APGU AVBL DURING DUTY HOURS.
+-WHEN ATCT CLSD, FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-DEP ACFT MAY USE DSPLCD THR FOR TKOF OR TKOF ROLL.
+-LDG RWY 01 & TKOF RWY 19 NOT AUTH. CTC BAAF AIRFIELD OPERATIONS C434-292-8589 FOR PPR OR DPTS FORT BARFOOT C434-292-2227 AFTER HRS.
+-MIL ACFT CTC AIRFIELD OPNS ACTIVITY, FORT PICKETT, C434-292-8589 FOR PPR.
+-JET AND MIL TRNG WITHIN 20 NM RADIUS.  EXTN C130 TFC AND FREQ PRCHT DROPS.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 04
+download (199KB)
+RNAV (GPS) RWY 22
+download (203KB)
+NDB-A
+download (181KB)
+Departure Procedures
+
+BLACKSTONE ONE**CHANGED**
+download (184KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (189KB)
+
+Other nearby airports with instrument procedures:
+W81 - Crewe Municipal Airport (9 nm NW)
+W31 - Lunenburg County Airport (13 nm SW)
+KLVL - Brunswick County Airport (20 nm SE)
+KPTB - Tri Cities Executive/Dinwiddie County Airport (23 nm E)
+KAVC - Mecklenburg-Brunswick Regional Airport (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Allen C Perkinson Airport/Blackstone Army Airfield that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Allen C Perkinson Airport/Blackstone Army Airfield?
+Find the distance to fly.
+From 
+to KBKT
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2412:24
+Sunset17:2122:21
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:08
+Local (UTC-5)19-Jan-2024 15:44:08
+
+
+
+
+   
+
+METAR
+
+
+KBKT192035Z AUTO 31014G22KT 10SM OVC060 04/M07 A2981 RMK AO1 T00441066
+
+KW819nm NW192035Z AUTO 10SM SCT060 OVC070 04/M11 A2982 RMK AO1 T00371106
+
+KW3113nm SW192035Z AUTO 29009G26KT 250V310 10SM BKN060 05/M07 A2982 RMK AO1 T00471070
+
+KLVL20nm SE192035Z AUTO 29012G21KT 240V310 10SM SCT050 BKN060 BKN070 06/M06 A2982 RMK AO1 T00631058
+
+
+
+
+
+TAF
+
+
+KRIC40nm NE191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Partner Aviation
+
+
+
+434-292-4914[web site][email]
+
+**Please note no PPR required for GA aircraft**
+
+ 
+ 
+
+
+
+
+More info about Partner Aviation
+
+
+
+
+
+100LL Jet AFS---$5.70SS$5.96---Updated 12-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Allen C Perkinson Airport/Blackstone Army Airfield, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Allen C Perkinson Airport/Blackstone Army Airfield
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC84 - Ellis Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1608 users online
+ 
+
+
+
+
+NC84
+ Ellis AirportHobgood, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HOBGOOD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC84
+Lat/Long:36-02-33.2160N 077-22-37.9920W36-02.553600N 077-22.633200W36.0425600,-77.3772200(estimated)
+Elevation:91 ft. / 28 m (estimated)
+From city:1 mile NE of HOBGOOD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27843
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/2018
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at ETC (10 nm SW):119.575 (252-641-1640)
+WX AWOS-3P at MCZ (15 nm SE):118.65 (252-802-4261)
+WX AWOS-3 at ASJ (18 nm NE):119.075 (252-345-2967)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr081/16.3TAR RIVER VORTAC117.8005W
+CVIr240/31.5COFIELD VORTAC114.6009W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD008/20.123009WAQE.- --.- .
+CHOCOWINITY346/34.638808WRNW.-. -. .--
+
+Airport Services
+
+
+Runway Information
+Runway 12/30
+
+Dimensions:3335 x 55 ft. / 1017 x 17 m
+Surface:turf, in fair condition
+RUNWAY 12RUNWAY 30
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DANNY ELWOOD ELLIS3173 HOBGOOD ROADHOBGOOD, NC 27843Phone 252-578-1732
+Manager:JOEY JOSCYPO DRAWER 447SCOTLAND NECK, NC 27843Phone 252-308-2484
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC84.
+Some nearby airports with instrument procedures:
+KETC - Tarboro-Edgecombe Airport (10 nm SW)
+KMCZ - Martin County Airport (15 nm SE)
+KASJ - Tri-County Airport at Henry Joyner Field (18 nm NE)
+KIXA - Halifax/Northampton Regional Airport (21 nm NW)
+KPGV - Pitt-Greenville Airport (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Ellis Airport?
+Find the distance to fly.
+From 
+to NC84
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:2122:21
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:04:36
+Local (UTC-5)19-Jan-2024 16:04:36
+
+
+
+
+   
+
+METAR
+
+
+KETC10nm SW192045Z AUTO 32012G22KT 7SM BKN065 OVC085 07/M03 A2982 RMK AO2 T00721026
+
+KMCZ15nm SE192045Z AUTO 33018G23KT 10SM BKN055 OVC065 08/M02 A2981 RMK AO2 T00751019
+
+KASJ18nm NE192045Z AUTO 32007G21KT 10SM BKN038 OVC045 05/M03 A2983 RMK AO2 T00531026
+
+
+
+
+
+TAF
+
+
+KPGV26nm S191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KRWI28nm SW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Ellis Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Ellis Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

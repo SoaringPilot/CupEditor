@@ -1,0 +1,460 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KMEB - Laurinburg/Maxton Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1546 users online
+ 
+
+
+
+
+KMEB
+ Laurinburg/Maxton AirportMaxton, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MAXTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:MEB
+Lat/Long:34-47-31.8200N 079-21-57.2260W34-47.530333N 079-21.953767W34.7921722,-79.3658961(estimated)
+Elevation:215.6 ft. / 65.7 m (surveyed)
+Variation:08W (2005)
+From city:3 miles N of MAXTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28352
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:MEB (NOTAM-D service available)
+Attendance:MON - FRI 0700-1900,  ALL SAT - SUN 0900-1700FOR SVC AFT HRS CALL 910-390-6122 OR 315-807-4759.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 05, PAPI RWY 05/23, HIRL RWY 05/23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX ASOS:134.125 (910-844-5338)
+FAYETTEVILLE APPROACH:127.8
+FAYETTEVILLE DEPARTURE:127.8
+WX ASOS at HFF (16 nm NW):141.25 (910-396-7804)
+WX ASOS at LBT (19 nm SE):134.775 (910-739-7120)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr248/26.8FAYETTEVILLE VOR/DME114.8504W
+SDZr160/27.6SANDHILLS VORTAC111.8003W
+FLOr026/36.5FLORENCE VORTAC115.2003W
+
+
+NDBnameHdg/DistFreqVarID
+MAXTN055/5.225708WME-- .
+DILLON009/20.527409WDLC-.. .-.. -.-.
+BENNETTSVILLE068/20.823008WBES-... . ...
+DARLINGTON057/33.224506WUDG..- -.. --.
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:24 HR SELF SERVICE WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MINORCALL AIRPORT TO ARRANGE FOR SERVICE.
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:6503 x 100 ft. / 1982 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:60.0Double wheel:160.0Double tandem:256.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:34-47.421742N34-48.168895N
+Longitude:079-22.318317W079-21.386543W
+Elevation:215.6 ft.200.0 ft.
+Traffic pattern:leftright
+Runway heading:054 magnetic, 046 true234 magnetic, 226 true
+Displaced threshold:no187 ft.
+Markings:precision, in fair conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)PAPI OTS INDEF.
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:noneRWY 23 APPROACH SLOPE 23:1 AT DSPLCD THR DUE TO SAME ROAD.20 ft. road, 534 ft. from runway, 16:1 slope to clear
+
+Runway 13/31
+
+Dimensions:3536 x 75 ft. / 1078 x 23 m2750 FT CONC STOPWAY ON SE END.
+Surface:concrete, in good condition
+Weight bearing capacity:Single wheel:25.0Double wheel:35.0
+RUNWAY 13RUNWAY 31
+Latitude:34-47.249873N34-46.836028N
+Longitude:079-22.388795W079-21.891365W
+Elevation:215.5 ft.207.0 ft.
+Traffic pattern:rightleft
+Runway heading:143 magnetic, 135 true323 magnetic, 315 true
+Markings:basic, in good conditionbasic, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:67 ft. trees, 1685 ft. from runway, 252 ft. left of centerline, 22:1 slope to clear63 ft. acft, 983 ft. from runway, 211 ft. left of centerline, 12:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF LAURINBURG & MAXTON16701 AIRPORT RDMAXTON, NC 28364Phone 910-844-5081
+Manager:SETH HATCHELL16701 AIRPORT RDMAXTON, NC 28364Phone 910-390-6122
+
+Airport Operational Statistics
+
+Aircraft based on the field:29Single engine airplanes:23Multi engine airplanes:5Helicopters:1
+Aircraft operations: avg 148/day*56%military19%transient general aviation19%local general aviation7%air taxi* for 12-month period ending 23 November 2021
+Additional Remarks
+
+-MIL ACFT FRQLY OPER FM CLSD PTN OF RWY 13/31 & CLSD RWY 18/36.
+-HVY PAJA AT SOUTH END OF CLSD RWY 18/36 & SOUTH SIDE RWY 13/31.
+-GCO AVBL ON FREQ 135.075 THRU FAY CD.
+-FARMING EQPT AND MIL OPS ON & INVOF ARPT.
+-RWY 13/31 DALGT USE ONLY.
+-NO LN OF SIGHT BTN RWY ENDS.
+-FOR CD IF UNA VIA GCO CTC FAYETTEVILLE APCH AT 910-484-8012.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05
+download (227KB)
+RNAV (GPS) RWY 05
+download (240KB)
+RNAV (GPS) RWY 23
+download (199KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (363KB)
+
+Other nearby airports with instrument procedures:
+KHFF - Mackall Army Airfield (16 nm NW)
+5W4 - P K Airpark (16 nm NE)
+KLBT - Lumberton Regional Airport (19 nm SE)
+KRCZ - Richmond County Airport (20 nm W)
+KDLC - Dillon County Airport (21 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Seth Hatchell
+Taken in the Summer of 2020
+looking southwest.
+
+Do you have a better or more recent aerial photo of Laurinburg/Maxton Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Laurinburg/Maxton Airport?
+Find the distance to fly.
+From 
+to KMEB
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:3222:32
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:25:08
+Local (UTC-5)19-Jan-2024 16:25:08
+
+
+
+
+   
+
+METAR
+
+
+KMEB192052Z AUTO 32018G37KT 10SM BKN080 11/M06 A2987 RMK AO2 PK WND 34037/2048 SLP115 T01061061 53026
+
+KHFF15nm NW192055Z AUTO 33012G25KT 10SM BKN080 09/M09 A2986 RMK AO2 PK WND 35029/23 SLPNO T00941087 53032 $
+
+KLBT19nm SE192056Z AUTO 32017G27KT 10SM SCT075 12/M01 A2984 RMK AO2 PK WND 32031/2018 SLP105 T01221011 53022
+
+
+
+
+
+TAF
+
+
+KLBT19nm SE191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.80910-390-6123[web site][email]
+
+Laurinburg-Maxton Airport is the choice destination in the region for private, military, business, and small airplanes for fuel, ground support, and military assistance.
+
+
+
+More info and photos of Laurinburg-Maxton Airport
+
+
+
+
+
+100LL Jet AFS$5.54$5.89SS$5.10---Updated 16-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Laurinburg/Maxton Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Laurinburg/Maxton Airport
+
+
+
+www.lmairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

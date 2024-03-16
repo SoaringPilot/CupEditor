@@ -1,0 +1,406 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KTGI - Tangier Island Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1417 users online
+ 
+
+
+
+
+KTGI
+ Tangier Island AirportTangier, Virginia, USA 
+
+
+
+
+
+
+GOING TO TANGIER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:TGI
+Lat/Long:37-49-33.1150N 075-59-51.5850W37-49.551917N 075-59.859750W37.8258653,-75.9976625(estimated)
+Elevation:5.4 ft. / 1.6 m (surveyed)
+Variation:11W (2010)
+From city:1 mile W of TANGIER, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23440
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:APR-OCT SAT-SUN 0800-1630ARPT CLSD SS-SR DLY.
+Pattern altitude:TPA LGT ACFT 600 FT HVY ACFT 1500 FT.
+Wind indicator:yes
+Segmented circle:no
+Beacon:white-green (lighted land airport)ARPT BCN OTS INDEFLY.
+Landing fee:yes
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.8 (757-891-2246)
+PATUXENT APPROACH:121.0
+POTOMAC APPROACH:127.2 ;WHEN NHK APCH CLSD
+PATUXENT DEPARTURE:121.0
+POTOMAC DEPARTURE:127.2 ;WHEN NHK APCH CLSD
+WX AWOS-3 at MFV (16 nm SE):118.175 (757-787-5660)
+
+
+APCH/DEP SVC PRVDD BY POTOMAC TRACON ON 127.2/281.47 WHEN PATUXENT APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CCVr010/28.7CAPE CHARLES VORTAC112.2010W
+SWLr249/28.8SNOW HILL VORTAC112.4008W
+PXTr156/33.6PATUXENT VORTAC117.6010W
+SBYr228/38.7SALISBURY VORTAC111.2012W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT155/33.640010WNHK-. .... -.-
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 2/20
+
+Dimensions:2426 x 75 ft. / 739 x 23 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge markings:TWY LEAD-IN LINES POOR.  RWY CENTERLINE POOR.
+RUNWAY 2RUNWAY 20
+Latitude:37-49.353500N37-49.750333N
+Longitude:075-59.890833W075-59.828667W
+Elevation:5.4 ft.4.8 ft.
+Traffic pattern:rightleft
+Runway heading:018 magnetic, 007 true198 magnetic, 187 true
+Displaced threshold:no183 ft.
+Markings:basic, in poor conditionbasic, in poor condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:7 ft. tree, 380 ft. from runway, 56 ft. left of centerline, 25:1 slope to clear15 ft. road, 249 ft. from runway, 3:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF TANGIERTANGIER ISLANDTANGIER, VA 23440Phone 757-891-2496TOWN OFFICE (757) 891-2438.
+Manager:LAURIE THOMASPO BOX 244TANGIER, VA 23440Phone 757-891-2496
+
+Airport Operational Statistics
+
+
+Aircraft operations: avg 83/month*47%transient general aviation46%air taxi6%military* for 12-month period ending 31 December 2019
+Additional Remarks
+
+-PAEW ADJACENT TO ALL RWYS, TWYS & RAMPS.
+-BE ALERT: RSTD AREA ONE MI WEST OF ARPT; HI-SPEED ACFT DROP BOMBS & FIRE LIVE AMMUNITION IN AREA.
+-LANDING/PARKING FEE TO HELP PAY FOR RECENT RWY REHAB.
+-FOR CD CTC PATUXENT APCH AT 301-342-3740, WHEN PATUXENT APCH IS CLSD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS)-B
+download (207KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+W41 - Crisfield-Somerset County Airport (14 nm NE)
+KMFV - Accomack County Airport (16 nm SE)
+W75 - Hummel Field Airport (25 nm SW)
+KWAL - Wallops Flight Facility (26 nm E)
+KNHK - Patuxent River Naval Air Station (Trapnell Field) Airport (34 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Photo taken 20-Aug-2015
+looking north from 3,000 MSL.
+
+Do you have a better or more recent aerial photo of Tangier Island Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Tangier Island Airport?
+Find the distance to fly.
+From 
+to KTGI
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4911:49
+Sunrise07:1812:18
+Sunset17:1222:12
+Evening civil twilight17:4022:40
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:59:17
+Local (UTC-5)19-Jan-2024 16:59:17
+
+
+
+
+   
+
+METAR
+
+
+KTGI192155Z AUTO 30028G34KT 4SM SCT008 OVC014 01/00 A2983 RMK AO1 P0001 T00110000
+
+KMFV16nm SE192135Z AUTO 29020G27KT 7SM -SN OVC009 00/M01 A2979 RMK AO2 T00021012
+
+
+
+
+
+TAF
+
+
+KNHK33nm NW1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+KSBY38nm NE191740Z 1918/2018 31008KT 1SM -SN BR OVC006 FM192100 32011G18KT 3/4SM -SN BR OVC009 FM200100 31011G18KT P6SM OVC012 FM200400 32011KT P6SM BKN025 FM200800 33010KT P6SM SCT040 FM201500 31015G23KT P6SM BKN040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Tangier Island Airport
+
+
+
+
+no information available
+If you are affiliated with Tangier Island Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+1readwrite
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Tangier Island Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Tangier Island Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

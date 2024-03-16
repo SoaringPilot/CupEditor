@@ -1,0 +1,7 @@
+AirNav: NR08 - Adams Airport
+CTAF: 122.900
+Lat/Long:WW34.5761167,-79.2488167(estimated)
+Runway 1/19
+Elevation:137 ft.
+Surface:turf
+Dimensions:3600 x 80 ft.

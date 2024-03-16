@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9VA1 - Holly Point Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1547 users online
+ 
+
+
+
+
+9VA1
+ Holly Point AirportMathews, Virginia, USA 
+
+
+
+
+
+
+GOING TO MATHEWS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9VA1
+Lat/Long:37-24-19.4970N 076-23-17.8030W37-24.324950N 076-23.296717W37.4054158,-76.3882786(estimated)
+Elevation:12 ft. / 3.7 m (surveyed)
+Variation:09W (1985)
+From city:4 miles SW of MATHEWS, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23021
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1982
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W75 (12 nm N):118.45 (804-758-8592)
+WX ASOS at PHF (17 nm S):PHONE 757-874-3682
+WX AWOS-3 at JGG (19 nm SW):120.625 (757-220-8810)
+WX AWOS-3 at FYJ (19 nm W):132.825 (804-785-2307)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr107/15.6HARCUM VORTAC108.8007W
+CCVr291/18.9CAPE CHARLES VORTAC112.2010W
+ORFr351/32.1NORFOLK VORTAC116.9007W
+HPWr088/35.0HOPEWELL VORTAC114.3506W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD060/38.727411WAKQ.- -.- --.-
+
+Airport Services
+
+
+Runway Information
+Runway E/W
+
+Dimensions:2200 x 150 ft. / 671 x 46 m
+Surface:turf
+RUNWAY ERUNWAY W
+Traffic pattern:leftleft
+Obstructions:treesE/W POWER LINES AT WEST END OF RWY.trees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RAMON W. BREEDENP.O. BOX 8815VIRGINIA BEACH, VA 23450Phone 757-486-1000
+Manager:RAMEN W. BREEDENP.O. BOX 8815VIRGINIA BEACH, VA 23450Phone 757-486-1000
+
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 9VA1.
+Some nearby airports with instrument procedures:
+W75 - Hummel Field Airport (12 nm N)
+W94 - Camp Peary Landing Strip Airport (13 nm SW)
+KPHF - Newport News/Williamsburg International Airport (17 nm S)
+KJGG - Williamsburg-Jamestown Airport (19 nm SW)
+KFYJ - Middle Peninsula Regional Airport (19 nm W)
+KLFI - Langley Air Force Base (19 nm S)
+KFAF - Felker Army Airfield (19 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Holly Point Airport?
+Find the distance to fly.
+From 
+to 9VA1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:1422:14
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:18:48
+Local (UTC-5)19-Jan-2024 16:18:48
+
+
+
+
+   
+
+METAR
+
+
+KW7512nm N192055Z AUTO 30011G21KT 10SM BKN022 BKN028 OVC060 02/M02 A2982 RMK AO1 T00151016
+
+KPHF17nm S192054Z 31021G31KT 10SM FEW034 SCT060 OVC075 04/M03 A2981 RMK AO2 PK WND 28031/2012 SLP094 T00391028 53033
+
+KFYJ19nm W192055Z AUTO 30014G21KT 10SM SCT024 SCT029 OVC080 02/M03 A2984 RMK AO1 T00211030
+
+KLFI20nm S192055Z 30012G24KT 10SM FEW038 OVC060 05/M03 A2979 RMK AO2A PK WND 30029/25 PRESRR SLP094 T00461034 53034 $
+
+KFAF20nm SW192055Z 30019G27KT 10SM SCT035 BKN050 BKN060 04/M03 A2978 RMK AO2A PK WND 29030/10 SLP088 60000 T00421027 53035 TSNO $
+
+
+
+
+
+TAF
+
+
+KPHF17nm S191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KLFI20nm S191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KFAF20nm SW191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Holly Point Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Holly Point Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 08VA - Springwood Airstrip Gliderport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1432 users online
+ 
+
+
+
+
+08VA
+ Springwood Airstrip GliderportBuchanan, Virginia, USA 
+
+
+
+
+
+
+GOING TO BUCHANAN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:08VA
+Lat/Long:37-33-14.4790N 079-44-59.1480W37-33.241317N 079-44.985800W37.5540219,-79.7497633(estimated)
+Elevation:1000 ft. / 305 m (estimated)
+Variation:07W (1985)
+From city:5 miles NW of BUCHANAN, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24066
+
+Gliderport Operations
+
+Gliderport use:Private use. Permission required prior to landing
+Activation date:11/1983
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Gliderport Communications
+
+WX ASOS at ROA (17 nm SW):PHONE 540-265-0680
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr046/(17.6)WOODRUM VOR114.9008W
+ROAr054/19.8ROANOKE VOR/DME109.4004W
+LYHr311/30.4LYNCHBURG VOR/DME109.2005W
+MOLr241/36.9MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON025/21.927708WVIT...- .. -
+TECH064/37.436808WTEC- . -.-.
+
+Gliderport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:1800 x 50 ft. / 549 x 15 m
+Surface:turf
+Operational restrictions:DEP WILL BE ON RWY 09; APCH AND LANDING ON RWY 27.
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+
+Gliderport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JESSE STEWART122 GLIDER WAYBUCHANAN, VA 24066Phone 540-314-0037
+Manager:WILLIAM SANFORD STEWART331 INTERMONT FARM LANEBUCHANAN, VA 24066Phone (540) 521-3035
+
+Gliderport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:2Gliders airplanes:2
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at 08VA.
+Some nearby airports with instrument procedures:
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (17 nm SW)
+KHSP - Ingalls Field Airport (24 nm N)
+W90 - New London Airport (26 nm SE)
+W91 - Smith Mountain Lake Airport (28 nm S)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (30 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Springwood Airstrip Gliderport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Springwood Airstrip Gliderport?
+Find the distance to fly.
+From 
+to 08VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:2722:27
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:56:29
+Local (UTC-5)19-Jan-2024 16:56:29
+
+
+
+
+   
+
+METAR
+
+
+KROA18nm SW192054Z 29015G24KT 10SM BKN042 M01/M07 A2992 RMK AO2 PK WND 30033/2004 SLP141 T10061072 51032 $
+
+KLYH30nm SE192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+
+
+
+
+TAF
+
+
+KROA18nm SW191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Springwood Airstrip Gliderport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Springwood Airstrip Gliderport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

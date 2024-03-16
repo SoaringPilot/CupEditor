@@ -1,0 +1,478 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KMTV - Blue Ridge Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1603 users online
+ 
+
+
+
+
+KMTV
+ Blue Ridge AirportMartinsville, Virginia, USA 
+
+
+
+
+
+
+GOING TO MARTINSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:MTV
+Lat/Long:36-37-50.7090N 080-01-06.0180W36-37.845150N 080-01.100300W36.6307525,-80.0183383(estimated)
+Elevation:940.9 ft. / 286.8 m (surveyed)
+Variation:07W (1995)
+From city:8 miles SW of MARTINSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24055
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:MTV (NOTAM-D service available)
+Attendance:0800-1700
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 13 & 31; ODALS RWY 31; PAPI RWY 13 & 31; MIRL RWY 13/31 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:118.45 (276-957-3784)
+GREENSBORO APPROACH:124.35
+GREENSBORO DEPARTURE:124.35
+CLEARANCE DELIVERY:124.85
+WX AWOS-3 at SIF (14 nm SE):119.775 (336-573-3677)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+DANr282/(33.0)DANVILLE VOR113.1006W
+GSOr360/35.2GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+BALES304/5.439607WUV..- ...-
+SLAMMER327/19.442307WSIF... .. ..-.
+VINTON199/35.027708WVIT...- .. -
+TECH160/39.336808WTEC- . -.-.
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:HIGH/LOW
+
+Runway Information
+Runway 13/31
+
+Dimensions:5002 x 100 ft. / 1525 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Single wheel:30.0Double wheel:60.0
+Runway edge lights:medium intensity
+RUNWAY 13RUNWAY 31
+Latitude:36-38.039905N36-37.650378N
+Longitude:080-01.551015W080-00.649612W
+Elevation:940.9 ft.911.9 ft.
+Traffic pattern:leftleft
+Runway heading:125 magnetic, 118 true305 magnetic, 298 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)UNUSBL BYD 9 DEG RIGHT OF CNTRLN.4-light PAPI on left (3.00 degrees glide path)
+Approach lights:ODALS: omnidirectional approach lighting system
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:97 ft. tree, marked and lighted, 3494 ft. from runway, 639 ft. left of centerline, 33:1 slope to clear25 ft. tree, 1104 ft. from runway, 297 ft. right of centerline, 36:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:BLUE RIDGE ARPT AUTH525 AIRPORT ROADMARTINSVILLE, VA 24112Phone 276-957-2291
+Manager:JASON DAVIS525 AIRPORT ROADMARTINSVILLE, VA 24112Phone 276-957-2291MANAGER CELL: 276-358-0749.
+
+Airport Operational Statistics
+
+Aircraft based on the field:20Single engine airplanes:16Multi engine airplanes:3Jet airplanes:1
+Aircraft operations: avg 64/day*66%local general aviation30%transient general aviation3%air taxi1%military* for 12-month period ending 30 September 2017
+Additional Remarks
+
+-DEER ON AND INVOF ARPT.
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+-COLD TEMPERATURE AIRPORT. ALTITUDE CORRECTION REQUIRED AT OR BELOW -17C.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 13
+download (244KB)
+RNAV (GPS) RWY 31
+download (202KB)
+LOC RWY 31
+download (279KB)
+
+NOTE: Special Alternate Minimums apply
+download (149KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (354KB)
+
+Other nearby airports with instrument procedures:
+KSIF - Rockingham County NC Shiloh Airport (14 nm SE)
+N63 - Meadow Brook Field Airport (21 nm S)
+KMWK - Mount Airy/Surry County Airport (28 nm W)
+KINT - Smith Reynolds Airport (31 nm S)
+KGSO - Piedmont Triad International Airport (32 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by William C HarrisGladstone, NJ
+Photo taken 09-Jul-2019
+looking northwest.
+
+Do you have a better or more recent aerial photo of Blue Ridge Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Blue Ridge Airport?
+Find the distance to fly.
+From 
+to KMTV
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:25
+Local (UTC-5)19-Jan-2024 15:44:25
+
+
+
+
+   
+
+METAR
+
+
+KMTV192035Z AUTO 33012G20KT 10SM OVC050 02/M12 A2993 RMK AO2 T00191116
+
+KSIF14nm SE192030Z AUTO 28011G20KT 10SM SCT055 04/M09 A2992 RMK AO2 T00401090
+
+
+
+
+
+TAF
+
+
+KINT31nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KGSO32nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KDAN33nm E191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Blue Ridge Airport
+
+
+
+UNICOM 122.70276-957-2291[web site][email]
+
+Welcome to Blue Ridge Regional Airport! The gateway to Primland, Martinsville Speedway, and our community!
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Blue Ridge Airport
+
+
+
+
+
+100LL Jet AFS$5.49$5.85SS$5.49---GUARANTEED
+
+
+
+
+12readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Where to Eat: Catering, Restaurants, Food shops
+Business NameContact
+Services / DescriptionDistanceComments
+
+Simply Suzanne's
+
+276-957-1142
+
+Restaurant
+
+
+
+More info about Simply Suzanne's
+
+
+
+
+on airport
+
+
+
+1readwrite
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Blue Ridge Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Blue Ridge Airport
+
+
+
+www.flyblueridge.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KBUY - Burlington/Alamance Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1615 users online
+ 
+
+
+
+
+KBUY
+ Burlington/Alamance Regional AirportBurlington, North Carolina, USA 
+
+
+
+
+
+
+GOING TO BURLINGTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:BUY
+Lat/Long:36-02-59.0200N 079-28-22.8290W36-02.983667N 079-28.380483W36.0497278,-79.4730081(estimated)
+Elevation:616.1 ft. / 187.8 m (surveyed)
+Variation:08W (2000)
+From city:3 miles SW of BURLINGTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27215
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:03/1943
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:BUY (NOTAM-D service available)
+Attendance:0800-2000UNATNDD CHRISTMAS DAY.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 06 & 24 - CTAF. PAPI RWY 06 & 24 OPER CONT. HIRL RWY 06/24 ON DUSK-DAWN, TO CHANGE INTST - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.975
+WX ASOS:135.325 (336-570-9813)
+GREENSBORO APPROACH:126.6 [0630-2300]
+GREENSBORO DEPARTURE:126.6 [0630-2300]
+CLEARANCE DELIVERY:120.25
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr028/15.8LIBERTY VORTAC113.0003W
+GSOr092/24.4GREENSBORO VORTAC116.2003W
+DANr198/(31.8)DANVILLE VOR113.1006W
+RDUr297/35.1RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+ALAMM060/6.936108WHB.... -...
+PERSON249/22.622008WHUR.... ..- .-.
+SLAMMER152/24.442307WSIF... .. ..-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:6406 x 100 ft. / 1953 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:PCN 29 /F/C/W/TSingle wheel:73.0Double wheel:97.0Double tandem:57.0
+Runway edge lights:high intensity
+RUNWAY 6RUNWAY 24
+Latitude:36-02.659493N36-03.307795N
+Longitude:079-28.893502W079-27.867400W
+Elevation:615.9 ft.586.7 ft.
+Traffic pattern:leftleft
+Runway heading:060 magnetic, 052 true240 magnetic, 232 true
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:38 ft. trees, 1161 ft. from runway, 450 ft. left of centerline, 25:1 slope to clear16 FT TREES 116 FT FM END OF RWY OFFSET 363 FT RIGHT OF CNTRLN.51 ft. trees, 1505 ft. from runway, 596 ft. left of centerline, 25:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:BURLINGTON-ALAMANCE AIRPORT AUTHORI3441 N. AVIATION DR.BURLINGTON, NC 27215Phone 336-227-0771
+Manager:DAN DANIELEY3441. N AVIATION DRIVEBURLINGTON, NC 27215-6374Phone 336-227-0771ARPT PH# 336-226-3330.
+
+Airport Operational Statistics
+
+Aircraft based on the field:89Single engine airplanes:73Multi engine airplanes:12Jet airplanes:3Helicopters:1
+Aircraft operations: avg 204/day*67%local general aviation31%transient general aviation1%air taxi<1%military* for 12-month period ending 07 August 2023
+Additional Remarks
+
+-DEER AND WATERFOWL INVOF ARPT.
+-RWY 06, 15 FT DROP-OFF 150 FT FM THR 250 FT LEFT OF CNTRLN.
+-AFTER HRS FUEL OR EMERG ONLY 336-223-4994.
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+-RWY 24 HAS UNMKD HIGH VOLTAGE TRANSMISSION LINES APRXLY 4000 FT FROM THR AND BOTH SIDES OF CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS Y OR LOC Y RWY 06
+download (258KB)
+ILS Z OR LOC Z RWY 06
+download (251KB)
+RNAV (GPS) RWY 06
+download (247KB)
+RNAV (GPS) RWY 24
+download (252KB)
+VOR/DME-A
+download (201KB)
+
+NOTE: Special Alternate Minimums apply
+download (142KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (356KB)
+
+Other nearby airports with instrument procedures:
+KSCR - Siler City Municipal Airport (21 nm S)
+KGSO - Piedmont Triad International Airport (23 nm W)
+KTDF - Raleigh Regional Airport at Person County (28 nm NE)
+KSIF - Rockingham County NC Shiloh Airport (30 nm NW)
+KHBI - Asheboro Regional Airport (31 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Gregory York
+Photo taken 17-Mar-2012
+looking West at 5,000 MSL.
+
+Do you have a better or more recent aerial photo of Burlington/Alamance Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Burlington/Alamance Regional Airport?
+Find the distance to fly.
+From 
+to KBUY
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:3022:30
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:16
+Local (UTC-5)19-Jan-2024 15:48:16
+
+
+
+
+   
+
+METAR
+
+
+KBUY191954Z AUTO 28019G33KT 10SM CLR 07/M08 A2986 RMK AO2 PK WND 30038/1940 SLP113 T00671083
+
+
+
+
+
+TAF
+
+
+KGSO23nm W191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.975336-226-3330toll-free 888-759-7688[web site][email]
+
+RUNWAY NOW 6,405' LONG. First class service and facilities without big city fees. Relax in our luxurious lobby and pilots lounge. Borrow our Malibu Courtesy Car. Let our friendly flight support team handle all of your concierge services. We will exceed your expectations from arrival to departure. WiFi, GPU, Lav Service, and more.
+
+
+
+More info and photos of SkySouth Aviation
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$6.19$6.99Updated 17-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+
+Triad Aviation, Inc.
+
+336-792-6200[web site][email]
+
+Aviation fuel, Aircraft maintenance, Aircraft modifications, Aircraft parts
+
+
+
+More info about Triad Aviation, Inc.
+
+
+
+
+
+Phillips 66100LLFS$5.79Updated 17-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Burlington/Alamance Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Burlington/Alamance Regional Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

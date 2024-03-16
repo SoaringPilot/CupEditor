@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 51NC - Phillip R Bunn Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1449 users online
+ 
+
+
+
+
+51NC
+ Phillip R Bunn AirportZebulon, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ZEBULON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:51NC
+Lat/Long:35-51-36.6000N 078-20-43.2000W35-51.610000N 078-20.720000W35.8601667,-78.3453333(estimated)
+Elevation:330 ft. / 101 m (estimated)
+Variation:08W (1995)
+From city:2 miles NW of ZEBULON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27597
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/2000
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at LHZ (10 nm N):118.325 (919-497-0810)
+WX AWOS-3 at JNX (19 nm S):120.225 (919-934-3851)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr101/21.3RALEIGH/DURHAM VORTAC117.2009W
+TYIr262/32.0TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO162/29.627109WHXO.... -..- ---
+HARNETT040/30.241708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 10/28
+
+Dimensions:2300 x 100 ft. / 701 x 30 m
+Surface:turf
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftleft
+Obstructions:none50 ft. trees, 300 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RAMONA BUNN2701 OLD ZEBULON ROADZEBULON, NC 27597Phone 919-208-3074
+Manager:RAMONA BUNN1905  ENDWELL DRZEBULON, NC 27597Phone 919-208-3074
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-PLEASE USE THE NAME "PHILIP BUNN" ON THE SECTIONAL MAP. USING JUST "BUNN" IS CONFUSING BECAUSE THERE IS A NEARBY TOWN CALLED BUNN.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 51NC.
+Some nearby airports with instrument procedures:
+KLHZ - Triangle North Executive Airport (10 nm N)
+W03 - Wilson Industrial Air Center Airport (19 nm E)
+KJNX - Johnston Regional Airport (19 nm S)
+KRDU - Raleigh-Durham International Airport (22 nm W)
+KRWI - Rocky Mount/Wilson Regional Airport (22 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Phillip R Bunn Airport?
+Find the distance to fly.
+From 
+to 51NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:2622:26
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:41:58
+Local (UTC-5)19-Jan-2024 16:41:58
+
+
+
+
+   
+
+METAR
+
+
+KLHZ10nm N192115Z AUTO 29015G25KT 10SM SCT055 SCT070 06/M05 A2988 RMK AO2
+
+KJNX20nm S192110Z AUTO 31010G24KT 270V340 10SM SCT060 10/M02 A2986 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRDU21nm W191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KRWI22nm E191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Phillip R Bunn Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Phillip R Bunn Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

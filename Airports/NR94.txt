@@ -1,0 +1,315 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR94 - Heavenly Acres Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1568 users online
+ 
+
+
+
+
+NR94
+ Heavenly Acres AirportLawsonville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LAWSONVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR94
+Lat/Long:36-31-23.0400N 080-16-39.4500W36-31.384000N 080-16.657500W36.5230667,-80.2776250(estimated)
+Elevation:1050 ft. / 320 m 
+From city:3 miles NW of LAWSONVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27022
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/2014
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at MWK (14 nm W):121.125 (336-789-2299)
+WX AWOS-3 at MTV (14 nm NE):118.45 (276-957-3784)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr336/32.1GREENSBORO VORTAC116.2003W
+PSKr154/39.8PULASKI VORTAC116.8006W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER296/26.342307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:1100 x 60 ft. / 335 x 18 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:20 ft. pline, 300 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MARK BLACK2855 NC 704 WLAWSONVILLE, NC 27022Phone 336-414-5175
+Manager:MARK BLACK2855 NC 704 HWY WLAWSONVILLE, NC 27022Phone 336-414-5175
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at NR94.
+Some nearby airports with instrument procedures:
+KMWK - Mount Airy/Surry County Airport (14 nm W)
+KMTV - Blue Ridge Airport (14 nm NE)
+N63 - Meadow Brook Field Airport (15 nm SE)
+KSIF - Rockingham County NC Shiloh Airport (21 nm E)
+KINT - Smith Reynolds Airport (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Heavenly Acres Airport?
+Find the distance to fly.
+From 
+to NR94
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:16:40
+Local (UTC-5)19-Jan-2024 16:16:40
+
+
+
+
+   
+
+METAR
+
+
+KMWK14nm W192045Z AUTO 30012G21KT 280V340 10SM BKN050 01/M10 A2995 RMK AO2 T00071100
+
+KMTV14nm NE192055Z AUTO 34012G19KT 10SM OVC050 02/M11 A2995 RMK AO2 T00211114
+
+KSIF21nm E192050Z AUTO 29013G21KT 10SM SCT060 04/M09 A2993 RMK AO2 T00391091
+
+KINT24nm S192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+
+
+
+
+TAF
+
+
+KINT24nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Heavenly Acres Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Heavenly Acres Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

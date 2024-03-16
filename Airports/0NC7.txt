@@ -1,0 +1,353 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 0NC7 - Lindsay Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1541 users online
+ 
+
+
+
+
+0NC7
+ Lindsay AirportMadison, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MADISON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:0NC7
+Lat/Long:36-21-26.0000N 079-59-51.0000W36-21.433333N 079-59.850000W36.3572222,-79.9975000(estimated)
+Elevation:700 ft. / 213 m (estimated)
+From city:2 miles SW of MADISON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27025
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/2004
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SIF (9 nm NE):119.775 (336-573-3677)
+WX ASOS at GSO (16 nm S):128.55 (336-393-0168)
+WX AWOS-3 at MTV (16 nm N):118.45 (276-957-3784)
+WX ASOS at INT (17 nm SW):PHONE 336-661-3096
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr360/18.7GREENSBORO VORTAC116.2003W
+DANr254/(34.3)DANVILLE VOR113.1006W
+LIBr333/37.7LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER270/11.442307WSIF... .. ..-.
+BALES202/14.539607WUV..- ...-
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:1700 x 75 ft. / 518 x 23 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BRIGGS NEAL1361 LINDSAY BRIDGE ROADMADISON, NC 27025Phone 336-548-2223
+Manager:BRIGGS NEAL1361 LINDSAY BRIDGE ROADMADISON, NC 27025Phone 336-548-2223
+
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 0NC7.
+Some nearby airports with instrument procedures:
+N63 - Meadow Brook Field Airport (8 nm SW)
+KSIF - Rockingham County NC Shiloh Airport (9 nm NE)
+KGSO - Piedmont Triad International Airport (16 nm S)
+KMTV - Blue Ridge Airport (16 nm N)
+KINT - Smith Reynolds Airport (17 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lindsay Airport?
+Find the distance to fly.
+From 
+to 0NC7
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3012:30
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:26:53
+Local (UTC-5)19-Jan-2024 16:26:53
+
+
+
+
+   
+
+METAR
+
+
+KSIF9nm NE192110Z AUTO 28011G22KT 10SM SCT060 04/M09 A2995 RMK AO2 T00371093
+
+KMTV16nm N192115Z AUTO 33013G21KT 10SM OVC050 02/M11 A2997 RMK AO2 T00151115
+
+KGSO16nm S192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KINT17nm SW192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+
+
+
+
+TAF
+
+
+KGSO16nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT17nm SW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lindsay Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lindsay Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

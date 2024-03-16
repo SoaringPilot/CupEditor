@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 52J - Lee County Airport-Butters Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1535 users online
+ 
+
+
+
+
+52J
+ Lee County Airport-Butters FieldBishopville, South Carolina, USA 
+
+
+
+
+
+
+GOING TO BISHOPVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:52J
+Lat/Long:34-14-40.1460N 080-14-09.7210W34-14.669100N 080-14.162017W34.2444850,-80.2360336(estimated)
+Elevation:211 ft. / 64.3 m (surveyed)
+Variation:05W (1985)
+From city:2 miles N of BISHOPVILLE, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29010
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/1947
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MIRL RY 6/24 & PAPI RY 06 AND RY 24 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at HVS (11 nm NE):118.225 (843-339-9625)
+WX AWOS-3 at SMS (16 nm SW):118.075 (803-469-6750)
+WX AWOS-3 at CDN (16 nm W):119.975 (803-424-1979)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr178/24.4CHESTERFIELD VOR/DME114.5503W
+FLOr274/28.7FLORENCE VORTAC115.2003W
+MMTr064/34.1MC ENTIRE VORTAC113.2008W
+
+
+NDBnameHdg/DistFreqVarID
+HARTSVILLE218/11.334107WHVS.... ...- ...
+SUMTER029/16.425207WSMS... -- ...
+DARLINGTON241/21.024506WUDG..- -.. --.
+EVANS321/33.042006WCFY-.-. ..-. -.--
+BENNETTSVILLE236/33.623008WBES-... . ...
+MANNING004/39.438106WMNI-- -. ..
+
+Airport Services
+
+Fuel available:100LL100LL:FUEL 24 HR CREDIT CARD SVC AVBL.  FOR ASSISTANCE CALL 803-484-3296/229-2679.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:3200 x 60 ft. / 975 x 18 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5Double wheel:25.0
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:34-14.501500N34-14.836667N
+Longitude:080-14.407500W080-13.916500W
+Elevation:211.0 ft.188.0 ft.
+Traffic pattern:leftleft
+Runway heading:056 magnetic, 051 true236 magnetic, 231 true
+Markings:basic, in fair conditionbasic, in fair condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)RWY 06 PAPI UNUSBL BYD 3 DEG LEFT OF CNTRLN.2-light PAPI on left (3.00 degrees glide path)RWY 24 PAPI UNUSBL BYD 6 DEG LEFT OF CNTRLN.
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:29 ft. trees, 368 ft. from runway, 116 ft. left of centerline, 5:1 slope to clearTREES 19' HIGH 105' LEFT OF CNTLN 142' FROM RWY END58 ft. trees, 1322 ft. from runway, 81 ft. left of centerline, 19:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:LEE COUNTY123 S. MAIN STBISHOPVILLE, SC 29010Phone 803-484-5341
+Manager:GEORGE ROBERTS412 MEADOWS LANEBISHOPVILLE, SC 29010Phone 803-229-2679
+
+Airport Operational Statistics
+
+Aircraft based on the field:11Single engine airplanes:9Multi engine airplanes:1Helicopters:1
+Aircraft operations: avg 58/month*62%transient general aviation38%local general aviation* for 12-month period ending 19 September 2020
+Additional Remarks
+
+-WILDLIFE ON AND INVOF ARPT.
+-FOR CD CTC SHAW APCH AT 803-895-4884, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at 52J.
+Some nearby airports with instrument procedures:
+KHVS - Hartsville Regional Airport (11 nm NE)
+KSMS - Sumter Airport (16 nm SW)
+KCDN - Woodward Field Airport (16 nm W)
+KSSC - Shaw Air Force Base (20 nm SW)
+KUDG - Darlington County Airport (21 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by King Martin
+Photo taken 25-Jan-2016
+looking southwest.
+
+Do you have a better or more recent aerial photo of Lee County Airport-Butters Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lee County Airport-Butters Field?
+Find the distance to fly.
+From 
+to 52J
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2712:27
+Sunset17:3722:37
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:25:39
+Local (UTC-5)19-Jan-2024 16:25:39
+
+
+
+
+   
+
+METAR
+
+
+KHVS11nm NE192055Z AUTO VRB06G15KT 250V360 10SM SCT060 11/M06 A2990 RMK AO2
+
+KSMS16nm SW192055Z AUTO 29011G21KT 10SM SCT065 14/M03 A2990 RMK AO2
+
+KCDN16nm W192055Z AUTO 31023G29KT 10SM CLR 10/M08 A2993 RMK AO2
+
+KSSC20nm SW192055Z 31015G27KT 10SM FEW065 14/M05 A2988 RMK AO2A PK WND 29028/08 SLPNO T01371055 53018 $
+
+KUDG21nm NE192056Z AUTO 31019G26KT 10SM BKN065 11/M03 A2989 RMK AO2 PK WND 32030/2026 SLP123 T01111033 53024
+
+
+
+
+
+TAF
+
+
+KSSC20nm SW191600Z 1916/2022 28015G25KT 9999 FEW040 510003 QNH2991INS TEMPO 1916/1922 29015G31KT BECMG 1922/1923 33007KT 9999 SKC 510023 QNH2996INS BECMG 2014/2015 33010G20KT 9999 SKC QNH3027INS TX13/1918Z TNM05/2012Z 
+
+KFLO25nm E191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Lee County (self-serve fuel)
+
+803-484-3296
+
+
+no information available
+If you are affiliated with Lee County (self-serve fuel) and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLSS$5.75Updated 09-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lee County Airport-Butters Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lee County Airport-Butters Field
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,377 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 58J - Huggins Memorial Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1557 users online
+ 
+
+
+
+
+58J
+ Huggins Memorial AirportTimmonsville, South Carolina, USA 
+
+
+
+
+
+
+GOING TO TIMMONSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:58J
+Lat/Long:34-08-08.0700N 079-55-17.0800W34-08.134500N 079-55.284667W34.1355750,-79.9214111(estimated)
+Elevation:143 ft. / 43.6 m (surveyed)
+Variation:06W (1985)
+From city:1 mile NE of TIMMONSVILLE, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29161
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1943
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:UNATTD
+Wind indicator:yes
+Segmented circle:no
+Lights:ACTVT LIRL RWY 14/32  - CTAF.
+Beacon:white-green (lighted land airport)ACTVT ROTG BCN - CTAF.
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at FLO (10 nm E):PHONE 843-665-1306
+WX AWOS-3PT at UDG (19 nm N):119.925 (843-393-8220)
+WX AWOS-3 at HVS (19 nm NW):118.225 (843-339-9625)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr249/14.4FLORENCE VORTAC115.2003W
+CTFr153/35.5CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+EVANS341/18.542006WCFY-.-. ..-. -.--
+DARLINGTON191/18.524506WUDG..- -.. --.
+HARTSVILLE156/19.034107WHVS.... ...- ...
+SUMTER075/23.525207WSMS... -- ...
+BENNETTSVILLE206/30.523008WBES-... . ...
+DILLON244/33.327409WDLC-.. .-.. -.-.
+MANNING029/35.838106WMNI-- -. ..
+
+Airport Services
+
+Parking:hangars and tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 14/32
+
+Dimensions:3090 x 150 ft. / 942 x 46 m
+Surface:turf, in excellent conditionSTANDING WATER AFTER HEAVY RAIN.
+Runway edge lights:low intensity
+RUNWAY 14RUNWAY 32
+Latitude:34-08.336898N34-07.932185N
+Longitude:079-55.470762W079-55.098397W
+Traffic pattern:leftleft
+Runway heading:148 magnetic, 142 true328 magnetic, 322 true
+Markings:nonenone
+Runway end identifier lights:nono
+Obstructions:15 ft. bldg, 31 ft. from runway, 112 ft. right of centerline, 2:1 slope to clear68 ft. trees, 158 ft. from runway, 136 ft. right of centerline, 2:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BETTIE HUGGINS768 E. SMITH STREETTIMMONSVILLE, SC 29161Phone (843) 229-7515
+Manager:BETTIE HUGGINS768 E. SMITH STREETTIMMONSVILLE, SC 29161Phone (843) 229-7515
+
+Airport Operational Statistics
+
+Aircraft based on the field:32Single engine airplanes:30Helicopters:1Ultralights:1
+Aircraft operations: avg 29/week*80%local general aviation20%transient general aviation* for 12-month period ending 06 June 2023
+Additional Remarks
+
+-FOR CD CTC FLORENCE APCH AT 843-665-0632, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at 58J.
+Some nearby airports with instrument procedures:
+KFLO - Florence Regional Airport (10 nm E)
+51J - Lake City Municipal Airport-CJ Evans Field (19 nm SE)
+KUDG - Darlington County Airport (19 nm N)
+KHVS - Hartsville Regional Airport (19 nm NW)
+KSMS - Sumter Airport (23 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Huggins Memorial Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Huggins Memorial Airport?
+Find the distance to fly.
+From 
+to 58J
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2512:25
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:19:26
+Local (UTC-5)19-Jan-2024 16:19:26
+
+
+
+
+   
+
+METAR
+
+
+KFLO10nm E192053Z 32018G28KT 10SM SCT065 13/M01 A2986 RMK AO2 PK WND 31029/2043 PRESRR SLP110 T01331006 53016
+
+KHVS19nm NW192055Z AUTO VRB06G15KT 250V360 10SM SCT060 11/M06 A2990 RMK AO2
+
+KUDG19nm N192056Z AUTO 31019G26KT 10SM BKN065 11/M03 A2989 RMK AO2 PK WND 32030/2026 SLP123 T01111033 53024
+
+
+
+
+
+TAF
+
+
+KFLO10nm E191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Huggins Memorial Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Huggins Memorial Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

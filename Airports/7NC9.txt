@@ -1,0 +1,349 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 7NC9 - Spencer Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1435 users online
+ 
+
+
+
+
+7NC9
+ Spencer Field AirportAsheboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ASHEBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:7NC9
+Lat/Long:35-43-38.4910N 079-54-40.1350W35-43.641517N 079-54.668917W35.7273586,-79.9111486(estimated)
+Elevation:460 ft. / 140 m (estimated)
+Variation:06W (1985)
+From city:7 miles W of ASHEBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27203
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1988
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HBI (4 nm S):119.275 (336-626-7933)
+WX AWOS-3 at EXX (19 nm W):119.825 (336-956-2967)
+WX AWOS-3 at SCR (20 nm E):125.775 (919-663-1252)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr254/15.4LIBERTY VORTAC113.0003W
+GSOr174/19.4GREENSBORO VORTAC116.2003W
+SDZr336/34.5SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER197/39.942307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:1400 x 75 ft. / 427 x 23 m
+Surface:turf
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+Obstructions:30 ft. trees, 15 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:J C SPENCER621 SPENCER MEADOW RDASHEBORO, NC 27295Phone 336-963-3873
+Manager:J C SPENCER621 SPENCER MEADOW RDASHEBORO, NC 27205Phone 336-963-3873
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 7NC9.
+Some nearby airports with instrument procedures:
+KHBI - Asheboro Regional Airport (4 nm S)
+KEXX - Davidson County Executive Airport (19 nm W)
+KSCR - Siler City Municipal Airport (20 nm E)
+43A - Montgomery County Airport (21 nm S)
+KVUJ - Stanly County Airport (22 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Spencer Field Airport?
+Find the distance to fly.
+From 
+to 7NC9
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:55:58
+Local (UTC-5)19-Jan-2024 16:55:58
+
+
+
+
+   
+
+METAR
+
+
+KHBI5nm S191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+KEXX19nm W192125Z AUTO 29011G18KT 220V340 10SM CLR 04/M09 A2998 RMK AO2 T00381086
+
+KSCR20nm E192125Z AUTO 28008G18KT 230V320 10SM CLR 05/M09 A2993 RMK AO2 T00531094
+
+
+
+
+
+TAF
+
+
+KGSO22nm N191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Spencer Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Spencer Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 5W5 - Triple W Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1441 users online
+ 
+
+
+
+
+5W5
+ Triple W AirportRaleigh, North Carolina, USA 
+
+
+
+
+
+
+GOING TO RALEIGH?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:5W5
+Lat/Long:35-37-13.4000N 078-42-01.0000W35-37.223333N 078-42.016667W35.6203889,-78.7002778(estimated)
+Elevation:244 ft. / 74.4 m (surveyed)
+Variation:07W (1985)
+From city:11 miles SW of RALEIGH, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27526
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1975
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:IREG
+Wind indicator:no
+Segmented circle:no
+Lights:DUSK-2400 ACTVT LIRL - CTAF. NO CTAF PRIOR TO DUSK.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3 at HRJ (14 nm S):119.025 (910-814-3946)
+WX AWOS-3 at JNX (16 nm E):120.225 (919-934-3851)
+WX ASOS at RDU (16 nm N):PHONE 919-840-0816
+WX AWOS-3 at TTA (20 nm W):120.625 (919-708-5382)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr174/15.7RALEIGH/DURHAM VORTAC117.2009W
+FAYr017/39.0FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT002/11.341708WHQT.... --.- -
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 16/34
+
+Dimensions:3004 x 40 ft. / 916 x 12 m
+Surface:asphalt, in poor conditionHEAVY VEGETATION IN CRACKS.
+Runway edge lights:non-standardLGTS 15 FT FROM EDGE OF RWY.  NO THR LGTS
+Runway edge markings:RWY 16/34 MARKINGS NONEXISTENT.
+RUNWAY 16RUNWAY 34
+Latitude:35-37.445442N35-37.001075N
+Longitude:078-42.150513W078-41.882665W
+Elevation:243.0 ft.235.0 ft.
+Traffic pattern:leftleft
+Runway heading:161 magnetic, 154 true341 magnetic, 334 true
+Markings:NSTD, in poor conditionNSTD, in poor condition
+Obstructions:57 ft. trees, 340 ft. from runway, 45 ft. left of centerline, 2:1 slope to clear46 FT TREES 0-200 FT FROM THR OFFSET 79 FT RIGHT OF CNTRLN; 52 FT TREES 0-200 FT FROM THR OFFSET 50 FT LEFT OF CNTRLN.35 ft. trees, 228 ft. from runway, 61 ft. right of centerline, 1:1 slope to clear39 FT TREES 0-200 FT FROM THR OFFSET 109 FT RIGHT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:TRIPLE W ENTERPRISES INC7124 BLUE JUPITER COURTFUQUAY VARINA, NC 27526Phone (919) 971-3718
+Manager:PAUL WILLIAMS7124 BLUE JUPITER COURTFUQUAY  VARINA, NC 27526Phone (919) 971-3718
+
+Airport Operational Statistics
+
+Aircraft based on the field:18Single engine airplanes:18
+Aircraft operations: avg 41/day*67%local general aviation30%transient general aviation3%military* for 12-month period ending 28 July 2022
+Additional Remarks
+
+-ALL ACFT OVER 6500 LBS PROHIBITED.
+-RWY 16/34 PAEW PARL TWY.
+-DEER ON AND INVOF ARPT.
+-FOR CD CTC RALEIGH APCH AT 919-380-3144.
+-BE ALERT 1000 FT OF TWY NORTH END RWY 16 UNUSBL DUE TO EROSION UNDER PAVEMENT.
+-CAUTION: VEHICLES ON OR INVOF OF RWY 16/34.
+-BE ALERT FOR RISING TRRN ALL QUADRANTS.
+-4 FT DROP-OFF TWY EDGE BOTH SIDES - S END.
+-TOWER (500 FT AGL/ 826 FT MSL) APPROX 1.75 NM NW OF ARPT.
+-NUMEROUS UNLGTD OBSTR INVOF ARPT. NIGHT OR TSNT TFC LDGS NOT RCMDD.
+-RWY 16/34 HAS 4 FT DROP-OFF 20 FT FROM PAVEMENT EDGE ALL SIDES.
+-TWY NOT LIGHTED.
+
+Instrument Procedures
+There are no published instrument procedures at 5W5.
+Some nearby airports with instrument procedures:
+KHRJ - Harnett Regional Jetport Airport (14 nm S)
+KJNX - Johnston Regional Airport (16 nm E)
+KRDU - Raleigh-Durham International Airport (16 nm N)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (20 nm W)
+KLHZ - Triangle North Executive Airport (30 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David L Newcomer
+Photo taken 27-Feb-2010
+from 3,000' altitude looking west.
+
+Do you have a better or more recent aerial photo of Triple W Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Triple W Airport?
+Find the distance to fly.
+From 
+to 5W5
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2412:24
+Sunset17:2822:28
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:02:16
+Local (UTC-5)19-Jan-2024 17:02:16
+
+
+
+
+   
+
+METAR
+
+
+KHRJ14nm S192150Z AUTO 31018G23KT 10SM CLR 08/M07 A2992 RMK AO2 T00801070
+
+KRDU15nm N192151Z 30013G23KT 10SM FEW055 FEW090 07/M09 A2992 RMK AO2 PK WND 30035/2111 SLP131 T00671089
+
+KJNX16nm E192150Z AUTO 31013G25KT 10SM SCT060 SCT075 08/M05 A2990 RMK AO2
+
+KTTA20nm W192150Z AUTO 32015G22KT 10SM CLR 06/M09 A2993 RMK AO2 T00611091
+
+
+
+
+
+TAF
+
+
+KRDU15nm N191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Triple W Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Triple W Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,7 @@
+AirNav: VA00 - Brook Hill Farm Airport
+CTAF:
+Lat/Long:WW37.928189,-79.178086(estimated)
+Runway 3/21
+Elevation:1600 ft.
+Surface:turf
+Dimensions:2000 x 75 ft.

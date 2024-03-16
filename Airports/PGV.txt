@@ -1,0 +1,500 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KPGV - Pitt-Greenville Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1453 users online
+ 
+
+
+
+
+KPGV
+ Pitt-Greenville AirportGreenville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GREENVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:PGV
+Lat/Long:35-38-08.5000N 077-23-02.7000W35-38.141667N 077-23.045000W35.6356944,-77.3840833(estimated)
+Elevation:26.4 ft. / 8.0 m (surveyed)
+Variation:09W (2000)
+From city:2 miles N of GREENVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27834
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1941
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:PGV (NOTAM-D service available)
+Attendance:0600-2200
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 20; PAPI RWYS 02, 20, 08 & 26; HIRL RWY 02/20; MIRL RWY 08/26 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index B
+Airline operations:ARPT CLSD TO UNSKED ACR OPS EXCP 8 HRS PPR 252-902-2026 DAILY 0200-1000. INDEX C ARFF EQUIP AVBL UPON REQ.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:128.425 (252-758-6485)
+WX AWOS-3 at OCW (17 nm E):120.175 (252-975-6133)
+WX AWOS-3P at MCZ (17 nm NE):118.65 (252-802-4261)
+WX AWOS-3P at ETC (20 nm NW):119.575 (252-641-1640)
+
+
+CLEARANCE DELIVERY PRVDD BY RALEIGH RADIO ON FREQ 122.2 (PITT-GREENVILLE RCO).
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr033/18.0KINSTON VORTAC117.5005W
+TYIr148/25.7TAR RIVER VORTAC117.8005W
+EWNr342/37.6NEW BERN VOR/DME113.6008W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD197/4.323009WAQE.- --.- .
+CHOCOWINITY307/15.538808WRNW.-. -. .--
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 2/20
+
+Dimensions:7175 x 150 ft. / 2187 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 30 /F/B/X/TSingle wheel:87.0Double wheel:140.0
+Runway edge lights:high intensity
+RUNWAY 2RUNWAY 20
+Latitude:35-37.552045N35-38.724362N
+Longitude:077-23.148038W077-22.957177W
+Elevation:20.7 ft.26.3 ft.
+Traffic pattern:leftleft
+Runway heading:017 magnetic, 008 true197 magnetic, 188 true
+Displaced threshold:271 ft.no
+Declared distances:TORA:7175 TODA:7175 ASDA:7175 LDA:6905TORA:7175 TODA:7175 ASDA:6505 LDA:6505
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.10 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yesno
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:13 ft. trees, 1000 ft. from runway, 200 ft. right of centerline, 33:1 slope to clear65 ft. trees, 2800 ft. from runway, 800 ft. left of centerline, 40:1 slope to clear
+
+Runway 8/26
+
+Dimensions:4997 x 150 ft. / 1523 x 46 m
+Surface:asphalt, in poor conditionRUNWAY 8-26 NOT AVAILABLE FOR AIR CARRIER USE; UNEVEN SURFACE.
+Weight bearing capacity:PCN 17 /F/B/X/TSingle wheel:50.0Double wheel:73.0
+Runway edge lights:medium intensity
+RUNWAY 8RUNWAY 26
+Latitude:35-37.984022N35-38.309412N
+Longitude:077-23.497195W077-22.570305W
+Elevation:24.0 ft.23.3 ft.
+Traffic pattern:leftleft
+Runway heading:076 magnetic, 067 true256 magnetic, 247 true
+Declared distances:TORA:4997 TODA:4997 ASDA:4997 LDA:4997TORA:4997 TODA:4997 ASDA:4997 LDA:4997
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (4.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:110 ft. trees, 1526 ft. from runway, 200 ft. right of centerline, 12:1 slope to clear37 ft. pole, lighted, 1441 ft. from runway, 77 ft. right of centerline, 33:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:PITT CO & GREENVILLE CITY400 AIRPORT RDGREENVILLE, NC 27834Phone 252-902-2026
+Manager:KIM W BILL HOPPER400 AIRPORT RDGREENVILLE, NC 27834Phone 252-902-2026
+
+Airport Operational Statistics
+
+Aircraft based on the field:65Single engine airplanes:47Multi engine airplanes:3Jet airplanes:11Helicopters:4
+Aircraft operations: avg 42/day*53%transient general aviation20%local general aviation15%air taxi11%commercial1%military* for 12-month period ending 20 July 2022
+Additional Remarks
+
+-24 HR HELICOPTER OPNS AT HOSPITAL 1.5 NM SSW OF ARPT; MONITORING CTAF.
+-JET ACFT DEPARTING FROM RWY 20 SHALL HOLD ON AIR CARRIER OR GA APRON UNTIL TAKE OFF CLEARANCE IS RECEIVED.
+-FOR CD IF UNA TO CTC ON FSS FREQ, CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS Y OR LOC Y RWY 20
+download (293KB)
+ILS Z OR LOC Z RWY 20
+download (303KB)
+RNAV (GPS) RWY 02
+download (250KB)
+RNAV (GPS) RWY 08
+download (213KB)
+RNAV (GPS) RWY 20
+download (258KB)
+RNAV (GPS) RWY 26
+download (252KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (209KB)
+
+Other nearby airports with instrument procedures:
+KOCW - Washington-Warren Airport (17 nm E)
+KMCZ - Martin County Airport (17 nm NE)
+KETC - Tarboro-Edgecombe Airport (20 nm NW)
+KISO - Kinston Regional Jetport at Stallings Field (21 nm SW)
+KRWI - Rocky Mount/Wilson Regional Airport (28 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Blue Line Aviation
+Photo taken 11-Aug-2013
+from 7,000 ft looking northeast.
+
+Do you have a better or more recent aerial photo of Pitt-Greenville Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Pitt-Greenville Airport?
+Find the distance to fly.
+From 
+to KPGV
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1812:18
+Sunset17:2222:22
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:43:32
+Local (UTC-5)19-Jan-2024 16:43:32
+
+
+
+
+   
+
+METAR
+
+
+KPGV192105Z AUTO 34012G23KT 10SM SCT047 BKN050 OVC065 08/00 A2983 RMK AO2
+
+KOCW17nm E192105Z AUTO 32012G16KT 10SM BKN060 BKN070 OVC080 09/M01 A2981 RMK AO2 T00911014
+
+KMCZ17nm NE192105Z AUTO 31010G18KT 10SM SCT055 OVC065 07/M02 A2982 RMK AO2 T00711020
+
+KETC20nm NW192105Z AUTO 31010G18KT 7SM SCT065 OVC085 07/M03 A2984 RMK AO2 T00721027
+
+
+
+
+
+TAF
+
+
+KPGV191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Pitt-Greenville Airport Authority
+
+252-902-2026
+
+
+no information available
+If you are affiliated with Pitt-Greenville Airport Authority and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AFS$5.59$5.88Updated 17-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Pilot John International
+
+252-585-4553[web site][email]
+
+Aircraft ground handling, GPU / Power cart, Aircraft parts
+
+
+
+More info about Pilot John International
+
+
+
+
+1 mile
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Pitt-Greenville Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Pitt-Greenville Airport
+
+
+
+www.flypgv.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

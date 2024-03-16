@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG34 - Merifield Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1498 users online
+ 
+
+
+
+
+VG34
+ Merifield AirportClarksville, Virginia, USA 
+
+
+
+
+
+
+GOING TO CLARKSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG34
+Lat/Long:36-35-04.5090N 078-30-02.9960W36-35.075150N 078-30.049933W36.5845858,-78.5008322(estimated)
+Elevation:355 ft. / 108.2 m (surveyed)
+Variation:07W (1985)
+From city:3 miles SE of CLARKSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23927
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1966
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Pattern altitude:1155 ft. MSL
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W63 (2.9 nm W):118.225 (434-374-2431)
+WX AWOS-3 at CXE (12 nm N):121.225 (434-372-4506)
+WX AWOS-3 at HNZ (13 nm S):118.625 (919-693-9516)
+WX AWOS-3 at W78 (18 nm NW):119.425 (434-575-0332)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr107/25.3SOUTH BOSTON VORTAC110.4005W
+LVLr252/32.0LAWRENCEVILLE VORTAC112.9008W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO027/17.927109WHXO.... -..- ---
+PERSON060/34.522008WHUR.... ..- .-.
+BLACKSTONE223/39.332609WBKT-... -.- -
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 15/33
+
+Dimensions:2375 x 75 ft. / 724 x 23 m
+Surface:turf, in good condition
+Runway edge markings:RWY 15/33 MARKED BY WHITE METAL CONES-FAIR CONDITION
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MERIFIELD ACRES LANDOWNERSMERIWETHER DR.CLARKSVILLE, VA 23927Phone (919) 846-8001
+Manager:RICK BALDWINMERIWETHER DR.CLARKSVILLE, VA 23927Phone (919) 846-8001
+
+Additional Remarks
+
+-APCH RY 33 AND DEP RY 15.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at VG34.
+Some nearby airports with instrument procedures:
+W63 - Lake Country Regional Airport (3 nm W)
+KCXE - Chase City Municipal Airport (12 nm N)
+KHNZ - Henderson/Oxford Airport (13 nm S)
+W78 - William M Tuck Airport (18 nm NW)
+KAVC - Mecklenburg-Brunswick Regional Airport (22 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken in the Spring of 2008
+
+Do you have a better or more recent aerial photo of Merifield Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Merifield Airport?
+Find the distance to fly.
+From 
+to VG34
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:33:23
+Local (UTC-5)19-Jan-2024 16:33:23
+
+
+
+
+   
+
+METAR
+
+
+KW633nm W192115Z AUTO 29013G26KT 10SM CLR 04/M07 A2988 RMK AO1
+
+KCXE12nm N192115Z AUTO 10SM CLR 03/M08 A2988 RMK AO1 T00321084
+
+KHNZ13nm S192110Z AUTO 31008G21KT 270V330 10SM CLR 03/M11 A2988 RMK AO2 T00341106
+
+KW7818nm NW192115Z AUTO 28012G20KT 10SM CLR 04/M10 A2991 RMK AO1 T00381097
+
+
+
+
+
+TAF
+
+
+KDAN40nm W191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+KRDU45nm S191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Merifield Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Merifield Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

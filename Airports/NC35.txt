@@ -1,0 +1,259 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC35 - Mouse and Snake Ranch Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1434 users online
+ 
+
+
+
+
+NC35
+ Mouse and Snake Ranch AirportNorth Wilkesboro, North Carolina, USA 
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC35
+Lat/Long:36-18-12.4000N 081-12-54.7250W36-18.206667N 081-12.912083W36.3034444,-81.2152014(estimated)
+Elevation:1458 ft. / 444 m (estimated)
+From city:9 miles NNW of NORTH WILKESBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28649
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/2022
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at UKF (7 nm SE):126.625 (336-696-3788)
+WX AWOS-3 at GEV (13 nm NW):120.675 (336-982-5555)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr009/26.1BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+HEMLOCK076/33.432002WBAR-... .- .-.
+
+Airport Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:1511 x 50 ft. / 461 x 15 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Latitude:36-18.308500N36-18.104833N
+Longitude:081-13.000667W081-12.823500W
+Elevation:1458.0 ft.1405.0 ft.
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CHARLES HORRELL3503 PLEASANT GREEN RDDURHAM, NC 27705Phone 248-259-5535
+Manager:CHARLES HORRELL3503 PLEASANT GREEN RDDURHAM, NC 27705Phone 248-259-5535
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-OWNER DESIRES ARPT BE CHARTED.
+
+Instrument Procedures
+There are no published instrument procedures at NC35.
+Some nearby airports with instrument procedures:
+KUKF - Wilkes County Airport (7 nm SE)
+KGEV - Ashe County Airport (13 nm NW)
+KZEF - Elkin Municipal Airport (21 nm E)
+6A4 - Johnson County Airport (30 nm W)
+KMWK - Mount Airy/Surry County Airport (33 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mouse and Snake Ranch Airport?
+Find the distance to fly.
+From 
+to NC35
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3512:35
+Sunset17:3622:36
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:55:48
+Local (UTC-5)19-Jan-2024 16:55:48
+
+
+
+
+   
+
+METAR
+
+
+KUKF8nm SE192125Z AUTO 30012G22KT 10SM OVC049 00/M10 A3003 RMK AO2
+
+KGEV12nm NW192125Z AUTO 29016G27KT 270V330 1 3/4SM -SN OVC021 M06/M10 A2988 RMK AO2 VIS 1/2V5 T10601104
+
+
+
+
+
+TAF
+
+
+KHKY34nm S191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mouse and Snake Ranch Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mouse and Snake Ranch Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

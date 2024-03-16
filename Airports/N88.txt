@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N88 - Kecks Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1548 users online
+ 
+
+
+
+
+N88
+ Kecks AirportJulian, North Carolina, USA 
+
+
+
+
+
+
+GOING TO JULIAN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N88
+Lat/Long:35-55-35.4900N 079-37-39.0900W35-55.591500N 079-37.651500W35.9265250,-79.6275250(estimated)
+Elevation:724 ft. / 220.7 m (surveyed)
+Variation:06W (1985)
+From city:2 miles NE of JULIAN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27283
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1953
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at BUY (11 nm NE):135.325 (336-570-9813)
+WX AWOS-3 at SCR (15 nm SE):125.775 (919-663-1252)
+WX ASOS at GSO (18 nm NW):128.55 (336-393-0168)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr357/6.9LIBERTY VORTAC113.0003W
+GSOr116/18.4GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+ALAMM222/3.736108WHB.... -...
+SLAMMER174/28.142307WSIF... .. ..-.
+PERSON244/32.922008WHUR.... ..- .-.
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:1400 x 75 ft. / 427 x 23 m
+Surface:turf, in good condition
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Obstructions:40 ft. trees, 647 ft. from runway, 7 ft. left of centerline, 16:1 slope to clear36 ft. pline, marked, 776 ft. from runway, 21:1 slope to clearPLINE 780 FT FM THR.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MARK KECK2379 N.C. 62EJULIAN, NC 27283Phone 336-451-1540
+Manager:MARK KECK2379 N.C. 62EJULIAN, NC 27283Phone 336-451-1540
+
+Airport Operational Statistics
+
+
+Aircraft operations: avg 27/month*62%transient general aviation38%local general aviation* for 12-month period ending 02 April 2021
+Additional Remarks
+
+-BLDGS ON NW EDGE OF RY.
+-AGRICULTURAL EQUIPMENT OCNLY ON RY.
+-4' LIVESTOCK FENCE BELOW RWY GRADE ACROSS END OF EACH RWY
+-ARPT IN TFC PAT OF CAUSEY ARPT 2A5 (1 MI NW) CTAF: 122.8.
+-FOR CD CTC GREENSBORO APCH AT 336-333-5119.
+-RWY 5 HAS 4FT DROP OFF 10FT FM END OF RWY BOTH SIDES OF CNTRLN
+
+Instrument Procedures
+There are no published instrument procedures at N88.
+Some nearby airports with instrument procedures:
+KBUY - Burlington/Alamance Regional Airport (11 nm NE)
+KSCR - Siler City Municipal Airport (15 nm SE)
+KGSO - Piedmont Triad International Airport (18 nm NW)
+KHBI - Asheboro Regional Airport (21 nm SW)
+KINT - Smith Reynolds Airport (31 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Kecks Airport?
+Find the distance to fly.
+From 
+to N88
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:22:40
+Local (UTC-5)19-Jan-2024 16:22:40
+
+
+
+
+   
+
+METAR
+
+
+KBUY11nm NE192054Z AUTO 29019G32KT 10SM CLR 05/M09 A2990 RMK AO2 PK WND 25034/2021 SLP126 T00501089 53042
+
+KSCR15nm SE192045Z AUTO 32011G19KT 10SM SCT060 07/M08 A2990 RMK AO2 T00701077
+
+KGSO19nm NW192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KHBI21nm SW191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+
+
+
+
+TAF
+
+
+KGSO19nm NW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Kecks Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Kecks Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

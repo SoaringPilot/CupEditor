@@ -1,0 +1,364 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KHSE - Billy Mitchell Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1602 users online
+ 
+
+
+
+
+KHSE
+ Billy Mitchell AirportHatteras, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HATTERAS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:HSE
+Lat/Long:35-13-58.1000N 075-37-04.1000W35-13.968333N 075-37.068333W35.2328056,-75.6178056(estimated)
+Elevation:16.3 ft. / 5.0 m (surveyed)
+Variation:10W (1995)
+From city:4 miles E of HATTERAS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27920
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:04/1960
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:HSE (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:yes
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS:118.375 (252-995-3646)
+CHERRY POINT APPROACH:119.75 ;NORTH
+CHERRY POINT DEPARTURE:119.75 ;NORTH
+
+
+COMMUNICATIONS PRVDD BY RALEIGH RADIO ON FREQ 122.3 (HATTERAS RCO).
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 7/25
+
+Dimensions:3002 x 75 ft. / 915 x 23 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:30.0
+RUNWAY 7RUNWAY 25
+Latitude:35-13.831792N35-14.103373N
+Longitude:075-37.319745W075-36.815510W
+Elevation:8.6 ft.16.1 ft.
+Traffic pattern:leftleft
+Runway heading:067 magnetic, 057 true247 magnetic, 237 true
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:14 ft. brush, 399 ft. from runway, 154 ft. left of centerline, 14:1 slope to clear11 FT SAND DUNES 38 FT FM THR 108 FT R OF CNTRLN, AND 11 FT SAND DUNES 0-200 FT FM THR 108 FT L OF CNTRLN.29 ft. tree, 277 ft. from runway, 145 ft. right of centerline, 2:1 slope to clear8 FT DUNE 57 FT FM THR 117 FT L OF CNTRLN; 15 FT WINDSOCK 72 FT FM THR 221 FT L OF CNTRLN; AND 28 FT TREES 0-100 FT FM THR 159 FT R OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:NATIONAL PARK SERVICE1401 NATIONAL PARK DRMANTEO, NC 27954Phone 252-475-9000ARPT UNDER LEASE TO NC DOT UNDER SPECIAL-USE PERMIT; CTC NR 919-814-0550.
+Manager:BOONE VANDZURA1401 NATIONAL PARK DRIVEMANTEO, NC 27954Phone 252-475-9000NTL PARKS SVC NR ANSWERED 7 DAYS A WEEK BTWN 0800 TO 1700.
+
+Airport Operational Statistics
+
+
+Aircraft operations: avg 25/day*54%transient general aviation43%local general aviation1%military1%air taxi* for 12-month period ending 02 September 2022
+Additional Remarks
+
+-+10-35 FT SAND DUNES AND SCRUB TREES BOTH SIDES OF RWY WITHIN ROFA.
+-ARPT CLSD 30 MIN AFTER SS TIL 30 MIN BEFORE SR. ALL NIGHTTIME OPNS PROHIBITED.
+-HIGH SPEED LOW LEVEL MIL OPNS IN VIC OF ARPT.
+-FLOCKS OF SEAGULLS ON & INVOF OF ARPT.
+-RWY 07/25 SAFETY AREA IS LOOSE SAND & DUNES - NOT SUITABLE FOR ACFT.
+-ADDITIONAL ACFT PARKING AVBL ON MID-FIELD APRON.
+-ARPT LCTD IN CAPE HATTERAS NTL SEASHORE. MNTN 2000 FT VER & HORIZONTAL DIST FM SEASHORE BEACHES.
+-FOR CD CTC CHERRY POINT APCH AT 252-466-5960.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 07
+download (162KB)
+RNAV (GPS) RWY 25
+download (180KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+W95 - Ocracoke Island Airport (19 nm SW)
+7W6 - Hyde County Airport (26 nm NW)
+KMQI - Dare County Regional Airport (41 nm N)
+KFFA - First Flight Airport (47 nm N)
+KMRH - Michael J Smith Field Airport (59 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Photo taken 16-Mar-2013
+from 2,500' looking east.
+
+Do you have a better or more recent aerial photo of Billy Mitchell Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Billy Mitchell Airport?
+Find the distance to fly.
+From 
+to KHSE
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4311:43
+Sunrise07:1012:10
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:24
+Local (UTC-5)19-Jan-2024 15:44:24
+
+
+
+
+   
+
+METAR
+
+
+KHSE191951Z AUTO 29007KT 10SM CLR 11/04 A2971 RMK AO2 SLP060 T01110039
+
+
+
+
+
+TAF
+
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Billy Mitchell Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Billy Mitchell Airport
+
+
+
+NCDOT Div of Aviation
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

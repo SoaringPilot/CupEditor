@@ -1,0 +1,511 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KLYH - Lynchburg Regional Airport/Preston Glenn Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1514 users online
+ 
+
+
+
+
+KLYH
+ Lynchburg Regional Airport/Preston Glenn FieldLynchburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO LYNCHBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Freedom Aviation
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:LYH
+Lat/Long:37-19-31.4000N 079-12-04.4000W37-19.523333N 079-12.073333W37.3253889,-79.2012222(estimated)
+Elevation:938.2 ft. / 286.0 m (surveyed)
+Variation:08W (1995)
+From city:5 miles SW of LYNCHBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24502
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1937
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:LYH (NOTAM-D service available)
+Attendance:0500-2359
+Wind indicator:lighted
+Segmented circle:no
+Lights:WHEN ATCT CLSD ACTVT MALSR RWY 04; HIRL RWY 04/22; TWY LGTS - CTAF.  REIL 17/35; PAPI RWY 17/35; MIRL RWY 17/35 UNAVBL WHEN ATCT CLSD. RWY 04/22 PAPI LGTD 24 HRS.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index A
+Airline operations:PPR 12 HRS FOR UNSKED ACR OPNS WITH MORE THAN 30 PSGR SEATS. CALL ARFF 434-582-1157. INDEX "B" COVERAGE PRVDD.
+
+Airport Communications
+
+CTAF:127.65
+UNICOM:122.95
+ATIS:119.8
+WX ASOS:PHONE 434-237-0749
+LYNCHBURG GROUND:121.9 [0630-2230]
+LYNCHBURG TOWER:127.65 257.8 [0630-2230]
+ROANOKE APPROACH:125.475 ;EAST OF LYH VORTAC 135.0 ;WEST OF LYH VORTAC
+ROANOKE DEPARTURE:125.475 ;EAST OF LYH VORTAC 135.0 ;WEST OF LYH VORTAC
+EMERG:121.5 243.0
+IC:135.0 ;WEST OF LYH VORTAC
+WX AWOS-3 at 0V4 (14 nm SE):120.575 (434-283-7826)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr027/4.6LYNCHBURG VOR/DME109.2005W
+MOLr192/34.8MONTEBELLO VOR/DME115.3005W
+ODRr098/(37.1)WOODRUM VOR114.9008W
+
+
+NDBnameHdg/DistFreqVarID
+BOJAR036/4.338508WLY.-.. -.--
+VINTON085/33.327708WVIT...- .. -
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:7100 x 150 ft. / 2164 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 29 /F/A/X/TSingle wheel:90.0Double wheel:108.0Double tandem:170.0
+Runway edge lights:high intensity
+RUNWAY 4RUNWAY 22
+Latitude:37-18.882992N37-19.917800N
+Longitude:079-12.478148W079-11.794793W
+Elevation:892.8 ft.938.0 ft.
+Traffic pattern:leftleft
+Runway heading:036 magnetic, 028 true216 magnetic, 208 true
+Declared distances:TORA:7100 TODA:7100 ASDA:6800 LDA:6800TORA:7100 TODA:7100 ASDA:7100 LDA:7100
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdownrollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+
+Runway 17/35
+
+Dimensions:3386 x 75 ft. / 1032 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:25.0Double wheel:35.0Double tandem:55.0
+Runway edge lights:medium intensity
+Operational restrictions:RY 17/35 300 FT OVERRUN EACH END.
+RUNWAY 17RUNWAY 35
+Latitude:37-20.045908N37-19.518010N
+Longitude:079-12.056185W079-11.829943W
+Elevation:921.5 ft.921.2 ft.
+Traffic pattern:leftleft
+Runway heading:169 magnetic, 161 true349 magnetic, 341 true
+Declared distances:TORA:3386 TODA:3386 ASDA:3386 LDA:3386TORA:3386 TODA:3386 ASDA:3386 LDA:3386
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (4.00 degrees glide path)2-light PAPI on left (4.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF LYNCHBURG350 TERMINAL DRIVE, SUITE 100LYNCHBURG, VA 24502Phone 434-455-6090
+Manager:ANDREW LAGALA350 TERMINAL DRIVE, SUITE 100LYNCHBURG, VA 24502Phone 434-455-6090
+
+Airport Operational Statistics
+
+Aircraft based on the field:92Single engine airplanes:62Multi engine airplanes:17Jet airplanes:10Helicopters:3
+Aircraft operations: avg 272/day*55%local general aviation39%transient general aviation5%air taxi2%military<1%commercial* for 12-month period ending 31 January 2022
+Additional Remarks
+
+-TWY G UNCONTROLLED-NOT VISIBLE FROM ATCT.
+-BIRDS AND OTHER WILDLIFE ON & INVOF ARPT.
+-RY 17/35 PPR FOR ACFT OVER 12500 LBS.
+-TWY G CLSD TO AIR CARRIER AND ACFT OVER 12500 LBS.
+-ALL SURFACES WORK IN PROGRESS MOWING/MAINTENANCE.
+-EXTSV FLT TRNG ON AND INVOF ARPT.
+-FOR CD WHEN ATCT CLSD CTC ROANOKE APCH AT 540-563-1307.
+-RWY 17/35 CLSD TO AIR CARRIER ACFT
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 04
+download (315KB)
+RNAV (GPS) RWY 04
+download (257KB)
+RNAV (GPS) RWY 17
+download (209KB)
+RNAV (GPS) RWY 22
+download (271KB)
+RNAV (GPS) RWY 35
+download (211KB)
+VOR RWY 22
+download (223KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+Departure Procedures
+
+HURTT FOUR (RNAV)
+download (136KB)
+LIBRT THREE (RNAV)
+download (138KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+W24 - Falwell Airport (5 nm NE)
+W90 - New London Airport (7 nm SW)
+0V4 - Brookneal/Campbell County Airport (14 nm SE)
+W91 - Smith Mountain Lake Airport (23 nm SW)
+KFVX - Farmville Regional Airport (36 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Christian Eberle
+Taken in November 2007
+
+Do you have a better or more recent aerial photo of Lynchburg Regional Airport/Preston Glenn Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Lynchburg Regional Airport/Preston Glenn Field?
+Find the distance to fly.
+From 
+to KLYH
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:2622:26
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:28:59
+Local (UTC-5)19-Jan-2024 16:28:59
+
+
+
+
+   
+
+METAR
+
+
+KLYH192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+K0V414nm SE192115Z AUTO 10SM SCT050 02/M08 A2989 RMK AO1
+
+
+
+
+
+TAF
+
+
+KLYH191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Lynchburg Regional Airport
+
+
+
+434-455-6090[web site][email]
+
+City of Lynchburg Self-Service 100LL fuel available via an unattended pump on the midfield apron. No amenities. Fuel with amenities available through the on airport Full Service FBO.
+
+
+
+More info about Lynchburg Regional Airport
+
+
+
+
+
+100LLSS$5.51Updated 17-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+
+
+Freedom Aviation
+
+
+
+434-237-8420[web site][email]
+
+Aviation fuel, Aircraft ground handling, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, ...
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Freedom Aviation
+
+
+
+
+
+100LL Jet AFS$6.10$5.85GUARANTEED
+
+
+
+  no comments
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lynchburg Regional Airport/Preston Glenn Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lynchburg Regional Airport/Preston Glenn Field
+
+
+
+www.lynchburgva.gov/airport
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

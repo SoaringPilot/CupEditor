@@ -1,0 +1,315 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 03NC - Pilots Ridge Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1448 users online
+ 
+
+
+
+
+03NC
+ Pilots Ridge AirportCarolina Beach, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CAROLINA BEACH?
+
+
+ 
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:03NC
+Lat/Long:34-06-15.6180N 077-54-15.0000W34-06.260300N 077-54.250000W34.1043383,-77.9041667(estimated)
+Elevation:35 ft. / 10.7 m (surveyed)
+Variation:07W (1985)
+From city:3 miles N of CAROLINA BEACH, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28412
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1983
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX ASOS at ILM (10 nm N):PHONE 910-254-5254
+WX AWOS-3P at SUT (13 nm SW):124.175 (910-457-1710)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ILMr193/14.9WILMINGTON VORTAC117.0007W
+
+
+NDBnameHdg/DistFreqVarID
+AIRLI210/5.528110WIL.. .-..
+WILZE208/14.720510WGM--. --
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 9/27
+
+Dimensions:3000 x 40 ft. / 914 x 12 m
+Surface:asphalt, in good condition
+Runway edge lights:non-standardRWY 09/27 NSTD LIRL.
+Operational restrictions:250 FT OVERRUN - SOFT SAND.
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+Obstructions:30 ft. trees, 350 ft. from runway, 75 ft. right of centerline, 10:1 slope to clear50 ft. trees, 400 ft. from runway, 5:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:PILOTS RIDGE HOMEOWNERS ASSNPO BOX 15864, HOA BOARD MEMBERWILMINGTON, NC 28408Phone 910-232-9737
+Manager:JAMES MILLERHOA PRESIDENT, 708 PILOTS RIDGE RDWILMINGTON, NC 28412Phone 910-471-9026
+
+Airport Operational Statistics
+
+Aircraft based on the field:15Single engine airplanes:15
+Aircraft operations: avg 51/week*91%local general aviation9%transient general aviation* for 12-month period ending 26 January 1989
+Additional Remarks
+
+-LINE OF 25 FT TREES SOUTH OF RWY 100 FT FM CNTRLN.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 03NC.
+Some nearby airports with instrument procedures:
+KILM - Wilmington International Airport (10 nm N)
+KSUT - Cape Fear Regional Jetport/Howie Franklin Field Airport (13 nm SW)
+KACZ - Henderson Field Airport (37 nm N)
+KCPC - Columbus County Municipal Airport (41 nm W)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (43 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Pilots Ridge Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Pilots Ridge Airport?
+Find the distance to fly.
+From 
+to 03NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1712:17
+Sunset17:2822:28
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:42:40
+Local (UTC-5)19-Jan-2024 16:42:40
+
+
+
+
+   
+
+METAR
+
+
+KILM10nm N192053Z 29013G21KT 10SM SCT070 13/02 A2980 RMK AO2 PK WND 28029/2007 SLP091 T01330017 53015
+
+KSUT14nm SW192110Z AUTO 29009G15KT 10SM SCT065 BKN075 14/02 A2982 RMK AO2 T01420016
+
+
+
+
+
+TAF
+
+
+KILM10nm N191732Z 1918/2018 28016G26KT P6SM FEW040 FM200000 31012G18KT P6SM SKC FM200300 31008KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Pilots Ridge Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Pilots Ridge Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

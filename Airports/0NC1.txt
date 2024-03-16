@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 0NC1 - H & J Strip Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1556 users online
+ 
+
+
+
+
+0NC1
+ H & J Strip AirportElon, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ELON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:0NC1
+Lat/Long:36-15-29.2200N 079-29-08.6800W36-15.487000N 079-29.144667W36.2581167,-79.4857444(estimated)
+Elevation:686 ft. / 209 m (estimated)
+From city:10 miles N of ELON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27244
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/2014
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at BUY (13 nm S):135.325 (336-570-9813)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+DANr207/(20.0)DANVILLE VOR113.1006W
+GSOr065/27.0GREENSBORO VORTAC116.2003W
+LIBr016/27.5LIBERTY VORTAC113.0003W
+SBVr227/33.8SOUTH BOSTON VORTAC110.4005W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER126/15.342307WSIF... .. ..-.
+PERSON282/20.422008WHUR.... ..- .-.
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:2000 x 200 ft. / 610 x 61 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:50 ft. trees, 600 ft. from runway30 ft. plines, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES D. HUMPHREY7528 KERR CHAPEL RDELON, NC 27244Phone 336-214-2121
+Manager:JAMES D. HUMPHREY7528 KERR CHAPEL RDELON, NC 27244Phone 336-214-2121
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:1Multi engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 0NC1.
+Some nearby airports with instrument procedures:
+KBUY - Burlington/Alamance Regional Airport (13 nm S)
+KDAN - Danville Regional Airport (20 nm N)
+KSIF - Rockingham County NC Shiloh Airport (21 nm NW)
+KGSO - Piedmont Triad International Airport (24 nm SW)
+KTDF - Raleigh Regional Airport at Person County (24 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to H & J Strip Airport?
+Find the distance to fly.
+From 
+to 0NC1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:13:51
+Local (UTC-5)19-Jan-2024 16:13:51
+
+
+
+
+   
+
+METAR
+
+
+KBUY13nm S192054Z AUTO 29019G32KT 10SM CLR 05/M09 A2990 RMK AO2 PK WND 25034/2021 SLP126 T00501089 53042
+
+KDAN20nm N192053Z AUTO 28016G26KT 10SM BKN037 04/M09 A2991 RMK AO2 PK WND 28027/1955 SLP127 T00391089 51040
+
+KSIF21nm NW192050Z AUTO 29013G21KT 10SM SCT060 04/M09 A2993 RMK AO2 T00391091
+
+KTDF24nm E192045Z AUTO 30013G26KT 260V340 10SM SCT055 04/M09 A2990 RMK AO2
+
+KGSO24nm SW192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+
+
+
+
+TAF
+
+
+KDAN20nm N191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+KGSO24nm SW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the H & J Strip Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about H & J Strip Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA72 - Covington Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1614 users online
+ 
+
+
+
+
+VA72
+ Covington AirportMartinsville, Virginia, USA 
+
+
+
+
+
+
+GOING TO MARTINSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA72
+Lat/Long:36-36-00.4950N 080-02-19.1610W36-36.008250N 080-02.319350W36.6001375,-80.0386558(estimated)
+Elevation:940 ft. / 287 m (estimated)
+Variation:06W (1985)
+From city:10 miles SW of MARTINSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24165
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at MTV (2.1 nm NE):118.45 (276-957-3784)
+WX AWOS-3 at SIF (13 nm SE):119.775 (336-573-3677)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr358/33.4GREENSBORO VORTAC116.2003W
+DANr279/(33.9)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+BALES283/5.939607WUV..- ...-
+SLAMMER322/18.742307WSIF... .. ..-.
+VINTON200/37.027708WVIT...- .. -
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 12/30
+
+Dimensions:2200 x 100 ft. / 671 x 30 m
+Surface:turf
+RUNWAY 12RUNWAY 30
+Traffic pattern:rightright
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:C W COVINGTONAIR HAVEN FARM, PO BOX 155SPENCER, VA 24165Phone 703-957-2903
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at VA72.
+Some nearby airports with instrument procedures:
+KMTV - Blue Ridge Airport (2 nm NE)
+KSIF - Rockingham County NC Shiloh Airport (13 nm SE)
+N63 - Meadow Brook Field Airport (19 nm S)
+KMWK - Mount Airy/Surry County Airport (26 nm W)
+KINT - Smith Reynolds Airport (29 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Covington Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Covington Airport?
+Find the distance to fly.
+From 
+to VA72
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:54:58
+Local (UTC-5)19-Jan-2024 15:54:58
+
+
+
+
+   
+
+METAR
+
+
+KMTV192035Z AUTO 33012G20KT 10SM OVC050 02/M12 A2993 RMK AO2 T00191116
+
+KSIF13nm SE192030Z AUTO 28011G20KT 10SM SCT055 04/M09 A2992 RMK AO2 T00401090
+
+
+
+
+
+TAF
+
+
+KINT29nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KGSO30nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KDAN34nm E191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Covington Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Covington Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 89VA - Hidden River Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1550 users online
+ 
+
+
+
+
+89VA
+ Hidden River AirportEdinburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO EDINBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:89VA
+Lat/Long:38-49-28.8950N 078-31-18.4950W38-49.481583N 078-31.308250W38.8246931,-78.5218042(estimated)
+Elevation:796 ft. / 243 m (estimated)
+Variation:08W (1990)
+From city:1 mile E of EDINBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22851
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at LUA (10 nm S):118.275 (540-743-1148)
+WX AWOS-3 at 8W2 (13 nm SW):118.175 (540-740-3801)
+WX AWOS-3 at FRR (14 nm NE):121.85 (540-635-5377)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LDNr269/14.9LINDEN VORTAC114.3006W
+ESLr144/32.5KESSEL VOR/DME110.8006W
+CSNr296/32.6CASANOVA VORTAC116.3006W
+
+
+NDBnameHdg/DistFreqVarID
+CAVERNS352/7.924509WLUA.-.. ..- .-
+NAILR318/36.535110WMSQ-- ... --.-
+
+Airport Services
+
+
+Runway Information
+Runway 11/29
+
+Dimensions:1400 x 40 ft. / 427 x 12 m
+Surface:turf
+RUNWAY 11RUNWAY 29
+Latitude:38-49.503000N38-49.460167N
+Longitude:078-31.453000W078-31.163500W
+Elevation:796.0 ft.788.0 ft.
+Traffic pattern:rightleft
+Runway heading:109 magnetic, 101 true289 magnetic, 281 true
+Obstructions:50 ft. trees, 150 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:STEVAN H WHITE1077 HIDEAWAY FARMS RDEDINBURG, VA 22824Phone 907-232-9546
+Manager:STEVAN H WHITE1077 HIDEAWAY FARMS RDEDINBURG, VA 22824Phone 907-232-9546
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 89VA.
+Some nearby airports with instrument procedures:
+KLUA - Luray Caverns Airport (10 nm S)
+8W2 - New Market Airport (13 nm SW)
+KFRR - Front Royal-Warren County Airport (14 nm NE)
+KOKV - Winchester Regional Airport (26 nm NE)
+W99 - Grant County Airport (31 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hidden River Airport?
+Find the distance to fly.
+From 
+to 89VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:3012:30
+Sunset17:1922:19
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:17:59
+Local (UTC-5)19-Jan-2024 16:17:59
+
+
+
+
+   
+
+METAR
+
+
+KLUA10nm S192055Z AUTO 28012G19KT 4SM -RA SCT036 OVC047 M01/M08 A2984 RMK AO2
+
+K8W213nm SW192055Z AUTO 29005KT 10SM OVC049 00/M10 A2984 RMK AO1 T00001101
+
+KFRR14nm NE192055Z AUTO 33004KT 10SM SCT025 BKN044 OVC050 M01/M05 A2984 RMK AO1
+
+
+
+
+
+TAF
+
+
+KCHO42nm S191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+KMRB43nm NE192005Z 1920/2018 31008KT 1SM -SHSN BR OVC020 TEMPO 1920/1923 1/4SM +SN VV008 FM192300 30008KT 6SM -SHSN BR OVC035 FM200500 31008G18KT P6SM SCT045 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hidden River Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hidden River Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

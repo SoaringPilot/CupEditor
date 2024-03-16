@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 4VA3 - Flying W Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1581 users online
+ 
+
+
+
+
+4VA3
+ Flying W AirportRichmond, Virginia, USA 
+
+
+
+
+
+
+GOING TO RICHMOND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:4VA3
+Lat/Long:37-25-47.5320N 077-23-39.9340W37-25.792200N 077-23.665567W37.4298700,-77.3944261(estimated)
+Elevation:101 ft. / 30.8 m (surveyed)
+Variation:09W (1985)
+From city:8 miles SE of RICHMOND, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23231
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1978
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:CONTINUOUS
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at RIC (6 nm NE):PHONE 804-236-1091
+WX AWOS-3PT at FCI (6 nm W):128.625 (804-271-8426)
+WX AWOS-3 at W96 (13 nm E):119.875 (804-932-8863)
+WX AWOS-3 at PTB (16 nm S):133.325 (804-861-5551)
+WX ASOS at OFP (17 nm N):119.025 (804-752-2902)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RICr228/5.6RICHMOND VORTAC114.1009W
+HPWr301/14.6HOPEWELL VORTAC114.3506W
+FAKr112/21.5FLAT ROCK VORTAC113.3006W
+HCMr275/32.6HARCUM VORTAC108.8007W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD336/32.827411WAKQ.- -.- --.-
+BLACKSTONE069/36.032609WBKT-... -.- -
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:2250 x 50 ft. / 686 x 15 m
+Surface:turf
+Runway edge markings:05/23 RWY MARKED WITH WHITE CONES.
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Obstructions:none40 ft. pline, marked, 30 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GERALD WEAVER8570 OSBORNE TURNPIKERICHMOND, VA 23231Phone 804-795-1725
+Manager:G P WEAVER8570 OSBORNE TURNPIKERICHMOND, VA 23231Phone 804-795-1725
+
+Airport Operational Statistics
+
+Aircraft based on the field:5Single engine airplanes:4Ultralights:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 4VA3.
+Some nearby airports with instrument procedures:
+KRIC - Richmond International Airport (6 nm NE)
+KFCI - Richmond Executive-Chesterfield County Airport (6 nm W)
+W96 - New Kent County Airport (13 nm E)
+KPTB - Tri Cities Executive/Dinwiddie County Airport (16 nm S)
+KOFP - Hanover County Municipal Airport (17 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Flying W Airport?
+Find the distance to fly.
+From 
+to 4VA3
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2312:23
+Sunset17:1822:18
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:09:29
+Local (UTC-5)19-Jan-2024 16:09:29
+
+
+
+
+   
+
+METAR
+
+
+KFCI6nm W192056Z AUTO 31014G17KT 10SM FEW029 OVC065 02/M03 A2983 RMK AO2 SLP116 T00221028 53031 FZRANO
+
+KRIC6nm NE192054Z 33016G24KT 10SM SCT028 BKN070 03/M04 A2984 RMK AO2 SLP110 60000 T00281039 53033
+
+KW9613nm E192055Z AUTO 30011G15KT 280V340 10SM BKN060 OVC080 02/M04 A2984 RMK AO1 T00201040
+
+KOFP16nm N192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+KPTB17nm S192055Z AUTO 33006KT 10SM SCT039 OVC070 03/M01 A2983 RMK AO2 T00331013
+
+
+
+
+
+TAF
+
+
+KRIC6nm NE191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Flying W Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Flying W Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

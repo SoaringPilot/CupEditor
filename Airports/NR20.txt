@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR20 - Raeford West Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1454 users online
+ 
+
+
+
+
+NR20
+ Raeford West AirportRaeford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO RAEFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR20
+Lat/Long:35-01-50.0000N 079-14-12.0000W35-01.833333N 079-14.200000W35.0305556,-79.2366667(estimated)
+Elevation:280 ft. / 85 m (estimated)
+From city:3 miles N of RAEFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28376
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/2016
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at HFF (13 nm W):141.25 (910-396-7804)
+WX AWOS-3PT at SOP (14 nm NW):127.575 (910-692-4287)
+WX ASOS at MEB (16 nm SW):134.125 (910-844-5338)
+WX ASOS at FAY (18 nm E):121.25 (910-484-1546)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr283/18.0FAYETTEVILLE VOR/DME114.8504W
+SDZr126/20.5SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLE053/34.723008WBES-... . ...
+DILLON020/35.427409WDLC-.. .-.. -.-.
+HARNETT237/36.641708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 2/20
+
+Dimensions:4200 x 50 ft. / 1280 x 15 m
+Surface:turf
+RUNWAY 2RUNWAY 20
+Traffic pattern:leftright
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MARGARET JOHNSON400 JUNE JOHNSON RDRAEFORD, NC 28376Phone 910-624-4103
+Manager:EDGAR M. BAKER JR.2000 VASS RD.RAEFORD, NC 28376Phone (910) 904-1888
+
+Airport Operational Statistics
+
+Aircraft based on the field:7Single engine airplanes:7
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NR20.
+Some nearby airports with instrument procedures:
+5W4 - P K Airpark (2 nm E)
+KHFF - Mackall Army Airfield (13 nm W)
+KPOB - Pope Army Airfield (14 nm NE)
+KSOP - Moore County Airport (14 nm NW)
+KMEB - Laurinburg/Maxton Airport (16 nm SW)
+KFBG - Simmons Army Airfield (16 nm NE)
+KFAY - Fayetteville Regional Airport/Grannis Field (18 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Raeford West Airport?
+Find the distance to fly.
+From 
+to NR20
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:45:38
+Local (UTC-5)19-Jan-2024 16:45:38
+
+
+
+
+   
+
+METAR
+
+
+KHFF13nm W192115Z AUTO 34009G16KT 10SM BKN080 09/M08 A2988 RMK AO2 SLPNO $
+
+KPOB14nm NE192115Z AUTO 30015G24KT 10SM CLR 10/M09 A2988 RMK AO2 SLPNO $
+
+KSOP14nm NW192056Z AUTO 32012G25KT 10SM CLR 08/M09 A2989 RMK AO2 PK WND 32028/2035 SLP129 T00831089 53038
+
+KMEB16nm SW192052Z AUTO 32018G37KT 10SM BKN080 11/M06 A2987 RMK AO2 PK WND 34037/2048 SLP115 T01061061 53026
+
+KFBG17nm E192129Z AUTO 31016G25KT 10SM CLR 10/M09 A2987 RMK AO2 PRESRR SLPNO $
+
+KFAY18nm E192053Z 31017G28KT 10SM SCT080 12/M06 A2984 RMK AO2 PK WND 30034/2030 SLP100 T01171056 53027
+
+
+
+
+
+TAF
+
+
+KPOB14nm NE192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFBG17nm E192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KFAY18nm E191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Raeford West Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Raeford West Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,389 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KASJ - Tri-County Airport at Henry Joyner Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1452 users online
+ 
+
+
+
+
+KASJ
+ Tri-County Airport at Henry Joyner FieldAhoskie, North Carolina, USA 
+
+
+
+
+
+
+GOING TO AHOSKIE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ASJ
+Lat/Long:36-17-51.1000N 077-10-15.1000W36-17.851667N 077-10.251667W36.2975278,-77.1708611(estimated)
+Elevation:66.6 ft. / 20.3 m (surveyed)
+Variation:10W (2000)
+From city:9 miles W of AHOSKIE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27897
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:ASJ (NOTAM-D service available)
+Attendance:MON-SAT 0900-DUSK,  ALL SUN UNATNDD
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 01 & 19; MIRL RWY 01/19 - CTAF. PAPI RWY 01 & 19 OPER CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.075 (252-345-2967)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CVIr262/15.2COFIELD VORTAC114.6009W
+FKNr206/26.1FRANKLIN VORTAC110.6009W
+TYIr058/32.2TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD024/36.823009WAQE.- --.- .
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:JET A - 24 HR SELF SERVICE AVBL WITH CREDIT CARD.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:4501 x 75 ft. / 1372 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:35.0Double wheel:45.0
+Runway edge lights:medium intensity
+RUNWAY 1RUNWAY 19
+Latitude:36-17.480792N36-18.222402N
+Longitude:077-10.238783W077-10.263603W
+Elevation:66.6 ft.66.4 ft.
+Traffic pattern:leftleft
+Runway heading:008 magnetic, 358 true188 magnetic, 178 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.17 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:15 ft. road, 437 ft. from runway, 15:1 slope to clear22 ft. trees, 383 ft. from runway, 236 ft. right of centerline, 8:1 slope to clearDUE TO 16 FT TREES 0-200 FT FM THLD OFFSET 168 FT L OF CNTRLN AND 10 FT TREES 0-200 FT FM THLD OFFSET 113 FT R OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TRI-COUNTY AIRPORT AUTH.140 TRI-COUNTY AIRPORT RDAULANDER, NC 27805Phone 252-345-9962
+Manager:HENRY JOYNER140 TRI-COUNTY AIRPORT RDAULANDER, NC 27805Phone 252-345-0111FOR ARPT AMGR AFTER HOURS CALL 252-395-0822.
+
+Airport Operational Statistics
+
+Aircraft based on the field:9Single engine airplanes:9
+Aircraft operations: avg 36/day*52%transient general aviation46%local general aviation2%air taxi<1%military* for 12-month period ending 30 May 2021
+Additional Remarks
+
+-RWY 01/19 -4 FT DITCH 120 FT L & R OF CNTRLN.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 01
+download (237KB)
+RNAV (GPS) RWY 19
+download (230KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (364KB)
+
+Other nearby airports with instrument procedures:
+KIXA - Halifax/Northampton Regional Airport (23 nm W)
+KMCZ - Martin County Airport (26 nm S)
+KFKN - Franklin Regional Airport (27 nm NE)
+KEMV - Emporia-Greensville Regional Airport (28 nm NW)
+KETC - Tarboro-Edgecombe Airport (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Amy White
+Taken in February 2014
+looking southeast.
+
+Do you have a better or more recent aerial photo of Tri-County Airport at Henry Joyner Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Tri-County Airport at Henry Joyner Field?
+Find the distance to fly.
+From 
+to KASJ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:2022:20
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:01:44
+Local (UTC-5)19-Jan-2024 17:01:44
+
+
+
+
+   
+
+METAR
+
+
+KASJ192145Z AUTO 30015G24KT 10SM BKN055 BKN075 06/M05 A2985 RMK AO2 T00551054
+
+
+
+
+
+TAF
+
+
+KPGV42nm S191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KRWI44nm SW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KECG48nm E191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Tri-County Airport
+
+252-345-0111
+
+
+no information available
+If you are affiliated with Tri-County Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AFS$6.61$5.65SS$6.29$5.11Updated 20-Dec-2023
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Tri-County Airport at Henry Joyner Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Tri-County Airport at Henry Joyner Field
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

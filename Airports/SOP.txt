@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KSOP - Moore County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1462 users online
+ 
+
+
+
+
+KSOP
+ Moore County AirportPinehurst/Southern Pines, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PINEHURST/SOUTHERN PINES?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Moore County Airport
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SOP
+Lat/Long:35-14-14.7210N 079-23-20.5210W35-14.245350N 079-23.342017W35.2374225,-79.3890336(estimated)
+Elevation:459.3 ft. / 140.0 m (surveyed)
+Variation:08W (2000)
+From city:3 miles N of central business district of the associated city
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28327
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1937
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:SOP (NOTAM-D service available)
+Attendance:0800-2000
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MALSR RWY 05; REIL RWY 23; HIRL RWY 05/23; TWY LGTS - CTAF.  PAPI RWY 05 & 23 OPERS CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Airline operations:CLSD TO UNSKED AIR CARRIER OPER WITH MORE THAN 30 PASSENGER SEATS; CALL AMGR 910-692-3212.
+
+Airport Communications
+
+CTAF/UNICOM:123.05
+WX AWOS-3PT:127.575 (910-692-4287)
+FAYETTEVILLE APPROACH:127.8
+FAYETTEVILLE DEPARTURE:127.8
+CLEARANCE DELIVERY:127.0
+WX ASOS at HFF (13 nm SW):141.25 (910-396-7804)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SDZr085/9.8SANDHILLS VORTAC111.8003W
+FAYr305/29.4FAYETTEVILLE VOR/DME114.8504W
+LIBr165/36.1LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT259/36.941708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:6503 x 150 ft. / 1982 x 46 m
+Surface:asphalt/grooved, in excellent condition
+Weight bearing capacity:PCN 27 /F/A/X/TSingle wheel:100.0Double wheel:162.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:35-13.874613N35-14.616058N
+Longitude:079-23.813713W079-22.870243W
+Elevation:459.3 ft.433.2 ft.
+Traffic pattern:leftleft
+Runway heading:054 magnetic, 046 true234 magnetic, 226 true
+Displaced threshold:600 ft.400 ft.
+Declared distances:TORA:6502 TODA:6502 ASDA:6102 LDA:5502TORA:6502 TODA:6502 ASDA:6102 LDA:5722
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on right (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:71 ft. trees, 1740 ft. from runway, 456 ft. right of centerline, 21:1 slope to clearAPCH RATIO 30:1 AT DSPLCD THR 72 FT TREES.38 ft. trees, 987 ft. from runway, 185 ft. left of centerline, 20:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY OF MOOREP O BOX 905CARTHAGE, NC 28327Phone 910-692-3212
+Manager:RON MANESSP.O. DRAWER 5809PINEHURST, NC 28374Phone 910-692-3212
+
+Airport Operational Statistics
+
+Aircraft based on the field:83Single engine airplanes:73Multi engine airplanes:8Jet airplanes:2
+Aircraft operations: avg 48/day*63%local general aviation23%transient general aviation14%air taxi<1%military* for 12-month period ending 13 July 2023
+Additional Remarks
+
+-NOISE ABATEMENT PROCEDURES IN EFFECT.  CTC AMGR 910-692-3212.
+-BIRD ACTVTY ON & INVOF ARPT APR-OCT.
+-12 HR PPR FOR JET OPNS CONDUCTED 2300-0600, CTC AMGR 910-692-3212.
+-MAINT AVBL.
+-FLT TRNG AVBL.
+-FOR CD CTC FAYETTEVILLE APCH 910-484-8012.
+-FIXED WING AIRCRAFT OPERATIONS NOT AUTHORIZED FROM ANY GRASS/TURF SURFACE.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS Y OR LOC Y RWY 05
+download (241KB)
+ILS Z OR LOC Z RWY 05
+download (232KB)
+RNAV (GPS) RWY 05
+download (276KB)
+RNAV (GPS) RWY 23
+download (241KB)
+
+NOTE: Special Alternate Minimums apply
+download (64KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (214KB)
+
+Other nearby airports with instrument procedures:
+KHFF - Mackall Army Airfield (13 nm SW)
+5W4 - P K Airpark (16 nm SE)
+KPOB - Pope Army Airfield (19 nm E)
+43A - Montgomery County Airport (22 nm NW)
+KFBG - Simmons Army Airfield (23 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken  early February 2014
+looking east.
+
+Do you have a better or more recent aerial photo of Moore County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Moore County Airport?
+Find the distance to fly.
+From 
+to KSOP
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2512:25
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:35:18
+Local (UTC-5)19-Jan-2024 16:35:18
+
+
+
+
+   
+
+METAR
+
+
+KSOP192056Z AUTO 32012G25KT 10SM CLR 08/M09 A2989 RMK AO2 PK WND 32028/2035 SLP129 T00831089 53038
+
+KHFF14nm S192115Z AUTO 34009G16KT 10SM BKN080 09/M08 A2988 RMK AO2 SLPNO $
+
+KPOB19nm E192115Z AUTO 30015G24KT 10SM CLR 10/M09 A2988 RMK AO2 SLPNO $
+
+
+
+
+
+TAF
+
+
+KPOB19nm E192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Moore County Airport
+
+
+
+UNICOM 123.05910-692-3212[web site][email]
+
+Welcome to Moore County Airport, your gateway to the Golf Capital of America. From the airport, 43 golf courses are available inexpensively and conveniently, plus 40+ hotels and resorts, great restaurants, super shopping and the amazing Southern Hospitality. Give us a try!
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Moore County Airport
+
+
+
+
+
+100LL Jet AFS$6.50$6.75Updated 17-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Moore County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Moore County Airport
+
+
+
+www.moorecountyairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

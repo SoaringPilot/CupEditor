@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 7NC2 - Pine Island Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1448 users online
+ 
+
+
+
+
+7NC2
+ Pine Island AirportCorolla, North Carolina, USA 
+
+
+
+
+
+
+GOING TO COROLLA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:7NC2
+Lat/Long:36-15-12.5830N 075-47-18.6850W36-15.209717N 075-47.311417W36.2534953,-75.7885236(estimated)
+Elevation:16 ft. / 5 m (estimated)
+Variation:09W (1985)
+From city:9 miles S of COROLLA, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27927
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1987
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at ONX (14 nm NW):119.775 (252-453-8939)
+WX AWOS-3 at FFA (15 nm S):118.075 (252-449-0698)
+WX ASOS at ECG (19 nm W):124.375 (252-338-4750)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr098/18.7ELIZABETH CITY VOR/DME115.7507W
+RBXr355/20.5WRIGHT BROTHERS VOR/DME111.6008W
+
+
+NDBnameHdg/DistFreqVarID
+MANTEO356/20.837009WMQI-- --.- ..
+WOODVILLE101/24.725410WLLW.-.. .-.. .--
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:3450 x 55 ft. / 1052 x 17 m
+Surface:asphalt
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftrightRY 17/35 ALL TRAFFIC REMAIN EAST OF ARPT SO AS TO AVOID WILDLIFE SANCTUARY.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:TURNPIKE PROPERTIES LLC4400 SILAS CREEK PARKWAY, SUITE 302WINSTON SALEM, NC 27104Phone (336) 722-2236
+Manager:ATLANTIC REALTY OF THE OUTER BANKS4729 NORTH CROATAN HIGHWAYKITTY HAWK 27949Phone (252) 489-1994
+
+Additional Remarks
+
+-MNT 122.8 FOR TRFC INVOF DARE COUNTY REGIONAL ARPT.
+-MNT 122.9 WHEN IN TFC PAT.
+-WRITTEN PERMISSION RQRD TO LND. LDG FEES FOR ALL ACFT. FOR ARPT OPNS RQMNTS, CTC ARPT MGR AT 252-489-1994 OR 919-389-3655
+-NO PRKG OF ACFT OR CARS.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 7NC2.
+Some nearby airports with instrument procedures:
+KONX - Currituck County Regional Airport (14 nm NW)
+KFFA - First Flight Airport (15 nm S)
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (19 nm W)
+KMQI - Dare County Regional Airport (21 nm S)
+KCPK - Chesapeake Regional Airport (36 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Pine Island Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Pine Island Airport?
+Find the distance to fly.
+From 
+to 7NC2
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4611:46
+Sunrise07:1312:13
+Sunset17:1522:15
+Evening civil twilight17:4222:42
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:42:50
+Local (UTC-5)19-Jan-2024 16:42:50
+
+
+
+
+   
+
+METAR
+
+
+KONX14nm NW192105Z AUTO 29013G20KT 10SM SCT070 OVC075 07/M01 A2978 RMK AO2 T00671010
+
+KFFA15nm S192105Z AUTO 29012G27KT 270V330 10SM BKN055 OVC080 07/00 A2976 RMK AO2 T00731002
+
+KECG19nm W192054Z 31021G30KT 10SM FEW038 OVC070 07/M01 A2978 RMK AO2 PK WND 30031/2037 SLP084 T00671011 53028
+
+KMQI21nm S192110Z AUTO 33011G20KT 10SM SCT060 OVC080 08/00 A2979 RMK AO2 T00761005
+
+
+
+
+
+TAF
+
+
+KECG19nm W191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Pine Island Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Pine Island Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

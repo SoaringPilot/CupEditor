@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 46NC - Brown Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1617 users online
+ 
+
+
+
+
+46NC
+ Brown Field AirportMarshville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MARSHVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:46NC
+Lat/Long:34-53-34.0000N 080-22-24.0000W34-53.566667N 080-22.400000W34.8927778,-80.3733333(estimated)
+Elevation:400 ft. / 122 m (estimated)
+Variation:06W (1995)
+From city:6 miles N of MARSHVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28103
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1999
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:CONTINUOUS
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX ASOS at EQY (14 nm NW):135.775 (704-283-5185)
+WX AWOS-3 at AFP (16 nm NE):119.325 (704-695-0623)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr345/15.3CHESTERFIELD VOR/DME114.5503W
+CLTr127/33.6CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+HARTSVILLE344/31.734107WHVS.... ...- ...
+BENNETTSVILLE305/35.523008WBES-... . ...
+DARLINGTON324/36.124506WUDG..- -.. --.
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:1500 x 300 ft. / 457 x 91 m
+Surface:turf
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+Obstructions:25 ft. trees25 ft. trees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LINDA GRUE3355 LANES CREEK ROADMARSHVILLE, NC 28103Phone 704-624-0167
+Manager:LINDA GRUE3355 LANES CREEK ROADMARSHVILLE, NC 28103Phone 704-242-2330
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-200 FT RADIO TOWER 5 NM NORTHWEST OF ARPT.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 46NC.
+Some nearby airports with instrument procedures:
+KPYG - Pageland Airport (9 nm S)
+KEQY - Charlotte-Monroe Executive Airport (14 nm NW)
+KAFP - Anson County Airport - Jeff Cloud Field (16 nm NE)
+N52 - JAARS-Townsend Airport (19 nm W)
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (23 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Brown Field Airport?
+Find the distance to fly.
+From 
+to 46NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:12
+Local (UTC-5)19-Jan-2024 15:48:12
+
+
+
+
+   
+
+METAR
+
+
+KEQY14nm NW191953Z AUTO 32017G29KT 10SM BKN065 08/M06 A2989 RMK AO2 PK WND 31031/1921 WSHFT 1900 SLP136 T00781056
+
+KAFP16nm NE192030Z AUTO 30015G23KT 10SM BKN075 09/M08 A2990 RMK AO2 T00901083
+
+KCQW23nm SE192035Z AUTO 02015G26KT 10SM BKN075 OVC085 11/M05 A2989 RMK AO2
+
+KLKR26nm SW192035Z AUTO 29013G24KT 260V320 10SM FEW065 08/M09 A2994 RMK AO2
+
+
+
+
+
+TAF
+
+
+KCLT34nm NW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Brown Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Brown Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

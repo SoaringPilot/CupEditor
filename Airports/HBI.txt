@@ -1,0 +1,439 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KHBI - Asheboro Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1601 users online
+ 
+
+
+
+
+KHBI
+ Asheboro Regional AirportAsheboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ASHEBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:HBI
+Lat/Long:35-39-16.2900N 079-53-41.0540W35-39.271500N 079-53.684233W35.6545250,-79.8947372(estimated)
+Elevation:670.8 ft. / 204.5 m (surveyed)
+Variation:08W (2000)
+From city:6 miles SW of ASHEBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27203
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1965
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:HBI (NOTAM-D service available)
+Attendance:OCT-MAY 0800-DUSK,  JUNE-SEPT 0800-2000
+Wind indicator:lighted
+Segmented circle:yes
+Lights:DUSK-2300; ACTVT REIL RWY 03 & 21; PAPI RWY 03 & 21; AND AFTER 2300, MIRL RWY 03/21 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.275 (336-626-7933)
+GREENSBORO APPROACH:126.6
+GREENSBORO DEPARTURE:126.6
+WX AWOS-3 at VUJ (19 nm SW):128.175 (704-986-2097)
+WX AWOS-3 at SCR (19 nm E):125.775 (919-663-1252)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr239/16.7LIBERTY VORTAC113.0003W
+GSOr173/23.8GREENSBORO VORTAC116.2003W
+SDZr333/30.3SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+ALLER049/13.534606WVU...- ..-
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:100LL 24 HR SELF SVC AVBL WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:5501 x 100 ft. / 1677 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:30.0Double wheel:60.0
+Runway edge lights:medium intensity
+RUNWAY 3RUNWAY 21
+Latitude:35-38.849812N35-39.693195N
+Longitude:079-53.888153W079-53.480270W
+Elevation:670.8 ft.668.1 ft.
+Traffic pattern:leftleft
+Runway heading:030 magnetic, 022 true210 magnetic, 202 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.50 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:398 ft. trees, 8976 ft. from runway, 533 ft. right of centerline, 22:1 slope to clear40 ft. trees, 1674 ft. from runway, 292 ft. right of centerline, 36:1 slope to clearHAS 11 FT GND 0-200 FT FM THR 241 FT RIGHT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF ASHEBOROP. O. BOX 1106ASHEBORO, NC 27204-1106Phone 336-626-1201
+Manager:RICHARD MCCRAW2222 PILOTS VIEW RDASHEBORO, NC 27205-1106Phone 336-625-6120FOR SVC AFTER HOURS CALL 919-357-7254.
+
+Airport Operational Statistics
+
+Aircraft based on the field:39Single engine airplanes:32Multi engine airplanes:6Jet airplanes:1
+Aircraft operations: avg 42/day*52%local general aviation45%transient general aviation3%military* for 12-month period ending 02 April 2021
+Additional Remarks
+
+-TERRAIN RISING SOUTH OF THE ARPT.
+-RWY 03 HAS 40 FT DROP-OFF 400 FT FM THR; 0B.
+-NORTH CAROLINA AVIATION MUSEUM HALL OF FAME LCTD ON FLD.
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 03
+download (223KB)
+RNAV (GPS) RWY 21
+download (208KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+43A - Montgomery County Airport (17 nm S)
+KVUJ - Stanly County Airport (19 nm SW)
+KSCR - Siler City Municipal Airport (19 nm E)
+KEXX - Davidson County Executive Airport (21 nm W)
+KGSO - Piedmont Triad International Airport (27 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 12-Sep-2010
+looking south.
+
+Do you have a better or more recent aerial photo of Asheboro Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Asheboro Regional Airport?
+Find the distance to fly.
+From 
+to KHBI
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2812:28
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:12
+Local (UTC-5)19-Jan-2024 15:44:12
+
+
+
+
+   
+
+METAR
+
+
+KHBI191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+KVUJ19nm SW192025Z AUTO 29013G20KT 10SM CLR 07/M09 A2996 RMK AO2 T00721086
+
+KSCR19nm E192025Z AUTO 30009G19KT 270V340 10SM SCT060 07/M07 A2988 RMK AO2 T00701073
+
+
+
+
+
+TAF
+
+
+KGSO27nm N191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT33nm NW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Cardinal Air
+
+336-625-6120919-357-7254[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Passenger terminal and lounge, Flight training, ...
+
+ 
+
+
+
+
+More info about Cardinal Air
+
+
+
+
+
+Phillips 66100LL Jet AAS$5.39---PS---$5.99SS---$5.99Updated 18-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+AS=Assisted/Self ServicePS=Pump serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Asheboro Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Asheboro Regional Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

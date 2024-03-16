@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 16NC - Lee's Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1524 users online
+ 
+
+
+
+
+16NC
+ Lee's AirportEdenton, North Carolina, USA 
+
+
+
+
+
+
+GOING TO EDENTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:16NC
+Lat/Long:36-11-46.0000N 076-39-55.0000W36-11.766667N 076-39.916667W36.1961111,-76.6652778(estimated)
+Elevation:31 ft. / 9 m (estimated)
+Variation:09W (1990)
+From city:8 miles NW of EDENTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27932
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at EDE (11 nm SE):118.275 (252-482-0757)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CVIr146/14.6COFIELD VORTAC114.6009W
+ECGr268/24.0ELIZABETH CITY VOR/DME115.7507W
+FKNr161/35.3FRANKLIN VORTAC110.6009W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE267/18.225410WLLW.-.. .-.. .--
+
+Airport Services
+
+
+Runway Information
+Runway 10/28
+
+Dimensions:2600 x 100 ft. / 792 x 30 m
+Surface:turf
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftleft
+Obstructions:nonepline
+
+Runway 1/19
+
+Dimensions:1524 x 66 ft. / 465 x 20 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:nonepline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LEE SUNDSTROMROUTE 1 BOX 179EDENTON, NC 27932Phone 252-221-4487
+Manager:LEE SUNDSTROMROUTE 1 BOX 179EDENTON, NC 27932Phone 252-221-4487
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 16NC.
+Some nearby airports with instrument procedures:
+KEDE - Northeastern Regional Airport (11 nm SE)
+KPMZ - Plymouth Municipal Airport (24 nm S)
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (24 nm E)
+KASJ - Tri-County Airport at Henry Joyner Field (25 nm W)
+KSFQ - Suffolk Executive Airport (29 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lee's Airport?
+Find the distance to fly.
+From 
+to 16NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4911:49
+Sunrise07:1712:17
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:26:11
+Local (UTC-5)19-Jan-2024 16:26:11
+
+
+
+
+   
+
+METAR
+
+
+KEDE12nm SE192110Z AUTO 33014G20KT 10SM SCT050 OVC080 09/02 A2981 RMK AO2 T00850019
+
+
+
+
+
+TAF
+
+
+KECG24nm E191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lee's Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lee's Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

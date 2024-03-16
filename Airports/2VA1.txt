@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2VA1 - Jett Airpark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1547 users online
+ 
+
+
+
+
+2VA1
+ Jett AirparkEdwardsville, Virginia, USA 
+
+
+
+
+
+
+GOING TO EDWARDSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2VA1
+Lat/Long:37-53-45.4690N 076-21-18.8090W37-53.757817N 076-21.313483W37.8959636,-76.3552247(estimated)
+Elevation:90 ft. / 27 m (estimated)
+Variation:10W (1985)
+From city:1 mile S of EDWARDSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22473
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1991
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at TGI (17 nm E):119.8 (757-891-2246)
+WX AWOS-3 at W75 (18 nm S):118.45 (804-758-8592)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PXTr185/23.6PATUXENT VORTAC117.6010W
+HCMr039/31.7HARCUM VORTAC108.8007W
+CCVr343/37.0CAPE CHARLES VORTAC112.2010W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT184/23.540010WNHK-. .... -.-
+
+Airport Services
+
+
+Runway Information
+Runway 8/26
+
+Dimensions:2400 x 60 ft. / 732 x 18 m
+Surface:turf
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Displaced threshold:400 ft.no
+Obstructions:20 ft. plines, 150 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JUDITH J. JETTPO BOX 128BURGESS, VA 22432Phone 804-580-1333
+Manager:JUDITH J. JETTPO BOX 128BURGESS, VA 22432Phone 804-580-1333
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC PATUXENT APCH AT 301-342-3740, WHEN PATUXENT APCH IS CLSD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 2VA1.
+Some nearby airports with instrument procedures:
+KTGI - Tangier Island Airport (17 nm E)
+W75 - Hummel Field Airport (18 nm S)
+KNHK - Patuxent River Naval Air Station (Trapnell Field) Airport (24 nm N)
+KXSA - Tappahannock/Essex County Airport (26 nm W)
+W41 - Crisfield-Somerset County Airport (26 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Jett Airpark that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Jett Airpark?
+Find the distance to fly.
+From 
+to 2VA1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:1322:13
+Evening civil twilight17:4222:42
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:20:10
+Local (UTC-5)19-Jan-2024 16:20:10
+
+
+
+
+   
+
+METAR
+
+
+KNUI15nm N192103Z AUTO 31011G19KT 5SM -SN BR SCT014 BKN021 OVC026 00/M02 A2981 RMK AO2 P0000 T00001017
+
+KTGI17nm E192055Z AUTO 30022G29KT 3SM OVC006 02/01 A2978 RMK AO1 P0003 60005 T00150009
+
+KW7518nm S192055Z AUTO 30011G21KT 10SM BKN022 BKN028 OVC060 02/M02 A2982 RMK AO1 T00151016
+
+KNHK22nm N192059Z 29013G19KT 2SM -SN SCT013 BKN019 OVC024 01/M02 A2981 RMK AO2 SFC VIS 3 P0000 T00111022 $
+
+KXSA26nm W192055Z AUTO 30003KT 10SM -SN SCT014 SCT046 OVC065 00/M02 A2985 RMK AO2 T00021017
+
+K2W627nm N192050Z AUTO 00000KT 4SM OVC008 00/M01 A2983 RMK AO1
+
+KFYJ30nm SW192055Z AUTO 30014G21KT 10SM SCT024 SCT029 OVC080 02/M03 A2984 RMK AO1 T00211030
+
+
+
+
+
+TAF
+
+
+KNHK22nm N1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Jett Airpark, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Jett Airpark
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

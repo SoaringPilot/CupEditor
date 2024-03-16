@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA42 - Dogwood Airpark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1591 users online
+ 
+
+
+
+
+VA42
+ Dogwood AirparkFredericksburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO FREDERICKSBURG?
+
+
+ 
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA42
+Lat/Long:38-21-33.1600N 077-27-01.8300W38-21.552667N 077-27.030500W38.3592111,-77.4505083(estimated)
+Elevation:180 ft. / 55 m (estimated)
+Variation:09W (1985)
+From city:3 miles N of FREDERICKSBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22405
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1975
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.725
+WX AWOS-3 at RMN (2.3 nm N):126.325 (540-657-8283)
+WX AWOS-3 at EZF (6 nm S):128.125 (540-372-6794)
+WX AWOS-3 at HWY (18 nm NW):120.350 (540-788-4078)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BRVr296/4.8BROOKE VORTAC114.5009W
+CSNr137/25.8CASANOVA VORTAC116.3006W
+AMLr187/34.5ARMEL VOR/DME113.5008W
+DCAr222/35.7WASHINGTON VOR/DME111.0009W
+ADWr236/38.4ANDREWS VORTAC113.1010W
+GVEr064/39.1GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON010/5.623710WEZF. --.. ..-.
+NAILR115/22.135110WMSQ-- ... --.-
+DAVEE230/24.222309WDAA-.. .- .-
+OXONN230/31.533211WDCA-.. -.-. .-
+GEORGETOWN213/37.532309WGTN--. - -.
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:4100 x 50 ft. / 1250 x 15 m
+Surface:asphalt, in good condition
+Runway edge lights:low intensity
+RUNWAY 9RUNWAY 27
+Traffic pattern:rightleft
+Displaced threshold:200 ft.1300 ft.
+Markings:none, in good conditionnone, in good condition
+Obstructions:70 ft. pline, marked, 200 ft. from runway80 ft. pline, marked, 1300 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DOGWOOD AIRPARK ASSN25 PIPER PLACEFREDERICKSBURG, VA 22405Phone 703-850-1942
+Manager:WILLIAM DAVIS25 PIPER PLACEFREDERICKSBURG, VA 22405Phone 703-850-1942HOMEOWNERS ASSOCIATION MEMBER.
+
+Airport Operational Statistics
+
+Aircraft based on the field:24Single engine airplanes:24
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-709-4993.
+-HI TENSION PLINES OVR EAST & WEST END OF RWY.
+
+Instrument Procedures
+There are no published instrument procedures at VA42.
+Some nearby airports with instrument procedures:
+KRMN - Stafford Regional Airport (2 nm N)
+KEZF - Shannon Airport (6 nm S)
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (11 nm NE)
+KHWY - Warrenton/Fauquier Airport (18 nm NW)
+KCJR - Culpeper Regional Airport (22 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Dogwood Airpark that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Dogwood Airpark?
+Find the distance to fly.
+From 
+to VA42
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2512:25
+Sunset17:1622:16
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:01:06
+Local (UTC-5)19-Jan-2024 16:01:06
+
+
+
+
+   
+
+METAR
+
+
+KRMN2nm N192055Z AUTO 31007KT 1 1/4SM -SN BKN017 BKN028 OVC039 00/M04 A2986 RMK AO2 T10051037
+
+KEZF6nm S192055Z AUTO 31007KT 10SM SCT055 BKN075 OVC085 01/M03 A2986 RMK AO2 60003 T00071029
+
+KNYG12nm NE192056Z AUTO 31010KT 7SM FEW027 BKN055 OVC070 01/ A2987 RMK AO2 SNE18 SLP117 P0000 60000 T0011 53029 $
+
+KHWY18nm NW192055Z AUTO 29004KT 2 1/2SM -SN SCT015 BKN021 OVC035 00/M02 A2986 RMK AO2 T00011016
+
+
+
+
+
+TAF
+
+
+KNYG12nm NE1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dogwood Airpark, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Dogwood Airpark
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

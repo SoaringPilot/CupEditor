@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR77 - Johnson Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1560 users online
+ 
+
+
+
+
+NR77
+ Johnson Field AirportLillington, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LILLINGTON?
+
+
+ 
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR77
+Lat/Long:35-29-10.0000N 078-51-01.0000W35-29.166667N 078-51.016667W35.4861111,-78.8502778(estimated)
+Elevation:265 ft. / 81 m (estimated)
+From city:6 miles NNW of LILLINGTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27501
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:05/2015
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HRJ (9 nm SE):119.025 (910-814-3946)
+WX AWOS-3 at TTA (14 nm NW):120.625 (919-708-5382)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr197/23.4RALEIGH/DURHAM VORTAC117.2009W
+FAYr006/30.1FAYETTEVILLE VOR/DME114.8504W
+SDZr069/39.6SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT298/9.141708WHQT.... --.- -
+CLINTON331/38.941209WCTZ-.-. - --..
+
+Airport Services
+
+
+Runway Information
+Runway 8/26
+
+Dimensions:2344 x 100 ft. / 714 x 30 m
+Surface:turf, in good condition
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Obstructions:trees, 200 ft. from runwaytrees, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:R.L. JOHNSON FAMILY L.P.2095 KIPLING RDFUQUAY, NC 27526Phone 919-567-9420
+Manager:R. TIMOTHY JOHNSON24 BAY STFUQUAY, NC 27526Phone 919-567-9420
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NR77.
+Some nearby airports with instrument procedures:
+KHRJ - Harnett Regional Jetport Airport (9 nm SE)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (14 nm NW)
+KPOB - Pope Army Airfield (21 nm SW)
+KFBG - Simmons Army Airfield (22 nm S)
+KJNX - Johnston Regional Airport (23 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Johnson Field Airport?
+Find the distance to fly.
+From 
+to NR77
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2412:24
+Sunset17:2922:29
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:20:32
+Local (UTC-5)19-Jan-2024 16:20:32
+
+
+
+
+   
+
+METAR
+
+
+KHRJ8nm SE192050Z AUTO 31016G23KT 10SM SCT070 BKN080 10/M05 A2986 RMK AO2 T00981047
+
+KTTA14nm NW192050Z AUTO 32011G24KT 10SM CLR 08/M07 A2988 RMK AO2 T00801072
+
+
+
+
+
+TAF
+
+
+KPOB21nm SW192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFBG22nm S192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KRDU23nm N191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Johnson Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Johnson Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

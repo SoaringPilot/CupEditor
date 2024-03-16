@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KSCR - Siler City Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1447 users online
+ 
+
+
+
+
+KSCR
+ Siler City Municipal AirportSiler City, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SILER CITY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SCR
+Lat/Long:35-42-15.3882N 079-30-15.4713W35-42.256470N 079-30.257855W35.7042745,-79.5042976(estimated)
+Elevation:615.4 ft. / 187.6 m (surveyed)
+Variation:09W (2015)
+From city:3 miles SW of SILER CITY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27344
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1965
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:SUN 1200-1700,  ALL MON-SAT 0900-1700
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REILS RWY 04 & 22; MIRL RWY 04/22 CTAF; PAPI RWY 04 & 22 OPER CONT.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:125.775 (919-663-1252)
+GREENSBORO APPROACH:126.6
+GREENSBORO DEPARTURE:126.6
+WX AWOS-3 at HBI (19 nm W):119.275 (336-626-7933)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr144/8.3LIBERTY VORTAC113.0003W
+SDZr011/29.6SANDHILLS VORTAC111.8003W
+GSOr135/30.8GREENSBORO VORTAC116.2003W
+RDUr263/36.5RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON222/38.222008WHUR.... ..- .-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:24 HR CREDIT CARD SVC AVBL FOR 100LL AND JET A.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:5000 x 75 ft. / 1524 x 23 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:25.0
+Runway edge lights:medium intensity
+RUNWAY 4RUNWAY 22
+Latitude:35-41.904383N35-42.608555N
+Longitude:079-30.520210W079-29.995500W
+Elevation:598.5 ft.615.1 ft.
+Traffic pattern:leftleft
+Runway heading:040 magnetic, 031 true220 magnetic, 211 true
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Visual slope indicator:4-light PAPI on left (4.20 degrees glide path)4-light PAPI on left (3.50 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:54 ft. trees, 662 ft. from runway, 235 ft. left of centerline, 8:1 slope to clear66 ft. trees, 1296 ft. from runway, 84 ft. left of centerline, 16:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF SILER CITYPO BOX 769SILER CITY, NC 27344Phone 919-742-4731
+Manager:RICHARD MCCRAW80 AVIATION DR.SILER CITY, NC 27344Phone 919-742-3847
+
+Airport Operational Statistics
+
+Aircraft based on the field:24Single engine airplanes:17Multi engine airplanes:6Jet airplanes:1
+Aircraft operations: avg 59/day*77%transient general aviation19%local general aviation5%military* for 12-month period ending 02 April 2021
+Additional Remarks
+
+-DEER & BIRDS ON & INVOF ARPT.
+-ASPH SECTION OF RAMP PAVEMENT STRENGTH IS CONSIDERABLY LESS THAN RY.
+-AFT HRS FUEL OR SVCS, CALL 919-357-7254.
+-SEASONAL FARMING OPNS AND EQPT INVOF RWY.
+-FOR CD CTC GREENSBORO APCH AT 336-333-5119.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 04
+download (230KB)
+RNAV (GPS) RWY 22
+download (255KB)
+
+NOTE: Special Alternate Minimums apply
+download (151KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (202KB)
+
+Other nearby airports with instrument procedures:
+KHBI - Asheboro Regional Airport (19 nm W)
+KBUY - Burlington/Alamance Regional Airport (21 nm N)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (21 nm E)
+43A - Montgomery County Airport (24 nm SW)
+KSOP - Moore County Airport (29 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 03-Jun-2014
+looking southwest.
+
+Do you have a better or more recent aerial photo of Siler City Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Siler City Municipal Airport?
+Find the distance to fly.
+From 
+to KSCR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:53:10
+Local (UTC-5)19-Jan-2024 16:53:10
+
+
+
+
+   
+
+METAR
+
+
+KSCR192125Z AUTO 28008G18KT 230V320 10SM CLR 05/M09 A2993 RMK AO2 T00531094
+
+KHBI20nm W191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+
+
+
+
+TAF
+
+
+KGSO32nm NW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KRDU36nm E191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KPOB40nm SE192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Cardinal Air
+
+919-742-3847919-357-7254[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Flight training, Aircraft rental, Aircraft maintenance, Pilot supplies, Rental cars, ...
+
+ 
+
+
+
+
+More info about Cardinal Air
+
+
+
+
+
+Phillips 66100LL Jet AAS$5.39$5.99Updated 18-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+AS=Assisted/Self Service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Siler City Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Siler City Municipal Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

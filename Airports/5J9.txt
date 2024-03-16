@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 5J9 - Twin City Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1435 users online
+ 
+
+
+
+
+5J9
+ Twin City AirportLoris, South Carolina, USA 
+
+
+
+
+
+
+GOING TO LORIS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:5J9
+Lat/Long:34-05-18.3000N 078-51-53.7000W34-05.305000N 078-51.895000W34.0884167,-78.8649167(estimated)
+Elevation:99.3 ft. / 30.3 m (surveyed)
+Variation:08W (2000)
+From city:3 miles NE of LORIS, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29569
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1961
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:lighted
+Segmented circle:yes
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:122.9
+MYRTLE BEACH APPROACH:119.2
+MYRTLE BEACH DEPARTURE:119.2
+WX AWOS-3 at CPC (13 nm NE):118.375 (910-642-7508)
+WX ASOS at CRE (18 nm SE):119.625 (843-361-2802)
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ARTCC ON FREQ 134.375/317.550 (MYRTLE BEACH RCAG) WHEN MYRTLE BEACH APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CREr340/17.9GRAND STRAND VORTAC114.4003W
+
+
+NDBnameHdg/DistFreqVarID
+CAMP221/13.422707WCPC-.-. .--. -.-.
+DILLON140/33.127409WDLC-.. .-.. -.-.
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 8/26
+
+Dimensions:3694 x 60 ft. / 1126 x 18 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:8.0
+Runway edge lights:low intensity
+RUNWAY 8RUNWAY 26
+Latitude:34-05.218735N34-05.390357N
+Longitude:078-52.246725W078-51.544410W
+Elevation:99.2 ft.99.3 ft.
+Traffic pattern:leftleft
+Runway heading:082 magnetic, 074 true262 magnetic, 254 true
+Displaced threshold:200 ft.no
+Markings:basic, in good conditionbasic, in good condition
+Visual slope indicator:2-box SAVASI on left (3.50 degrees glide path)
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:17 ft. road, 200 ft. from runway, 1:1 slope to clearRWY 08 ROADWAY AND 50FT TREES 150' TO 175' R;DIST 0 TO 200 FT FROM RWY. AIRCRAFT ACTIVITY APRON 150FT R, DIST 0 TO 125' FROM RWY.86 ft. trees, 1759 ft. from runway, 10 ft. right of centerline, 18:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:HORRY COUNTYPO BOX 1236CONWAY, SC 29526Phone 843-448-1580
+Manager:JUDI OLMSTEAD1100 JETPORT RDMYRTLE BEACH, SC 29577Phone 843-839-7359
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:2Multi engine airplanes:2
+Aircraft operations: avg 23/week*50%transient general aviation50%local general aviation* for 12-month period ending 12 September 2023
+Additional Remarks
+
+-30 FT POWER LINE 180 FT SOUTH OF RWY 8-26.
+-BIRDS ON AND INVOF ARPT.
+-FOR CD CTC MYRTLE BEACH APCH AT 843-477-2727 OR 843-477-2704, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+GPS RWY 26
+download (149KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KCPC - Columbus County Municipal Airport (13 nm NE)
+KCRE - Grand Strand Airport (18 nm SE)
+KHYW - Conway-Horry County Airport (20 nm SW)
+KMAO - Marion County Airport (24 nm W)
+KMYR - Myrtle Beach International Airport (25 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Twin City Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Twin City Airport?
+Find the distance to fly.
+From 
+to 5J9
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:3222:32
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:02:58
+Local (UTC-5)19-Jan-2024 17:02:58
+
+
+
+
+   
+
+METAR
+
+
+KCPC13nm NE192150Z AUTO 31007G17KT 10SM OVC065 12/M02 A2987 RMK AO2 T01211023
+
+KCRE18nm SE192153Z 31009G20KT 280V340 10SM SCT070 14/01 A2985 RMK AO1 SLP109 T01390006
+
+KHYW20nm SW192155Z AUTO 27009G19KT 10SM CLR 12/M01 A2988 RMK AO2
+
+KMAO24nm W192155Z AUTO 35014G21KT 10SM BKN060 11/M02 A2991 RMK AO2
+
+KMYR25nm S192156Z 31016G21KT 10SM BKN060 14/01 A2986 RMK AO2 PK WND 28027/2101 SLP112 T01440006
+
+
+
+
+
+TAF
+
+
+KCRE18nm SE191732Z 1918/2018 28012G23KT P6SM FEW040 FM200000 32011G19KT P6SM SKC FM200600 32009KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Twin City Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Twin City Airport
+
+
+
+www.horrycounty.org/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

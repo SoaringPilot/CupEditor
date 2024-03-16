@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 1VA1 - Micro Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1474 users online
+ 
+
+
+
+
+1VA1
+ Micro AirportStuart, Virginia, USA 
+
+
+
+
+
+
+GOING TO STUART?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:1VA1
+Lat/Long:36-44-10.0750N 080-26-43.4650W36-44.167917N 080-26.724417W36.7361319,-80.4454069(estimated)
+Elevation:2964.2 ft. / 903 m (estimated)
+Variation:06W (1990)
+From city:10 miles NW of STUART, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24120
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1992
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:FDC (NOTAM-D service not available)
+Attendance:UNATNDD
+Wind indicator:yes, 3 WND SOCK LGTD S SIDE OF RWY.
+Segmented circle:no
+Lights:ACTVT REIL RWY 08 & 26; VASI RWY 08; PAPI RWY 26; MIRL RWY 08/26 - CTAF.
+
+Airport Communications
+
+CTAF:122.85
+WX AWOS-3 at MWK (17 nm S):121.125 (336-789-2299)
+WX AWOS-3 at HLX (18 nm W):118.375 (276-728-5897)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PSKr155/24.7PULASKI VORTAC116.8006W
+
+
+NDBnameHdg/DistFreqVarID
+TECH192/28.436808WTEC- . -.-.
+VINTON232/39.027708WVIT...- .. -
+SLAMMER310/39.242307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 8/26
+
+Dimensions:5020 x 70 ft. / 1530 x 21 m
+Surface:asphalt, in poor condition
+Runway edge lights:medium intensity
+RUNWAY 8RUNWAY 26
+Latitude:36-44.038000N36-44.297833N
+Longitude:080-27.212333W080-26.236500W
+Elevation:2964.2 ft.2927.4 ft.
+Traffic pattern:leftleft
+Runway heading:078 magnetic, 072 true258 magnetic, 252 true
+Markings:basic, in poor conditionbasic, in poor condition
+Visual slope indicator:2-box VASI on left (4.50 degrees glide path)2-light PAPI on left (3.75 degrees glide path)3 BOX PAPI LEFT SIDE; RWY 26 PAPI UNUSBL BYD 7.0 DEGS L AND R OF CNTRLN.
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+
+Helipad H1
+
+Dimensions:55 x 55 ft. / 17 x 17 m
+Surface:asphalt, in poor condition
+Latitude:36-44.086500N
+Longitude:080-27.098000W
+Elevation:2950.0 ft.
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MELVIN C. STANLEY225 JEB STUART HWYMEADOWS OF DAN, VA 24120Phone 314-616-0616
+Manager:MELVIN C. STANLEY225 JEB STUART HWYMEADOWS OF DAN, VA 24120Phone 314-616-0616
+
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+-XQP AWOS-3 IS ASSOCIATED WITH MICRO AIRPORT 1VA1.
+
+Instrument Procedures
+There are no published instrument procedures at 1VA1.
+Some nearby airports with instrument procedures:
+KMWK - Mount Airy/Surry County Airport (17 nm S)
+KHLX - Twin County Airport (18 nm W)
+KMTV - Blue Ridge Airport (22 nm E)
+KPSK - New River Valley Airport (27 nm NW)
+KBCB - Virginia Tech/Montgomery Executive Airport (28 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Micro Airport?
+Find the distance to fly.
+From 
+to 1VA1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:34:05
+Local (UTC-5)19-Jan-2024 16:34:05
+
+
+
+
+   
+
+METAR
+
+
+KMWK17nm S192105Z AUTO 30009G22KT 10SM SCT046 SCT050 01/M10 A2997 RMK AO2 T00081104
+
+KHLX18nm W192115Z AUTO 31017G27KT 10SM OVC035 M04/M11 A2986 RMK AO2 T10421114
+
+KMTV22nm E192115Z AUTO 33013G21KT 10SM OVC050 02/M11 A2997 RMK AO2 T00151115
+
+KPSK25nm NW192115Z AUTO 28012G19KT 10SM BKN034 BKN044 OVC050 M03/M09 A2991 RMK AO2 T10351091
+
+KBCB29nm N192115Z AUTO 30011G19KT 3/4SM -SN SCT019 OVC030 M03/M08 A2993 RMK AO2 T10301082
+
+KSIF34nm SE192110Z AUTO 28011G22KT 10SM SCT060 04/M09 A2995 RMK AO2 T00371093
+
+
+
+
+
+TAF
+
+
+KBCB29nm N191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Micro Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Micro Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

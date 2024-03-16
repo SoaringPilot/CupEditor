@@ -1,0 +1,497 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KECG - Elizabeth City Coast Guard Air Station/Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1610 users online
+ 
+
+
+
+
+KECG
+ Elizabeth City Coast Guard Air Station/Regional AirportElizabeth City, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ELIZABETH CITY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ECG
+Lat/Long:36-15-38.0720N 076-10-28.4420W36-15.634533N 076-10.474033W36.2605756,-76.1745672(estimated)
+Elevation:10.6 ft. / 3.2 m (surveyed)
+Variation:11W (2020)
+From city:3 miles SE of ELIZABETH CITY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27909
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:ECG (NOTAM-D service available)
+Attendance:MON-FRI 0800-2100,  ALL SAT-SUN 0800-1700FOR GA ATTENDANCE AFTER HRS AND HOLIDAYS CALL 252-562-2472 OR CTC NOS. POSTED ON TRML DOOR.
+Pattern altitude:TPA: ROTARY WING 1000 FT AGL/1011 FT MSL, FIXED WING 1500 FT AGL/1511 FT MSL.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT RWY 10 SALS; CNTRLN LGTS RWY 10/28; HIRL RWY 10/28 - CTAF. WHEN ATCT CLSD PAPI RWYS 10 & 28 OPR CONSLY; RWY 01/19 MIRL OTS INDEFLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:120.5
+UNICOM:122.95
+WX ASOS:124.375 (252-338-4750)
+ELIZABETH CITY GROUND:121.9 [1200-0300Z++.]
+ELIZABETH CITY TOWER:120.5 355.6 [1200-0300Z++.]
+NORFOLK APPROACH:119.55
+NORFOLK DEPARTURE:119.55
+CG OPS:345.0 ;E CITY AIR 381.8 ;ELIZABETH CITY AIR
+EMERG:121.5 243.0
+WX AWOS-3 at ONX (11 nm NE):119.775 (252-453-8939)
+
+
+24 HOUR SEARCH AND RESCUE ACFT OPERATIONS MAY REQUIRE ATCT TO BE STAFFED 2200-0700; TRANSMIT INTENTIONS IN THE BLIND ON 120.5.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECG at fieldELIZABETH CITY VOR/DME115.7507W
+RBXr319/30.9WRIGHT BROTHERS VOR/DME111.6008W
+CVIr110/34.4COFIELD VORTAC114.6009W
+ORFr185/37.9NORFOLK VORTAC116.9007W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE101/6.025410WLLW.-.. .-.. .--
+MANTEO321/31.137009WMQI-- --.- ..
+
+Airport Services
+
+Fuel available:100LL JET-A1+A1+:DLA  MILITARY FUELING CONTRACT SVC AVBL ON GA RAMP, US GOVT AIRCARD ACCEPTED, NO DELAY FOR FUEL.100LL:100LL FUEL 24 HR CREDIT CARD SVC AVBL.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 10/28
+
+Dimensions:7219 x 150 ft. / 2200 x 46 m
+Surface:concrete, in good condition
+Weight bearing capacity:Single wheel:100.0Double wheel:200.0Double tandem:400.0, TWIN-TANDEM WEIGHT BEARING CAPACITY 400000 LBS.
+Runway edge lights:high intensity
+RUNWAY 10RUNWAY 28
+Latitude:36-15.680578N36-15.630452N
+Longitude:076-11.051578W076-09.583753W
+Elevation:10.5 ft.10.0 ft.
+Traffic pattern:rightleft
+Runway heading:103 magnetic, 092 true283 magnetic, 272 true
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Approach lights:SALS
+Runway end identifier lights:yesyes
+Centerline lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:15 ft. road, 800 ft. from runway, 40:1 slope to clear30 ft. trees, 412 ft. from runway, 332 ft. left of centerline, 7:1 slope to clearHAS +11 FT ROAD 156 FT FM THR OFFSET 337 L OF CNTRLN.
+
+Runway 1/19
+
+Dimensions:4518 x 150 ft. / 1377 x 46 m
+Surface:asphalt/concrete, in poor conditionPAVEMENT IS FAILED, NMRS RUTS, HEAVES, STRUCTURAL INTEGRITY UNKN. FOD POTENTIAL. SFC MRKS OBSC. NOT AUZD FOR USE.
+Weight bearing capacity:Single wheel:20.0
+Runway edge lights:medium intensity
+Runway edge markings:MKD WITH X CLOSED.
+Operational restrictions:RWY 01/19 CLSD INDEFLY.
+RUNWAY 1RUNWAY 19
+Latitude:36-15.228960N36-15.972915N
+Longitude:076-10.743410W076-10.704375W
+Elevation:9.3 ft.7.3 ft.
+Traffic pattern:rightright
+Runway heading:013 magnetic, 002 true193 magnetic, 182 true
+Displaced threshold:299 ft.no
+Markings:nonprecision, in poor conditionnonprecision, in poor condition
+Visual slope indicator:4-box VASI on left (2.75 degrees glide path)4-box VASI on left (2.75 degrees glide path)
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:15 ft. road, 200 ft. from runway, 230 ft. left of centerlineCLSD INDEFLY HAS +6 FT FENCE 0-200 FT FM THR 200-250 FT L.none
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-ownedTHIS IS A SHARED-USE ARPT. THE USCG OWNS AND OPERATES ALL RWYS AND THE MAJORITY OF THE TWYS. THE PASQUOTANK COUNTY AIRPORT AUTHORITY OPERATES THE FBO, CIVILIAN TERMINAL AND ASSOCIATED TAXIWAYS.
+Owner:USCG BASE ELIZABETH CITYUSCG BASE-ELIZABETH CITY OPS MNGR, 1664 WEEKSVILLE RDELIZABETH CITY, NC 27909Phone 252-334-5388USCG BASE - ELIZABETH CITY,  AIRFIELD MANAGER: ROBERT POPP, PHONE: 252-334-5388; EMAIL: ROBERT.A.POPP@USCG.MIL
+Manager:ROBERT POPP, CIV USCG1664 WEEKSVILLE RDELIZABETH CITY, NC 27909Phone (252) 334-5388MR. SCOTT HINTON IS THE ELIZABETH CITY RGNL ARPT DIR FOR THE ELIZABETH CITY-PASQUOTANK COUNTY ARPT AUTH. EMAIL: MANAGER@ECGAIRPORT.COM; PHONE: 252-335-5634.
+
+Airport Operational Statistics
+
+Aircraft based on the field:102Single engine airplanes:26Multi engine airplanes:3Helicopters:1Military aircraft:72
+Aircraft operations: avg 153/day*64%military19%transient general aviation16%local general aviation<1%air taxi* for 12-month period ending 31 December 2021
+Additional Remarks
+
+-NO LINE-OF-SIGHT BETWEEN RWY ENDS.
+-COAST GUARD COMPLEX HAS NUMEROUS BLDGS WI THE BLDG RSTRN LINES.
+-RWY 01/19 & TWY K WEST OF THE CIVIL RAMP CLSD TO ALL OPNS.
+-ALL DOD TBJT ACFT FULL STOP ONLY, PRACTICE APCHS AND VFR TOUCH-N-GOS PROHIBITED.
+-FLUID:  SP LHOX OIL:  O-133-156 TRAN ALERT- NO TRANS MAINT, LTD SVC, TRAN A/C MUST REMAIN WITH ACFT TO PROVIDE TECH DRCT/ASSIST IN SVCG.
+-ACFT WITH TAIL HEIGHTS TO 50 FT PARKED ON APRON FIRST 2000 FT FM RWY 28 R SIDE 250 FT FM RWY CNTRLN.
+-CG ALC RAMP ATTENDED 1200-2000Z++.
+-CIV RAMP ATNDD M-F 0800-2100, SAT-SUN 0800-1700 FOR CIV ATTENDANT AFTER HRS & HOL C252-562-2472 DUR HR ATNDD.
+-SAR MAY RQR H24 ATCT STAFF 0200-1300Z++; TRANS INTENTIONS IN THE BLIND ON 120.5.
+-SEE FLIP AP/1 SUPP ARPT INFO.
+-NOISE ABATEMENT PROCEDURES IN EFFECT, CALL AMGR 252-334-5388.
+-ALL ACFT DESTINED FOR CG AIR STATION CTC ELIZABETH CITY AIR ON 345.0, 10 MIN PRIOR TO LDG.  ALL ACFT DESTINED FOR CG ALC CTC ALC DUTY OFFICER (C252-333-5389) NLT 24HRS FOR PPR AND CTC ALC FLT OPS 123.1 PRIOR TO LANDING.
+-RWY AND TWY SFC COND NOT MNT WKENDS OR MON-FRI BTN 2000Z-1200Z.
+-MISC: NON-FRANGIBLE HIGH VOLTAGE BOXES LOCATED ON S EDGE OF ALC RAMP.
+-FACILITIES AND RAMPS NORTH OF RWY 10/28 RSTRD TO OFFL CG BUS ONLY.
+-MISC: PORTIONS OF ALC PRK RAMP NOT VIS FROM TWR.
+-MISC: RWY 01/19 RWY HOLD SIGNS AT TWY K AND D NOT COINCIDENTAL WITH COR PAINTED RWY HOLD MARKINGS.
+-MISC: AFLD MOWING SEASON APR-OCT. EXPCT INCREASED BIRD ACT IN VCNTY OF MOWERS OPR ON AFLD.
+-PPR IF ACN EXCEEDS PUBL PCN. CTC CG AFLD MGR C252-334-5388 TO OBTAIN APVL.
+-FOR CD WHEN ATCT CLSD, CTC NORFOLK APCH AT 757-464-0757.
+-RWY 10/28 INCRD POTENTIAL FOR HYDROPLANING DUE TO RUBBER DEPOSITS, CNTRLN OBSC.
+-INTERMITTENT TETHERED BLN OPNS 3 NM SE; DALGT HRS AT 3000 FT.
+-SEASONAL LOW-FLYING AGRI ACFT BASED IN THE LOCAL AREA.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 10
+download (320KB)
+RNAV (GPS) RWY 01
+download (238KB)
+RNAV (GPS) RWY 10
+download (249KB)
+RNAV (GPS) RWY 19
+download (232KB)
+RNAV (GPS) RWY 28
+download (229KB)
+VOR/DME RWY 10
+download (242KB)
+VOR/DME RWY 19
+download (267KB)
+VOR/DME RWY 28
+download (252KB)
+NDB RWY 10
+download (245KB)
+
+NOTE: Special Alternate Minimums apply
+download (142KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (355KB)
+
+Other nearby airports with instrument procedures:
+KONX - Currituck County Regional Airport (11 nm NE)
+KEDE - Northeastern Regional Airport (24 nm SW)
+KCPK - Chesapeake Regional Airport (25 nm N)
+KFFA - First Flight Airport (28 nm SE)
+KMQI - Dare County Regional Airport (31 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 03-Aug-2009
+on climb out from Rwy 1.
+
+Do you have a better or more recent aerial photo of Elizabeth City Coast Guard Air Station/Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Elizabeth City Coast Guard Air Station/Regional Airport?
+Find the distance to fly.
+From 
+to KECG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4711:47
+Sunrise07:1512:15
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:04:04
+Local (UTC-5)19-Jan-2024 16:04:04
+
+
+
+
+   
+
+METAR
+
+
+KECG192054Z 31021G30KT 10SM FEW038 OVC070 07/M01 A2978 RMK AO2 PK WND 30031/2037 SLP084 T00671011 53028
+
+KONX11nm NE192045Z AUTO 27013G21KT 250V310 10SM SCT038 SCT046 OVC070 07/M01 A2977 RMK AO2 T00711012
+
+
+
+
+
+TAF
+
+
+KECG191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.95252-335-5634toll-free 877-359-5324[web site][email]
+
+The Elizabeth City Regional Airport is still operating normal business hours during the COVID-19 pandemic. We are doing our part to maintain quality service to all while taking the necessary precautions for our safety and yours. Some of the measures in place for everyone's protection are: Social Distancing, hand sanitizer is available in several areas and many other precautions. If you have any questiona please call (252) 335-5634 or (252) 562-2472
+
+
+
+More info and photos of Elizabeth City/Pasquotank County Regional Airport
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$5.81$5.09SS$5.56---GUARANTEEDMEMBERSONLYDiscounts
+
+
+
+
+8readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Elizabeth City Coast Guard Air Station/Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Elizabeth City Coast Guard Air Station/Regional Airport
+
+
+
+www.ecgairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

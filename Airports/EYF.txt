@@ -1,0 +1,452 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KEYF - Curtis L Brown Jr. Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1602 users online
+ 
+
+
+
+
+KEYF
+ Curtis L Brown Jr. Field AirportElizabethtown, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ELIZABETHTOWN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:EYF
+Lat/Long:34-36-06.5360N 078-34-45.3950W34-36.108933N 078-34.756583W34.6018156,-78.5792764(estimated)
+Elevation:131.3 ft. / 40.0 m (surveyed)
+Variation:08W (2000)
+From city:2 miles SE of ELIZABETHTOWN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28337
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/1947
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:EYF (NOTAM-D service available)
+Attendance:MON-SAT 0800-1700FOR SVC AFTER HRS & EMERG CALL 910-862-4522. UNATNDD THANKSGIVING, CHRISTMAS, AND NEW YEARS DAY.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 15 & 33 - CTAF. PAPI RWY 15 & 33 ON DAWN TO 0100 OR WHEN MIRL RWY 15/33 ON.  AFTER 0100 ACTVT MIRL RWY 15/33 AND TWY - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3P:119.475 (910-862-9982)
+FAYETTEVILLE APPROACH:133.0
+FAYETTEVILLE DEPARTURE:133.0
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr152/27.2FAYETTEVILLE VOR/DME114.8504W
+ILMr300/38.0WILMINGTON VORTAC117.0007W
+
+
+NDBnameHdg/DistFreqVarID
+CAMP025/20.822707WCPC-.-. .--. -.-.
+CLINTON215/24.841209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:SELF SVC FUEL AVBL 24 HRS WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 15/33
+
+Dimensions:5006 x 75 ft. / 1526 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:30.0Double wheel:45.0
+Runway edge lights:medium intensity
+RUNWAY 15RUNWAY 33
+Latitude:34-36.443455N34-35.774405N
+Longitude:078-35.048678W078-34.464533W
+Elevation:128.4 ft.121.5 ft.
+Traffic pattern:leftleft
+Runway heading:152 magnetic, 144 true332 magnetic, 324 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:6 ft. fence, 248 ft. from runway, 192 ft. left of centerline, 8:1 slope to clearHAS 6 FT FENCE 0 TO 200 FT FM THR OFFSET 250 FT L OF CNTRLN.103 ft. trees, 3980 ft. from runway, 390 ft. left of centerline, 36:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF ELIZABETHTOWNPO BOX 716ELIZABETHTOWN, NC 28337Phone 910-862-2066
+Manager:KEN HADAWAY466 AIRPORT RDELIZABETHTOWN, NC 28337Phone 910-862-4522
+
+Airport Operational Statistics
+
+Aircraft based on the field:18Single engine airplanes:12Multi engine airplanes:2Helicopters:3Ultralights:1
+Aircraft operations: avg 69/week*56%local general aviation28%transient general aviation17%military* for 12-month period ending 22 April 2023
+Additional Remarks
+
+-DEER & BIRDS ON AND INVOF ARPT.
+-LOW LEVEL MIL ACT INVOF ARPT.
+-BCN OBSCURED BY TREES TO THE EAST.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-10 FT DITCH ALONG LEFT SIDE TWY A TOWARD RWY 33.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 15
+download (257KB)
+RNAV (GPS) RWY 33
+download (260KB)
+VOR/DME RWY 15
+download (204KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (364KB)
+
+Other nearby airports with instrument procedures:
+KCPC - Columbus County Municipal Airport (21 nm S)
+KLBT - Lumberton Regional Airport (24 nm W)
+KCTZ - Clinton-Sampson County Airport (25 nm NE)
+KFAY - Fayetteville Regional Airport/Grannis Field (28 nm NW)
+KACZ - Henderson Field Airport (29 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Curtis L Brown Jr. Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Curtis L Brown Jr. Field Airport?
+Find the distance to fly.
+From 
+to KEYF
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:57:44
+Local (UTC-5)19-Jan-2024 15:57:44
+
+
+
+
+   
+
+METAR
+
+
+KEYF192050Z AUTO 28014G25KT 10SM SCT065 13/M01 A2982 RMK AO2 T01341014
+
+
+
+
+
+TAF
+
+
+KLBT24nm W191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+KFAY27nm NW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Town of Elizabethtown
+
+
+
+910-639-6877910-862-4522[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Flight training, Aircraft rental, Aircraft maintenance, ...
+
+
+
+More info about Town of Elizabethtown
+
+
+
+
+
+100LL Jet AAS$5.10$4.50Updated 18-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+AS=Assisted/Self Service
+
+
+
+
+Where to Eat: Catering, Restaurants, Food shops
+Business NameContact
+Services / DescriptionDistanceComments
+
+
+Cape Fear Vineyard and Winery
+
+
+
+910-645-4291[web site][email]
+
+Restaurant, Lodging, Resort, Attraction
+
+
+
+More info about Cape Fear Vineyard and Winery
+
+
+
+
+1 mile
+
+
+
+1readwrite
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Curtis L Brown Jr. Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Curtis L Brown Jr. Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

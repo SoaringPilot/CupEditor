@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 45NC - Glover Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1564 users online
+ 
+
+
+
+
+45NC
+ Glover AirportSeaboard, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SEABOARD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:45NC
+Lat/Long:36-31-41.0000N 077-27-17.0000W36-31.683333N 077-27.283333W36.5280556,-77.4547222(estimated)
+Elevation:120 ft. / 37 m (estimated)
+Variation:09W (1995)
+From city:4 miles N of SEABOARD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27866
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1999
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at EMV (10 nm N):124.175 (434-634-0656)
+WX AWOS-3PT at IXA (15 nm SW):119.975 (252-583-3446)
+WX AWOS-3 at ASJ (19 nm SE):119.075 (252-345-2967)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FKNr251/24.1FRANKLIN VORTAC110.6009W
+LVLr137/27.7LAWRENCEVILLE VORTAC112.9008W
+CVIr297/29.6COFIELD VORTAC114.6009W
+TYIr025/35.2TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD230/34.927411WAKQ.- -.- --.-
+
+Airport Services
+
+
+Runway Information
+Runway 7/25
+
+Dimensions:1750 x 50 ft. / 533 x 15 m
+Surface:turf
+RUNWAY 7RUNWAY 25
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MATTHEW B. GLOVERROUTE 1, BOX 162SEABOARD, NC 27876Phone 252-589-1012
+Manager:MATTHEW B. GLOVERROUTE 1, BOX 162SEABOARD, NC 27876Phone 252-589-1012
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-397 FT TOWER 2.5 NM SOUTHEAST OF ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 45NC.
+Some nearby airports with instrument procedures:
+KEMV - Emporia-Greensville Regional Airport (10 nm N)
+KIXA - Halifax/Northampton Regional Airport (15 nm SW)
+KASJ - Tri-County Airport at Henry Joyner Field (19 nm SE)
+KLVL - Brunswick County Airport (22 nm NW)
+KFKN - Franklin Regional Airport (29 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Glover Airport?
+Find the distance to fly.
+From 
+to 45NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2112:21
+Sunset17:2122:21
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:11:03
+Local (UTC-5)19-Jan-2024 16:11:03
+
+
+
+
+   
+
+METAR
+
+
+KEMV9nm N192055Z AUTO RMK AO2 6//// PWINO PNO TSNO
+
+KIXA15nm SW192050Z AUTO 32009G19KT 10SM SCT033 BKN042 BKN050 05/01 A2983 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRWI46nm SW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Glover Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Glover Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

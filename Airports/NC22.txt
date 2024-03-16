@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC22 - Charles Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1618 users online
+ 
+
+
+
+
+NC22
+ Charles Field AirportDunn, North Carolina, USA 
+
+
+
+
+
+
+GOING TO DUNN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC22
+Lat/Long:35-13-39.1200N 078-33-18.6600W35-13.652000N 078-33.311000W35.2275333,-78.5551833(estimated)
+Elevation:185 ft. / 56 m (estimated)
+From city:6 miles E of DUNN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28334
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/2004
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HRJ (13 nm NW):119.025 (910-814-3946)
+WX AWOS-3 at CTZ (18 nm SE):119.125 (910-592-7488)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr051/21.4FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT163/13.641708WHQT.... --.- -
+CLINTON337/17.941209WCTZ-.-. - --..
+
+Airport Services
+
+
+Runway Information
+Runway 13/31
+
+Dimensions:1000 x 50 ft. / 305 x 15 m
+Surface:turf
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RUTH PURYEAR JACKSON DENNING1070 CORE ROADDUNN, NC 28334Phone 910-892-5494
+Manager:RUTH PURYEAR JACKSON DENNING1070 CORE ROADDUNN, NC 28334Phone 910-892-5494
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC22.
+Some nearby airports with instrument procedures:
+KHRJ - Harnett Regional Jetport Airport (13 nm NW)
+KCTZ - Clinton-Sampson County Airport (18 nm SE)
+KFBG - Simmons Army Airfield (20 nm W)
+KJNX - Johnston Regional Airport (20 nm NE)
+KFAY - Fayetteville Regional Airport/Grannis Field (21 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Charles Field Airport?
+Find the distance to fly.
+From 
+to NC22
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2212:22
+Sunset17:2822:28
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:49:51
+Local (UTC-5)19-Jan-2024 15:49:51
+
+
+
+
+   
+
+METAR
+
+
+KHRJ13nm NW192030Z AUTO 31016G25KT 10SM SCT080 11/M06 A2984 RMK AO2 T01091056
+
+KCTZ17nm SE192025Z AUTO 30013G18KT 10SM BKN060 OVC080 12/M01 A2981 RMK AO2 T01181015
+
+KFBG19nm W192018Z AUTO 30019G27KT 10SM SCT070 13/M05 A2980 RMK AO2 SLPNO $
+
+KJNX20nm NE192030Z AUTO 33012G19KT 10SM OVC060 12/M02 A2982 RMK AO2
+
+KFAY22nm SW191953Z 29015G21KT 10SM OVC065 12/M02 A2980 RMK AO2 PK WND 29027/1907 SLP085 T01221022
+
+KPOB23nm W192037Z AUTO 29010G20KT 10SM CLR 12/M07 A2984 RMK AO2 SLPNO $
+
+
+
+
+
+TAF
+
+
+KFBG19nm W192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KFAY22nm SW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KPOB23nm W192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Charles Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Charles Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

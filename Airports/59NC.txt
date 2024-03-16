@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 59NC - McLean Brothers Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1492 users online
+ 
+
+
+
+
+59NC
+ McLean Brothers AirportGibsonville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GIBSONVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:59NC
+Lat/Long:36-05-50.4870N 079-33-19.0870W36-05.841450N 079-33.318117W36.0973575,-79.5553019(estimated)
+Elevation:696 ft. / 212.1 m (surveyed)
+Variation:06W (1985)
+From city:1 mile SW of GIBSONVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27249
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1938
+Sectional chart: (ALSO CHARTED ON CHARLOTTE SECTIONAL AERONAUTICAL CHART.)
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:CONTINUOUS
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX ASOS at BUY (5 nm SE):135.325 (336-570-9813)
+WX ASOS at GSO (19 nm W):128.55 (336-393-0168)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr012/17.4LIBERTY VORTAC113.0003W
+GSOr084/20.7GREENSBORO VORTAC116.2003W
+DANr206/(30.2)DANVILLE VOR113.1006W
+RDUr299/39.8RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+ALAMM019/7.336108WHB.... -...
+SLAMMER157/19.842307WSIF... .. ..-.
+PERSON259/25.122008WHUR.... ..- .-.
+
+Airport Services
+
+Parking:hangars
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:2200 x 170 ft. / 671 x 52 m
+Surface:turf, in good condition
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+Markings:nonenone
+Runway end identifier lights:nono
+Obstructions:45 ft. trees, 90 ft. left of centerline40 ft. trees, 60 ft. left and right of centerlineADNL OBSTNS ARE A 175 FT SMOKE STACK & WATER TOWERS 3500 FT FROM THR ON RWY CNTRLN EXTENDED.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CHARLES E. MOORE120 NC HWY 100GIBSONVILLE, NC 27249Phone 336-449-7346
+Manager:CHARLES E. MOORE120 NC HWY 100GIBSONVILLE, NC 27249Phone 336-214-6367
+
+Airport Operational Statistics
+
+Aircraft based on the field:10Single engine airplanes:10
+Aircraft operations: 100/year*100%local general aviation* for 12-month period ending 11 April 1986
+Additional Remarks
+
+-BEGAN OPS - 1934.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 59NC.
+Some nearby airports with instrument procedures:
+KBUY - Burlington/Alamance Regional Airport (5 nm SE)
+KGSO - Piedmont Triad International Airport (19 nm W)
+KSCR - Siler City Municipal Airport (24 nm S)
+KSIF - Rockingham County NC Shiloh Airport (25 nm NW)
+KTDF - Raleigh Regional Airport at Person County (30 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to McLean Brothers Airport?
+Find the distance to fly.
+From 
+to 59NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:3022:30
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:32:29
+Local (UTC-5)19-Jan-2024 16:32:29
+
+
+
+
+   
+
+METAR
+
+
+KBUY5nm SE192054Z AUTO 29019G32KT 10SM CLR 05/M09 A2990 RMK AO2 PK WND 25034/2021 SLP126 T00501089 53042
+
+KGSO19nm W192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+
+
+
+
+TAF
+
+
+KGSO19nm W191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the McLean Brothers Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about McLean Brothers Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: WV77 - Hinton-Alderson Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1546 users online
+ 
+
+
+
+
+WV77
+ Hinton-Alderson AirportPence Springs, West Virginia, USA 
+
+
+
+
+
+
+GOING TO PENCE SPRINGS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:WV77
+Lat/Long:37-40-46.4340N 080-42-37.2890W37-40.773900N 080-42.621483W37.6795650,-80.7103581(estimated)
+Elevation:1520 ft. / 463.3 m (surveyed)
+Variation:06W (1985)
+From city:1 mile E of PENCE SPRINGS, WV
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24910
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1938
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:ELKINS FLIGHT SERVICE STATION [703-724-4288]
+Attendance:IREGDEC - APR RWY MAY BE UNUSBL.  CALL PRIOR.
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at LWB (18 nm NE):121.4 (304-645-4533)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BKWr113/20.5BECKLEY VOR/DME117.7006W
+BLFr049/32.1BLUEFIELD VOR/DME115.0503W
+PSKr006/35.5PULASKI VORTAC116.8006W
+ROAr308/36.5ROANOKE VOR/DME109.4004W
+
+
+NDBnameHdg/DistFreqVarID
+BUSHI250/13.034608WLW.-.. .--
+TECH341/31.836808WTEC- . -.-.
+
+Airport Services
+
+Parking:hangars and tiedowns
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 10/28
+
+Dimensions:2700 x 25 ft. / 823 x 8 m
+Surface:turf, in good condition
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftleft
+Obstructions:35 ft. trees, 40 ft. from runway, 125 ft. right of centerline, 1:1 slope to clear55 ft. trees, 100 ft. left of centerline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES TOLLEY ESTATE TRUSTC/O ON COURSE AVIATION LLC, 4445 CORPORATION LANE STE 264VIRGINIA BEACH, VA 23462Phone 757-593-3244
+Manager:MICHAEL R. GWINN308 LONGVIEW AVELEWISBURG, WV 24901Phone 757-593-3244EMAIL MIKE.GWINN@ONCOURSEAVIATIONLLC.COM
+
+Airport Operational Statistics
+
+Aircraft based on the field:11Single engine airplanes:5Ultralights:6
+Aircraft operations: avg 43/week*89%local general aviation11%transient general aviation* for 12-month period ending 06 March 2000
+Additional Remarks
+
+-RWY 28 25 FT POLE WIRES 170 FT FROM THR 120 FT R.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at WV77.
+Some nearby airports with instrument procedures:
+KLWB - Greenbrier Valley Airport (18 nm NE)
+KBKW - Raleigh County Memorial Airport (21 nm W)
+KBCB - Virginia Tech/Montgomery Executive Airport (32 nm SE)
+KPSK - New River Valley Airport (33 nm S)
+KBLF - Mercer County Airport (33 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Hinton-Alderson Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hinton-Alderson Airport?
+Find the distance to fly.
+From 
+to WV77
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0812:08
+Sunrise07:3612:36
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:18:21
+Local (UTC-5)19-Jan-2024 16:18:21
+
+
+
+
+   
+
+METAR
+
+
+KLWB19nm NE192045Z 31011G21KT 3SM -SN SCT010 BKN023 OVC029 M04/M09 A2987
+
+KBKW21nm W192058Z AUTO 30012G18KT 1/2SM SN BKN014 BKN020 OVC041 M07/M09 A2992 RMK AO2 P0000 T10671094 $
+
+KBCB31nm SE192055Z AUTO 30012G21KT 260V320 7SM -SN BKN033 OVC039 M03/M09 A2992 RMK AO2 T10271090
+
+KBLF33nm SW192047Z AUTO 29012G19KT 1/4SM +SN FZFG BKN009 OVC015 M07/M09 A2990 RMK AO2 PK WND 30027/2007 SLP150 P0000 60000 T10721094 53014
+
+KPSK34nm S192055Z AUTO 27012G17KT 10SM SCT029 BKN036 OVC042 M03/M09 A2990 RMK AO2 T10291091
+
+
+
+
+
+TAF
+
+
+KLWB19nm NE191735Z 1918/2018 30012G22KT 5SM -SHSN OVC025 TEMPO 1918/1922 2SM -SHSN OVC015 FM200600 28008G19KT 6SM -SHSN OVC025 FM201500 30013G23KT P6SM -SHSN BKN035 
+
+KBKW21nm W191720Z 1918/2018 29012G19KT 1SM -SN OVC015 FM192200 29010G18KT 4SM -SHSN BKN015 TEMPO 2005/2009 2SM -SHSN FM200900 29010G18KT 6SM -SHSN OVC025 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hinton-Alderson Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hinton-Alderson Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

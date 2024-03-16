@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 77NC - Winnabow Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1453 users online
+ 
+
+
+
+
+77NC
+ Winnabow AirportWinnabow, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WINNABOW?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:77NC
+Lat/Long:34-09-07.6130N 078-06-19.9780W34-09.126883N 078-06.332967W34.1521147,-78.1055494(estimated)
+Elevation:33 ft. / 10 m (estimated)
+Variation:07W (1985)
+From city:1 mile W of WINNABOW, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28451
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/1971
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR RWY LGTS CALL 919-253-6647 OR 919-253-6261
+
+Airport Communications
+
+WX ASOS at ILM (12 nm NE):PHONE 910-254-5254
+WX AWOS-3P at SUT (13 nm S):124.175 (910-457-1710)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ILMr231/16.6WILMINGTON VORTAC117.0007W
+CREr060/36.9GRAND STRAND VORTAC114.4003W
+
+
+NDBnameHdg/DistFreqVarID
+AIRLI269/12.128110WIL.. .-..
+CAMP111/31.022707WCPC-.-. .--. -.-.
+
+Airport Services
+
+Fuel available:100
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 17/35
+
+Dimensions:3500 x 90 ft. / 1067 x 27 m
+Surface:asphalt
+Runway edge lights:medium intensity
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+Displaced threshold:no400 ft.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:FRANK P. HENRY310 GREENHILL ROADWINNABOW, NC 28479Phone 910-620-3802
+Manager:FRANK P. HENRY310 GREENHILL ROADWINNABOW, NC 28479Phone 910-620-3802
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 77NC.
+Some nearby airports with instrument procedures:
+KILM - Wilmington International Airport (12 nm NE)
+KSUT - Cape Fear Regional Jetport/Howie Franklin Field Airport (13 nm S)
+KCPC - Columbus County Municipal Airport (31 nm W)
+KACZ - Henderson Field Airport (34 nm N)
+KEYF - Curtis L Brown Jr. Field Airport (36 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Winnabow Airport?
+Find the distance to fly.
+From 
+to 77NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1812:18
+Sunset17:2922:29
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:10:30
+Local (UTC-5)19-Jan-2024 17:10:30
+
+
+
+
+   
+
+METAR
+
+
+KILM12nm NE192153Z 29019G27KT 10SM SCT070 13/00 A2984 RMK AO2 PK WND 30027/2153 SLP104 T01280000
+
+KSUT13nm S192150Z AUTO 31010G16KT 280V350 10SM SCT065 BKN075 13/02 A2985 RMK AO2 T01330020
+
+
+
+
+
+TAF
+
+
+KILM12nm NE191732Z 1918/2018 28016G26KT P6SM FEW040 FM200000 31012G18KT P6SM SKC FM200300 31008KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Winnabow Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Winnabow Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

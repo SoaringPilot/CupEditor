@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 29NC - Larry F Warren Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1546 users online
+ 
+
+
+
+
+29NC
+ Larry F Warren Field AirportEfland, North Carolina, USA 
+
+
+
+
+
+
+GOING TO EFLAND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:29NC
+Lat/Long:36-05-26.0980N 079-10-14.8900W36-05.434967N 079-10.248167W36.0905828,-79.1708028(estimated)
+Elevation:650 ft. / 198 m (estimated)
+From city:1 mile N of EFLAND, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27243
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/2014
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at TDF (15 nm NE):126.725 (336-364-1651)
+WX ASOS at BUY (15 nm W):135.325 (336-570-9813)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr314/22.9RALEIGH/DURHAM VORTAC117.2009W
+LIBr055/27.2LIBERTY VORTAC113.0003W
+DANr170/(29.8)DANVILLE VOR113.1006W
+SBVr197/35.9SOUTH BOSTON VORTAC110.4005W
+GSOr089/39.2GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON219/10.022008WHUR.... ..- .-.
+HUNTSBORO254/29.627109WHXO.... -..- ---
+SLAMMER128/33.642307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 11/29
+
+Dimensions:2200 x 100 ft. / 671 x 30 m
+Surface:turf, in good condition
+RUNWAY 11RUNWAY 29
+Traffic pattern:leftleft
+Obstructions:50 ft. trees50 ft. trees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LFW PROPERTIES LLCPO BOX 818HILLSBOROUGH, NC 27278Phone 919-971-7190
+Manager:LARRY F WARRENPO BOX 818HILLSBOROUGH, NC 27278Phone 919-971-7190
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 29NC.
+Some nearby airports with instrument procedures:
+KTDF - Raleigh Regional Airport at Person County (15 nm NE)
+KBUY - Burlington/Alamance Regional Airport (15 nm W)
+KRDU - Raleigh-Durham International Airport (23 nm SE)
+KSCR - Siler City Municipal Airport (28 nm SW)
+KDAN - Danville Regional Airport (30 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Larry F Warren Field Airport?
+Find the distance to fly.
+From 
+to 29NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2612:26
+Sunset17:2922:29
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:24:57
+Local (UTC-5)19-Jan-2024 16:24:57
+
+
+
+
+   
+
+METAR
+
+
+KBUY15nm W192054Z AUTO 29019G32KT 10SM CLR 05/M09 A2990 RMK AO2 PK WND 25034/2021 SLP126 T00501089 53042
+
+KTDF15nm NE192045Z AUTO 30013G26KT 260V340 10SM SCT055 04/M09 A2990 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRDU23nm SE191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Larry F Warren Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Larry F Warren Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KFKN - Franklin Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1575 users online
+ 
+
+
+
+
+KFKN
+ Franklin Regional AirportFranklin, Virginia, USA 
+
+
+
+
+
+
+GOING TO FRANKLIN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:FKN
+Lat/Long:36-42-01.0670N 076-54-07.6880W36-42.017783N 076-54.128133W36.7002964,-76.9021356(estimated)
+Elevation:40.3 ft. / 12.3 m (surveyed)
+Variation:09W (1985)
+From city:2 miles NE of FRANKLIN, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23851
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1937
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:FKN (NOTAM-D service available)
+Attendance:0800-1700
+Pattern altitude:TPA LGT ACFT 800 FT, HVY ACFT 1500 FT.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MIRL 09/27 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3PT:124.675 (757-562-8765)
+NORFOLK APPROACH:127.9
+NORFOLK DEPARTURE:127.9
+WX AWOS-3 at SFQ (15 nm E):119.375 (757-934-3942)
+WX ASOS at AKQ (18 nm N):128.325 (757-899-2300)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FKNr108/5.4FRANKLIN VORTAC110.6009W
+CVIr005/19.7COFIELD VORTAC114.6009W
+ORFr258/35.6NORFOLK VORTAC116.9007W
+HPWr171/39.1HOPEWELL VORTAC114.3506W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD175/17.627411WAKQ.- -.- --.-
+WOODVILLE322/39.225410WLLW.-.. .-.. .--
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 9/27
+
+Dimensions:4977 x 100 ft. / 1517 x 30 m
+Surface:asphalt/grooved, in good condition
+Runway edge lights:medium intensity
+RUNWAY 9RUNWAY 27
+Latitude:36-41.953348N36-42.082180N
+Longitude:076-54.631108W076-53.625160W
+Elevation:33.3 ft.40.3 ft.
+Traffic pattern:leftleft
+Runway heading:090 magnetic, 081 true270 magnetic, 261 true
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)RWY 27 PAPI UNUSABLE BYD 1 NM FM THR.
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:28 ft. tree, 632 ft. from runway, 200 ft. right of centerline, 15:1 slope to clear59 ft. tree, 1308 ft. from runway, 297 ft. left of centerline, 18:1 slope to clear4 FT HIGH FENCE 139 FT FM RWY END, 242 FT L ON APCH.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF FRANKLINP O BOX 179FRANKLIN, VA 23851Phone 757-562-8561
+Manager:TREVELYN LINTON32470 JOHN BEVERLY ROSE DRFRANKLIN, VA 23851Phone 757-562-8764CTC 757-562-8575 FOR AFTER HOUR EMERGENCIES.
+
+Airport Operational Statistics
+
+Aircraft based on the field:13Single engine airplanes:12Helicopters:1
+Aircraft operations: avg 91/week*38%transient general aviation30%local general aviation28%military4%air taxi* for 12-month period ending 31 December 2021
+Additional Remarks
+
+-DEER ON AND INVOF ARPT.
+-PSBL TFC FM THE SOUTHAMPTON MEMORIAL HELIPAD 2 NM W OF ARPT.
+-DRAINAGE DITCHES NEXT TO RWY & TWYS.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+-ARPT FBO CLSD SAT AND SUN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 09
+download (232KB)
+RNAV (GPS) RWY 27
+download (225KB)
+
+NOTE: Special Alternate Minimums apply
+download (130KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (382KB)
+
+Other nearby airports with instrument procedures:
+KSFQ - Suffolk Executive Airport (15 nm E)
+KAKQ - Wakefield Municipal Airport (18 nm N)
+KPVG - Hampton Roads Executive Airport (22 nm E)
+KASJ - Tri-County Airport at Henry Joyner Field (27 nm SW)
+KEMV - Emporia-Greensville Regional Airport (28 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo courtesy of AirNav, LLC
+Photo taken 25-Jun-2011
+looking south.
+
+Do you have a better or more recent aerial photo of Franklin Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Franklin Regional Airport?
+Find the distance to fly.
+From 
+to KFKN
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:10:11
+Local (UTC-5)19-Jan-2024 16:10:11
+
+
+
+
+   
+
+METAR
+
+
+KFKN192055Z AUTO 30011G22KT 10SM SCT032 BKN060 OVC075 05/M03 A2982 RMK AO2 T00501034
+
+KSFQ15nm E192055Z AUTO 33010G19KT 300V010 10SM SCT033 SCT043 OVC075 06/00 A2981 RMK AO2 T00561001
+
+KAKQ18nm N192054Z AUTO 31007G15KT 290V350 10SM BKN034 BKN043 OVC070 04/M02 A2982 RMK AO2 SLP101 T00441022 53034
+
+
+
+
+
+TAF
+
+
+KFAF28nm NE191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KPHF32nm NE191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KNGU33nm NE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KLFI34nm NE191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Franklin Municipal Airport
+
+757-562-8764[email]
+
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Passenger terminal and lounge, Flight training, Aircraft rental, Aircraft maintenance, ...
+
+ 
+
+
+
+
+More info about Franklin Municipal Airport
+
+
+
+
+
+Titan100LL Jet AFS$6.50$5.45GUARANTEED
+
+
+
+
+2readwrite
+
+
+
+FS=Full service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Shelby Performance Aviation
+
+757-516-8383
+
+
+no information available
+If you are affiliated with Shelby Performance Aviation and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Franklin Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Franklin Regional Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

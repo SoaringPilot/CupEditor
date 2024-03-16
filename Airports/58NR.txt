@@ -1,0 +1,330 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 58NR - Chase Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1619 users online
+ 
+
+
+
+
+58NR
+ Chase Field AirportHookerton, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HOOKERTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:58NR
+Lat/Long:35-25-31.1000N 077-35-50.4000W35-25.518333N 077-35.840000W35.4253056,-77.5973333(estimated)
+Elevation:56 ft. / 17 m 
+From city:5 miles W of HOOKERTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28538
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/2014
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at ISO (6 nm S):132.75 (252-522-2712)
+WX AWOS-3 at PGV (16 nm NE):128.425 (252-758-6485)
+WX AWOS-3P at GWW (18 nm W):118.975 (919-731-4473)
+WX AWOS-3PT at GSB (19 nm W):317.625
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr335/3.8KINSTON VORTAC117.5005W
+TYIr176/33.5TAR RIVER VORTAC117.8005W
+EWNr316/34.3NEW BERN VOR/DME113.6008W
+
+
+NDBnameHdg/DistFreqVarID
+STALS033/12.027609WIS.. ...
+ALWOOD222/20.223009WAQE.- --.- .
+CHOCOWINITY266/24.538808WRNW.-. -. .--
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:1600 x 100 ft. / 488 x 30 m
+Surface:turf, in excellent condition
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:5 ft. brush, 20 ft. from runway30 ft. trees, 200 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:STEPHEN CHASE13338 OCEAN MIST DR.JACKSONVILLE, FL 32258Phone 240-678-8371
+Manager:STEPHEN CHASEPO BOX 268HOOKERTON, NC 28538Phone 240-678-8371
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 58NR.
+Some nearby airports with instrument procedures:
+KISO - Kinston Regional Jetport at Stallings Field (6 nm S)
+KPGV - Pitt-Greenville Airport (16 nm NE)
+KGWW - Wayne Executive Jetport Airport (18 nm W)
+KGSB - Seymour Johnson Air Force Base (19 nm W)
+W40 - Mount Olive Municipal Airport (25 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Chase Field Airport?
+Find the distance to fly.
+From 
+to 58NR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:2422:24
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:50:45
+Local (UTC-5)19-Jan-2024 15:50:45
+
+
+
+
+   
+
+METAR
+
+
+KISO7nm S191956Z 32007G15KT 10SM BKN055 BKN075 OVC080 12/00 A2977
+
+KPGV15nm NE192025Z AUTO 34008KT 10SM SCT060 BKN070 OVC080 10/00 A2978 RMK AO2
+
+KGWW18nm W192030Z AUTO 31009G16KT 10SM BKN065 OVC075 11/M01 A2980 RMK AO2 T01091015
+
+KGSB19nm W191955Z 32016G23KT 10SM BKN065 14/M02 A2974 RMK AO2A SLPNO T01351025 $
+
+
+
+
+
+TAF
+
+
+KISO7nm S191727Z 1918/2018 30016G27KT P6SM SCT050 FM200300 31011G20KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KPGV15nm NE191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KGSB19nm W191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Chase Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Chase Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,7 @@
+AirNav: 1VA9 - Flying T Farm Airport (CLOSED)
+CTAF:
+Lat/Long:WW38.4328,-77.4703(estimated)
+Runway 4/22
+Elevation:255 ft.
+Surface:asphalt
+Dimensions:2000 x 40 ft.

@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA57 - Powhatan Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1457 users online
+ 
+
+
+
+
+VA57
+ Powhatan AirportKing George, Virginia, USA 
+
+
+
+
+
+
+GOING TO KING GEORGE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA57
+Lat/Long:38-14-54.4620N 077-13-08.9220W38-14.907700N 077-13.148700W38.2484617,-77.2191450(estimated)
+Elevation:60 ft. / 18 m (estimated)
+Variation:09W (1985)
+From city:2 miles SW of KING GEORGE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22485
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR RWY LGTS CALL 540-775-4434.
+
+Airport Communications
+
+WX AWOS-3 at EZF (11 nm W):128.125 (540-372-6794)
+WX AWOS-3 at RMN (14 nm NW):126.325 (540-657-8283)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BRVr139/8.2BROOKE VORTAC114.5009W
+ADWr216/37.4ANDREWS VORTAC113.1010W
+DCAr202/37.6WASHINGTON VOR/DME111.0009W
+CSNr134/38.4CASANOVA VORTAC116.3006W
+PXTr276/38.6PATUXENT VORTAC117.6010W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON106/11.023710WEZF. --.. ..-.
+DAVEE201/25.322309WDAA-.. .- .-
+OXONN207/32.333211WDCA-.. -.-. .-
+NAILR121/34.635110WMSQ-- ... --.-
+PATUXENT277/38.540010WNHK-. .... -.-
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway E/W
+
+Dimensions:4888 x 50 ft. / 1490 x 15 m
+Surface:asphalt
+Runway edge lights:low intensity
+RUNWAY ERUNWAY W
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ACHILLE  M. GUESTPOWHATAN PLANTATION, PO BOX 127KING GEORGE, VA 22485Phone 540-775-4434
+Manager:GENA NELSON12135 AMBASSADOR LN, PO BOX 127KING GEORGE, VA 22485Phone 703-595-7596SECRETARY TO ARCHILLE M. GUEST.
+
+Additional Remarks
+
+-LGTD BUT UNMRKD BLACK SILO 175 FT S OF CNTRLN AT RIGHT ANGLES TO LNDG STRIP. UNLGTD & UNMRKD TREES E NOT IN LINE W/RWY.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VA57.
+Some nearby airports with instrument procedures:
+KEZF - Shannon Airport (11 nm W)
+KRMN - Stafford Regional Airport (14 nm NW)
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (16 nm N)
+2W5 - Maryland Airport (22 nm N)
+KXSA - Tappahannock/Essex County Airport (28 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Powhatan Airport?
+Find the distance to fly.
+From 
+to VA57
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2412:24
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:44:36
+Local (UTC-5)19-Jan-2024 16:44:36
+
+
+
+
+   
+
+METAR
+
+
+KEZF11nm W192135Z AUTO 34004KT 5SM -RA SCT023 BKN048 OVC065 01/M02 A2987 RMK AO2 P0001 T00051019
+
+KRMN14nm NW192135Z AUTO 31003KT 5SM -SN SCT016 BKN041 OVC060 M01/M03 A2987 RMK AO2 T10101032
+
+KNYG15nm N192056Z AUTO 31010KT 7SM FEW027 BKN055 OVC070 01/ A2987 RMK AO2 SNE18 SLP117 P0000 60000 T0011 53029 $
+
+
+
+
+
+TAF
+
+
+KNYG15nm N1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Powhatan Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Powhatan Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

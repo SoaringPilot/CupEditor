@@ -1,0 +1,501 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W03 - Wilson Industrial Air Center Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1472 users online
+ 
+
+
+
+
+W03
+ Wilson Industrial Air Center AirportWilson, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WILSON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W03
+Lat/Long:35-46-13.4650N 077-58-11.2490W35-46.224417N 077-58.187483W35.7704069,-77.9697914(estimated)
+Elevation:159.6 ft. / 48.6 m (surveyed)
+Variation:08W (1985)
+From city:3 miles N of WILSON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27896
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0800-1800FOR SVC AFTER HOURS CALL 252-292-8443.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT REIL RYS 03/21; MIRL RYS  03/21. - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX ASOS at RWI (6 nm NE):118.875 (252-446-0732)
+WX AWOS-3P at GWW (19 nm S):118.975 (919-731-4473)
+
+
+COMMUNICATIONS PRVDD BY RALEIGH RADIO ON FREQ 122.2 (ROCKY MOUNT RCO)
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr231/17.9TAR RIVER VORTAC117.8005W
+ISOr325/31.3KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD286/29.423009WAQE.- --.- .
+HARNETT068/39.941708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:100LL JET-A1+
+Parking:hangars and tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:4500 x 150 ft. / 1372 x 46 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:20.0
+Runway edge lights:medium intensity
+RUNWAY 3RUNWAY 21
+Latitude:35-45.834330N35-46.473320N
+Longitude:077-58.272787W077-57.810670W
+Elevation:155.5 ft.154.8 ft.
+Traffic pattern:leftleft
+Runway heading:039 magnetic, 031 true219 magnetic, 211 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Runway end identifier lights:yesRWY 03/21 OTS INDEFyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:82 ft. trees, 1987 ft. from runway, 216 ft. left of centerline, 21:1 slope to clear10 ft. trees, 312 ft. from runway, 91 ft. left of centerline, 11:1 slope to clear
+
+Runway 15/33
+
+Dimensions:4499 x 150 ft. / 1371 x 46 m
+Surface:asphalt, in poor conditionL & T AND BLOCK CRACKING, FOD, FAILED SEALANT.
+Weight bearing capacity:Single wheel:20.0
+Runway edge markings:DUE TO LINE UNDER RUNWAY NUMBER AND LOCATION FROM END.
+RUNWAY 15RUNWAY 33
+Latitude:35-46.435865N35-45.790620N
+Longitude:077-58.589882W077-58.141593W
+Elevation:159.6 ft.150.9 ft.
+Traffic pattern:leftleft
+Runway heading:158 magnetic, 150 true338 magnetic, 330 true
+Markings:NSTD, in good conditionnumbers only, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:34 ft. trees, 471 ft. from runway, 169 ft. right of centerline, 7:1 slope to clearDUE TO 25 FT TREES 0-200 FT FROM END AND OFFSET 168 FT LEFT OF CNTRLN.46 ft. trees, 311 ft. from runway, 223 ft. right of centerline, 2:1 slope to clearDUE TO 20 FT BUILDING 5 FT FROM END AND OFFSET 243 FT RIGHT OF CNTRLN.
+
+Runway 9/27
+
+Dimensions:4498 x 150 ft. / 1371 x 46 m
+Surface:asphalt, in poor conditionROUGH SFC DUE TO EXCESSIVE CRACK SEALANT.
+Weight bearing capacity:Single wheel:20.0
+Runway edge markings:DUE TO LINE UNDER RUNWAY NUMBER AND LOCATION FROM END.
+RUNWAY 9RUNWAY 27
+Latitude:35-46.407550N35-46.401213N
+Longitude:077-58.610245W077-57.700495W
+Elevation:158.6 ft.154.8 ft.
+Traffic pattern:leftleft
+Runway heading:098 magnetic, 090 true278 magnetic, 270 true
+Markings:NSTD, in good conditionnumbers only, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:39 ft. trees, 485 ft. from runway, 120 ft. right of centerline, 7:1 slope to clearDUE TO 23 FT TREES 0-200 FT FROM END AND OFFSET 120 FT RIGHT OF CNTRLN.45 ft. trees, 441 ft. from runway, 145 ft. right of centerline, 5:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF WILSONPO BOX 10WILSON, NC 27894Phone 252-399-2489
+Manager:GRONNA JONESPO BOX 10WILSON, NC 27894Phone 252-399-2489ARPT PHONE NR 252-991-6336.
+
+Airport Operational Statistics
+
+Aircraft based on the field:27Single engine airplanes:23Multi engine airplanes:1Jet airplanes:1Helicopters:2
+Aircraft operations: avg 34/day*48%transient general aviation40%local general aviation6%military6%air taxi* for 12-month period ending 13 March 2021
+Additional Remarks
+
+-NO LINE-OF-SIGHT BTN RY ENDS.
+-DEER ON & INVOF ARPT.
+-FOR CD CTC  WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 03
+download (246KB)
+RNAV (GPS) RWY 09
+download (215KB)
+RNAV (GPS) RWY 15
+download (192KB)
+RNAV (GPS) RWY 21
+download (210KB)
+RNAV (GPS) RWY 33
+download (210KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KRWI - Rocky Mount/Wilson Regional Airport (6 nm NE)
+KGWW - Wayne Executive Jetport Airport (19 nm S)
+KETC - Tarboro-Edgecombe Airport (23 nm NE)
+KLHZ - Triangle North Executive Airport (23 nm NW)
+KJNX - Johnston Regional Airport (25 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Garry Hodges
+Photo taken 21-Sep-2010
+looking east.
+
+Do you have a better or more recent aerial photo of Wilson Industrial Air Center Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Wilson Industrial Air Center Airport?
+Find the distance to fly.
+From 
+to W03
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2112:21
+Sunset17:2422:24
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:09:59
+Local (UTC-5)19-Jan-2024 17:09:59
+
+
+
+
+   
+
+METAR
+
+
+KRWI6nm NE192153Z AUTO 31015G25KT 10SM CLR 07/M06 A2988 RMK AO2 PK WND 31030/2142 SLP118 T00721061 $
+
+KGWW18nm S192150Z AUTO 32006G20KT 10SM SCT080 08/M04 A2987 RMK AO2 T00831040
+
+
+
+
+
+TAF
+
+
+KRWI6nm NE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+252-991-6336[email]
+
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Catering, Rental cars delivered, Courtesy transportation, ...
+
+
+
+More info and photos of Carolina Air Center, LLC
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$5.49$6.42Updated 04-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wilson Industrial Air Center Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wilson Industrial Air Center Airport
+
+
+
+www.wilsonnc.org/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9VA6 - Saunders Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1457 users online
+ 
+
+
+
+
+9VA6
+ Saunders Field AirportRichmond, Virginia, USA 
+
+
+
+
+
+
+GOING TO RICHMOND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9VA6
+Lat/Long:37-34-53.0350N 077-55-07.5750W37-34.883917N 077-55.126250W37.5813986,-77.9187708(estimated)
+Elevation:321 ft. / 98 m (estimated)
+From city:3 miles N of RICHMOND, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23139
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/2014
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:IREG
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAKr312/5.3FLAT ROCK VORTAC113.3006W
+GVEr163/28.2GORDONSVILLE VORTAC115.6006W
+RICr288/28.9RICHMOND VORTAC114.1009W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE021/27.932609WBKT-... -.- -
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2200 x 90 ft. / 671 x 27 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Latitude:37-35.063833N37-34.704000N
+Longitude:077-55.098000W077-55.154500W
+Elevation:337.0 ft.361.0 ft.
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GEORGE SAUNDERS JR.3880THREE BRIDGE RD.POWHATAN, VA 23139Phone 804-304-2443
+Manager:GEORGE SAUNDERS JR.3880THREE BRIDGE RD.POWHATAN, VA 23139Phone 804-304-2443
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 9VA6.
+Some nearby airports with instrument procedures:
+KFCI - Richmond Executive-Chesterfield County Airport (21 nm SE)
+KOFP - Hanover County Municipal Airport (24 nm E)
+7W4 - Lake Anna Airport (24 nm N)
+W81 - Crewe Municipal Airport (26 nm S)
+KLKU - Louisa County Airport/Freeman Field (26 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Saunders Field Airport?
+Find the distance to fly.
+From 
+to 9VA6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:2022:20
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:51:25
+Local (UTC-5)19-Jan-2024 16:51:25
+
+
+
+
+   
+
+METAR
+
+
+KFCI21nm SE192056Z AUTO 31014G17KT 10SM FEW029 OVC065 02/M03 A2983 RMK AO2 SLP116 T00221028 53031 FZRANO
+
+KOFP24nm E192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+K7W424nm N192135Z AUTO 00000KT 10SM SCT006 SCT020 OVC075 00/M02 A2987 RMK AO1 T00001017
+
+KW8126nm S192135Z AUTO 29006G22KT 10SM SCT060 SCT075 03/M13 A2987 RMK AO1 T00301127
+
+KLKU26nm N192135Z AUTO 31009G14KT 10SM SCT070 OVC100 01/M06 A2987 RMK AO2 T00131056
+
+KFVX27nm SW192135Z AUTO 30004KT 10SM BKN060 03/M10 A2987 RMK AO2 T00331100
+
+KRIC29nm E192139Z 33009KT 10SM -SN SCT032 BKN075 03/M04 A2986 RMK AO2 SNB39 P0000 T00281039
+
+KBKT30nm S192135Z AUTO 30013G23KT 10SM SCT060 03/M09 A2986 RMK AO1 T00341087
+
+KPTB31nm SE192135Z AUTO 34013G18KT 10SM SCT028 BKN042 OVC065 03/M02 A2987 RMK AO2 T00311021
+
+KGVE36nm N192135Z AUTO 00000KT 10SM BKN048 OVC095 02/M06 A2986 RMK AO1 T00151059
+
+
+
+
+
+TAF
+
+
+KRIC29nm E191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Saunders Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Saunders Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

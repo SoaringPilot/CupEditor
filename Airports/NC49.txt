@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC49 - Boyd Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1597 users online
+ 
+
+
+
+
+NC49
+ Boyd Field AirportGrimesland, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GRIMESLAND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC49
+Lat/Long:35-31-42.3300N 077-11-53.4300W35-31.705500N 077-11.890500W35.5284250,-77.1981750(estimated)
+Elevation:50 ft. / 15 m (estimated)
+Variation:09W (1995)
+From city:2 miles S of GRIMESLAND, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27837
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:05/1999
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at OCW (8 nm E):120.175 (252-975-6133)
+WX AWOS-3 at PGV (11 nm NW):128.425 (252-758-6485)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr067/20.0KINSTON VORTAC117.5005W
+EWNr353/28.3NEW BERN VOR/DME113.6008W
+TYIr143/36.5TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+CHOCOWINITY292/4.638808WRNW.-. -. .--
+ALWOOD151/13.723009WAQE.- --.- .
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:1400 x 100 ft. / 427 x 30 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:35 ft. plines, 500 ft. from runway35 ft. plines, 500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CECIL BOYD JR.1700 GREEN OAKS PARKWAYHOLLY SPRINGS, NC 27540-7995Phone 919-602-6819
+Manager:CECIL BOYD, JR1700 GREEN OAKS PARKWAYHOLLY SPRINGS, NC 27540-7995Phone 919-602-6819
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC49.
+Some nearby airports with instrument procedures:
+KOCW - Washington-Warren Airport (8 nm E)
+KPGV - Pitt-Greenville Airport (11 nm NW)
+KMCZ - Martin County Airport (20 nm N)
+KISO - Kinston Regional Jetport at Stallings Field (23 nm SW)
+KPMZ - Plymouth Municipal Airport (27 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Boyd Field Airport?
+Find the distance to fly.
+From 
+to NC49
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1712:17
+Sunset17:2222:22
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:28
+Local (UTC-5)19-Jan-2024 15:44:28
+
+
+
+
+   
+
+METAR
+
+
+KOCW8nm E192025Z AUTO 31009G17KT 10SM SCT065 OVC075 10/M01 A2978 RMK AO2 T00951013
+
+KPGV11nm NW192025Z AUTO 34008KT 10SM SCT060 BKN070 OVC080 10/00 A2978 RMK AO2
+
+
+
+
+
+TAF
+
+
+KPGV11nm NW191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Boyd Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Boyd Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

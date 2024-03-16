@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 22NC - Flint Ridge Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1595 users online
+ 
+
+
+
+
+22NC
+ Flint Ridge AirportSiler City, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SILER CITY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:22NC
+Lat/Long:35-49-16.0000N 079-28-06.0000W35-49.266667N 079-28.100000W35.8211111,-79.4683333(estimated)
+Elevation:650 ft. / 198 m (estimated)
+Variation:07W (1995)
+From city:5 miles N of SILER CITY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27344
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/1998
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SCR (7 nm S):125.775 (919-663-1252)
+WX ASOS at BUY (14 nm N):135.325 (336-570-9813)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr088/7.0LIBERTY VORTAC113.0003W
+GSOr122/28.1GREENSBORO VORTAC116.2003W
+RDUr274/33.5RALEIGH/DURHAM VORTAC117.2009W
+SDZr012/36.8SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+ALAMM157/11.036108WHB.... -...
+PERSON226/31.522008WHUR.... ..- .-.
+SLAMMER164/36.542307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2400 x 60 ft. / 732 x 18 m
+Surface:turf, in good condition
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Displaced threshold:500 ft.500 ft.
+Obstructions:30 ft. trees, 50 ft. from runway30 ft. trees, 50 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BARRY R. INMAN6496 SILK HOPE LIBERTY RDSILER CITY, NC 27344Phone 919-663-3304
+Manager:BARRY R. INMAN6496 SILK HOPE LIBERTY RDSILER CITY, NC 27344Phone 919-663-3304
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-LIVESTOCK AND / OR FARM EQUIPMENT MAY BE ON RWY.
+-PERM LIVESTOCK FENCE ALONG FULL LENGTH OF WEST EDGE OF RWY.
+-TEMPO LIVESTOCK FENCE MAY CROSS RWY.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 22NC.
+Some nearby airports with instrument procedures:
+KSCR - Siler City Municipal Airport (7 nm S)
+KBUY - Burlington/Alamance Regional Airport (14 nm N)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (23 nm SE)
+KHBI - Asheboro Regional Airport (23 nm SW)
+KGSO - Piedmont Triad International Airport (28 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Flint Ridge Airport?
+Find the distance to fly.
+From 
+to 22NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:3022:30
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:08:16
+Local (UTC-5)19-Jan-2024 16:08:16
+
+
+
+
+   
+
+METAR
+
+
+KSCR7nm S192045Z AUTO 32011G19KT 10SM SCT060 07/M08 A2990 RMK AO2 T00701077
+
+KBUY14nm N192054Z AUTO 29019G32KT 10SM CLR 05/M09 A2990 RMK AO2 PK WND 25034/2021 SLP126 T00501089 53042
+
+
+
+
+
+TAF
+
+
+KGSO29nm NW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KRDU33nm E191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Flint Ridge Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Flint Ridge Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

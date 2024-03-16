@@ -1,0 +1,821 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KCLT - Charlotte/Douglas International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1618 users online
+ 
+
+
+
+
+KCLT
+ Charlotte/Douglas International AirportCharlotte, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CHARLOTTE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Wilson Air Center - Charlotte
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:CLT
+Lat/Long:35-12-49.5000N 080-56-56.6000W35-12.825000N 080-56.943333W35.2137500,-80.9490556(estimated)
+Elevation:747.9 ft. / 228.0 m (surveyed)
+Variation:07W (2000)
+From city:5 miles W of CHARLOTTE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28208
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1937
+Control tower:yes
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:CLT (NOTAM-D service available)
+Attendance:CONTINUOUSJ8 FUEL ALSO AVBL.
+Wind indicator:lighted
+Segmented circle:no
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index E
+International operations:customs landing rights airport 
+
+Airport Communications
+
+UNICOM:122.95
+WX ASOS:PHONE 704-790-5484
+CHARLOTTE GROUND:121.8 ;WEST 121.9 ;EAST 348.6
+CHARLOTTE TOWER:118.1 ;RWY 18L/36R 126.4 ;RWY 18C/36C 133.35 ;RWY 18R/36L 257.8
+CHARLOTTE APPROACH:120.05 ;120-295 8000 FT & BLW 120.5 ;246-074 ABV 8000 FT 124.0 ;075-245  ABV 8000 FT 126.15 128.325 ;001-119 8000 FT & BLW 134.75 ;296-360 8000 FT & BLW 257.2 ;180-359 307.8 ;360-179
+CHARLOTTE DEPARTURE:120.05 ;120-295 8000 FT & BLW 120.5 ;246-074 ABV 8000 FT 124.0 ;075-245  ABV 8000 FT 128.325 ;001-119 8000 FT & BLW 134.75 ;296-360 8000 FT & BLW 257.2 ;180-359 307.8 ;360-179
+CLEARANCE DELIVERY:127.15 348.6
+ALCP:292.25
+BANKR STAR:135.6 377.15
+BARMY DP:124.0 307.8
+BEAVY DP:120.5 ;RWY 36L, 36C 124.0 ;RWY 18L, 18R, 18C, 36R 257.2 ;RWY 36L, 36C 307.8 ;RWY 18R, 18L, 18C, 36R
+BOBZY DP:120.5 257.2
+BTSEY STAR:125.35
+CHARLOTTE DP:120.5 ;HARAY & PITTY TRANSITIONS. RW 124.0 ;BUCKL, GANTS, LILLS & RUNIE T 124.0 ;RWY 18L, 18R, 18C, 36R 257.2 ;HARAY & PITTY TRANSITION. RWY 307.8 ;BUCKL TRANSITION, RWY 18L, 18 307.8 ;GANTS, LILLS & RUNIE TRANSITI
+CHSLY STAR:126.15 282.325
+CLASS B:120.05 ;120-295 8000 FT & BLW 120.5 ;246-074 ABV 8000 FT 124.0 ;075-245  ABV 8000 FT 128.325 ;001-119 8000 FT & BLW 134.75 ;296-360 8000 FT & BLW 257.2 ;180-359 307.8 ;360-179
+D-ATIS:121.15 ;ARR 132.1 ;DEP
+EMERG:121.5 243.0
+ESTRR DP:120.5 257.2
+FILPZ STAR:125.35 257.2
+IC:120.05 ;120-295 8000 FT & BLW 120.5 ;246-074 ABV 8000 FT 124.0 ;075-245  ABV 8000 FT 128.325 ;001-119 8000 FT & BLW 134.75 ;296-360 8000 FT & BLW 257.2 ;180-359 307.8 ;360-179
+ICONS DP:120.5 ;RWY 36L, 36C 124.0 ;RWY 18L, 18R, 18C, 36R 257.2 ;RWY 36L, 36C 307.8 ;RWY 18R, 18L, 18C, 36R
+JOJJO DP:120.5 257.2
+JONZE STAR:135.6 377.15
+JOOLS STAR:135.6 377.15
+KERMIT DP:120.5 ;235-055 124.0 ;055-235 257.2 ;235-055 307.8 ;055-235
+KILNS DP:124.0 307.8
+KNIGHTS DP:120.05 ;DEBIE, NEANO TRANSITIONS 120.05 ;FLYYN, CEGAL TRANSITIONS, 18 120.5 ;FLYYN, CEGAL TRANSITIONS RWY 128.325 ;055-235 128.325 ;PEKNN, LILLS, HAMLN, ANDYS 257.2 ;235-055 307.8 ;055-235
+KRITR DP:120.5 257.2
+KWEEN DP:120.5 ;RWY 36L, 36C 124.0 ;RWY 18L, 18R, 18C, 36R 257.2 ;RWY 36L, 36C 307.8 ;RWY 18R, 18L, 18C, 36R
+LIILS DP:124.0
+LIINN STAR:125.35 257.2
+LILLS DP:307.8
+MAJIC STAR:126.15 282.325
+MLLET STAR:126.15 282.325
+PARQR STAR:125.35 257.2
+RASLN STAR:126.15 282.325
+STOCR STAR:126.15 282.325
+UNARM STAR:135.6 377.15
+WEAZL DP:120.5 257.2
+WX ASOS at AKH (10 nm W):135.725 (704-868-9034)
+WX ASOS at UZA (15 nm S):120.775 (803-981-9388)
+WX AWOS-3 at JQF (16 nm NE):133.675 (704-785-2145)
+WX AWOS-3 at IPJ (19 nm NW):119.675 (704-735-6954)
+WX ASOS at EQY (20 nm SE):135.775 (704-283-5185)
+
+
+CD FREQ 127.2 OTS INDEFLY AT GASTONIA MUNI (AKH), GASTONIA, NC.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr010/1.4CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA089/10.326006WGHJ--. .... .---
+CHESTER032/28.522006WDCM-.. -.-. --
+FIRST RIVER100/31.941706WSLP... .-.. .--.
+
+Airport Services
+
+Fuel available:100LL JET-A100LL:A++(MIL), 100 & O-156 AVBL.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:HIGH/LOWLIQUID OXYGEN ALSO AVBL.
+
+Runway Information
+Runway 18C/36C
+
+Dimensions:10000 x 150 ft. / 3048 x 46 m
+Surface:concrete/grooved, in good condition
+Weight bearing capacity:PCN 82 /R/B/W/TSingle wheel:93.0Double wheel:200.0Double tandem:350.0Dual double tandem:650.0
+Runway edge lights:high intensity
+RUNWAY 18CRUNWAY 36C
+Latitude:35-13.643782N35-11.999535N
+Longitude:080-57.190157W080-57.048695W
+Elevation:742.0 ft.692.2 ft.
+Traffic pattern:leftleft
+Runway heading:183 magnetic, 176 true003 magnetic, 356 true
+Declared distances:TORA:10000 TODA:10000 ASDA:10000 LDA:10000TORA:10000 TODA:10000 ASDA:10000 LDA:10000
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on right (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)
+Centerline lights:yesyes
+Touchdown point:yes, no lightsyes, lighted
+Instrument approach:ILS/DMEILS
+Obstructions:25 ft. road, 1350 ft. from runway, 425 ft. left of centerline, 46:1 slope to clearnone
+
+Runway 18R/36L
+
+Dimensions:9000 x 150 ft. / 2743 x 46 m
+Surface:concrete/grooved, in excellent condition
+Weight bearing capacity:PCN 63 /R/B/W/TSingle wheel:93.0Double wheel:200.0Double tandem:350.0Dual double tandem:650.0
+Runway edge lights:high intensity
+RUNWAY 18RRUNWAY 36L
+Latitude:35-13.516970N35-12.037128N
+Longitude:080-58.045117W080-57.917785W
+Elevation:744.0 ft.743.9 ft.
+Traffic pattern:leftleft
+Runway heading:183 magnetic, 176 true003 magnetic, 356 true
+Declared distances:TORA:9000 TODA:9000 ASDA:9000 LDA:9000TORA:9000 TODA:9000 ASDA:9000 LDA:9000
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on right (2.80 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights:ALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)ALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)
+Centerline lights:yesyes
+Touchdown point:yes, lightedyes, lighted
+Instrument approach:ILS/DMEILS/DME
+
+Runway 18L/36R
+
+Dimensions:8677 x 150 ft. / 2645 x 46 m
+Surface:asphalt/concrete/grooved, in good condition
+Weight bearing capacity:PCN 68 /R/B/W/TSingle wheel:93.0Double wheel:200.0Double tandem:350.0Dual double tandem:650.0
+Runway edge lights:high intensity
+Operational restrictions:ARRESTING GEAR/SYSTEM: ENGINEERED MATERIALS ARRESTING GEAR SYSTEM (EMAS) 255 FT IN LENGTH BY 170 FT IN WIDTH AT THE DEPARTURE END OF RWY 18L.
+RUNWAY 18LRUNWAY 36R
+Latitude:35-13.484123N35-12.057427N
+Longitude:080-56.169420W080-56.047033W
+Elevation:746.0 ft.723.4 ft.
+Traffic pattern:leftleft
+Runway heading:183 magnetic, 176 true003 magnetic, 356 true
+Declared distances:TORA:8676 TODA:8676 ASDA:8676 LDA:8676TORA:8676 TODA:8676 ASDA:8390 LDA:8390
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on right (3.00 degrees glide path)
+RVR equipment:touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights:ALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)
+Runway end identifier lights:yes
+Centerline lights:yesyes
+Touchdown point:yes, no lightsyes, lighted
+Instrument approach:ILS/DMEILS/DME
+Obstructions:19 ft. rr, 523 ft. from runway, 17:1 slope to clearnone
+
+Runway 5/23
+
+Dimensions:7502 x 150 ft. / 2287 x 46 m
+Surface:asphalt/concrete/grooved, in fair conditionRWY 5 FIRST 625 FEET CONCRETE GROOVED; SECOND 5377 FEET ASPHALT GROOVED; LAST 1500 FEET CONCRETE WIRE COMBED.  RWY 23 FIRST 1500 FEET CONCRETE WIRE COMBED;  SECOND 5377 FEET ASPHALT GROOVED;  LAST 625 FEET CONCRETE GROOVED.
+Weight bearing capacity:PCN 73 /R/B/W/TSingle wheel:93.0Double wheel:170.0Double tandem:350.0Dual double tandem:650.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:35-12.537145N35-13.356972N
+Longitude:080-56.996742W080-55.868725W
+Elevation:705.9 ft.746.7 ft.
+Traffic pattern:leftleft
+Runway heading:055 magnetic, 048 true235 magnetic, 228 true
+Declared distances:TORA:7502 TODA:7502 ASDA:7092 LDA:7092TORA:7502 TODA:7502 ASDA:7502 LDA:7502
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on right (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Centerline lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILSILS/DME
+Obstructions:38 ft. trees, 1500 ft. from runway, 300 ft. right of centerline, 34:1 slope to clearnone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF CHARLOTTE600 EAST FOURTH STCHARLOTTE, NC 28202Phone 704-336-2241
+Manager:HALEY GENTRY5601 WILKINSON BLVD.CHARLOTTE, NC 28208Phone 704-359-4000
+
+Airport Operational Statistics
+
+Aircraft based on the field:92Single engine airplanes:8Multi engine airplanes:6Jet airplanes:66Helicopters:4Military aircraft:8
+Aircraft operations: avg 1373/day*82%commercial13%air taxi5%transient general aviation<1%military* for 12-month period ending 01 March 2022
+Additional Remarks
+
+-RWY SFC COND INFO DURG DUTY HRS PHONE ANG OPS V583-9177/9144 OR AIRBORNE 292.2.
+-RWY STATUS LGTS IN OPR.
+-TWY C4 AND C6:  WHEN TAXIING AIRCRAFT WITH COCKPIT TO MAIN GEAR DISTANCE GREATER THAN 90 FT, PILOT MUST PERFORM JUDGEMENTAL OVERSTEERING INSTEAD OF COCKPIT OVER CENTERLINE STEERING.
+-GROUP IV ACFT WITH A WINGSPAN GTR THAN 118 FT ARE PROHIBITED FM EXITING RWY 18L/36R AT TWY C10.
+-TWY C10 UNUSBL FOR TXG ONTO RWY 18L/36R.
+-CLT RAMP, NON-MOVMT AREA, IS CTLD RAMP; CTC RAMP CTL PRIOR TO ENTERING.
+-DUAL TAXI BTN DEP CALL SPOTS 11/12 AND 13N/13S RSTRD TO ONE ACFT LESS THAN 214 FT AND ONE ACFT LESS THAN 118 FT OR TWO ACFT LESS THAN 171 FT.
+-DUAL TAXI BTN DEP CALL SPOTS 22/23 AND 24N/24S RSTRD TO ACFT WITH WINGSPANS LESS THAN 118 FT.
+-TWY C10 RSTRD TO ACFT WITH WINGSPAN LESS THAN 171 FT WHEN EXITING RWY.
+-GROUP III ACFT WITH A WINGSPAN GTR THAN 79 FT ARE PROHIBITED FM MAKING A NBND TURN ONTO TWY C WHEN  TAXIING WB ON TWY A.
+-TWY D, RESTRICTED TO 15 MPH OR LESS WITH WINGSPAN 171 FT AND GREATER.
+-GROUP III ACFT WITH A WINGSPAN GTR THAN 79 FT ARE PROHIBITED FM MAKING A SBND TURN ONTO TWY C WHEN TAXIING NWBND ON TWY R.
+-15 MPH SPEED RESTRICTION ON TWY C FROM THE APPROACH OF RWY 18L TO RWY 05/23, AND TWY M FROM THE APRON TO RWY 18L/36R.
+-TWY M BETWEEN THE TERMINAL RAMP AND TWY C, AS WELL AS TWY C NORTH OF TWY M, ARE RESTRICTED TO GROUP V AIRCRAFT WITH A WINGSPAN LESS THAN 214 FT (65M).
+-ALL ACFT ARE PROHIBITED FM EXITING RWY 36R SEBD AT TWY R.
+-TRML RAMP BLUE TXL FROM SPOT 29W TO SPOT 34S MAX WINGSPAN 82 FT.
+-TRML RAMP ORANGE TXL FROM SPOT 26S TO SPOT 27E MAX WINGSPAN 118 FT.
+-TRML RAMP YELLOW TXL FROM SPOT 29C TO SPOT 33C MAX WINGSPAN 118 FT.
+-TRML RAMP ORANGE TXL FROM SPOT 29E TO SPOT 34N MAX WINGSPAN 82 FT.
+-TRML RAMP BLUE TXL AT SPOT 28S BTN CONCOURSE D & E ALLEY MAX WINGSPAN 118 FT.
+-TRML RAMP BLUE TXL FROM SPOT 26N TO SPOT 27W MAX WINGSPAN 118 FT.
+-TRML RAMP ORANGE TXL AT SPOT 28N BETWEEN CONCOURSE D & E ALLEY MAX WINGSPAN 94 FT.
+-AIRPLANE DESIGN GROUP-V AND ABV ACFT ARE PROHIBITED FM DEP RWY 18L.
+-BE ALERT FOR FLOCKS OF MIGRATORY BIRDS ON & INVOF ARPT.
+-ASDE-X IN USE. OPERATE TRANSPONDERS WITH ALTITUDE REPORTING MODE AND ADS-B (IF EQUIPPED) ENABLED ON ALL AIRPORT SURFACES.
+-MILITARY: ANG: CTC COMD POST 30 MIN PRIOR LDG.  AMOPS/COMD POST - 292.25  (CALL NEWSREEL).
+-SUCCESSIVE OR SIMULTANEOUS DEPARTURES FROM RWY 18L AND RWY 18C ARE APPROVED WITH COURSE DIVERGENCE BEGINNING NO FURTHER THAN 4 MILES FROM END OF RWY.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+BANKR FOUR (RNAV)
+2 pages:
+ [1] [2] (370KB)
+BTSEY TWO
+download (172KB)
+CHSLY FIVE (RNAV)
+2 pages:
+ [1] [2] (479KB)
+CHSLY FIVE (RNAV), CONT.2
+download (183KB)
+FILPZ THREE (RNAV)
+2 pages:
+ [1] [2] (412KB)
+JONZE FOUR (RNAV)
+2 pages:
+ [1] [2] (343KB)
+JOOLS ONE (RNAV)
+download (274KB)
+LIINN THREE
+2 pages:
+ [1] [2] (313KB)
+MAJIC FOUR
+download (263KB)
+MLLET TWO (RNAV)
+download (294KB)
+PARQR THREE (RNAV)
+2 pages:
+ [1] [2] (410KB)
+RASLN THREE
+download (197KB)
+STOCR THREE (RNAV)
+2 pages:
+ [1] [2] (442KB)
+STOCR THREE (RNAV), CONT.2
+download (255KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 18C
+download (451KB)
+ILS OR LOC RWY 18L
+download (407KB)
+ILS OR LOC RWY 18R
+download (482KB)
+ILS OR LOC RWY 36C
+download (397KB)
+ILS OR LOC RWY 36L
+download (383KB)
+ILS OR LOC RWY 36R
+download (391KB)
+ILS RWY 18R (SA CAT I)
+download (413KB)
+ILS RWY 36L (SA CAT I)
+download (369KB)
+ILS RWY 36R (SA CAT I)
+download (373KB)
+ILS RWY 18R (CAT II - III)
+download (407KB)
+ILS RWY 36C (CAT II - III)
+download (387KB)
+ILS RWY 36L (CAT II - III)
+download (367KB)
+ILS RWY 36R (CAT II - III)
+download (372KB)
+RNAV (RNP) Z RWY 18C
+download (325KB)
+RNAV (RNP) Z RWY 36C
+download (334KB)
+RNAV (GPS) Y RWY 18C
+download (412KB)
+RNAV (GPS) Y RWY 18L
+download (366KB)
+RNAV (GPS) Y RWY 18R
+download (386KB)
+RNAV (GPS) Y RWY 36C
+download (348KB)
+RNAV (GPS) Y RWY 36L**CHANGED**
+download (366KB)
+RNAV (GPS) Y RWY 36R
+download (356KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+Departure Procedures
+
+BARMY FOUR (RNAV)
+2 pages:
+ [1] [2] (428KB)
+BEAVY FIVE (RNAV)
+2 pages:
+ [1] [2] (425KB)
+BOBZY FOUR (RNAV)
+2 pages:
+ [1] [2] (423KB)
+CHARLOTTE THREE
+2 pages:
+ [1] [2] (481KB)
+ESTRR FOUR (RNAV)
+2 pages:
+ [1] [2] (396KB)
+ICONS FOUR (RNAV)
+2 pages:
+ [1] [2] (413KB)
+JOJJO FOUR (RNAV)
+2 pages:
+ [1] [2] (450KB)
+KERMIT THREE
+2 pages:
+ [1] [2] (508KB)
+KILNS FOUR (RNAV)
+2 pages:
+ [1] [2] (407KB)
+KNIGHTS TWO
+2 pages:
+ [1] [2] (561KB)
+KRITR FIVE (RNAV)
+2 pages:
+ [1] [2] (398KB)
+KWEEN FOUR (RNAV)
+2 pages:
+ [1] [2] (407KB)
+LILLS TWO (RNAV)
+download (325KB)
+WEAZL FOUR (RNAV)
+2 pages:
+ [1] [2] (387KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (384KB)
+
+Other nearby airports with instrument procedures:
+KAKH - Gastonia Municipal Airport (10 nm W)
+KUZA - Rock Hill (York County) Airport-Bryant Field (15 nm S)
+KJQF - Concord-Padgett Regional Airport (16 nm NE)
+KIPJ - Lincolnton-Lincoln County Regional Airport (19 nm NW)
+KEQY - Charlotte-Monroe Executive Airport (20 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Kelvin Draughon
+Photo taken 25-Dec-2016
+looking northeast. 
+
+Do you have a better or more recent aerial photo of Charlotte/Douglas International Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Charlotte/Douglas International Airport?
+Find the distance to fly.
+From 
+to KCLT
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3822:38
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:49:51
+Local (UTC-5)19-Jan-2024 15:49:51
+
+
+
+
+   
+
+METAR
+
+
+KCLT191952Z 32018G36KT 10SM FEW060 07/M09 A2993 RMK AO2 PK WND 31036/1947 SLP150 T00721089
+
+KAKH10nm W191954Z AUTO 32010G19KT 290V360 10SM CLR 07/M07 A2993 RMK AO2 SLP138 T00721072
+
+KUZA15nm S191954Z AUTO 34015G23KT 10SM BKN070 08/M06 A2993 RMK AO2 PK WND 31036/1858 SLP136 T00781056
+
+KJQF15nm NE191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+KIPJ19nm NW192025Z AUTO 29014G20KT 260V320 10SM CLR 05/M08 A2997 RMK AO2 T00451085
+
+
+
+
+
+TAF
+
+
+KCLT191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+ASRI 129.40704-359-0440[web site][email]
+
+Voted #1 Best Small FBO Chain for the 15th time by the Professional Pilot PRASE Survey, Wilson Air Center continues to be recognized for unparalleled service and attention to detail. WAC has locations in Memphis, Charlotte, Houston, and Chattanooga. With professional, hotel-style concierge service to make sure every detail is taken care of and every expectation exceeded, you'll notice the difference at Wilson Air Center. Volume discounts of $.50 cents begin at 300 gallons. Earn reward dollars for fuel purchased with Titan Rewards. Come see why we are the plane best!
+
+
+
+More info and photos of Wilson Air Center - Charlotte
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$7.84$7.54GUARANTEED
+
+
+
+
+write
+
+
+
+Alternatives at nearby airportsIMPORTANT: Note that the FBOs below are NOT at KCLT but at other nearby airports. Do not expect services from these FBOs to be available at KCLT.
+
+Located at KUZA
+
+UNICOM 123.05803-366-5108[web site][email]
+
+At KUZA (Rock Hill (York County) Airport-Bryant Field), 15 miles SSWWelcome to the convenient Charlotte alternative. With a 5500 ft runway with ILS and full service FBO, Rock Hill is equipped to handle your needs. Located 14 nm south of CLT, UZA is less than a 30 minute drive to downtown Charlotte with access via major highways. Contact us for more information.
+
+
+
+More info and photos of Skytech, Inc. (KUZA)
+
+
+
+
+
+Located at KUZA100LL Jet AFS$6.69$6.49SS$6.10---Updated 13-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+
+Located at KJQF
+
+UNICOM 122.95704-920-5900704-920-5912[web site][email]
+
+
+At KJQF (Concord-Padgett Regional Airport), 16 miles NEAt JQF (Concord-Padgett Regional Airport), 16 miles NWConcord-Padgett Regional Airport is your best option when flying into the Charlotte / Concord area. Concord-Padgett Airport is proud to be a part of the Air Elite Network and continues to be recognized for providing great customer service. We are open 24/7/365 to serve your aviation needs around the clock. Our easy access to I-85 and 485 will save you time and money. Just 16 miles from uptown Charlotte Volume discounts begin at 300 gallons. Earn WingPoints for fuel purchased using Phillips Wings card or FlyBuys points for fuel purchased.
+
+
+
+More info and photos of Concord-Padgett Regional Airport (KJQF)
+
+
+
+
+
+Located at KJQF100LL Jet AFS$7.39$6.48GUARANTEEDMEMBERSONLYDiscounts
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Charlotte/Douglas International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Charlotte/Douglas International Airport
+
+
+
+charmeck.org/...
+
+
+
+
+
+www.he.net/...
+
+
+
+
+
+jpradio.net/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

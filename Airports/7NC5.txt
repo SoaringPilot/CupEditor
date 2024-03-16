@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 7NC5 - Crooked Creek Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1612 users online
+ 
+
+
+
+
+7NC5
+ Crooked Creek AirportBunn, North Carolina, USA 
+
+
+
+
+
+
+GOING TO BUNN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:7NC5
+Lat/Long:35-55-52.2600N 078-14-41.1100W35-55.871000N 078-14.685167W35.9311833,-78.2447528(estimated)
+Elevation:250 ft. / 76 m (estimated)
+Variation:07W (1985)
+From city:2 miles SE of BUNN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27508
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1987
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR LIRL RWY 04/22 CALL 919-496-6243.
+
+Airport Communications
+
+WX AWOS-3 at LHZ (7 nm NW):118.325 (919-497-0810)
+WX ASOS at RWI (18 nm E):118.875 (252-446-0732)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr091/26.4RALEIGH/DURHAM VORTAC117.2009W
+TYIr269/26.4TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO150/28.727109WHXO.... -..- ---
+HARNETT043/36.541708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 4/22
+
+Dimensions:2500 x 80 ft. / 762 x 24 m
+Surface:turfBUMPY.
+Runway edge lights:low intensity
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:FRANK M SWETT JR.66 SWETT DRZEBULON, NC 27597-6037Phone 919-215-1356
+Manager:FRANK M SWETT JR.66 SWETT DRZEBULON, NC 27597-6037Phone 919-496-6243
+
+Airport Operational Statistics
+
+Aircraft based on the field:22Single engine airplanes:8Gliders airplanes:14
+Aircraft operations: avg 57/month100%local general aviation
+Additional Remarks
+
+-GLIDER OPS WKENDS AND HOLIDAYS.
+-NORTH CAROLINA SOARING ASSOCIATION BASED AT CROOKED CREEK.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-USE GLIDER FREQ 123.30 WHEN GLIDER OPS UNDERWAY.
+
+Instrument Procedures
+There are no published instrument procedures at 7NC5.
+Some nearby airports with instrument procedures:
+KLHZ - Triangle North Executive Airport (7 nm NW)
+W03 - Wilson Industrial Air Center Airport (16 nm SE)
+KRWI - Rocky Mount/Wilson Regional Airport (18 nm E)
+KJNX - Johnston Regional Airport (24 nm S)
+KRDU - Raleigh-Durham International Airport (27 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Crooked Creek Airport?
+Find the distance to fly.
+From 
+to 7NC5
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2212:22
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:55:41
+Local (UTC-5)19-Jan-2024 15:55:41
+
+
+
+
+   
+
+METAR
+
+
+KLHZ7nm NW192035Z AUTO 31011G21KT 270V340 10SM SCT039 SCT047 SCT060 07/M03 A2984 RMK AO2
+
+KRWI17nm E191953Z AUTO 29013G23KT 10SM SCT070 OVC085 10/M03 A2978 RMK AO2 PK WND 31026/1920 SLP085 T01001028
+
+
+
+
+
+TAF
+
+
+KRWI17nm E191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Crooked Creek Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Crooked Creek Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

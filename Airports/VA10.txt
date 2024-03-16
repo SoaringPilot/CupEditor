@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA10 - Catawba Valley Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1618 users online
+ 
+
+
+
+
+VA10
+ Catawba Valley AirportBlacksburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO BLACKSBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA10
+Lat/Long:37-17-02.7550N 080-18-03.3600W37-17.045917N 080-18.056000W37.2840986,-80.3009333(estimated)
+Elevation:1720 ft. / 524 m (estimated)
+Variation:07W (1995)
+From city:7 miles SW of BLACKSBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24060
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1997
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at BCB (7 nm SW):133.325 (540-231-4837)
+WX ASOS at ROA (16 nm E):PHONE 540-265-0680
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ROAr256/11.6ROANOKE VOR/DME109.4004W
+ODRr269/(15.6)WOODRUM VOR114.9008W
+PSKr065/22.9PULASKI VORTAC116.8006W
+
+
+NDBnameHdg/DistFreqVarID
+TECH055/6.736808WTEC- . -.-.
+VINTON291/20.627708WVIT...- .. -
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:1751 x 61 ft. / 534 x 19 m
+Surface:turf
+RUNWAY 5RUNWAY 23
+Latitude:37-16.941000N37-17.150833N
+Longitude:080-18.179833W080-17.932167W
+Elevation:1710.0 ft.1720.0 ft.
+Traffic pattern:rightright
+Markings:NSTDNSTD
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES MC PHERSON3046 CATAWBA RDBLACKSBURG, VA 27060Phone (540) 239-5635
+Manager:JAMES MC PHERSON3046 CATAWBA RDBLACKSBURG, VA 27060Phone (540) 239-5635
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at VA10.
+Some nearby airports with instrument procedures:
+KBCB - Virginia Tech/Montgomery Executive Airport (7 nm SW)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (16 nm E)
+KPSK - New River Valley Airport (20 nm SW)
+KLWB - Greenbrier Valley Airport (35 nm N)
+W91 - Smith Mountain Lake Airport (35 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Catawba Valley Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Catawba Valley Airport?
+Find the distance to fly.
+From 
+to VA10
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0612:06
+Sunrise07:3412:34
+Sunset17:3022:30
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:49:49
+Local (UTC-5)19-Jan-2024 15:49:49
+
+
+
+
+   
+
+METAR
+
+
+KBCB7nm SW192035Z AUTO 29011G22KT 250V320 10SM OVC033 M03/M09 A2990 RMK AO2 T10261092
+
+KROA16nm E191954Z 30019G28KT 10SM BKN045 01/M08 A2989 RMK AO2 PK WND 32034/1934 SLP128 T00061078 $
+
+
+
+
+
+TAF
+
+
+KBCB7nm SW191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+KROA16nm E191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Catawba Valley Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Catawba Valley Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 12VA - Hop-Along Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1557 users online
+ 
+
+
+
+
+12VA
+ Hop-Along AirportClifton Forge, Virginia, USA 
+
+
+
+
+
+
+GOING TO CLIFTON FORGE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:12VA
+Lat/Long:37-47-17.0000N 079-46-04.0000W37-47.283333N 079-46.066667W37.7880556,-79.7677778(estimated)
+Elevation:1060 ft. / 323 m (estimated)
+Variation:08W (1995)
+From city:3 miles SE of CLIFTON FORGE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24422
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1999
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HSP (10 nm N):118.8 (540-839-5974)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr028/(29.6)WOODRUM VOR114.9008W
+ROAr032/30.3ROANOKE VOR/DME109.4004W
+MOLr263/32.0MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON017/35.527708WVIT...- .. -
+
+Airport Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:2150 x 50 ft. / 655 x 15 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftleft
+Displaced threshold:no300 ft.
+Obstructions:34 ft. plines, 400 ft. from runway15 ft. road, 20 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:WM E BOYD JR4915 MC KINNEY HOLLOW RDCLIFTON FORGE, VA 24422Phone 540-863-9759
+Manager:WM E BOYD JR4915 MC KINNEY HOLLOW RDCLIFTON FORGE, VA 24422Phone 540-862-0900
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 12VA.
+Some nearby airports with instrument procedures:
+KHSP - Ingalls Field Airport (10 nm N)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (29 nm S)
+KLWB - Greenbrier Valley Airport (30 nm W)
+W90 - New London Airport (37 nm SE)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (39 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Kathy Schreck
+Photo taken 28-Jun-2008
+
+Do you have a better or more recent aerial photo of Hop-Along Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hop-Along Airport?
+Find the distance to fly.
+From 
+to 12VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3312:33
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:19:15
+Local (UTC-5)19-Jan-2024 16:19:15
+
+
+
+
+   
+
+METAR
+
+
+
+
+
+
+TAF
+
+
+KROA30nm S191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+KLWB30nm W191735Z 1918/2018 30012G22KT 5SM -SHSN OVC025 TEMPO 1918/1922 2SM -SHSN OVC015 FM200600 28008G19KT 6SM -SHSN OVC025 FM201500 30013G23KT P6SM -SHSN BKN035 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hop-Along Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hop-Along Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,7 @@
+AirNav: NC74 - Causey Airport
+CTAF: 122.8
+Lat/Long:WW35.9117856,-79.6176456(estimated)
+Runway 2/20
+Elevation:723 ft.
+Surface:asphalt
+Dimensions:3800 x 40 ft.

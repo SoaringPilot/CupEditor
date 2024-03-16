@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 23NR - Whitfield's East Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1469 users online
+ 
+
+
+
+
+23NR
+ Whitfield's East AirportFairfield, North Carolina, USA 
+
+
+
+
+
+
+GOING TO FAIRFIELD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:23NR
+Lat/Long:35-33-38.0000N 076-14-05.0000W35-33.633333N 076-14.083333W35.5605556,-76.2347222(estimated)
+Elevation:1 ft. / 0 m (estimated)
+From city:2 miles S of FAIRFIELD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27826
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/2009
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at 7W6 (14 nm E):119.275 (252-925-1136)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RBXr238/33.9WRIGHT BROTHERS VOR/DME111.6008W
+
+
+NDBnameHdg/DistFreqVarID
+MANTEO240/33.837009WMQI-- --.- ..
+
+Airport Services
+
+
+Runway Information
+Runway 8/26
+
+Dimensions:3300 x 23 ft. / 1006 x 7 mRWY 08/26 800 FT TURF ON RWY 08 END, 2500 ASPH ON RWY 26 END.
+Surface:asphalt/turf
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Obstructions:60 ft. tree, 300 ft. from runway60 ft. pline, 300 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:TIMOTHY D. WHITFIELD8369 HWY 94 NFAIRFIELD, NC 27826Phone 252-926-6666CELL: 252-542-0378
+Manager:TIMOTHY D. WHITFIELD8369 HWY 94 NFAIRFIELD, NC 27826Phone 252-926-6666ADDITIONAL CONTACT: BILLY WHITFIELD 252-945-1892 (C)
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:8
+Additional Remarks
+
+-HEAVY AGRI ACFT OPNS & U. S. FOREST SERVICE HELI OPNS.
+-DEER/MIGRATORY BIRDS OCCASIONALLY ON ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 23NR.
+Some nearby airports with instrument procedures:
+7W6 - Hyde County Airport (14 nm E)
+KPMZ - Plymouth Municipal Airport (30 nm NW)
+W95 - Ocracoke Island Airport (31 nm SE)
+KEDE - Northeastern Regional Airport (32 nm NW)
+KMQI - Dare County Regional Airport (34 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Whitfield's East Airport?
+Find the distance to fly.
+From 
+to 23NR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4611:46
+Sunrise07:1412:14
+Sunset17:1822:18
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:07:52
+Local (UTC-5)19-Jan-2024 17:07:52
+
+
+
+
+   
+
+METAR
+
+
+K7W614nm E192150Z AUTO 31015G20KT 10SM BKN070 OVC090 08/00 A2980 RMK AO2 T00811004
+
+K2DP18nm NE192055Z AUTO 31016KT M M M 10/M00 A2974 RMK AO2 SLPNO T00951001 RVRNO $
+
+
+
+
+
+TAF
+
+
+KECG42nm N191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+KEWN50nm SW191727Z 1918/2018 29014G26KT P6SM SCT050 FM200300 30010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Whitfield's East Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Whitfield's East Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC32 - Rivercliff Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+NC32
+ Rivercliff AirportClemmons, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CLEMMONS?
+
+
+ 
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC32
+Lat/Long:36-01-33.0000N 080-26-11.0000W36-01.550000N 080-26.183333W36.0258333,-80.4363889(estimated)
+Elevation:690 ft. / 210 m (estimated)
+Variation:06W (1990)
+From city:3 miles W of CLEMMONS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27006
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:05/1992
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:DAWN-DUSK
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at INT (12 nm NE):PHONE 336-661-3096
+WX AWOS-3 at EXX (16 nm SE):119.825 (336-956-2967)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr270/22.4GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER244/39.042307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:2500 x 150 ft. / 762 x 46 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MARK & JODI WILEY580 YADKIN VALLEY ROADADVANCE, NC 27006Phone (336) 830-9696
+Manager:MARK  WILEY580 YADKIN VALLEY ROADADVANCE, NC 27006Phone (336) 830-9696
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:3Ultralights:1
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at NC32.
+Some nearby airports with instrument procedures:
+8A7 - Twin Lakes Airport (7 nm S)
+KINT - Smith Reynolds Airport (12 nm NE)
+KEXX - Davidson County Executive Airport (16 nm SE)
+N63 - Meadow Brook Field Airport (22 nm NE)
+KZEF - Elkin Municipal Airport (23 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Rivercliff Airport?
+Find the distance to fly.
+From 
+to NC32
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3422:34
+Evening civil twilight18:0123:01
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:22
+Local (UTC-5)19-Jan-2024 15:44:22
+
+
+
+
+   
+
+METAR
+
+
+KINT12nm NE191954Z 31017G26KT 10SM BKN060 04/M10 A2991 RMK AO2 PK WND 30032/1904 SLP131 T00441100
+
+KEXX16nm SE192025Z AUTO 28009G19KT 240V360 10SM CLR 06/M08 A2993 RMK AO2 T00571076
+
+KRUQ23nm S192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+KGSO24nm E191954Z 31020G34KT 10SM FEW055 05/M09 A2988 RMK AO2 PK WND 30041/1906 SLP119 T00501089
+
+
+
+
+
+TAF
+
+
+KINT12nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Rivercliff Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Rivercliff Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

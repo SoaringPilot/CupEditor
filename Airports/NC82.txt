@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC82 - Dublin Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1614 users online
+ 
+
+
+
+
+NC82
+ Dublin Field AirportDublin, North Carolina, USA 
+
+
+
+
+
+
+GOING TO DUBLIN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC82
+Lat/Long:34-40-10.6100N 078-42-09.0600W34-40.176833N 078-42.151000W34.6696139,-78.7025167(estimated)
+Elevation:126 ft. / 38 m (estimated)
+Variation:07W (1985)
+From city:1 mile NE of DUBLIN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28337
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/1979
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at EYF (7 nm SE):119.475 (910-862-9982)
+WX ASOS at LBT (18 nm W):134.775 (910-739-7120)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr160/20.8FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CAMP008/23.822707WCPC-.-. .--. -.-.
+CLINTON231/24.841209WCTZ-.-. - --..
+DILLON077/35.527409WDLC-.. .-.. -.-.
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:2186 x 66 ft. / 666 x 20 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:TAYLOR WILKES HELO SERVICE INC1065 RICE POND ROADELIZABETHTOWN, NC 28337Phone 910-862-4165
+Manager:OREN M. TAYLOR1065 RICE POND ROADELIZABETHTOWN, NC 28337Phone 910-862-4165
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC82.
+Some nearby airports with instrument procedures:
+KEYF - Curtis L Brown Jr. Field Airport (7 nm SE)
+KLBT - Lumberton Regional Airport (18 nm W)
+KFAY - Fayetteville Regional Airport/Grannis Field (21 nm NW)
+KCPC - Columbus County Municipal Airport (24 nm S)
+KCTZ - Clinton-Sampson County Airport (25 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Dublin Field Airport?
+Find the distance to fly.
+From 
+to NC82
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:3022:30
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:02:19
+Local (UTC-5)19-Jan-2024 16:02:19
+
+
+
+
+   
+
+METAR
+
+
+KEYF7nm SE192050Z AUTO 28014G25KT 10SM SCT065 13/M01 A2982 RMK AO2 T01341014
+
+KLBT18nm W192056Z AUTO 32017G27KT 10SM SCT075 12/M01 A2984 RMK AO2 PK WND 32031/2018 SLP105 T01221011 53022
+
+
+
+
+
+TAF
+
+
+KLBT18nm W191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+KFAY21nm NW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dublin Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Dublin Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG25 - Robinson Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1457 users online
+ 
+
+
+
+
+VG25
+ Robinson AirportBedford, Virginia, USA 
+
+
+
+
+
+
+GOING TO BEDFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG25
+Lat/Long:37-20-54.5040N 079-34-19.1200W37-20.908400N 079-34.318667W37.3484733,-79.5719778(estimated)
+Elevation:850 ft. / 259 m (estimated)
+Variation:07W (1985)
+From city:1 mile W of BEDFORD, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24523
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1971
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:no
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at LYH (18 nm E):PHONE 434-237-0749
+WX ASOS at ROA (19 nm W):PHONE 540-265-0680
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr294/17.0LYNCHBURG VOR/DME109.2005W
+ODRr094/(19.5)WOODRUM VOR114.9008W
+ROAr093/23.8ROANOKE VOR/DME109.4004W
+MOLr219/39.8MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON068/17.127708WVIT...- .. -
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:2800 x 100 ft. / 853 x 30 m
+Surface:turf
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Obstructions:75 ft. pline, 1300 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JERRY W. MULLINSPO BOX 908SALEM, VA 24153Phone 540-537-2406
+Manager:JERRY W. MULLINSPO BOX 908SALEM, VA 24153Phone 540-537-2406
+
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at VG25.
+Some nearby airports with instrument procedures:
+W90 - New London Airport (12 nm E)
+W91 - Smith Mountain Lake Airport (14 nm S)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (18 nm E)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (19 nm W)
+W24 - Falwell Airport (22 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Robinson Airport?
+Find the distance to fly.
+From 
+to VG25
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:48:37
+Local (UTC-5)19-Jan-2024 16:48:37
+
+
+
+
+   
+
+METAR
+
+
+KLYH18nm E192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+KROA19nm W192054Z 29015G24KT 10SM BKN042 M01/M07 A2992 RMK AO2 PK WND 30033/2004 SLP141 T10061072 51032 $
+
+K0V429nm SE192135Z AUTO 10SM CLR 02/M09 A2991 RMK AO1
+
+
+
+
+
+TAF
+
+
+KLYH18nm E191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+KROA19nm W191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Robinson Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Robinson Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

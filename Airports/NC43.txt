@@ -1,0 +1,314 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC43 - Bear Pen Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1601 users online
+ 
+
+
+
+
+NC43
+ Bear Pen AirportSupply, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SUPPLY?
+
+
+ 
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC43
+Lat/Long:34-07-30.6120N 078-20-17.0090W34-07.510200N 078-20.283483W34.1251700,-78.3380581(estimated)
+Elevation:63 ft. / 19.2 m (surveyed)
+Variation:07W (1985)
+From city:8 miles NW of SUPPLY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28462
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at SUT (18 nm SE):124.175 (910-457-1710)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ILMr246/26.7WILMINGTON VORTAC117.0007W
+CREr049/26.8GRAND STRAND VORTAC114.4003W
+
+
+NDBnameHdg/DistFreqVarID
+CAMP123/20.622707WCPC-.-. .--. -.-.
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:6000 x 150 ft. / 1829 x 46 m
+Surface:turf
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+
+Runway 18/36
+
+Dimensions:6000 x 200 ft. / 1829 x 61 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:RESOURCE MANAGEMENT SERVICE, LLC2704-C EXCHANGE DRIVEWILMINGTON, NC 28405
+Manager:ROBERT EVANS2704-C EXCHANGE DRIVEWHITEVILLE, NC 28405Phone 910-777-4931
+
+Additional Remarks
+
+-FACILITY USED BY NC FOREST SVC FOR FIRE CONTROL.
+-NOT MAINTAINED DURING OFF SEASON; USE NOT RECOMMENDED DURING FIRE SEASON.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC43.
+Some nearby airports with instrument procedures:
+KSUT - Cape Fear Regional Jetport/Howie Franklin Field Airport (18 nm SE)
+KCPC - Columbus County Municipal Airport (21 nm NW)
+KILM - Wilmington International Airport (23 nm E)
+5J9 - Twin City Airport (26 nm W)
+KCRE - Grand Strand Airport (27 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bear Pen Airport?
+Find the distance to fly.
+From 
+to NC43
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:1912:19
+Sunset17:3022:30
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:18
+Local (UTC-5)19-Jan-2024 15:44:18
+
+
+
+
+   
+
+METAR
+
+
+KSUT17nm SE192030Z AUTO 29013G26KT 10SM SCT070 15/02 A2980 RMK AO2 T01450016
+
+KCPC21nm NW192030Z AUTO 31011KT 10SM SCT050 BKN065 BKN080 13/01 A2983 RMK AO2 T01290010
+
+KILM23nm E191953Z 27019G30KT 10SM FEW060 SCT075 16/02 A2977 RMK AO2 PK WND 29031/1912 SLP081 T01560017
+
+KCRE26nm SW191953Z 28009G22KT 10SM FEW060 15/02 A2978 RMK AO1 PK WND 29028/1933 SLP086 T01500022
+
+KEYF31nm NW192030Z AUTO 30019G26KT 10SM SCT060 13/M01 A2981 RMK AO2 T01311008
+
+
+
+
+
+TAF
+
+
+KILM23nm E191732Z 1918/2018 28016G26KT P6SM FEW040 FM200000 31012G18KT P6SM SKC FM200300 31008KT P6SM SKC 
+
+KCRE26nm SW191732Z 1918/2018 28012G23KT P6SM FEW040 FM200000 32011G19KT P6SM SKC FM200600 32009KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bear Pen Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bear Pen Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

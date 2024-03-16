@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 0MD2 - Squier Landing Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1434 users online
+ 
+
+
+
+
+0MD2
+ Squier Landing AirportCobb Island, Maryland, USA 
+
+
+
+
+
+
+GOING TO COBB ISLAND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:0MD2
+Lat/Long:38-17-16.4620N 076-52-02.8910W38-17.274367N 076-52.048183W38.2879061,-76.8674697(estimated)
+Elevation:16 ft. / 5 m (estimated)
+Variation:09W (1985)
+From city:2 miles NW of COBB ISLAND, MD
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:20645
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1979
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at 2W6 (15 nm E):119.575 (301-373-6514)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PXTr280/22.0PATUXENT VORTAC117.6010W
+BRVr106/23.0BROOKE VORTAC114.5009W
+ADWr190/31.2ANDREWS VORTAC113.1010W
+DCAr176/35.2WASHINGTON VOR/DME111.0009W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT280/21.940010WNHK-. .... -.-
+DAVEE162/25.222309WDAA-.. .- .-
+SHANNON097/27.523710WEZF. --.. ..-.
+OXONN176/29.633211WDCA-.. -.-. .-
+
+Airport Services
+
+
+Runway Information
+Runway 12/30
+
+Dimensions:2200 x 30 ft. / 671 x 9 m
+Surface:turf
+Runway edge lights:low intensity
+RUNWAY 12RUNWAY 30
+Latitude:38-17.274367N
+Longitude:076-52.048183W
+Elevation:16.0 ft.
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JONG TAE HYON12405 POTOMAC VIEW DRIVENEWBURG, MD 20664Phone 301-674-9026
+Manager:JONG TAE HYON12405 POTOMAC VIEW DRIVENEWBURG, MD 20664Phone 301-674-9026
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 0MD2.
+Some nearby airports with instrument procedures:
+2W6 - St Mary's County Regional Airport (15 nm E)
+2W5 - Maryland Airport (21 nm NW)
+KNHK - Patuxent River Naval Air Station (Trapnell Field) Airport (22 nm E)
+KNYG - Quantico Marine Corps Air Facility (Turner Field) (24 nm NW)
+KXSA - Tappahannock/Essex County Airport (26 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Squier Landing Airport?
+Find the distance to fly.
+From 
+to 0MD2
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2212:22
+Sunset17:1422:14
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:56:40
+Local (UTC-5)19-Jan-2024 16:56:40
+
+
+
+
+   
+
+METAR
+
+
+K2W615nm E192130Z AUTO 00000KT 4SM OVC010 00/M01 A2986 RMK AO1
+
+KNHK22nm E192059Z 29013G19KT 2SM -SN SCT013 BKN019 OVC024 01/M02 A2981 RMK AO2 SFC VIS 3 P0000 T00111022 $
+
+KNUI22nm SE192138Z AUTO 30012G20KT 2 1/2SM -SN BR SCT012 BKN019 OVC075 00/M02 A2984 RMK AO2 P0000 T00001017
+
+KNYG23nm NW192056Z AUTO 31010KT 7SM FEW027 BKN055 OVC070 01/ A2987 RMK AO2 SNE18 SLP117 P0000 60000 T0011 53029 $
+
+KXSA26nm S192135Z AUTO 31005KT 10SM SCT019 BKN050 BKN065 01/M02 A2987 RMK AO2 T00051023
+
+KEZF27nm W192135Z AUTO 34004KT 5SM -RA SCT023 BKN048 OVC065 01/M02 A2987 RMK AO2 P0001 T00051019
+
+KRMN28nm W192135Z AUTO 31003KT 5SM -SN SCT016 BKN041 OVC060 M01/M03 A2987 RMK AO2 T10101032
+
+KDAA29nm NW192140Z AUTO 30009G15KT 4SM -SN BKN012 00/M03 A2986 RMK AO2 RAB03E17SNB17 CIG 012V041 BKN V FEW SLP115 $
+
+
+
+
+
+TAF
+
+
+KNHK22nm E1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+KNYG23nm NW1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Squier Landing Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Squier Landing Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3A4 - Greensboro Executive Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1444 users online
+ 
+
+
+
+
+3A4
+ Greensboro Executive AirportGreensboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GREENSBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3A4
+Lat/Long:35-56-31.0000N 079-41-07.8000W35-56.516667N 079-41.130000W35.9419444,-79.6855000(estimated)
+Elevation:739 ft. / 225 m (estimated)
+Variation:06W (1985)
+From city:8 miles SE of GREENSBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27233
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1979
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0700 TO 1700
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MIRL RWY 17/35, 5 CLICKS ONLY - CTAF MORE THAN 5 LOCK OUT CTL FOR 10 MIN.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX ASOS at BUY (12 nm NE):135.325 (336-570-9813)
+WX ASOS at GSO (16 nm NW):128.55 (336-393-0168)
+WX AWOS-3 at SCR (17 nm SE):125.775 (919-663-1252)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr339/8.6LIBERTY VORTAC113.0003W
+GSOr117/15.4GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+ALAMM254/5.336108WHB.... -...
+SLAMMER179/26.642307WSIF... .. ..-.
+PERSON248/34.822008WHUR.... ..- .-.
+
+Airport Services
+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 17/35
+
+Dimensions:3063 x 30 ft. / 934 x 9 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:8.0
+Runway edge lights:medium intensityONLY TWO END LGTS EACH SIDE.
+Runway edge markings:RWY NRS SMALLER THAN STD.
+RUNWAY 17RUNWAY 35
+Latitude:35-56.759885N35-56.273913N
+Longitude:079-41.214925W079-41.046195W
+Elevation:672.0 ft.739.0 ft.
+Traffic pattern:leftleft
+Runway heading:170 magnetic, 164 true350 magnetic, 344 true
+Markings:NSTD, in fair conditionNSTD, in fair condition
+Obstructions:13 ft. trees, 292 ft. from runway, 45 ft. left of centerline, 7:1 slope to clearHAS 20 FT TREES 20-200 FT FM THR, OFFSET 25 FT R OF CNTRLN.77 ft. trees, 529 ft. from runway, 4:1 slope to clear5 FT BERM 72 FT FR THR OFFSET 46 FT RIGHT OF CNTRLN AND 20 FT TREES 101 FT FM THR OFFSET 75 FT RIGHT OF CNTRLN AND 36 FT TREES 196 FT FM THR OFFSET 105 FT RIGHT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:3A4, LLC4505 SELLERS AVEGREENSBORO, NC 27407-0007Phone 336-420-8623
+Manager:ANTHONY VOGT6334 MONNETT ROADCLIMAX, NC 27233-8088Phone 336-420-8623
+
+Airport Operational Statistics
+
+Aircraft based on the field:38Single engine airplanes:33Multi engine airplanes:5
+Aircraft operations: avg 105/week*55%local general aviation36%transient general aviation9%military* for 12-month period ending 26 June 2022
+Additional Remarks
+
+-RWY 17 UPHILL LNDG PREF.
+-NMRS +50 FT TREES IN THE APCHS & ALONG THE SIDES OF THE RWY; NMRS +15 FT TREES IN THE PRIM SFC.
+-RWY 17 HAS 50 FT DROP-OFF 60 FT FROM RWY END OFFSET 30 FT BOTH SIDES OF CNTRLN.
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+-RWY 17/35 TURN-AROUNDS ARE PART OF THE RWY THERE IS NO RUNUP AREA AT EITHER END.
+
+Instrument Procedures
+There are no published instrument procedures at 3A4.
+Some nearby airports with instrument procedures:
+KBUY - Burlington/Alamance Regional Airport (12 nm NE)
+KGSO - Piedmont Triad International Airport (16 nm NW)
+KSCR - Siler City Municipal Airport (17 nm SE)
+KHBI - Asheboro Regional Airport (20 nm SW)
+KINT - Smith Reynolds Airport (28 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Michael Eversole
+Photo taken 07-Feb-2015
+from 3,500 ft looking north.
+
+Do you have a better or more recent aerial photo of Greensboro Executive Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Greensboro Executive Airport?
+Find the distance to fly.
+From 
+to 3A4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2812:28
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:54:55
+Local (UTC-5)19-Jan-2024 16:54:55
+
+
+
+
+   
+
+METAR
+
+
+KBUY12nm NE192054Z AUTO 29019G32KT 10SM CLR 05/M09 A2990 RMK AO2 PK WND 25034/2021 SLP126 T00501089 53042
+
+KGSO16nm NW192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KSCR17nm SE192125Z AUTO 28008G18KT 230V320 10SM CLR 05/M09 A2993 RMK AO2 T00531094
+
+KHBI20nm SW191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+
+
+
+
+TAF
+
+
+KGSO16nm NW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Greensboro Executive Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Greensboro Executive Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

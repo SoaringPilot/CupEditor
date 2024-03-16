@@ -1,0 +1,430 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KHVS - Hartsville Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1576 users online
+ 
+
+
+
+
+KHVS
+ Hartsville Regional AirportHartsville, South Carolina, USA 
+
+
+
+
+
+
+GOING TO HARTSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:HVS
+Lat/Long:34-24-11.1000N 080-07-09.2000W34-24.185000N 080-07.153333W34.4030833,-80.1192222(estimated)
+Elevation:363.5 ft. / 110.8 m (surveyed)
+Variation:07W (2000)
+From city:3 miles NW of HARTSVILLE, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29550
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:04/1959
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:0800-1700
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT PAPI RWY 03 & 21 - CTAF. MIRL RWY 03/21 PRESET LOW INTST DUSK-2100; TO INCR INTST AND ACTVT MIRL 03/21 AFTER 2100 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:118.225 (843-339-9625)
+SHAW APPROACH:125.4 [0600-2345]
+SHAW DEPARTURE:125.4 [0600-2345]
+WX AWOS-3PT at UDG (12 nm E):119.925 (843-393-8220)
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ARTCC ON FREQS 124.7/269.55 (COLUMBIA RCAG) WHEN SHAW APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr156/16.7CHESTERFIELD VOR/DME114.5503W
+FLOr297/25.1FLORENCE VORTAC115.2003W
+
+
+NDBnameHdg/DistFreqVarID
+HARTSVILLEat field34107WHVS.... ...- ...
+DARLINGTON264/11.724506WUDG..- -.. --.
+BENNETTSVILLE244/23.123008WBES-... . ...
+SUMTER033/27.525207WSMS... -- ...
+EVANS338/37.242006WCFY-.-. ..-. -.--
+DILLON275/37.227409WDLC-.. .-.. -.-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:5000 x 75 ft. / 1524 x 23 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:PCN 5  /F/C/Y/TSingle wheel:16.0Double wheel:25.5
+Runway edge lights:medium intensity
+RUNWAY 3RUNWAY 21
+Latitude:34-23.803445N34-24.565410N
+Longitude:080-07.343215W080-06.963923W
+Elevation:342.3 ft.363.5 ft.
+Traffic pattern:rightleft
+Runway heading:029 magnetic, 022 true209 magnetic, 202 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:no
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:none24 ft. tree, 679 ft. from runway, 248 ft. left of centerline, 19:1 slope to clear10 FT TALL TREE 230 FT R OF RWY 21 CENTERLINE, 48 FT FM RWY END.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF HARTSVILLEPO BOX 2497HARTSVILLE, SC 29550Phone 843-383-3007
+Manager:MARK DEFIELDS1083 HARTSVILLE AIRPORT ROADHARTSVILLE, SC 29550Phone 910-284-3166CELL: 910-284-3166
+
+Airport Operational Statistics
+
+Aircraft based on the field:14Single engine airplanes:13Multi engine airplanes:1
+Aircraft operations: avg 102/week*58%local general aviation33%transient general aviation6%military4%air taxi* for 12-month period ending 16 June 2021
+Additional Remarks
+
+-+300 FT ANT 2.5 MI SW OF ARPT.
+-FOR CD CTC SHAW APCH AT 803-895-4884, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 03
+download (202KB)
+RNAV (GPS) RWY 21
+download (197KB)
+VOR-A
+download (171KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (588KB)
+
+Other nearby airports with instrument procedures:
+KUDG - Darlington County Airport (12 nm E)
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (20 nm NE)
+KBBP - Marlboro County Jetport - H E Avent Field (23 nm NE)
+KPYG - Pageland Airport (23 nm NW)
+KCDN - Woodward Field Airport (23 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by King Martin
+Photo taken 25-Jan-2016
+looking northeast.
+
+Do you have a better or more recent aerial photo of Hartsville Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hartsville Regional Airport?
+Find the distance to fly.
+From 
+to KHVS
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:15:36
+Local (UTC-5)19-Jan-2024 16:15:36
+
+
+
+
+   
+
+METAR
+
+
+KHVS192055Z AUTO VRB06G15KT 250V360 10SM SCT060 11/M06 A2990 RMK AO2
+
+KUDG12nm E192056Z AUTO 31019G26KT 10SM BKN065 11/M03 A2989 RMK AO2 PK WND 32030/2026 SLP123 T01111033 53024
+
+
+
+
+
+TAF
+
+
+KFLO23nm SE191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+RiseAero, LLC
+
+843-383-1088[email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangar leasing / sales, Passenger terminal and lounge, ...
+
+
+
+More info about RiseAero, LLC
+
+
+
+
+
+100LL Jet AFS---$5.79SS$5.89$5.79Updated 09-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hartsville Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hartsville Regional Airport
+
+
+
+hartsvillesc.gov/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

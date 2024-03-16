@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3NC4 - McComb Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1484 users online
+ 
+
+
+
+
+3NC4
+ McComb Field AirportMarshville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MARSHVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3NC4
+Lat/Long:35-03-12.5390N 080-24-32.2320W35-03.208983N 080-24.537200W35.0534831,-80.4089533(estimated)
+Elevation:545 ft. / 166 m (estimated)
+Variation:05W (1985)
+From city:5 miles NW of MARSHVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28103
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/1983
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at EQY (11 nm W):135.775 (704-283-5185)
+WX AWOS-3 at AFP (16 nm E):119.325 (704-695-0623)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr348/25.1CHESTERFIELD VOR/DME114.5503W
+CLTr112/27.9CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA109/37.726006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:4000 x 100 ft. / 1219 x 30 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ERIC MCCOMB2708 MILLS HARRIS ROADMARSHVILLE, NC 28103Phone 704-904-9708
+Manager:ERIC MCCOMB2708 MILLS HARRIS ROADMARSHVILLE, NC 28103Phone 704-904-9708
+
+Airport Operational Statistics
+
+Aircraft based on the field:7Single engine airplanes:6Multi engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 3NC4.
+Some nearby airports with instrument procedures:
+KEQY - Charlotte-Monroe Executive Airport (11 nm W)
+KAFP - Anson County Airport - Jeff Cloud Field (16 nm E)
+KPYG - Pageland Airport (19 nm S)
+N52 - JAARS-Townsend Airport (20 nm SW)
+KJQF - Concord-Padgett Regional Airport (25 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to McComb Field Airport?
+Find the distance to fly.
+From 
+to 3NC4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:2912:29
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:31:47
+Local (UTC-5)19-Jan-2024 16:31:47
+
+
+
+
+   
+
+METAR
+
+
+KEQY10nm W192053Z AUTO 33015G26KT 10SM CLR 07/M09 A2994 RMK AO2 PK WND 32032/2039 SLP154 T00721089 53041
+
+KAFP16nm E192110Z AUTO 30017G25KT 10SM SCT075 08/M10 A2995 RMK AO2 T00831099
+
+
+
+
+
+TAF
+
+
+KCLT28nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the McComb Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about McComb Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

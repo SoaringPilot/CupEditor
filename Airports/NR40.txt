@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR40 - Als Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+NR40
+ Als AirportBethel, North Carolina, USA 
+
+
+
+
+
+
+GOING TO BETHEL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR40
+Lat/Long:35-49-15.0000N 077-22-44.0000W35-49.250000N 077-22.733333W35.8208333,-77.3788889(estimated)
+Elevation:65 ft. / 20 m (estimated)
+From city:1 mile N of BETHEL, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27812
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/2017
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at MCZ (10 nm E):118.65 (252-802-4261)
+WX AWOS-3P at ETC (11 nm NW):119.575 (252-641-1640)
+WX AWOS-3 at PGV (11 nm S):128.425 (252-758-6485)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr126/18.4TAR RIVER VORTAC117.8005W
+ISOr023/28.4KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD006/6.823009WAQE.- --.- .
+CHOCOWINITY333/22.938808WRNW.-. -. .--
+
+Airport Services
+
+
+Runway Information
+Runway 11/29
+
+Dimensions:3200 x 75 ft. / 975 x 23 m
+Surface:turf
+RUNWAY 11RUNWAY 29
+Traffic pattern:rightleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JIMMY RODNEY WILLIFORD7703 HIGHWAY 11 BUSINESSBETHEL, NC 27812Phone 252-825-0877
+Manager:JIMMY RODNEY WILLIFORD7703 HIGHWAY 11 BUSINESSBETHEL, NC 27812Phone 252-714-5838
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NR40.
+Some nearby airports with instrument procedures:
+KMCZ - Martin County Airport (10 nm E)
+KETC - Tarboro-Edgecombe Airport (11 nm NW)
+KPGV - Pitt-Greenville Airport (11 nm S)
+KOCW - Washington-Warren Airport (22 nm SE)
+KRWI - Rocky Mount/Wilson Regional Airport (25 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Als Airport?
+Find the distance to fly.
+From 
+to NR40
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:2222:22
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:09
+Local (UTC-5)19-Jan-2024 15:44:09
+
+
+
+
+   
+
+METAR
+
+
+KMCZ10nm E192025Z AUTO 32010KT 10SM SCT046 OVC050 09/M01 A2979 RMK AO2 T00851010
+
+KETC11nm NW192025Z AUTO 30013G18KT 7SM SCT050 OVC070 07/M02 A2981 RMK AO2 T00731020
+
+KPGV12nm S192025Z AUTO 34008KT 10SM SCT060 BKN070 OVC080 10/00 A2978 RMK AO2
+
+
+
+
+
+TAF
+
+
+KPGV12nm S191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Als Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Als Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

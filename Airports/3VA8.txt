@@ -1,0 +1,371 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3VA8 - Garner Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1575 users online
+ 
+
+
+
+
+3VA8
+ Garner AirportWindsor, Virginia, USA 
+
+
+
+
+
+
+GOING TO WINDSOR?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3VA8
+Lat/Long:36-51-22.5370N 076-40-55.8410W36-51.375617N 076-40.930683W36.8562603,-76.6821781(estimated)
+Elevation:80 ft. / 24.4 m (surveyed)
+Variation:09W (1985)
+From city:5 miles NE of WINDSOR, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23487
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1970
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SFQ (11 nm S):119.375 (757-934-3942)
+WX AWOS-3PT at PVG (12 nm E):118.375 (757-465-2175)
+WX AWOS-3PT at FKN (14 nm SW):124.675 (757-562-8765)
+WX ASOS at AKQ (17 nm NW):128.325 (757-899-2300)
+WX ASOS at PHF (19 nm NE):PHONE 757-874-3682
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FKNr071/18.0FRANKLIN VORTAC110.6009W
+ORFr272/23.2NORFOLK VORTAC116.9007W
+CVIr026/30.4COFIELD VORTAC114.6009W
+HPWr150/35.1HOPEWELL VORTAC114.3506W
+HCMr185/35.6HARCUM VORTAC108.8007W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD127/17.127411WAKQ.- -.- --.-
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway N/S
+
+Dimensions:2600 x 75 ft. / 792 x 23 m
+Surface:turf
+RUNWAY NRUNWAY S
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:TIDEWATER SOARING FOUNDATION1400 MAQRUDER RDSMITHFIELD, VA 23430Phone 757-357-2360
+Manager:LOUIS J. GLAAB1400 MAQRUDER RDSMITHFIELD, VA 23430Phone 757-751-5924WEEKENDS ONLY.
+
+Airport Operational Statistics
+
+Aircraft based on the field:27Single engine airplanes:2Gliders airplanes:25
+Additional Remarks
+
+-GLDR OPS ON WKENDS. 123.3
+-TO OBTAIN LNDG PMSN CALL W.E. LAINE, JR.,  757-377-6174 (NIGHTS & WKENDS & DAYS).
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 3VA8.
+Some nearby airports with instrument procedures:
+KSFQ - Suffolk Executive Airport (11 nm S)
+KPVG - Hampton Roads Executive Airport (12 nm E)
+KFKN - Franklin Regional Airport (14 nm SW)
+KFAF - Felker Army Airfield (17 nm N)
+KAKQ - Wakefield Municipal Airport (17 nm NW)
+KPHF - Newport News/Williamsburg International Airport (19 nm NE)
+KNHU - Norfolk Naval Station Airport (19 nm E)
+KNGU - Norfolk Naval Station (Chambers Field) (19 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 01-May-2018
+looking west.
+
+Do you have a better or more recent aerial photo of Garner Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Garner Airport?
+Find the distance to fly.
+From 
+to 3VA8
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:10:42
+Local (UTC-5)19-Jan-2024 16:10:42
+
+
+
+
+   
+
+METAR
+
+
+KSFQ11nm S192055Z AUTO 33010G19KT 300V010 10SM SCT033 SCT043 OVC075 06/00 A2981 RMK AO2 T00561001
+
+KPVG12nm E192056Z AUTO 30008G18KT 10SM FEW030 BKN043 OVC055 05/M01 A2981 RMK AO2 RAB17E31 SLP095 P0000 6//// T00501006 53033
+
+KFKN14nm SW192055Z AUTO 30011G22KT 10SM SCT032 BKN060 OVC075 05/M03 A2982 RMK AO2 T00501034
+
+KFAF16nm N192055Z 30019G27KT 10SM SCT035 BKN050 BKN060 04/M03 A2978 RMK AO2A PK WND 29030/10 SLP088 60000 T00421027 53035 TSNO $
+
+KAKQ17nm NW192054Z AUTO 31007G15KT 290V350 10SM BKN034 BKN043 OVC070 04/M02 A2982 RMK AO2 SLP101 T00441022 53034
+
+KPHF19nm NE192054Z 31021G31KT 10SM FEW034 SCT060 OVC075 04/M03 A2981 RMK AO2 PK WND 28031/2012 SLP094 T00391028 53033
+
+KLFI20nm NE192055Z 30012G24KT 10SM FEW038 OVC060 05/M03 A2979 RMK AO2A PK WND 30029/25 PRESRR SLP094 T00461034 53034 $
+
+KNGU20nm E192059Z 31026G35KT 10SM SCT035 BKN060 OVC080 05/M03 A2981 RMK AO2 PK WND 29035/2002 SLP095 T00501033 53034
+
+KCPK21nm SE192055Z AUTO 30010G21KT 10SM SCT031 BKN075 OVC080 05/M02 A2979 RMK AO2 T00521019
+
+
+
+
+
+TAF
+
+
+KFAF16nm N191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KPHF19nm NE191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KLFI20nm NE191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Garner Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Garner Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

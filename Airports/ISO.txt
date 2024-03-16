@@ -1,0 +1,463 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KISO - Kinston Regional Jetport at Stallings Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1536 users online
+ 
+
+
+
+
+KISO
+ Kinston Regional Jetport at Stallings FieldKinston, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KINSTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ISO
+Lat/Long:35-19-53.1580N 077-36-31.7880W35-19.885967N 077-36.529800W35.3314328,-77.6088300(estimated)
+Elevation:92.9 ft. / 28.3 m (surveyed)
+Variation:09W (2000)
+From city:3 miles NW of KINSTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28504
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1944
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:ISO (NOTAM-D service available)
+Attendance:0630-2200
+Wind indicator:lighted
+Segmented circle:yes
+Lights:WHEN ATCT CLSD ACTVT MALSR RWY 05; REIL RWY 23; HIRL RWY 05/23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index A
+Airline operations:CLSD TO UNSKED ACR OPNS WITH MORE THAN 30 PSGR SEATS EXCP 24 HR PPR CALL AMGR 252-523-1351.
+
+Airport Communications
+
+CTAF:120.6
+UNICOM:122.95
+WX AWOS-3:132.75 (252-522-2712)
+KINSTON GROUND:121.9 [0630-2200]
+KINSTON TOWER:120.6 335.55 [0630-2200]
+SEYMOUR JOHNSON APPROACH:127.3
+SEYMOUR JOHNSON DEPARTURE:127.3
+EMERG:121.5 243.0
+WX AWOS-3PT at GSB (17 nm W):317.625
+WX AWOS-3P at GWW (19 nm NW):118.975 (919-731-4473)
+
+
+COMMUNICATIONS PRVDD BY RALEIGH RADIO ON FREQ 122.15R (KINSTON RCO).
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG) WHEN APCH CTL CLSD.
+PHONE # 252-523-1351
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr231/3.4KINSTON VORTAC117.5005W
+EWNr307/31.7NEW BERN VOR/DME113.6008W
+TYIr178/39.0TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+STALS049/6.827609WIS.. ...
+ALWOOD216/25.323009WAQE.- --.- .
+CHOCOWINITY254/26.838808WRNW.-. -. .--
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:11498 x 150 ft. / 3505 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 53 /F/A/W/TSingle wheel:120.0Double wheel:219.0Double tandem:404.0Dual double tandem:901.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:35-19.171835N35-20.600007N
+Longitude:077-37.289867W077-35.769510W
+Elevation:91.2 ft.86.2 ft.
+Traffic pattern:leftleft
+Runway heading:050 magnetic, 041 true230 magnetic, 221 true
+Displaced threshold:538 ft.no
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdownrollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:none57 ft. pole, 2150 ft. from runway, 350 ft. left of centerline, 34:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:NORTH CAROLINA2780 JETPORT ROADKINSTON, NC 23504Phone 252-775-6185
+Manager:RICHARD W. BARKES2780 JETPORT ROAD SUITE IKINSTON, NC 28504Phone 252-775-6185KINSTON REGIONAL JETPORT (DIRECTOR OF OPERATIONS).
+
+Airport Operational Statistics
+
+Aircraft based on the field:52Single engine airplanes:20Jet airplanes:31Helicopters:1
+Aircraft operations: avg 94/day*48%military25%local general aviation20%transient general aviation6%air taxi<1%commercial* for 12-month period ending 20 June 2022
+Additional Remarks
+
+-ALS UNMON WHEN ATCT IS CLSD.
+-FOR CD IF UNA TO CTC ON FSS FREQ, CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05
+download (287KB)
+RNAV (GPS) RWY 05
+download (294KB)
+RNAV (GPS) RWY 23
+download (271KB)
+
+NOTE: Special Alternate Minimums apply
+download (142KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (355KB)
+
+Other nearby airports with instrument procedures:
+KGSB - Seymour Johnson Air Force Base (17 nm W)
+KGWW - Wayne Executive Jetport Airport (19 nm NW)
+KPGV - Pitt-Greenville Airport (21 nm NE)
+W40 - Mount Olive Municipal Airport (22 nm W)
+KDPL - Duplin County Airport (27 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Photo taken 14-Mar-2012
+from 5,500' looking north. 
+
+Do you have a better or more recent aerial photo of Kinston Regional Jetport at Stallings Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Kinston Regional Jetport at Stallings Field?
+Find the distance to fly.
+From 
+to KISO
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:2422:24
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:23:01
+Local (UTC-5)19-Jan-2024 16:23:01
+
+
+
+
+   
+
+METAR
+
+
+KISO192056Z 35008G15KT 10SM SCT065 BKN075 11/M00 A2981
+
+KGSB18nm W192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KGWW19nm NW192050Z AUTO 30011G17KT 10SM OVC065 10/M02 A2981 RMK AO2 T00961016
+
+KPGV20nm NE192045Z AUTO 31009G20KT 10SM SCT055 OVC080 10/M01 A2980 RMK AO2
+
+
+
+
+
+TAF
+
+
+KISO191727Z 1918/2018 30016G27KT P6SM SCT050 FM200300 31011G20KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KGSB18nm W191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+KPGV20nm NE191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Kinston Jet Center
+
+252-208-7715252-208-7716[email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, GPU / Power cart, Passenger terminal and lounge, Rental cars delivered, ...
+
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Kinston Jet Center
+
+
+
+
+
+Titan100LL Jet AFS$4.53$5.61GUARANTEED
+
+
+
+
+2readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Kinston Regional Jetport at Stallings Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Kinston Regional Jetport at Stallings Field
+
+
+
+www.ncgtp.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

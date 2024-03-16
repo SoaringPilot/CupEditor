@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KCPC - Columbus County Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1635 users online
+ 
+
+
+
+
+KCPC
+ Columbus County Municipal AirportWhiteville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WHITEVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:CPC
+Lat/Long:34-16-22.3340N 078-42-53.9540W34-16.372233N 078-42.899233W34.2728706,-78.7149872(estimated)
+Elevation:99.4 ft. / 30.3 m (surveyed)
+Variation:07W (1985)
+From city:3 miles S of WHITEVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28472
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:CPC (NOTAM-D service available)
+Attendance:MON-SAT 0800-1800,  ALL SUN 0900-1800FOR EMERGENCY SERVICE AFTER HRS CALL 910-654-3389 OR 910-625-5489.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 06 & 24; MIRL RWY 06/24 - CTAF. PAPI RWY 06 & 24 ON CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:118.375 (910-642-7508)
+MYRTLE BEACH APPROACH:119.2
+MYRTLE BEACH DEPARTURE:119.2
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ARTCC  ON FREQS 134.375/317.550 (MYRTLE BEACH RCAG) WHEN MYRTLE BEACH APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CREr004/27.5GRAND STRAND VORTAC114.4003W
+
+
+NDBnameHdg/DistFreqVarID
+CAMPat field22707WCPC-.-. .--. -.-.
+DILLON117/34.127409WDLC-.. .-.. -.-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:FUEL 24 HR CREDIT CARD SVC AVBL.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:5500 x 75 ft. / 1676 x 23 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:24.0Double wheel:30.0
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:34-16.066762N34-16.677692N
+Longitude:078-43.302767W078-42.495648W
+Elevation:99.4 ft.69.2 ft.
+Traffic pattern:leftleft
+Runway heading:055 magnetic, 048 true235 magnetic, 228 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.25 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:105 ft. trees, 2250 ft. from runway, 466 ft. left of centerline, 19:1 slope to clear71 ft. trees, 1986 ft. from runway, 223 ft. left of centerline, 25:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COLUMBUS COUNTY111 WASHINGTON STWHITEVILLE, NC 28472Phone 910-640-6601
+Manager:PHIL EDWARDS467 AIRPORT ROADWHITEVILLE, NC 28472Phone 910-642-6187
+
+Airport Operational Statistics
+
+Aircraft based on the field:31Single engine airplanes:16Multi engine airplanes:2Helicopters:13
+Aircraft operations: avg 46/day*60%transient general aviation22%local general aviation13%air taxi6%military* for 12-month period ending 12 June 2021
+Additional Remarks
+
+-DEER AND TURKEYS ON INVOF ARPT.
+-ARPT UNATNDD CHRISTMAS DAY.
+-NO OFF PAVEMENT LANDING ALLOWED.
+-FOR CD CTC MYRTLE BEACH APCH AT 843-477-2727 OR 843-477-2704, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 06
+download (202KB)
+RNAV (GPS) RWY 24
+download (254KB)
+NDB RWY 06
+download (206KB)
+
+NOTE: Special Alternate Minimums apply
+download (65KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+5J9 - Twin City Airport (13 nm SW)
+KEYF - Curtis L Brown Jr. Field Airport (21 nm N)
+KLBT - Lumberton Regional Airport (26 nm NW)
+KCRE - Grand Strand Airport (28 nm S)
+KMAO - Marion County Airport (31 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by King Martin
+Photo taken 25-Jan-2016
+looking northeast.
+
+Do you have a better or more recent aerial photo of Columbus County Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Columbus County Municipal Airport?
+Find the distance to fly.
+From 
+to KCPC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:53:15
+Local (UTC-5)19-Jan-2024 15:53:15
+
+
+
+
+   
+
+METAR
+
+
+KCPC192030Z AUTO 31011KT 10SM SCT050 BKN065 BKN080 13/01 A2983 RMK AO2 T01290010
+
+
+
+
+
+TAF
+
+
+KLBT26nm NW191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+KCRE27nm S191732Z 1918/2018 28012G23KT P6SM FEW040 FM200000 32011G19KT P6SM SKC FM200600 32009KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Columbus County (FBO)
+
+910-642-6187
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Rental cars, Courtesy transportation, ...
+
+
+
+More info about Columbus County (FBO)
+
+
+
+
+
+100LL Jet AAS$5.10$4.50GUARANTEED
+
+
+
+
+4readwrite
+
+
+
+AS=Assisted/Self Service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Columbus County Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Columbus County Municipal Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

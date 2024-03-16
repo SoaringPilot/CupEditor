@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KAVC - Mecklenburg-Brunswick Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1499 users online
+ 
+
+
+
+
+KAVC
+ Mecklenburg-Brunswick Regional AirportSouth Hill, Virginia, USA 
+
+
+
+
+
+
+GOING TO SOUTH HILL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:AVC
+Lat/Long:36-41-17.8000N 078-03-16.1000W36-41.296667N 078-03.268333W36.6882778,-78.0544722(estimated)
+Elevation:441.4 ft. / 134.5 m (surveyed)
+Variation:09W (2000)
+From city:4 miles SE of SOUTH HILL, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23950
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1974
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:AVC (NOTAM-D service available)
+Attendance:0800-1700ARPT CLSD ON FED HOLS.
+Pattern altitude:1841.4 ft. MSL
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTIVATE  REIL RY 01/19; MIRL RY 01/19 PRESET LOW INTST; FOR HIGHER INTST & TO ACTVT ODALS - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:127.525 (434-729-2229)
+WX AWOS-3 at LVL (14 nm E):119.625 (434-848-2017)
+WX AWOS-3 at W31 (17 nm N):123.875 (434-676-1078)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 118.75/377.1 (GREEN BAY RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LVLr231/10.7LAWRENCEVILLE VORTAC112.9008W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE190/26.432609WBKT-... -.- -
+HUNTSBORO059/35.827109WHXO.... -..- ---
+
+Airport Services
+
+Fuel available:100LL JET-A100LL:24 HR FUEL AVBL BY CREDIT CARD.
+Parking:tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 1/19
+
+Dimensions:5002 x 75 ft. / 1525 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:25.0
+Runway edge lights:medium intensity
+RUNWAY 1RUNWAY 19
+Latitude:36-40.885488N36-41.708980N
+Longitude:078-03.246613W078-03.289460W
+Elevation:377.6 ft.441.4 ft.
+Traffic pattern:leftleft
+Runway heading:007 magnetic, 358 true187 magnetic, 178 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Approach lights:ODALS: omnidirectional approach lighting system
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:84 ft. tree, 3069 ft. from runway, 530 ft. right of centerline, 34:1 slope to clear17 ft. trees, 308 ft. from runway, 258 ft. right of centerline, 6:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:MECKLENBURG-BRUNSWICK RGNL APT COMM1495 REGIONAL AIRPORT RDBRODNAX, VA 23920-3520Phone 434-729-1002
+Manager:JOHN ZUBROD1495 REGIONAL AIRPORT RDBRODNAX, VA 23920-3520Phone 434-774-8023
+
+Airport Operational Statistics
+
+Aircraft based on the field:30Single engine airplanes:27Multi engine airplanes:2Gliders airplanes:1
+Aircraft operations: avg 44/day*52%local general aviation43%transient general aviation3%military3%air taxi* for 12-month period ending 30 July 2023
+Additional Remarks
+
+-DEER & BIRDS ON & INVOF ARPT
+-CORPORATE HANGER TAXILANE RESTRICTED TO AIRCRAFT WITH WINGSPAN NO LARGER THAN 55 FT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 01
+download (273KB)
+RNAV (GPS) RWY 19
+download (223KB)
+LOC RWY 01
+download (281KB)
+
+NOTE: Special Alternate Minimums apply
+download (78KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KLVL - Brunswick County Airport (14 nm NE)
+W31 - Lunenburg County Airport (17 nm N)
+KCXE - Chase City Municipal Airport (22 nm W)
+KBKT - Allen C Perkinson Airport/Blackstone Army Airfield (24 nm N)
+W63 - Lake Country Regional Airport (25 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Mecklenburg-Brunswick Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mecklenburg-Brunswick Regional Airport?
+Find the distance to fly.
+From 
+to KAVC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:2322:23
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:33:02
+Local (UTC-5)19-Jan-2024 16:33:02
+
+
+
+
+   
+
+METAR
+
+
+KAVC192115Z AUTO 31007G18KT 10SM SCT060 05/M08 A2992 RMK AO2 T00451076
+
+KLVL14nm E192115Z AUTO 30012G22KT 270V340 10SM BKN060 07/M07 A2985 RMK AO1 T00651070
+
+KW3117nm N192115Z AUTO 30010G21KT 250V320 10SM CLR 04/M08 A2985 RMK AO1 T00441077
+
+
+
+
+
+TAF
+
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Mecklenburg-Brunswick Regional Airport
+
+434-729-2591
+
+
+no information available
+If you are affiliated with Mecklenburg-Brunswick Regional Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet ASS$6.09$5.89Updated 15-Jan-2024
+
+
+
+
+write
+
+
+
+SS=Self service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Lake Gaston Aero Services
+
+434-729-3149
+
+
+no information available
+If you are affiliated with Lake Gaston Aero Services and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mecklenburg-Brunswick Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mecklenburg-Brunswick Regional Airport
+
+
+
+www.msinets.com/avc
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

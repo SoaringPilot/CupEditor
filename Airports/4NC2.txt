@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 4NC2 - Noles Field Airport
+
+f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1599 users online
+ 
+
+
+
+
+4NC2
+ Noles Field AirportAngier, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ANGIER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:4NC2
+Lat/Long:35-32-43.0833N 078-35-34.1188W35-32.718055N 078-35.568647W35.5453009,-78.5928108(estimated)
+Elevation:283 ft. / 86 m (estimated)
+From city:8 miles ENE of ANGIER, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27592
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/2018
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG IREG IREG
+Wind indicator:yes
+Segmented circle:yes
+Lights:SS-SR
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at JNX (10 nm E):120.225 (919-934-3851)
+WX AWOS-3 at HRJ (12 nm SW):119.025 (910-814-3946)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr164/21.7RALEIGH/DURHAM VORTAC117.2009W
+FAYr026/36.3FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT039/7.841708WHQT.... --.- -
+JURLY306/9.226309WJN.--- -.
+CLINTON351/36.041209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL MOGAS
+Parking:hangars and tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 13/31
+
+Dimensions:1400 x 40 ft. / 427 x 12 m
+Surface:turf
+Runway edge lights:low intensity
+Operational restrictions:SFC HAS ROUGH AREAS. DUE TO RWY SLP, LAND RWY 13, TKOF RWY 31. NMRS TREES, OBSTNS BOTH ENDS RWY 13/31.
+RUNWAY 13RUNWAY 31
+Latitude:35-32.766667N35-32.683333N
+Longitude:078-35.713333W078-35.450000W
+Elevation:254.0 ft.283.0 ft.
+Traffic pattern:leftleft
+
+Runway 10/28
+
+Dimensions:1000 x 60 ft. / 305 x 18 m
+Surface:turf, in good condition
+Operational restrictions:DUE TO RWY SLP, LAND RWY 10, TKOF RWY 28 IN WINDS LESS THAN 10 KT. 50 FT TREES 400 FT FM APCH END RWY 10. UNMKD PWR LINE 200 FT FM APCH END RWY 28.  MODEL ACFT OCNLLY USE RWY 10/28.
+RUNWAY 10RUNWAY 28
+Latitude:35-32.716667N35-32.700000N
+Longitude:078-35.650833W078-35.450000W
+Elevation:267.0 ft.282.0 ft.
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GREYSON OLLEN NOLES12875A NC 50 HWY NWILLOW SPRING, NC 27592Phone 919-961-1453
+Manager:GREYSON OLLEN NOLES12875A NC 50 HWY NWILLOW SPRING, NC 27592Phone 919-961-1453
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:2Ultralights:1
+Aircraft operations: 2/year100%local general aviation
+Additional Remarks
+
+-ALL TFC USE UNICOM 122.900.
+-MOWING EQPT ON AND INVOF RWY AND RAMP AREAS.
+-RWY MAY BE SOFT AFT RAINS.
+-USE ARPT AT YOUR OWN RISK.
+-PAJA, BIRDS AND WILDLIFE INVOF ARPT.
+
+Instrument Procedures
+There are no published instrument procedures at 4NC2.
+Some nearby airports with instrument procedures:
+KJNX - Johnston Regional Airport (10 nm E)
+KHRJ - Harnett Regional Jetport Airport (12 nm SW)
+KRDU - Raleigh-Durham International Airport (22 nm NW)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (25 nm W)
+KFBG - Simmons Army Airfield (30 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Greyson O. Noles, Airport Owner
+Photo taken 01-Jun-2018
+looking southwest.
+
+Do you have a better or more recent aerial photo of Noles Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Airport distance calculator
+
+
+Flying to Noles Field Airport?
+Find the distance to fly.
+From 
+to 4NC2
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2312:23
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:17
+Local (UTC-5)19-Jan-2024 15:44:17
+
+
+
+
+   
+
+METAR
+
+
+KJNX10nm E192030Z AUTO 33012G19KT 10SM OVC060 12/M02 A2982 RMK AO2
+
+KHRJ12nm SW192030Z AUTO 31016G25KT 10SM SCT080 11/M06 A2984 RMK AO2 T01091056
+
+
+
+
+
+TAF
+
+
+KRDU21nm NW191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Noles Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Noles Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

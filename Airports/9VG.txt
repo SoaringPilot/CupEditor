@@ -1,0 +1,373 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9VG - Campbell Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1617 users online
+ 
+
+
+
+
+9VG
+ Campbell Field AirportWeirwood, Virginia, USA 
+
+
+
+
+
+
+GOING TO WEIRWOOD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9VG
+Lat/Long:37-27-30.4900N 075-52-43.7500W37-27.508167N 075-52.729167W37.4584694,-75.8788194(estimated)
+Elevation:40 ft. / 12 m (estimated)
+Variation:08W (1970)
+From city:1 mile W of WEIRWOOD, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23413
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:11/1937
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:MAR-NOV DAYLIGHT HOURS,  DEC-FEB IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at MFV (13 nm NE):118.175 (757-787-5660)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CCVr050/8.7CAPE CHARLES VORTAC112.2010W
+ORFr031/37.3NORFOLK VORTAC116.9007W
+HCMr096/39.7HARCUM VORTAC108.8007W
+
+Airport Services
+
+Parking:tiedowns
+
+Runway Information
+Runway 3/21
+
+Dimensions:3000 x 100 ft. / 914 x 30 m
+Surface:turf, in good condition
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Obstructions:60 ft. pline, marked, 300 ft. from runway, 5:1 slope to clear15 ft. road, 25 ft. from runway, 1:1 slope to clear
+
+Runway 14/32
+
+Dimensions:1455 x 140 ft. / 443 x 43 m
+Surface:turf, in good condition
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftleft
+Obstructions:15 ft. road, 20 ft. from runway, 1:1 slope to clear53 ft. trees, 555 ft. from runway, 19 ft. left of centerline, 10:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CAMPBELL FIELD INC.9114 BAYFORD RDFRANKTOWN, VA 23544-0084Phone 914-772-6242
+Manager:GORDON CAMPBELL9114 BAYFORD RDFRANKTOWN, VA 23544-0084Phone 914-772-6242AIRPORT OFFICE CALL 757-442-7519.
+
+Airport Operational Statistics
+
+Aircraft based on the field:7Single engine airplanes:3Ultralights:4
+Aircraft operations: avg 22/week*87%local general aviation12%transient general aviation<1%military* for 12-month period ending 04 March 1997
+Additional Remarks
+
+-BE ALERT: 60 FT PLINES LCTD 300 FT SW OFF THE AER 03.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 9VG.
+Some nearby airports with instrument procedures:
+KMFV - Accomack County Airport (13 nm NE)
+KTGI - Tangier Island Airport (23 nm N)
+W75 - Hummel Field Airport (28 nm W)
+KLFI - Langley Air Force Base (32 nm SW)
+W41 - Crisfield-Somerset County Airport (34 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Gordon Campbell / At Altitude Gallery
+Photo taken 09-Jul-2017
+looking south.
+
+Do you have a better or more recent aerial photo of Campbell Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Campbell Field Airport?
+Find the distance to fly.
+From 
+to 9VG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1712:17
+Sunset17:1222:12
+Evening civil twilight17:4022:40
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:19
+Local (UTC-5)19-Jan-2024 15:48:19
+
+
+
+
+   
+
+METAR
+
+
+KMFV12nm NE191915Z AUTO 30014G21KT 5SM -RA BKN009 OVC014 02/01 A2968 RMK AO2 T00220005
+
+KTGI23nm N192035Z AUTO 31019KT 1 1/2SM OVC006 01/01 A2976 RMK AO1 P0003 T00140008
+
+
+
+
+
+TAF
+
+
+KLFI33nm SW191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KPHF35nm SW191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KORF37nm SW191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KNGU37nm SW1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KNTU39nm S1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1919 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191900 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0919/0923 28014KT 9000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 540009 520909 QNH2980INS TX08/1918Z TNM02/2009Z FN20008 
+
+KFAF41nm SW191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Eastern Shore Flying Service
+
+757-442-7519
+
+
+no information available
+If you are affiliated with Eastern Shore Flying Service and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+no fuel
+
+
+
+
+write
+
+
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Campbell Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Campbell Field Airport
+
+
+
+www.campbellfieldairport.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

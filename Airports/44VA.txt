@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 44VA - Big Hill Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1602 users online
+ 
+
+
+
+
+44VA
+ Big Hill AirportEagle Rock, Virginia, USA 
+
+
+
+
+
+
+GOING TO EAGLE ROCK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:44VA
+Lat/Long:37-43-52.4640N 079-48-40.1740W37-43.874400N 079-48.669567W37.7312400,-79.8111594(estimated)
+Elevation:1620 ft. / 494 m (estimated)
+Variation:07W (1990)
+From city:4 miles N of EAGLE ROCK, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24085
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/1992
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HSP (13 nm N):118.8 (540-839-5974)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr026/(25.7)WOODRUM VOR114.9008W
+ROAr032/26.3ROANOKE VOR/DME109.4004W
+MOLr258/34.9MONTEBELLO VOR/DME115.3005W
+LYHr321/39.6LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON014/31.827708WVIT...- .. -
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:2800 x 100 ft. / 853 x 30 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Displaced threshold:300 ft.300 ft.
+Obstructions:40 ft. trees, 400 ft. from runway40 ft. trees, 500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CLARE D. WEIDMAN18645 BOTETOURT RDEAGLE ROCK, VA 24085Phone 540-968-0425
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 44VA.
+Some nearby airports with instrument procedures:
+KHSP - Ingalls Field Airport (13 nm N)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (26 nm S)
+KLWB - Greenbrier Valley Airport (29 nm W)
+W90 - New London Airport (36 nm SE)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (38 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Big Hill Airport?
+Find the distance to fly.
+From 
+to 44VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3312:33
+Sunset17:2722:27
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:23
+Local (UTC-5)19-Jan-2024 15:44:23
+
+
+
+
+   
+
+METAR
+
+
+KHSP13nm N182055Z AUTO 26012KT 10SM OVC100 M01/M22 A2989 RMK AO2 T10121224
+
+KROA26nm S191954Z 30019G28KT 10SM BKN045 01/M08 A2989 RMK AO2 PK WND 32034/1934 SLP128 T00061078 $
+
+
+
+
+
+TAF
+
+
+KROA26nm S191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+KLWB29nm W191735Z 1918/2018 30012G22KT 5SM -SHSN OVC025 TEMPO 1918/1922 2SM -SHSN OVC015 FM200600 28008G19KT 6SM -SHSN OVC025 FM201500 30013G23KT P6SM -SHSN BKN035 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Big Hill Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Big Hill Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

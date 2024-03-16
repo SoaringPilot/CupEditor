@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 68NC - Winstead '76' Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1456 users online
+ 
+
+
+
+
+68NC
+ Winstead '76' AirportLeasburg, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LEASBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:68NC
+Lat/Long:36-23-58.5030N 079-07-41.0510W36-23.975050N 079-07.684183W36.3995842,-79.1280697(estimated)
+Elevation:615 ft. / 187 m (estimated)
+Variation:07W (1985)
+From city:2 miles NE of LEASBURG, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27291
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1976
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at TDF (10 nm SE):126.725 (336-364-1651)
+WX ASOS at DAN (14 nm NW):128.125 (434-799-1701)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+DANr141/(14.3)DANVILLE VOR113.1006W
+SBVr203/17.4SOUTH BOSTON VORTAC110.4005W
+RDUr341/35.8RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON351/10.422008WHUR.... ..- .-.
+HUNTSBORO292/25.327109WHXO.... -..- ---
+SLAMMER095/30.742307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:2150 x 150 ft. / 655 x 46 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:PHILIP WINSTEADPO BOX 719DANVILLE, VA 24543-0719Phone 434-793-4719
+Manager:JIM WINSTEADRT 1, BOX 104JLEESBURG, NC 27291-9801Phone 336-599-9974CALL 434-792-6352 WKDAYS. PHILIP WINSTEAD - 434-795-4719.
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 68NC.
+Some nearby airports with instrument procedures:
+KTDF - Raleigh Regional Airport at Person County (10 nm SE)
+KDAN - Danville Regional Airport (14 nm NW)
+W78 - William M Tuck Airport (23 nm NE)
+KBUY - Burlington/Alamance Regional Airport (27 nm SW)
+KHNZ - Henderson/Oxford Airport (29 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Winstead '76' Airport?
+Find the distance to fly.
+From 
+to 68NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:2822:28
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:10:41
+Local (UTC-5)19-Jan-2024 17:10:41
+
+
+
+
+   
+
+METAR
+
+
+KTDF10nm SE192145Z AUTO 29013G21KT 10SM CLR 03/M10 A2994 RMK AO2
+
+KDAN14nm NW192153Z AUTO 33011G19KT 10SM OVC037 03/M09 A2996 RMK AO2 SLP144 T00281094
+
+
+
+
+
+TAF
+
+
+KDAN14nm NW191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Winstead '76' Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Winstead '76' Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

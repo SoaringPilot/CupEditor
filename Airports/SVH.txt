@@ -1,0 +1,484 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KSVH - Statesville Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1428 users online
+ 
+
+
+
+
+KSVH
+ Statesville Regional AirportStatesville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO STATESVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SVH
+Lat/Long:35-45-53.9880N 080-57-14.0400W35-45.899800N 080-57.234000W35.7649967,-80.9539000(estimated)
+Elevation:967.8 ft. / 295.0 m (surveyed)
+Variation:08W (2015)
+From city:3 miles SW of STATESVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28677
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:03/1940
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:SVH (NOTAM-D service available)
+Attendance:MON-FRI 0700-2000,  ALL SAT-SUN 0800-2000FOR AFT HRS SVC CALL (704) 437-6617 OR (704) 880-6897.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 28; REIL RWY 10; PAPI RWY 10 & 28; HIRL RWY 10/28 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.075
+WX AWOS-3:119.225 (704-873-1978)
+KABEE STAR:126.15
+WX AWOS-3 at IPJ (20 nm SW):119.675 (704-735-6954)
+
+
+APCH/DEP SVC PRVDD BY ATLANTA ARTCC (HICKORY RCAG) ON FREQS 125.15/263.0.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr120/15.3BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr005/34.5CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+FIDDLERS092/35.139107WFIQ..-. .. --.-
+STONIA022/35.826006WGHJ--. .... .---
+
+Airport Services
+
+Fuel available:100LL JET-A JET-A1+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH
+Bulk oxygen:HIGH
+
+Runway Information
+Runway 10/28
+
+Dimensions:7003 x 100 ft. / 2135 x 30 m
+Surface:asphalt/grooved, in excellent condition
+Weight bearing capacity:Single wheel:30.0Double wheel:100.0
+Runway edge lights:high intensity
+RUNWAY 10RUNWAY 28
+Latitude:35-45.968470N35-45.831052N
+Longitude:080-57.937008W080-56.531015W
+Elevation:958.6 ft.956.9 ft.
+Traffic pattern:leftleft
+Runway heading:105 magnetic, 097 true285 magnetic, 277 true
+Displaced threshold:no550 ft.
+Declared distances:TORA:7003 TODA:7003 ASDA:6453 LDA:6453TORA:7003 TODA:7003 ASDA:7003 LDA:6453
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:49 ft. trees, 671 ft. from runway, 468 ft. left of centerline, 9:1 slope to clear46 ft. trees, 1170 ft. from runway, 560 ft. left of centerline, 21:1 slope to clearAPCH SLP 34:1 AT DSPLCD THR DUE TO +43 FT TREES 1696 FT FM DSPLCD THR AND 617 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF STATESVILLEPO BOX 1111STATESVILLE, NC 28687Phone 704-873-1111
+Manager:JOHN M. FERGUSON238 AIRPORT ROADSTATESVILLE, NC 28677Phone 704-873-1111
+
+Airport Operational Statistics
+
+Aircraft based on the field:89Single engine airplanes:45Multi engine airplanes:13Jet airplanes:30Military aircraft:1
+Aircraft operations: avg 133/day*76%transient general aviation20%local general aviation3%air taxi<1%military* for 12-month period ending 30 June 2023
+Additional Remarks
+
+-RWY 28 HAS 100 FT DROP-OFF 250 FT RIGHT OF CNTRLN.
+-NO LINE OF SIGHT BTN RWYS.
+-FOR AFTER HRS NAVL/LGT FAILURE CALL 704-880-6897.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+-TWY A AT BOTH RWY ENDS HAS 80 FT TO 100 FT DROP-OFF 50 FT FM TWY CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+KABEE THREE (RNAV)
+download (152KB)
+IAPs - Instrument Approach Procedures
+
+ILS Y OR LOC Y RWY 28**CHANGED**
+download (284KB)
+ILS Z OR LOC Z RWY 28**CHANGED**
+download (301KB)
+RNAV (GPS) RWY 10**CHANGED**
+download (204KB)
+RNAV (GPS) RWY 28**CHANGED**
+download (278KB)
+
+NOTE: Special Alternate Minimums apply
+download (163KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply**CHANGED**
+download (382KB)
+
+Other nearby airports with instrument procedures:
+14A - Lake Norman Airpark (9 nm S)
+KIPJ - Lincolnton-Lincoln County Regional Airport (20 nm SW)
+KHKY - Hickory Regional Airport (21 nm W)
+KRUQ - Mid-Carolina Regional Airport (22 nm E)
+KJQF - Concord-Padgett Regional Airport (26 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Brian Tesar
+Photo taken 04-Jul-2019
+looking southwest.
+
+Do you have a better or more recent aerial photo of Statesville Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Statesville Regional Airport?
+Find the distance to fly.
+From 
+to KSVH
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3622:36
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:57:53
+Local (UTC-5)19-Jan-2024 16:57:53
+
+
+
+
+   
+
+METAR
+
+
+KSVH192145Z AUTO 30010G19KT 10SM CLR 03/M10 A3001 RMK AO2 T00251100
+
+KIPJ20nm SW192145Z AUTO 28012G19KT 10SM SCT050 03/M09 A3002 RMK AO2 T00261090
+
+
+
+
+
+TAF
+
+
+KHKY21nm W191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+City of Statesville (FBO)
+
+
+
+UNICOM 123.075704-873-1111[web site][email]
+
+
+Airport management, Aviation fuel, Aircraft ground handling, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, ...
+
+ 
+ 
+ 
+
+
+
+
+More info about City of Statesville (FBO)
+
+
+
+
+
+100LL Jet AFS$6.55$6.69Updated 11-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Statesville Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Statesville Regional Airport
+
+
+
+www.greaterstatesville.org/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

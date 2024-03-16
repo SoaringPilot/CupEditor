@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6NC2 - Wilhelm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1468 users online
+ 
+
+
+
+
+6NC2
+ Wilhelm AirportKannapolis, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KANNAPOLIS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6NC2
+Lat/Long:35-30-40.5010N 080-33-29.2340W35-30.675017N 080-33.487233W35.5112503,-80.5581206(estimated)
+Elevation:750 ft. / 229 m (estimated)
+Variation:05W (1980)
+From city:4 miles NE of KANNAPOLIS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28083
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/1986
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:no
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at RUQ (8 nm N):118.175 (704-637-6197)
+WX AWOS-3 at JQF (10 nm SW):133.675 (704-785-2145)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr050/27.2CHARLOTTE VOR/DME115.0005W
+BZMr129/39.6BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY200/13.727506WRU.-. ..-
+STONIA063/35.126006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:1550 x 100 ft. / 472 x 30 m
+Surface:turf
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftright
+Obstructions:none50 ft. trees, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:R. E. WILHELM6300 GOLDFISH ROADKANNAPOLIS, NC 28083-8112Phone 704-792-7300
+Manager:R. E. WILHELM6300 GOLDFISH ROADKANNAPOLIS, NC 28083-8112Phone 704-792-7300
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR PRIVATE USE ONLY.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 6NC2.
+Some nearby airports with instrument procedures:
+KRUQ - Mid-Carolina Regional Airport (8 nm N)
+KJQF - Concord-Padgett Regional Airport (10 nm SW)
+14A - Lake Norman Airpark (18 nm W)
+KEXX - Davidson County Executive Airport (20 nm NE)
+KVUJ - Stanly County Airport (21 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Wilhelm Airport?
+Find the distance to fly.
+From 
+to 6NC2
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:08:34
+Local (UTC-5)19-Jan-2024 17:08:34
+
+
+
+
+   
+
+METAR
+
+
+KRUQ9nm N192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+KJQF11nm SW192150Z 30014G27KT 10SM CLR 04/M09 A3002
+
+
+
+
+
+TAF
+
+
+KCLT26nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wilhelm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wilhelm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

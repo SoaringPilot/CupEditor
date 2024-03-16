@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA20 - Painter Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1437 users online
+ 
+
+
+
+
+VA20
+ Painter Field AirportPainter, Virginia, USA 
+
+
+
+
+
+
+GOING TO PAINTER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA20
+Lat/Long:37-34-03.3350N 075-47-37.8950W37-34.055583N 075-47.631583W37.5675931,-75.7938597(estimated)
+Elevation:40 ft. / 12 m (estimated)
+From city:1 mile S of PAINTER, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23420
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/2015
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:MAR-OCT MON-SUN 0800-2000
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3 at MFV (5 nm N):118.175 (757-787-5660)
+WX AWOS-3 at TGI (18 nm NW):119.8 (757-891-2246)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CCVr046/16.4CAPE CHARLES VORTAC112.2010W
+SWLr216/33.2SNOW HILL VORTAC112.4008W
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:1200 x 100 ft. / 366 x 30 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Latitude:37-33.980167N37-34.131000N
+Longitude:075-47.711833W075-47.551333W
+Elevation:40.0 ft.40.0 ft.
+Traffic pattern:leftleft
+Runway heading:040 true220 true
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:SHORE AVIATION16620 COAL KILN RDPAINTER, VA 23420
+Manager:DONALD GUYNN16620 COAL KILN RDPAINTER, VA 23420Phone (757) 346-1134MGR EMAIL: WMCCARTER@VERIZON.NET.
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:2Ultralights:2
+Aircraft operations: 45/year100%local general aviation
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at VA20.
+Some nearby airports with instrument procedures:
+KMFV - Accomack County Airport (5 nm N)
+KTGI - Tangier Island Airport (18 nm NW)
+W41 - Crisfield-Somerset County Airport (27 nm N)
+KWAL - Wallops Flight Facility (27 nm NE)
+W75 - Hummel Field Airport (31 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Painter Field Airport?
+Find the distance to fly.
+From 
+to VA20
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1222:12
+Evening civil twilight17:4022:40
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:40:34
+Local (UTC-5)19-Jan-2024 16:40:34
+
+
+
+
+   
+
+METAR
+
+
+KMFV4nm N191915Z AUTO 30014G21KT 5SM -RA BKN009 OVC014 02/01 A2968 RMK AO2 T00220005
+
+KTGI18nm NW192115Z AUTO 30025G31KT 5SM BKN008 OVC014 01/01 A2980 RMK AO1 P0001 T00140007
+
+
+
+
+
+TAF
+
+
+KLFI41nm SW191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KPHF43nm SW191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KORF45nm SW191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KNGU45nm SW1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KNTU46nm S1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1919 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191900 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0919/0923 28014KT 9000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 540009 520909 QNH2980INS TX08/1918Z TNM02/2009Z FN20008 
+
+KFAF48nm SW191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KSBY48nm N191740Z 1918/2018 31008KT 1SM -SN BR OVC006 FM192100 32011G18KT 3/4SM -SN BR OVC009 FM200100 31011G18KT P6SM OVC012 FM200400 32011KT P6SM BKN025 FM200800 33010KT P6SM SCT040 FM201500 31015G23KT P6SM BKN040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Painter Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Painter Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

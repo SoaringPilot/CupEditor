@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 93VA - Timberdoodle Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1432 users online
+ 
+
+
+
+
+93VA
+ Timberdoodle AirportAmherst, Virginia, USA 
+
+
+
+
+
+
+GOING TO AMHERST?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:93VA
+Lat/Long:37-32-10.5120N 079-01-24.0830W37-32.175200N 079-01.401383W37.5362533,-79.0233564(estimated)
+Elevation:810 ft. / 247 m (estimated)
+Variation:08W (1990)
+From city:3 miles SE of AMHERST, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24521
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at LYH (15 nm SW):PHONE 434-237-0749
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr036/19.7LYNCHBURG VOR/DME109.2005W
+MOLr175/22.2MONTEBELLO VOR/DME115.3005W
+
+Airport Services
+
+
+Runway Information
+Runway 4/22
+
+Dimensions:1400 x 75 ft. / 427 x 23 m
+Surface:turf
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftleft
+Obstructions:none35 ft. trees, 100 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:C T HOLTRT 2 BOX 353AMHERST, VA 24521Phone 804-946-5935
+Manager:K D SCOTTRT 2 BOX 354AAMHERST, VA 24521Phone 804-946-2673
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at 93VA.
+Some nearby airports with instrument procedures:
+W24 - Falwell Airport (11 nm SW)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (15 nm SW)
+W90 - New London Airport (22 nm SW)
+0V4 - Brookneal/Campbell County Airport (24 nm S)
+KFVX - Farmville Regional Airport (30 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Timberdoodle Airport?
+Find the distance to fly.
+From 
+to 93VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:00:52
+Local (UTC-5)19-Jan-2024 17:00:52
+
+
+
+
+   
+
+METAR
+
+
+KLYH16nm SW192154Z 28007G18KT 250V320 10SM BKN055 01/M09 A2992 RMK AO2 SLP139 T00111094
+
+K0V424nm S192155Z AUTO 10SM SCT050 02/M09 A2993 RMK AO1
+
+KFVX31nm E192155Z AUTO 23004KT 10SM SCT060 03/M10 A2989 RMK AO2 T00261097
+
+
+
+
+
+TAF
+
+
+KLYH16nm SW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Timberdoodle Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Timberdoodle Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

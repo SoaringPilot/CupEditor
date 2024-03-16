@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KOCW - Washington-Warren Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1448 users online
+ 
+
+
+
+
+KOCW
+ Washington-Warren AirportWashington, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WASHINGTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:OCW
+Lat/Long:35-34-13.7000N 077-02-59.3000W35-34.228333N 077-02.988333W35.5704722,-77.0498056(estimated)
+Elevation:37.4 ft. / 11.4 m (surveyed)
+Variation:08W (1985)
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27889
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1942
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:OCW (NOTAM-D service available)
+Attendance:MON-SAT 0800-1700,  ALL SUN 1000-1700FOR SVC AFTER HRS CALL 252-946-3900.UNATNDD NEW YEARS DAY, EASTER, JULY 4TH, THANKSGIVING & CHRISTMAS.
+Wind indicator:lighted
+Segmented circle:no
+Lights:MIRL RWY 05/23 PRESET ON LOW INTST; TO INCR INTST & ACTVT PAPIS RWY 05 & 23, AND REILS RWY 05 & 23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:120.175 (252-975-6133)
+CHERRY POINT APPROACH:119.35
+CHERRY POINT DEPARTURE:119.35
+WX AWOS-3 at PGV (17 nm W):128.425 (252-758-6485)
+WX AWOS-3P at MCZ (19 nm N):118.65 (252-802-4261)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr069/27.6KINSTON VORTAC117.5005W
+EWNr008/29.8NEW BERN VOR/DME113.6008W
+
+
+NDBnameHdg/DistFreqVarID
+CHOCOWINITY045/4.638808WRNW.-. -. .--
+ALWOOD127/17.723009WAQE.- --.- .
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:FUEL 24 HR CREDIT CARD SVC AVBL.
+Parking:hangars and tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:5000 x 100 ft. / 1524 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:30.0Double wheel:38.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:35-34.002773N35-34.662990N
+Longitude:077-03.384008W077-02.780177W
+Elevation:29.6 ft.37.4 ft.
+Traffic pattern:leftleft
+Runway heading:045 magnetic, 037 true225 magnetic, 217 true
+Displaced threshold:no200 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.75 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:43 ft. trees, 665 ft. from runway, 253 ft. right of centerline, 10:1 slope to clear17 ft. road, 348 ft. from runway, 8:1 slope to clearAPCH RATIO 17:1 TO DSPLCD THLD.
+
+Runway 17/35
+
+Dimensions:5000 x 75 ft. / 1524 x 23 m
+Surface:asphalt/concrete, in fair condition
+Weight bearing capacity:Single wheel:22.0
+RUNWAY 17RUNWAY 35
+Latitude:35-34.673613N35-33.925513N
+Longitude:077-03.101230W077-02.678150W
+Elevation:37.0 ft.33.6 ft.
+Traffic pattern:leftleft
+Runway heading:163 magnetic, 155 true343 magnetic, 335 true
+Displaced threshold:500 ft.DSPLCD THLD NOT MKD AT STATED DIST OF 500 FT BUT AT 1073 FT ON RWY.no
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:39 ft. pole, 325 ft. from runway, 254 ft. left of centerline, 3:1 slope to clearAPCH RATIO 18:1 TO DSPLCD THLD DUE 127 FT TREES 2597 FT FM DSPLCD THLD OFFSET 5 FT RIGHT OF CNTRLN.16 ft. trees, 501 ft. from runway, 20 ft. right of centerline, 18:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF WASHINGTONPO BOX 1988WASHINGTON, NC 27889Phone 252-975-9302
+Manager:EARL MALPASS200 AIRPORT ROADWASHINGTON, NC 27889-9681Phone 252-946-3900
+
+Airport Operational Statistics
+
+Aircraft based on the field:26Single engine airplanes:24Multi engine airplanes:1Helicopters:1
+Aircraft operations: avg 107/week*54%local general aviation27%transient general aviation18%military2%air taxi* for 12-month period ending 07 June 2023
+Additional Remarks
+
+-TAXIWAYS NOT LIGHTED.
+-DEER & BIRDS ON & INVOF ARPT.
+-FOR CD CTC CHERRY POINT APCH AT 252-466-5960.
+-RWY 17/35 UNLGTD.
+-120 FT+ TWR 3700 FT+ FM RWY 5 THLD ON CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 05
+download (264KB)
+RNAV (GPS) RWY 23
+download (276KB)
+RNAV (GPS) RWY 35
+download (268KB)
+LOC RWY 05
+download (244KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (284KB)
+
+Other nearby airports with instrument procedures:
+KPGV - Pitt-Greenville Airport (17 nm W)
+KMCZ - Martin County Airport (19 nm N)
+KPMZ - Plymouth Municipal Airport (20 nm NE)
+KEWN - Coastal Carolina Regional Airport (30 nm S)
+KISO - Kinston Regional Jetport at Stallings Field (31 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo courtesy of N2152S, LLC
+Photo taken 01-Feb-2012
+looking south.
+
+Do you have a better or more recent aerial photo of Washington-Warren Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Washington-Warren Airport?
+Find the distance to fly.
+From 
+to KOCW
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4911:49
+Sunrise07:1712:17
+Sunset17:2122:21
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:06:18
+Local (UTC-5)19-Jan-2024 17:06:18
+
+
+
+
+   
+
+METAR
+
+
+KOCW192145Z AUTO 31013G19KT 10SM BKN050 BKN075 OVC085 08/M03 A2985 RMK AO2 T00751026
+
+KPGV17nm W192145Z AUTO 33007G15KT 10SM OVC060 07/M01 A2986 RMK AO2
+
+KMCZ19nm N192140Z AUTO 32010KT 10SM SCT065 OVC085 07/M02 A2985 RMK AO2 T00661019
+
+
+
+
+
+TAF
+
+
+KPGV17nm W191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+City of Washington
+
+252-946-3900252-975-9320[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Passenger terminal and lounge, ...
+
+
+
+More info about City of Washington
+
+
+
+
+
+Titan100LL Jet AFS$5.97$5.55SS$5.67$5.30Updated 20-Dec-2023
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Washington-Warren Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Washington-Warren Airport
+
+
+
+www.flykocw.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

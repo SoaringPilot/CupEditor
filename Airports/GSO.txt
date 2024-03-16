@@ -1,0 +1,675 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KGSO - Piedmont Triad International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1448 users online
+ 
+
+
+
+
+KGSO
+ Piedmont Triad International AirportGreensboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GREENSBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Atlantic Aero
+Cessna Citation Service Center
+Signature Aviation
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:GSO
+Lat/Long:36-06-04.7760N 079-56-28.0420W36-06.079600N 079-56.467367W36.1013267,-79.9411228(estimated)
+Elevation:925.5 ft. / 282.1 m (surveyed)
+Variation:08W (2010)
+From city:7 miles W of GREENSBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27410
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:12/1941
+Control tower:yes
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:GSO (NOTAM-D service available)
+Attendance:CONTINUOUS
+Wind indicator:lighted
+Segmented circle:yes
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index C
+International operations:customs landing rights airport 
+
+Airport Communications
+
+UNICOM:122.95
+WX ASOS:128.55 (336-393-0168)
+GREENSBORO GROUND:121.9 348.6
+GREENSBORO TOWER:119.1 290.325
+GREENSBORO APPROACH:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+GREENSBORO DEPARTURE:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+CLEARANCE DELIVERY:121.75
+BLOCC STAR:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+BROOK STAR:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+CLASS C:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+D-ATIS:128.55
+EMERG:121.5 243.0
+HENBY STAR:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+IC:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+TRAKS STAR:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+TRIAD DP:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+TRSHA DP:124.35 ;250-049 126.6 ;050-249 269.225 ;250-049 327.075 ;050-249
+WX ASOS at INT (14 nm W):PHONE 336-661-3096
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr030/3.8GREENSBORO VORTAC116.2003W
+LIBr320/23.6LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER214/18.942307WSIF... .. ..-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:HIGH/LOW
+
+Runway Information
+Runway 5R/23L
+
+Dimensions:10001 x 150 ft. / 3048 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 91 /F/C/X/TSingle wheel:120.0Double wheel:250.0Double tandem:550.0Dual double tandem:1051.0
+Runway edge lights:high intensity
+RUNWAY 5RRUNWAY 23L
+Latitude:36-05.463468N36-06.608547N
+Longitude:079-56.679492W079-55.218603W
+Elevation:899.5 ft.885.8 ft.
+Traffic pattern:leftleft
+Runway heading:054 magnetic, 046 true234 magnetic, 226 true
+Declared distances:TORA:10001 TODA:10001 ASDA:10001 LDA:10001TORA:10001 TODA:10001 ASDA:9601 LDA:9601
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on right (2.83 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)
+Centerline lights:yesyes
+Touchdown point:yes, no lightsyes, lighted
+Instrument approach:ILS/DMEILS
+
+Runway 5L/23R
+
+Dimensions:9000 x 150 ft. / 2743 x 46 m
+Surface:asphalt/grooved, in fair condition
+Weight bearing capacity:PCN 137/F/C/X/TSingle wheel:120.0Double wheel:250.0Double tandem:550.0Dual double tandem:1120.0
+Runway edge lights:high intensity
+RUNWAY 5LRUNWAY 23R
+Latitude:36-05.955348N36-06.986008N
+Longitude:079-57.542753W079-56.228122W
+Elevation:916.4 ft.855.3 ft.
+Traffic pattern:leftleft
+Runway heading:054 magnetic, 046 true234 magnetic, 226 true
+Declared distances:TORA:9000 TODA:9000 ASDA:9000 LDA:9000TORA:9000 TODA:9000 ASDA:9000 LDA:9000
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights:ALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Centerline lights:yesyes
+Touchdown point:yes, lightedyes, lighted
+Instrument approach:ILS/DMEILS/DME
+
+Runway 14/32
+
+Dimensions:6380 x 150 ft. / 1945 x 46 m
+Surface:asphalt/grooved, in fair condition
+Weight bearing capacity:PCN 62 /F/C/X/TSingle wheel:120.0Double wheel:218.0Double tandem:352.0
+Runway edge lights:high intensity
+RUNWAY 14RUNWAY 32
+Latitude:36-05.968800N36-05.223317N
+Longitude:079-57.146725W079-56.233055W
+Elevation:925.4 ft.900.0 ft.
+Traffic pattern:leftleft
+Runway heading:143 magnetic, 135 true323 magnetic, 315 true
+Declared distances:TORA:6380 TODA:6380 ASDA:6380 LDA:6380TORA:6380 TODA:6380 ASDA:6380 LDA:6380
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILSILS/DME
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:PIEDMONT TRIAD ARPT AUTH.1000A TED JOHNSON PKWYGREENSBORO, NC 27409Phone 336-665-5600
+Manager:KEVIN BAKER1000A TED JOHNSON PKWYGREENSBORO, NC 27409Phone 336-665-5600
+
+Airport Operational Statistics
+
+Aircraft based on the field:107Single engine airplanes:78Multi engine airplanes:12Jet airplanes:17
+Aircraft operations: avg 181/day*36%transient general aviation25%commercial18%local general aviation17%air taxi4%military* for 12-month period ending 30 April 2031
+Additional Remarks
+
+-ACFT WITH WINGSPAN GREATER THAN 171 FT ARE PROHIBITED FROM USING TWY E.
+-DUE TO NOISE SENSITIVE AREAS, ACFT PERFORMING PRACTICE APPROACHES SHALL USE RWY 05R-23L.
+-TWY E PORTIONS BETWEEN TWY J AND TWY H NOT VISIBLE FROM ATCT.  TWY K NORTHEAST OF TWY K6 CLSD EXCEPT FOR CARGO ACFT.
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+BLOCC TWO
+download (185KB)
+BROOK FOUR
+download (209KB)
+HENBY THREE
+download (158KB)
+TRAKS THREE (RNAV)
+download (250KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05L
+download (332KB)
+ILS OR LOC RWY 05R**CHANGED**
+download (307KB)
+ILS OR LOC RWY 23L
+download (272KB)
+ILS OR LOC RWY 23R
+download (310KB)
+ILS Y OR LOC Y RWY 32
+download (295KB)
+ILS Z OR LOC Z RWY 32
+download (301KB)
+ILS RWY 23L (CAT II)
+download (256KB)
+ILS RWY 05L (CAT II - III)
+download (304KB)
+ILS RWY 05R (SA CAT II)**CHANGED**
+download (290KB)
+RNAV (GPS) RWY 05L
+download (300KB)
+RNAV (GPS) RWY 05R**CHANGED**
+download (296KB)
+RNAV (GPS) RWY 14
+download (295KB)
+RNAV (GPS) RWY 23L**CHANGED**
+download (292KB)
+RNAV (GPS) RWY 23R
+download (291KB)
+RNAV (GPS) RWY 32
+download (289KB)
+VOR/DME RWY 23L
+download (229KB)
+
+NOTE: Special Alternate Minimums apply**CHANGED**
+download (166KB)
+Departure Procedures
+
+QUAKER EIGHT
+download (353KB)
+TRIAD NINE
+download (273KB)
+TRSHA ONE (RNAV)
+download (245KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KINT - Smith Reynolds Airport (14 nm W)
+N63 - Meadow Brook Field Airport (16 nm NW)
+KSIF - Rockingham County NC Shiloh Airport (21 nm N)
+KBUY - Burlington/Alamance Regional Airport (23 nm E)
+KEXX - Davidson County Executive Airport (26 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Michael Eversole
+Photo taken 05-Feb-2015
+looking south from 6,000 ft.
+
+Do you have a better or more recent aerial photo of Piedmont Triad International Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Piedmont Triad International Airport?
+Find the distance to fly.
+From 
+to KGSO
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3222:32
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:42:08
+Local (UTC-5)19-Jan-2024 16:42:08
+
+
+
+
+   
+
+METAR
+
+
+KGSO192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KINT13nm W192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+
+
+
+
+TAF
+
+
+KGSO191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT13nm W191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Signature Aviation
+
+336-668-0481[web site][email]
+
+Aviation fuel, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Passenger terminal and lounge, Flight training, Aircraft maintenance, ...
+
+
+
+More info about Signature Aviation
+
+
+
+
+
+independent100LL Jet AFS$6.10$7.30SS$5.10---Updated 19-Jan-2024
+
+
+
+
+write
+
+
+
+
+Koury Aviation
+
+336-279-7997toll-free 866-947-6564[web site][email]
+
+Aviation fuel, Aircraft ground handling, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, GPU / Power cart, Passenger terminal and lounge, ...
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Koury Aviation
+
+
+
+
+
+Avfuel100LL Jet AFS$6.55$7.23Updated 17-Jan-2024
+
+
+
+
+10readwrite
+
+
+
+Alternatives at nearby airportsIMPORTANT: Note that the FBOs below are NOT at KGSO but at other nearby airports. Do not expect services from these FBOs to be available at KGSO.
+
+Located at KEXX
+
+UNICOM 122.80336-956-7774[web site][email]
+
+At KEXX (Davidson County Executive Airport), 26 miles SWCAA Preferred FBO and Contract fuel accepted.Repaved/Grooved Runway, widened taxiway connectors, Central North Carolina location with easy access to Greensboro, Winston-Salem and High Point, and less than 1 hour to Charlotte. Titan ACE Certified Crew.MALSR, GPU, full maintenance services on site, new 10,000 sq. ft. corporate hangars under construction.
+
+
+
+More info and photos of Fly High Lexington, LLC (KEXX)
+
+
+
+
+
+Located at KEXX100LL Jet AFS$6.00$5.40SS$5.50---GUARANTEEDMEMBERSONLYDiscounts
+
+
+
+
+write
+
+
+
+
+Located at KBUY
+
+UNICOM 122.975336-226-3330toll-free 888-759-7688[web site][email]
+
+At KBUY (Burlington/Alamance Regional Airport), 23 miles E20 miles to Downtown Greensboro and CAA Preferred! KBUY is a great alternate for visiting downtown and points east. We are conveniently located just off I-85/40. Enjoy first class service and facilities without big city fees. Relax in our luxurious lobby and pilots lounge. Let our friendly flight support team handle all of your concierge services. We will exceed your expectations from arrival to departure. WiFi, GPU, Lav Service, and more.
+
+
+
+More info and photos of SkySouth Aviation (KBUY)
+
+
+
+
+
+Located at KBUY100LL Jet AFS$6.19$6.99Updated 17-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Cessna Citation Service Center
+
+336-605-7000
+
+
+no information available
+If you are affiliated with Cessna Citation Service Center and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Piedmont Triad International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Piedmont Triad International Airport
+
+
+
+www.flyfrompti.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

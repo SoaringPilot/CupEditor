@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 88NC - Corriher Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1613 users online
+ 
+
+
+
+
+88NC
+ Corriher Field AirportSalisbury, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SALISBURY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:88NC
+Lat/Long:35-37-57.0000N 080-41-07.0000W35-37.950000N 080-41.116667W35.6325000,-80.6852778(estimated)
+Elevation:840 ft. / 256 m (estimated)
+From city:11 miles W of SALISBURY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28125
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/2004
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at RUQ (8 nm E):118.175 (704-637-6197)
+WX AWOS-3 at JQF (15 nm S):133.675 (704-785-2145)
+WX AWOS-3 at SVH (15 nm NW):119.225 (704-873-1978)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr031/29.6CHARLOTTE VOR/DME115.0005W
+BZMr124/30.5BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY244/11.327506WRU.-. ..-
+STONIA047/35.126006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2000 x 40 ft. / 610 x 12 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:rightleft
+Obstructions:100 ft. pline, 1500 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RONALD CORRIHER11812 MOORESVILLE ROADMT. ULLA, NC 28125Phone 704-798-0789
+Manager:RONALD CORRIHER11812 MOORESVILLE ROADMT. ULLA, NC 28125Phone 704-798-0789
+
+Airport Operational Statistics
+
+Aircraft based on the field:5Single engine airplanes:5
+Additional Remarks
+
+-ALL TFC PAT OPNS RMN W OF ARPT.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 88NC.
+Some nearby airports with instrument procedures:
+KRUQ - Mid-Carolina Regional Airport (8 nm E)
+14A - Lake Norman Airpark (11 nm W)
+KJQF - Concord-Padgett Regional Airport (15 nm S)
+KSVH - Statesville Regional Airport (15 nm NW)
+8A7 - Twin Lakes Airport (20 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Corriher Field Airport?
+Find the distance to fly.
+From 
+to 88NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:54:56
+Local (UTC-5)19-Jan-2024 15:54:56
+
+
+
+
+   
+
+METAR
+
+
+KRUQ8nm E192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+KSVH15nm NW192025Z AUTO 31016G23KT 10SM CLR 04/M10 A2997 RMK AO2 T00381100
+
+KJQF15nm S191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+
+
+
+
+TAF
+
+
+KCLT28nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KHKY35nm W191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Corriher Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Corriher Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

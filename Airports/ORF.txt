@@ -1,0 +1,578 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KORF - Norfolk International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1443 users online
+ 
+
+
+
+
+KORF
+ Norfolk International AirportNorfolk, Virginia, USA 
+
+
+
+
+
+
+GOING TO NORFOLK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Signature Aviation
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ORF
+Lat/Long:36-53-40.5750N 076-12-04.4250W36-53.676250N 076-12.073750W36.8946042,-76.2012292(estimated)
+Elevation:26.4 ft. / 8.0 m (surveyed)
+Variation:09W (1985)
+From city:3 miles NE of NORFOLK, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23518
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:03/1938
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:ORF (NOTAM-D service available)
+Attendance:CONTINUOUS
+Wind indicator:lighted
+Segmented circle:no
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Landing fee:yes
+Fire and rescue:ARFF index C
+International operations:customs landing rights airport 
+
+Airport Communications
+
+ATIS:127.15
+WX ASOS:PHONE 757-460-9348
+NORFOLK GROUND:121.9
+NORFOLK TOWER:120.8 257.8
+NORFOLK APPROACH:118.9 ;010-080, 180-310 335.625 353.7 ;010-080, 180-310
+NORFOLK DEPARTURE:125.2 363.125 379.1
+CLEARANCE DELIVERY:118.5
+PRE-TAXI CLEARANCE:118.5
+CLASS C:118.9 ;010-080, 180-310 125.7 ;311-009 353.7 ;010-080, 180-310 379.1 ;311-009
+DRONE STAR:118.9 353.7
+EMERG:121.5 243.0
+IC:118.9 ;010-080, 180-310 353.7 ;010-080, 180-310
+TERKS STAR:118.9 353.7
+WX ASOS at NTU (9 nm SE):PHONE DSN 433-3619 or 757-433-3619
+WX AWOS-3PT at PVG (14 nm SW):118.375 (757-465-2175)
+WX AWOS-3 at CPK (15 nm SW):123.675 (757-204-4290)
+WX ASOS at PHF (20 nm NW):PHONE 757-874-3682
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ORF at fieldNORFOLK VORTAC116.9007W
+CCVr210/28.9CAPE CHARLES VORTAC112.2010W
+ECGr005/38.2ELIZABETH CITY VOR/DME115.7507W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE017/38.225410WLLW.-.. .-.. .--
+WAKEFIELD109/38.727411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MINOR
+Powerplant service:MINOR
+Bottled oxygen:LOW
+Bulk oxygen:HIGH/LOW
+
+Runway Information
+Runway 5/23
+
+Dimensions:9001 x 150 ft. / 2744 x 46 m
+Surface:asphalt/concrete/grooved, in fair conditionCONC PTNS: LONGL CRACKS & SPALLING.
+Weight bearing capacity:PCN 53 /R/C/W/TSingle wheel:150.0Double wheel:200.0Double tandem:350.0Dual double tandem:475.0
+Runway edge lights:high intensity
+RUNWAY 5RUNWAY 23
+Latitude:36-53.151735N36-54.323957N
+Longitude:076-12.497712W076-11.366033W
+Elevation:17.7 ft.15.0 ft.
+Traffic pattern:rightleft
+Runway heading:047 magnetic, 038 true227 magnetic, 218 true
+Displaced threshold:1001 ft.no
+Declared distances:TORA:9001 TODA:9001 ASDA:8809 LDA:7809TORA:9001 TODA:9001 ASDA:8995 LDA:8995
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdownrollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsMALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:nono
+Centerline lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DMEILS/DME
+Obstructions:41 ft. trees, 2100 ft. from runway, 380 ft. left of centerline, 46:1 slope to clearAPCH RATIO 50:1 TO DSPLCD THR.49 ft. pole, lighted, 1500 ft. from runway, 150 ft. right of centerline, 26:1 slope to clearRWY 23 +1' FNC 80' FM RY END 400' R 10' FCN 0-200 270' L
+
+Runway 14/32
+
+Dimensions:4876 x 150 ft. / 1486 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 27 /F/A/W/TSingle wheel:75.0Double wheel:100.0
+Runway edge lights:medium intensity
+RUNWAY 14RUNWAY 32
+Latitude:36-53.809743N36-53.315202N
+Longitude:076-12.729767W076-11.941347W
+Elevation:17.7 ft.21.7 ft.
+Traffic pattern:rightleft
+Runway heading:137 magnetic, 128 true317 magnetic, 308 true
+Displaced threshold:575 ft.no
+Declared distances:TORA:4876 TODA:4876 ASDA:4876 LDA:4301TORA:4876 TODA:4876 ASDA:3901 LDA:3901
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:61 ft. tree, 1226 ft. from runway, 74 ft. both sides of centerline, 16:1 slope to clearAPCH RATIO 26:1 TO DSPLCD THR.103 ft. tree, 2590 ft. from runway, 430 ft. left of centerline, 23:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:NORFOLK AIRPORT AUTH2200 NORVIEW AVENORFOLK, VA 23518-5807Phone 757-857-3351
+Manager:MARK PERRYMAN, PRESIDENT & CEO2200 NORVIEW AVENORFOLK, VA 23518-5807Phone 757-857-3344POLICE DISPATCH.
+
+Airport Operational Statistics
+
+Aircraft based on the field:108Single engine airplanes:52Multi engine airplanes:31Jet airplanes:23Helicopters:2
+Aircraft operations: avg 170/day*62%commercial25%transient general aviation12%air taxi<1%military<1%local general aviation* for 12-month period ending 31 December 2021
+Additional Remarks
+
+-NOISE ABATEMENT PROCEDURES IN EFFECT.
+-FLOCKS OF BIRDS ON & INVOF ARPT.
+-INTMT AIRFIELD MOWING OPS MAR - NOV.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+DRONE TWO**CHANGED**
+2 pages:
+ [1] [2] (266KB)
+TERKS TWO**CHANGED**
+download (168KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 05
+download (274KB)
+ILS OR LOC RWY 23
+download (259KB)
+RNAV (RNP) Y RWY 05
+download (211KB)
+RNAV (RNP) Y RWY 23
+download (212KB)
+RNAV (GPS) RWY 14
+download (204KB)
+RNAV (GPS) RWY 32
+download (206KB)
+RNAV (GPS) Z RWY 05
+download (268KB)
+RNAV (GPS) Z RWY 23
+download (220KB)
+VOR/DME RWY 32
+download (195KB)
+VOR RWY 14
+download (199KB)
+RIVER VISUAL RWY 05**CHANGED**
+download (208KB)
+
+NOTE: Special Alternate Minimums apply
+download (152KB)
+Departure Procedures
+
+KISRR THREE**CHANGED**
+download (187KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download
+
+Other nearby airports with instrument procedures:
+KNGU - Norfolk Naval Station (Chambers Field) (5 nm NW)
+KNHU - Norfolk Naval Station Airport (6 nm NW)
+KNTU - Oceana Naval Air Station (Apollo Soucek Field) (9 nm SE)
+KLFI - Langley Air Force Base (14 nm NW)
+KPVG - Hampton Roads Executive Airport (14 nm SW)
+KCPK - Chesapeake Regional Airport (15 nm SW)
+KPHF - Newport News/Williamsburg International Airport (20 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Taken in June 2009
+from 6000' altitude.
+
+Do you have a better or more recent aerial photo of Norfolk International Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Norfolk International Airport?
+Find the distance to fly.
+From 
+to KORF
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:39:09
+Local (UTC-5)19-Jan-2024 16:39:09
+
+
+
+
+   
+
+METAR
+
+
+KORF192051Z 31012G27KT 270V350 10SM FEW047 SCT060 OVC080 05/M03 A2979 RMK AO2 PK WND 29027/2049 SLP087 T00501028 53034
+
+KNGU3nm NW192059Z 31026G35KT 10SM SCT035 BKN060 OVC080 05/M03 A2981 RMK AO2 PK WND 29035/2002 SLP095 T00501033 53034
+
+KNTU10nm SE192056Z 31015G29KT 10SM FEW034 BKN060 OVC075 05/M02 A2978 RMK AO2 PK WND 32032/2028 SLP086 T00501022 53035
+
+KNFE13nm S192056Z AUTO 32009G20KT 10SM SCT040 SCT050 OVC075 06/M02 A2979 RMK AO2 PK WND 30026/2000 SLP091 T00611017 53035
+
+KLFI13nm NW192055Z 30012G24KT 10SM FEW038 OVC060 05/M03 A2979 RMK AO2A PK WND 30029/25 PRESRR SLP094 T00461034 53034 $
+
+KPVG14nm SW192056Z AUTO 30008G18KT 10SM FEW030 BKN043 OVC055 05/M01 A2981 RMK AO2 RAB17E31 SLP095 P0000 6//// T00501006 53033
+
+KCPK15nm S192115Z AUTO 29014G19KT 260V320 10SM SCT031 BKN060 OVC075 05/M02 A2981 RMK AO2 T00491022
+
+
+
+
+
+TAF
+
+
+KORF191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KNGU3nm NW1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KNTU10nm SE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1919 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191900 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0919/0923 28014KT 9000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 540009 520909 QNH2980INS TX08/1918Z TNM02/2009Z FN20008 
+
+KLFI13nm NW191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Signature Aviation
+
+757-857-3463[web site][email]
+
+Aviation fuel, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Passenger terminal and lounge, Aircraft maintenance, Avionics sales and service, ...
+
+
+
+More info about Signature Aviation
+
+
+
+
+
+independent100LL Jet AFS$7.45$7.11Updated 19-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+Alternatives at nearby airportsIMPORTANT: Note that the FBOs below are NOT at KORF but at other nearby airports. Do not expect services from these FBOs to be available at KORF.
+
+Located at KPVG
+
+UNICOM 122.725757-488-3166[web site][email]
+
+At KPVG (Hampton Roads Executive Airport), 14 miles WSWOnly 11 miles from downtown Norfolk, we provide both 100LL and Jet A fuel and guarantee exceptional service with quick turnarounds while you wait in our comfortable lobby area or pilot lounge with access to computers, fax/copy machines, courtesy cars, an on-site restaurant, and on-site rental cars starting at $23.50/day.
+
+
+
+More info and photos of Virginia Aviation Associates (KPVG)
+
+
+
+
+
+Located at KPVG100LL Jet AAS$6.09---FS$6.59$5.39GUARANTEED
+
+
+
+
+write
+
+
+
+AS=Assisted/Self ServiceFS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Norfolk International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Norfolk International Airport
+
+
+
+www.NorfolkAirport.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

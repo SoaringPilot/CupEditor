@@ -1,0 +1,500 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KPVG - Hampton Roads Executive Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1570 users online
+ 
+
+
+
+
+KPVG
+ Hampton Roads Executive AirportNorfolk, Virginia, USA 
+
+
+
+
+
+
+GOING TO NORFOLK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:PVG
+Lat/Long:36-46-50.7533N 076-27-04.6093W36-46.845888N 076-27.076822W36.7807648,-76.4512804(estimated)
+Elevation:28 ft. / 8.5 m (surveyed)
+Variation:10W (2000)
+From city:7 miles SW of NORFOLK, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23321
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:0630 - 2130
+Pattern altitude:TPA 677 FT AGL FOR HELICOPTERS.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT REIL RWY 10 & 28; PAPI RWY 10 & 28; MIRL RWY 02/20; HIRL RWY 10/28 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.725
+WX AWOS-3PT:118.375 (757-465-2175)
+NORFOLK APPROACH:118.9 125.2
+NORFOLK DEPARTURE:118.9 125.2
+DRONE STAR:118.9
+TERKS STAR:118.9
+WX AWOS-3 at SFQ (9 nm SW):119.375 (757-934-3942)
+WX AWOS-3 at CPK (9 nm SE):123.675 (757-204-4290)
+WX ASOS at ORF (14 nm NE):PHONE 757-460-9348
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ORFr248/13.8NORFOLK VORTAC116.9007W
+FKNr091/27.3FRANKLIN VORTAC110.6009W
+CVIr049/31.8COFIELD VORTAC114.6009W
+ECGr344/34.1ELIZABETH CITY VOR/DME115.7507W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD126/29.027411WAKQ.- -.- --.-
+WOODVILLE357/31.925410WLLW.-.. .-.. .--
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 10/28
+
+Dimensions:5350 x 100 ft. / 1631 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Double wheel:75.0
+Runway edge lights:high intensity
+RUNWAY 10RUNWAY 28
+Latitude:36-46.850430N36-46.813307N
+Longitude:076-27.728995W076-26.633872W
+Elevation:27.9 ft.23.1 ft.
+Traffic pattern:rightFIXED WING ACFT.left
+Runway heading:102 magnetic, 092 true282 magnetic, 272 true
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:31 ft. tree, 1424 ft. from runway, 232 ft. right of centerline, 39:1 slope to clear100 ft. tree, 2430 ft. from runway, 271 ft. right of centerline, 22:1 slope to clearBRUSH LCTD APRXLY 240 FT FM CNTRLN.
+
+Runway 2/20
+
+Dimensions:3525 x 70 ft. / 1074 x 21 m
+Surface:asphalt, in poor conditionRWY HAS NMRS CRACKS.  TWYS SUPPORTING RWY HAVE NMRS CRACKS AND FOD POTENTIAL.
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 2RUNWAY 20
+Latitude:36-46.580053N36-47.154263N
+Longitude:076-26.972608W076-26.863460W
+Elevation:21.2 ft.19.6 ft.
+Traffic pattern:leftrightFIXED WING ACFT.
+Runway heading:019 magnetic, 009 true199 magnetic, 189 true
+Displaced threshold:898 ft.928 ft.
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:10 ft. road, 244 ft. from runway, 125 ft. right of centerline, 4:1 slope to clearAPCH RATIO 94:1 TO DSPLCD THR (ROAD); APCH RATIO 22:1 TO DSPLCD THR FM 70 FT TREE 883 FT FM RWY END, 189 FT LEFT.63 ft. trees, 1541 ft. from runway, 201 ft. right of centerline, 21:1 slope to clearAPCH RATIO 22:1 TO DSPLCD THR CTLG OBST; APCH RATIO 21:1 TO DSPLCD THR FM 104 FT TREE 1505 FT FM RWY END, 108 FT RIGHT.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:VIRGINIA AVIATION ASSOCIATES, L.L.C5172 W. MILITARY HWY, SUITE ACHESAPEAKE, VA 23321Phone 757-465-0260
+Manager:STEVE FOX5172 W. MILITARY HWYCHESAPEAKE, VA 23321Phone 757-465-0260STEVEN I. FOX AUTH PSNAL TO MAKE CHGS 757-465-0260.
+
+Airport Operational Statistics
+
+Aircraft based on the field:120Single engine airplanes:92Multi engine airplanes:15Jet airplanes:2Helicopters:11
+Aircraft operations: avg 191/day*72%transient general aviation25%local general aviation2%air taxi<1%military* for 12-month period ending 31 October 2018
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-EXTENSIVE HELICOPTER TRAINING.
+-RWY 10/28 PREFERRED USE RWY. BE ALERT FOR MULTIPLE 1000 FT AGL TWRS 1.5 NM NW OF FLD.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+DRONE TWO**CHANGED**
+2 pages:
+ [1] [2] (266KB)
+TERKS TWO**CHANGED**
+download (168KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 10
+download (276KB)
+RNAV (GPS) RWY 10
+download (225KB)
+RNAV (GPS) RWY 28
+download (186KB)
+
+NOTE: Special Alternate Minimums apply
+download (144KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KSFQ - Suffolk Executive Airport (9 nm SW)
+KCPK - Chesapeake Regional Airport (9 nm SE)
+KNGU - Norfolk Naval Station (Chambers Field) (12 nm NE)
+KNHU - Norfolk Naval Station Airport (13 nm NE)
+KORF - Norfolk International Airport (14 nm NE)
+KLFI - Langley Air Force Base (19 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 07-Mar-2016
+looking east.
+
+Do you have a better or more recent aerial photo of Hampton Roads Executive Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Hampton Roads Executive Airport?
+Find the distance to fly.
+From 
+to KPVG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4911:49
+Sunrise07:1712:17
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:14:33
+Local (UTC-5)19-Jan-2024 16:14:33
+
+
+
+
+   
+
+METAR
+
+
+KPVG192056Z AUTO 30008G18KT 10SM FEW030 BKN043 OVC055 05/M01 A2981 RMK AO2 RAB17E31 SLP095 P0000 6//// T00501006 53033
+
+KSFQ9nm SW192055Z AUTO 33010G19KT 300V010 10SM SCT033 SCT043 OVC075 06/00 A2981 RMK AO2 T00561001
+
+KCPK9nm SE192055Z AUTO 30010G21KT 10SM SCT031 BKN075 OVC080 05/M02 A2979 RMK AO2 T00521019
+
+KNGU12nm NE192059Z 31026G35KT 10SM SCT035 BKN060 OVC080 05/M03 A2981 RMK AO2 PK WND 29035/2002 SLP095 T00501033 53034
+
+KORF14nm NE192051Z 31012G27KT 270V350 10SM FEW047 SCT060 OVC080 05/M03 A2979 RMK AO2 PK WND 29027/2049 SLP087 T00501028 53034
+
+KNFE16nm E191956Z AUTO 32009G18KT 10SM FEW029 BKN038 OVC046 07/M01 A2974 RMK AO2 SLP073 T00671006
+
+KLFI18nm N192055Z 30012G24KT 10SM FEW038 OVC060 05/M03 A2979 RMK AO2A PK WND 30029/25 PRESRR SLP094 T00461034 53034 $
+
+
+
+
+
+TAF
+
+
+KNGU12nm NE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KORF14nm NE191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KLFI18nm N191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.725757-488-3166[web site][email]
+
+Only 11 miles from downtown Norfolk, we provide both 100LL and Jet A fuel and guarantee exceptional service with quick turnarounds while you wait in our comfortable lobby area or pilot lounge with access to computers, fax/copy machines, courtesy cars, an on-site restaurant, and on-site rental cars starting at $23.50/day.
+
+
+
+More info and photos of Virginia Aviation Associates
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AAS$6.09---FS$6.59$5.39GUARANTEED
+
+
+
+
+write
+
+
+
+AS=Assisted/Self ServiceFS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hampton Roads Executive Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hampton Roads Executive Airport
+
+
+
+www.flypvg.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

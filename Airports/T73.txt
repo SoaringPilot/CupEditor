@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: T73 - Kirk Air Base Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1546 users online
+ 
+
+
+
+
+T73
+ Kirk Air Base AirportLancaster, South Carolina, USA 
+
+
+
+
+
+
+GOING TO LANCASTER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:T73
+Lat/Long:34-40-27.5410N 080-40-56.2470W34-40.459017N 080-40.937450W34.6743169,-80.6822908(estimated)
+Elevation:578 ft. / 176.2 m (surveyed)CHANGE ELEV FOR SEAPLANE BASE RYS 05W/23W; 16W/34W; 11W/29W TO 550E.
+Variation:05W (1985)
+From city:5 miles SE of LANCASTER, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29720
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/1982
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:MON-FRI 0800-DUSK
+Wind indicator:yes
+Segmented circle:no
+Lights:FOR LIRL RY 15/33 CALL 803-286-8800.
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at LKR (9 nm W):120.825 (803-286-6444)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr277/20.2CHESTERFIELD VOR/DME114.5503W
+CLTr162/33.7CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+CHESTER111/26.422006WDCM-.. -.-. --
+HARTSVILLE307/32.134107WHVS.... ...- ...
+STONIA149/38.926006WGHJ--. .... .---
+
+Airport Services
+
+Fuel available:100LL
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 15/33
+
+Dimensions:2600 x 40 ft. / 792 x 12 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:8.0
+Runway edge lights:low intensity
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+Obstructions:none72 ft. tree, 620 ft. from runway, 91 ft. right of centerline, 5:1 slope to clear
+
+Runway 5W/23W
+
+Dimensions:4400 x 300 ft. / 1341 x 91 m& 11W/29W & 16W/34W - WATERLANES ARE NOT MARKED - LENGTHS CHANGE WITH WATER LEVELS - CONTACT AMGR AND CHECK NOTAMS.
+Surface:water
+RUNWAY 5WRUNWAY 23W
+Traffic pattern:leftleft
+
+Runway 16W/34W
+
+Dimensions:3000 x 300 ft. / 914 x 91 m
+Surface:water
+RUNWAY 16WRUNWAY 34W
+Traffic pattern:leftleft
+
+Runway 11W/29W
+
+Dimensions:2245 x 600 ft. / 684 x 183 m
+Surface:water
+RUNWAY 11WRUNWAY 29W
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES B. KIRK1007 KIRK AIR BASE RDLANCASTER, SC 29720Phone 803-286-8800
+Manager:JAMES B. KIRK1007 KIRK AIR BASE RD.LANCASTER, SC 29720Phone 803-286-8800
+
+Airport Operational Statistics
+
+Aircraft based on the field:9Single engine airplanes:8Ultralights:1
+Aircraft operations: avg 38/week*75%local general aviation25%transient general aviation* for 12-month period ending 10 August 2021
+Additional Remarks
+
+-RY 15 HAS 30 FT DROP AT THLD.
+-RY 33 HAS 10 FT DROP AT THLD.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at T73.
+Some nearby airports with instrument procedures:
+KLKR - Lancaster County Airport-Mc Whirter Field (9 nm W)
+N52 - JAARS-Townsend Airport (12 nm N)
+KPYG - Pageland Airport (17 nm E)
+KEQY - Charlotte-Monroe Executive Airport (21 nm N)
+KCDN - Woodward Field Airport (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Jeff Harden
+Photo taken 27-Jan-2008
+
+Do you have a better or more recent aerial photo of Kirk Air Base Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Kirk Air Base Airport?
+Find the distance to fly.
+From 
+to T73
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:2912:29
+Sunset17:3822:38
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:23:12
+Local (UTC-5)19-Jan-2024 16:23:12
+
+
+
+
+   
+
+METAR
+
+
+KLKR9nm W192055Z AUTO 29008G17KT 260V330 10SM CLR 08/M09 A2995 RMK AO2
+
+
+
+
+
+TAF
+
+
+KCLT35nm N191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KSSC44nm S191600Z 1916/2022 28015G25KT 9999 FEW040 510003 QNH2991INS TEMPO 1916/1922 29015G31KT BECMG 1922/1923 33007KT 9999 SKC 510023 QNH2996INS BECMG 2014/2015 33010G20KT 9999 SKC QNH3027INS TX13/1918Z TNM05/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Kirk Air Base
+
+803-286-8800
+
+
+no information available
+If you are affiliated with Kirk Air Base and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLFS$5.50Updated 10-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Kirk Air Base Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Kirk Air Base Airport
+
+
+
+www.kirkairbase.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

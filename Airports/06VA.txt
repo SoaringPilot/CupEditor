@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 06VA - Mount Horeb Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1471 users online
+ 
+
+
+
+
+06VA
+ Mount Horeb Field AirportGrottoes, Virginia, USA 
+
+
+
+
+
+
+GOING TO GROTTOES?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:06VA
+Lat/Long:38-14-56.4670N 078-51-19.0920W38-14.941117N 078-51.318200W38.2490186,-78.8553033(estimated)
+Elevation:1160 ft. / 354 m (estimated)
+Variation:09W (1995)
+From city:3 miles NE of GROTTOES, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24441
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1997
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SHD (2.1 nm NW):124.925 (540-234-0110)
+WX AWOS-3 at VBW (9 nm NW):119.55 (540-828-2076)
+WX AWOS-3PT at W13 (11 nm S):118.625 (540-941-7570)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr035/24.1MONTEBELLO VOR/DME115.3005W
+GVEr299/36.0GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+STAUT068/5.637509WSH... ....
+CAVERNS223/32.524509WLUA.-.. ..- .-
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:2000 x 100 ft. / 610 x 30 m
+Surface:turf, in good condition
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Obstructions:15 ft. road, 2500 ft. from runway30 ft. plines, marked, 1230 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:A.L. WONDERLEYROUTE 1, P.O. BOX 294GROTTOES, VA 24441Phone 540-249-5407
+Manager:A.L. WONDERLEYROUTE 1, P.O. BOX 294GROTTOES, VA 24441Phone 540-249-5407
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 06VA.
+Some nearby airports with instrument procedures:
+KSHD - Shenandoah Valley Regional Airport (2 nm NW)
+KVBW - Bridgewater Air Park (9 nm NW)
+W13 - Eagle's Nest Airport (11 nm S)
+KCHO - Charlottesville-Albemarle Airport (20 nm E)
+8W2 - New Market Airport (25 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mount Horeb Field Airport?
+Find the distance to fly.
+From 
+to 06VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:2222:22
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:36:42
+Local (UTC-5)19-Jan-2024 16:36:42
+
+
+
+
+   
+
+METAR
+
+
+KSHD2nm NW192115Z AUTO 29012G19KT 10SM SCT048 SCT120 00/M11 A2987 RMK AO2 T10051106
+
+KVBW9nm NW192115Z AUTO 30013G20KT 10SM OVC050 M01/M11 A2986 RMK AO1 T10071107
+
+KW1311nm S192115Z AUTO 31005G20KT 10SM OVC048 00/M11 A2983 RMK AO1 T00001110
+
+
+
+
+
+TAF
+
+
+KCHO20nm E191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mount Horeb Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mount Horeb Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

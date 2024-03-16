@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3NC6 - Mc Cachren Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1483 users online
+ 
+
+
+
+
+3NC6
+ Mc Cachren Field AirportHarrisburg, North Carolina, USA 
+
+
+
+
+
+
+GOING TO HARRISBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3NC6
+Lat/Long:35-18-42.5100N 080-38-39.2450W35-18.708500N 080-38.654083W35.3118083,-80.6442347(estimated)
+Elevation:565 ft. / 172 m (estimated)
+Variation:05W (1984)
+From city:1 mile S of HARRISBURG, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28075
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1984
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:DAYLIGHT HOURS
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3 at JQF (6 nm NW):133.675 (704-785-2145)
+WX ASOS at CLT (16 nm W):PHONE 704-790-5484
+WX ASOS at EQY (18 nm S):135.775 (704-283-5185)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr069/16.7CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA080/26.226006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:2300 x 23 ft. / 701 x 7 m
+Surface:turf
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+Displaced threshold:300 ft.400 ft.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:YATES M. MC CACHREN, JR.6925 HICKORY RIDGE ROADHARRISBURG, NC 28075-9676Phone 704-455-2754
+Manager:YATES M. MC CACHREN, JR.6925 HICKORY RIDGE ROADHARRISBURG, NC 28075-9676Phone 704-455-2754
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-TALL STEEL TOWER 2 MILES NE FM THR RWY 27 - 1460 FT AGL.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 3NC6.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (6 nm NW)
+KCLT - Charlotte/Douglas International Airport (16 nm W)
+KEQY - Charlotte-Monroe Executive Airport (18 nm S)
+KRUQ - Mid-Carolina Regional Airport (21 nm N)
+14A - Lake Norman Airpark (22 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mc Cachren Field Airport?
+Find the distance to fly.
+From 
+to 3NC6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3622:36
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:31:37
+Local (UTC-5)19-Jan-2024 16:31:37
+
+
+
+
+   
+
+METAR
+
+
+KJQF6nm NW192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+KCLT16nm W192052Z 32016G27KT 10SM FEW060 06/M10 A2997 RMK AO2 PK WND 33034/2008 SLP166 T00611100 53045
+
+KEQY18nm S192053Z AUTO 33015G26KT 10SM CLR 07/M09 A2994 RMK AO2 PK WND 32032/2039 SLP154 T00721089 53041
+
+
+
+
+
+TAF
+
+
+KCLT16nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mc Cachren Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mc Cachren Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

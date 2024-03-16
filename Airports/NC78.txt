@@ -1,0 +1,256 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC78 - Columbus Regional Medical Center Heliport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1434 users online
+ 
+
+
+
+
+NC78
+ Columbus Regional Medical Center HeliportWhiteville, North Carolina, USA 
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC78
+Lat/Long:34-20-14.8380N 078-41-46.9355W34-20.247300N 078-41.782258W34.3374550,-78.6963710(estimated)
+Elevation:71 ft. / 22 m (estimated)
+From city:1 mile ESE of WHITEVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28472
+
+Heliport Operations
+
+Heliport use:Private use. Permission required prior to landing
+Activation date:04/2021
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Heliport Communications
+
+WX AWOS-3 at CPC (4 nm S):118.375 (910-642-7508)
+WX AWOS-3P at EYF (17 nm N):119.475 (910-862-9982)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CREr006/31.4GRAND STRAND VORTAC114.4003W
+FAYr171/39.9FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CAMP018/3.922707WCPC-.-. .--. -.-.
+DILLON110/34.027409WDLC-.. .-.. -.-.
+
+Heliport Services
+
+
+Runway Information
+Helipad H1
+
+Dimensions:60 x 60 ft. / 18 x 18 m
+Surface:concrete
+Latitude:34-20.247300N
+Longitude:078-41.782258W
+Elevation:71.0 ft.
+Traffic pattern:leftleft
+
+Heliport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:COLUMBUS REGIONAL HEALTHCARE SYSTEM500 JEFFERSON STWHITEVILLE, NC 28472Phone 910-642-8011
+Manager:JEREMY JERNIGAN500 JEFFERSON STWHITEVILLE, NC 28472Phone 910-642-8011
+
+Heliport Operational Statistics
+
+Aircraft based on the field:1Helicopters:1
+Instrument Procedures
+There are no published instrument procedures at NC78.
+Some nearby airports with instrument procedures:
+KCPC - Columbus County Municipal Airport (4 nm S)
+KEYF - Curtis L Brown Jr. Field Airport (17 nm N)
+5J9 - Twin City Airport (17 nm SW)
+KLBT - Lumberton Regional Airport (24 nm NW)
+KCRE - Grand Strand Airport (32 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Columbus Regional Medical Center Heliport?
+Find the distance to fly.
+From 
+to NC78
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:02:47
+Local (UTC-5)19-Jan-2024 17:02:47
+
+
+
+
+   
+
+METAR
+
+
+KCPC4nm S192150Z AUTO 31007G17KT 10SM OVC065 12/M02 A2987 RMK AO2 T01211023
+
+KEYF17nm N192150Z AUTO 32015G23KT 10SM SCT065 11/M05 A2987 RMK AO2 T01151046
+
+
+
+
+
+TAF
+
+
+KLBT24nm NW191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Columbus Regional Medical Center Heliport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Columbus Regional Medical Center Heliport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

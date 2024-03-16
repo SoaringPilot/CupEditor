@@ -1,0 +1,418 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 60J - Odell Williamson Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1424 users online
+ 
+
+
+
+
+60J
+ Odell Williamson Municipal AirportOcean Isle Beach, North Carolina, USA 
+
+
+
+
+
+
+GOING TO OCEAN ISLE BEACH?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:60J
+Lat/Long:33-54-33.5520N 078-26-04.8680W33-54.559200N 078-26.081133W33.9093200,-78.4346856(estimated)
+Elevation:32.7 ft. / 10.0 m (surveyed)
+Variation:07W (1985)
+From city:1 mile N of OCEAN ISLE BEACH, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28470
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:04/1971
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:JUN-AUG TUE-SUN 1000-1700,  SEP-MAY SAT-SUN 1000-1600MON-FRI ON CALL (910-575-7575); FOR SERVICE AFTER HOURS CALL 845-629-0626.24 HR PILOT LOUNGE -  EMERG FREQ ALLOWS ACES.
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT MIRL RWY 06/24 - CTAF.  PAPI RWY 06 & RWY 24 OPERATE CONSLY.
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at CRE (16 nm W):119.625 (843-361-2802)
+WX AWOS-3P at SUT (18 nm E):124.175 (910-457-1710)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CREr071/15.5GRAND STRAND VORTAC114.4003W
+ILMr233/38.5WILMINGTON VORTAC117.0007W
+
+
+NDBnameHdg/DistFreqVarID
+CAMP155/25.822707WCPC-.-. .--. -.-.
+
+Airport Services
+
+Fuel available:100LL100LL:24 HR SS FUEL WITH CC.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:4198 x 75 ft. / 1280 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.0
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:33-54.360720N33-54.757678N
+Longitude:078-26.421155W078-25.741093W
+Elevation:32.4 ft.28.9 ft.
+Traffic pattern:leftleft
+Runway heading:062 magnetic, 055 true242 magnetic, 235 true
+Displaced threshold:no189 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.67 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:48 ft. tree, 1025 ft. from runway, 73 ft. right of centerline, 17:1 slope to clear86 ft. trees, 1371 ft. from runway, 2 ft. right of centerline, 13:1 slope to clearRWY 24 APCH SLOPE 16:1 AT DSPLCD THR.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF OCEAN ISLE BEACH3 WEST 3RD STREETOCEAN ISLE BEACH, NC 28469Phone 910-579-2166
+Manager:DAISY IVEY6070 BEACH DRIVE SWOCEAN ISLE BEACH, NC 28469Phone 910-599-5651
+
+Airport Operational Statistics
+
+Aircraft based on the field:28Single engine airplanes:24Multi engine airplanes:3Helicopters:1
+Aircraft operations: avg 56/day*49%transient general aviation49%local general aviation2%military* for 12-month period ending 16 July 2021
+Additional Remarks
+
+-PARALLEL TWY BEYOND RAMP IS CLOSED.
+-RWY 06 HAS 48 FT MARKED TRANSITIONAL POWER LINE +/-1000 FT FROM THR.
+-SIGHT-SEEING TOUR OPNS INV OF ARPT.
+-FOR CD CTC MYRTLE BEACH APCH AT 843-477-2727 OR 843-477-2704, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+-CAUTION - DTFC SHUD VFY NO LTFC BEFORE BLOCKING ONLY RWY EXIT.
+
+Instrument Procedures
+There are no published instrument procedures at 60J.
+Some nearby airports with instrument procedures:
+KCRE - Grand Strand Airport (16 nm W)
+KSUT - Cape Fear Regional Jetport/Howie Franklin Field Airport (18 nm E)
+5J9 - Twin City Airport (24 nm NW)
+KCPC - Columbus County Municipal Airport (26 nm NW)
+KMYR - Myrtle Beach International Airport (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Clif C. Simmons
+Photo taken 13-Feb-2009
+
+Do you have a better or more recent aerial photo of Odell Williamson Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Odell Williamson Municipal Airport?
+Find the distance to fly.
+From 
+to 60J
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:1912:19
+Sunset17:3022:30
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:39:52
+Local (UTC-5)19-Jan-2024 16:39:52
+
+
+
+
+   
+
+METAR
+
+
+KCRE15nm W192053Z 28011G25KT 10SM FEW070 14/01 A2981 RMK AO1 PK WND 29030/2022 SLP097 T01440006 53007
+
+KSUT18nm E192110Z AUTO 29009G15KT 10SM SCT065 BKN075 14/02 A2982 RMK AO2 T01420016
+
+KCPC26nm NW192110Z AUTO 31011G16KT 10SM SCT065 13/00 A2985 RMK AO2 T01271001
+
+KMYR28nm SW192056Z 27023G29KT 10SM FEW070 16/M01 A2983 RMK AO2 PK WND 27031/2004 SLP101 T01561011 53006
+
+
+
+
+
+TAF
+
+
+KCRE15nm W191732Z 1918/2018 28012G23KT P6SM FEW040 FM200000 32011G19KT P6SM SKC FM200600 32009KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Ocean Isle Beach Aviation
+
+910-575-7575[web site][email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Hangar leasing / sales, Passenger terminal and lounge, Flight training, Rental cars on site, ...
+
+
+
+More info about Ocean Isle Beach Aviation
+
+
+
+
+
+Phillips 66100LLSS$6.49Updated 04-Dec-2023
+
+
+
+
+1readwrite
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Odell Williamson Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Odell Williamson Municipal Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

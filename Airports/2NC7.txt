@@ -1,0 +1,309 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2NC7 - Scotland Neck East Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1455 users online
+ 
+
+
+
+
+2NC7
+ Scotland Neck East AirportScotland Neck, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SCOTLAND NECK?
+
+
+ 
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2NC7
+Lat/Long:36-10-04.5600N 077-23-55.8900W36-10.076000N 077-23.931500W36.1679333,-77.3988583(estimated)
+Elevation:103 ft. / 31 m (estimated)
+Variation:08W (1985)
+From city:2 miles NE of SCOTLAND NECK, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27874
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1983
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:MON-SAT 0800-1700
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at ASJ (13 nm NE):119.075 (252-345-2967)
+WX AWOS-3PT at IXA (15 nm NW):119.975 (252-583-3446)
+WX AWOS-3P at ETC (16 nm SW):119.575 (252-641-1640)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr057/18.7TAR RIVER VORTAC117.8005W
+CVIr253/28.3COFIELD VORTAC114.6009W
+FKNr219/37.7FRANKLIN VORTAC110.6009W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD006/27.723009WAQE.- --.- .
+
+Airport Services
+
+Fuel available:100LL
+
+Runway Information
+Runway 18/36
+
+Dimensions:3000 x 100 ft. / 914 x 30 m
+Surface:turf
+Runway edge markings:REFLECTORS ON BOTH SIDES AND ENDS OF RWY.
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Displaced threshold:no500 ft.
+Obstructions:noneroad
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROBERT A. BELLBOX 296SCOTLAND NECK, NC 27874Phone 252-826-5164
+Manager:ROBERT A. BELLBOX 296SCOTLAND NECK, NC 27874Phone 252-826-4210
+
+Airport Operational Statistics
+
+Aircraft based on the field:10Single engine airplanes:10
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 2NC7.
+Some nearby airports with instrument procedures:
+KASJ - Tri-County Airport at Henry Joyner Field (13 nm NE)
+KIXA - Halifax/Northampton Regional Airport (15 nm NW)
+KETC - Tarboro-Edgecombe Airport (16 nm SW)
+KMCZ - Martin County Airport (21 nm SE)
+KRWI - Rocky Mount/Wilson Regional Airport (30 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Scotland Neck East Airport?
+Find the distance to fly.
+From 
+to 2NC7
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:2012:20
+Sunset17:2122:21
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:51:46
+Local (UTC-5)19-Jan-2024 16:51:46
+
+
+
+
+   
+
+METAR
+
+
+KASJ13nm NE192125Z AUTO 29010G16KT 10SM SCT047 SCT055 BKN085 06/M03 A2984 RMK AO2 T00551031
+
+KIXA15nm NW192130Z AUTO 29012G17KT 10SM SCT045 BKN050 BKN075 05/M01 A2986 RMK AO2
+
+KETC16nm SW192125Z AUTO 31013G20KT 7SM SCT050 SCT065 SCT085 07/M02 A2985 RMK AO2 T00721020
+
+KMCZ21nm SE192120Z AUTO 32013G20KT 10SM BKN065 OVC085 07/M02 A2984 RMK AO2 T00701020
+
+
+
+
+
+TAF
+
+
+KRWI31nm SW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KPGV33nm S191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Scotland Neck East Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Scotland Neck East Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

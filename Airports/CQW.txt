@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KCQW - Cheraw Municipal Airport/Lynch Bellinger Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1619 users online
+ 
+
+
+
+
+KCQW
+ Cheraw Municipal Airport/Lynch Bellinger FieldCheraw, South Carolina, USA 
+
+
+
+
+
+
+GOING TO CHERAW?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:CQW
+Lat/Long:34-42-46.3000N 079-57-25.2000W34-42.771667N 079-57.420000W34.7128611,-79.9570000(estimated)
+Elevation:238.7 ft. / 72.8 m (surveyed)
+Variation:08W (2005)
+From city:3 miles NW of CHERAW, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29520
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/1945
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:MON-SAT 0800-1800,  ALL SUN 1300-1700
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REILS RWY 08 & 26; MIRL RWY 08/26; AND WND CONE LGT - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:124.825 (843-537-3301)
+FLORENCE APPROACH:118.6
+FLORENCE DEPARTURE:118.6
+WX AWOS-3PT at BBP (12 nm SE):123.825 (843-479-5817)
+WX AWOS-3 at RCZ (14 nm NE):118.775 (910-997-4093)
+WX AWOS-3PT at UDG (16 nm S):119.925 (843-393-8220)
+WX AWOS-3 at AFP (19 nm N):119.325 (704-695-0623)
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ARTCC ON FREQS 133.45/306.3 (FLORENCE RCAG) WHEN FLORENCE APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr080/16.1CHESTERFIELD VOR/DME114.5503W
+FLOr336/32.4FLORENCE VORTAC115.2003W
+SDZr214/35.2SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLE305/12.423008WBES-... . ...
+DARLINGTON354/16.524506WUDG..- -.. --.
+HARTSVILLE031/20.134107WHVS.... ...- ...
+DILLON307/33.127409WDLC-.. .-.. -.-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 8/26
+
+Dimensions:5000 x 75 ft. / 1524 x 23 m
+Surface:asphalt/porous friction courses, in fair condition
+Weight bearing capacity:Single wheel:30.0Double wheel:48.0
+Runway edge lights:medium intensity
+RUNWAY 8RUNWAY 26
+Latitude:34-42.632012N34-42.912787N
+Longitude:079-57.889422W079-56.950967W
+Elevation:238.7 ft.187.9 ft.
+Traffic pattern:leftleft
+Runway heading:078 magnetic, 070 true258 magnetic, 250 true
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:81 ft. tree, 1055 ft. from runway, 357 ft. right of centerline, 10:1 slope to clear47 ft. pole, 1182 ft. from runway, 299 ft. right of centerline, 20:1 slope to clearPOWER POLE IS MKD AND LGTD.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF CHERAWP O BOX 111CHERAW, SC 29520Phone 843-537-7283
+Manager:ROBERT WOLFEPO BOX 219CHERAW, SC 29520Phone 843-537-8400
+
+Airport Operational Statistics
+
+Aircraft based on the field:17Single engine airplanes:14Jet airplanes:2Helicopters:1
+Aircraft operations: avg 119/week*58%local general aviation36%transient general aviation3%military2%air taxi* for 12-month period ending 22 March 2023
+Additional Remarks
+
+-FOR CD CTC FLORENCE APCH AT 843-665-0632, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 08
+download (226KB)
+RNAV (GPS) RWY 26
+download (255KB)
+VOR/DME RWY 08
+download (215KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (364KB)
+
+Other nearby airports with instrument procedures:
+KBBP - Marlboro County Jetport - H E Avent Field (12 nm SE)
+KRCZ - Richmond County Airport (14 nm NE)
+KUDG - Darlington County Airport (16 nm S)
+KPYG - Pageland Airport (19 nm W)
+KAFP - Anson County Airport - Jeff Cloud Field (19 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Ed Morrison
+Photo taken 08-Jul-2012
+looking west.
+
+Do you have a better or more recent aerial photo of Cheraw Municipal Airport/Lynch Bellinger Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Cheraw Municipal Airport/Lynch Bellinger Field?
+Find the distance to fly.
+From 
+to KCQW
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:50:45
+Local (UTC-5)19-Jan-2024 15:50:45
+
+
+
+
+   
+
+METAR
+
+
+KCQW192035Z AUTO 02015G26KT 10SM BKN075 OVC085 11/M05 A2989 RMK AO2
+
+KBBP12nm SE192035Z AUTO 31018G26KT 10SM OVC070 12/M02 A2987 RMK AO2
+
+KRCZ14nm NE192030Z AUTO 31017G25KT 10SM SCT075 10/M06 A2987 RMK AO2 T00991063
+
+KUDG16nm S191956Z AUTO 31016G26KT 10SM OVC055 13/01 A2984 RMK AO2 PK WND 28028/1925 SLP107 T01280006
+
+KAFP19nm N192030Z AUTO 30015G23KT 10SM BKN075 09/M08 A2990 RMK AO2 T00901083
+
+
+
+
+
+TAF
+
+
+KFLO34nm S191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Hall's Aviation
+
+843-537-6423
+
+
+no information available
+If you are affiliated with Hall's Aviation and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AFS---$6.50PS$7.00---Updated 15-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full servicePS=Pump service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Cheraw Municipal Airport/Lynch Bellinger Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Cheraw Municipal Airport/Lynch Bellinger Field
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

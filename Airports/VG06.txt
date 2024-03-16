@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG06 - Fulcher Family Farms Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1577 users online
+ 
+
+
+
+
+VG06
+ Fulcher Family Farms AirportAmherst, Virginia, USA 
+
+
+
+
+
+
+GOING TO AMHERST?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG06
+Lat/Long:37-43-30.4900N 079-04-59.0900W37-43.508167N 079-04.984833W37.7251361,-79.0830806(estimated)
+Elevation:980 ft. / 299 m (estimated)
+Variation:08W (1995)
+From city:9 miles N of AMHERST, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22967
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1998
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr179/10.6MONTEBELLO VOR/DME115.3005W
+LYHr019/29.2LYNCHBURG VOR/DME109.2005W
+
+Airport Services
+
+
+Runway Information
+Runway 11/29
+
+Dimensions:3000 x 100 ft. / 914 x 30 m
+Surface:turf, in good condition
+RUNWAY 11RUNWAY 29
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:THOMAS M FULCHER3300 GOLSDSBORO CTFALLS CHURCH, VA 22042Phone 703-698-3563
+Manager:THOMAS M FULCHER3300 GOLDSBORO CTFALLS CHURCH, VA 22042Phone 703-698-3563
+
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at VG06.
+Some nearby airports with instrument procedures:
+W24 - Falwell Airport (21 nm S)
+W13 - Eagle's Nest Airport (22 nm N)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (25 nm S)
+W90 - New London Airport (30 nm SW)
+KSHD - Shenandoah Valley Regional Airport (34 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Fulcher Family Farms Airport?
+Find the distance to fly.
+From 
+to VG06
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:2422:24
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:10:21
+Local (UTC-5)19-Jan-2024 16:10:21
+
+
+
+
+   
+
+METAR
+
+
+KW1322nm N192055Z AUTO 29010G16KT 10SM SCT050 BKN110 00/M11 A2982 RMK AO1 T00021107
+
+KLYH25nm S192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+KSHD34nm N192055Z AUTO 30016G28KT 10SM -RA SCT065 SCT120 00/M10 A2985 RMK AO2 T00001105
+
+K0V435nm S192055Z AUTO 27013KT 10SM BKN050 03/M08 A2988 RMK AO1
+
+KCHO39nm NE192053Z 30008G21KT 270V330 10SM BKN055 03/M10 A2984 RMK AO2 SLP107 60000 T00331100 53024
+
+KFVX39nm SE192055Z AUTO 32005G16KT 10SM SCT060 BKN070 04/M09 A2985 RMK AO2 T00421094
+
+KVBW39nm N192055Z AUTO 29015G23KT 10SM BKN050 BKN120 00/M10 A2984 RMK AO1 T10011105
+
+
+
+
+
+TAF
+
+
+KLYH25nm S191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Fulcher Family Farms Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Fulcher Family Farms Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

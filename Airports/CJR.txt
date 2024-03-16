@@ -1,0 +1,520 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KCJR - Culpeper Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1618 users online
+ 
+
+
+
+
+KCJR
+ Culpeper Regional AirportCulpeper, Virginia, USA 
+
+
+
+
+
+
+GOING TO CULPEPER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:CJR
+Lat/Long:38-31-31.7000N 077-51-34.7000W38-31.528333N 077-51.578333W38.5254722,-77.8596389(estimated)
+Elevation:315.5 ft. / 96.2 m (surveyed)
+Variation:10W (2005)
+From city:7 miles NE of CULPEPER, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22718
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1969
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:CJR (NOTAM-D service available)
+Attendance:0800-1800HOURS CHANGE MID-OCT, CHECK NOTAMS FOR DETAILS.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 04 & 22; PAPI RWY 04 & 22; MIRL RWY 04/22; TWY LGTS - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.075
+WX AWOS-3:119.325 (540-727-0523)
+POTOMAC APPROACH:128.525
+POTOMAC DEPARTURE:128.525
+CLEARANCE DELIVERY:121.6
+HYPER STAR:133.0
+TIKEE STAR:120.45
+TRSTN STAR:126.75
+WX AWOS-3 at HWY (8 nm NE):120.350 (540-788-4078)
+WX AWOS-3 at OMH (19 nm SW):118.075 (540-672-0505)
+WX AWOS-3PT at HEF (20 nm NE):PHONE 703-361-6160
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CSNr184/6.9CASANOVA VORTAC116.3006W
+LDNr147/25.5LINDEN VORTAC114.3006W
+BRVr304/26.4BROOKE VORTAC114.5009W
+AMLr225/30.7ARMEL VOR/DME113.5008W
+GVEr030/33.7GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR037/4.835110WMSQ-- ... --.-
+SHANNON319/24.723710WEZF. --.. ..-.
+CAVERNS119/30.624509WLUA.-.. ..- .-
+DAVEE266/36.122309WDAA-.. .- .-
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:5000 x 100 ft. / 1524 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Single wheel:40.0
+Runway edge lights:medium intensity
+RUNWAY 4RUNWAY 22
+Latitude:38-31.165490N38-31.891145N
+Longitude:077-51.825532W077-51.329330W
+Elevation:315.3 ft.314.5 ft.
+Traffic pattern:leftleft
+Runway heading:038 magnetic, 028 true218 magnetic, 208 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOCALIZER
+Obstructions:30 ft. trees, 1049 ft. from runway, 183 ft. left of centerline, 28:1 slope to clear51 ft. trees, lighted, 1738 ft. from runway, 86 ft. left of centerline, 30:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY OF CULPEPER302 N MAIN STCULPEPER, VA 22701Phone 540-727-3427
+Manager:TANYA WOODWARD12517 BEVERLY FORD ROADBRANDY STATION, VA 22714Phone 540-825-8280
+
+Airport Operational Statistics
+
+Aircraft based on the field:152Single engine airplanes:142Multi engine airplanes:7Helicopters:3
+Aircraft operations: avg 210/day*55%local general aviation38%transient general aviation5%military1%air taxi* for 12-month period ending 30 September 2017
+Additional Remarks
+
+-DEER ON AND INVOF ARPT.
+-GCO AVBL ON FREQ 121.6 THRU POTOMAC APCH CD. IF UNA, FOR CD CTC POTOMAC APCH AT 866-709-4993.
+-TWY AND RAMP MARKINGS GOOD.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+HYPER EIGHT (RNAV)
+2 pages:
+ [1] [2] (398KB)
+HYPER EIGHT (RNAV), CONT.2
+download (293KB)
+TIKEE FOUR (RNAV)
+download (215KB)
+TRSTN THREE (RNAV)
+download (209KB)
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 04
+download (235KB)
+RNAV (GPS) RWY 22
+download (229KB)
+LOC RWY 04
+download (210KB)
+VOR-A
+download (190KB)
+NDB RWY 04
+download (178KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KHWY - Warrenton/Fauquier Airport (8 nm NE)
+KOMH - Orange County Airport (19 nm SW)
+KHEF - Manassas Regional Airport/Harry P. Davis Field (20 nm NE)
+KRMN - Stafford Regional Airport (20 nm E)
+KEZF - Shannon Airport (25 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Germaine and Matt
+Photo taken 12-Jun-2018
+looking northeast.
+
+Do you have a better or more recent aerial photo of Culpeper Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Culpeper Regional Airport?
+Find the distance to fly.
+From 
+to KCJR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2712:27
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:56:26
+Local (UTC-5)19-Jan-2024 15:56:26
+
+
+
+
+   
+
+METAR
+
+
+KHWY8nm NE192035Z AUTO 29006KT 5SM -SN SCT018 SCT028 OVC035 00/M02 A2985 RMK AO2 T00011025
+
+KCJR13nm W192035Z AUTO 34004KT 10SM SCT055 SCT070 OVC085 01/M04 A2986 RMK AO2 T00111042
+
+KOMH19nm SW192035Z AUTO 33007KT 10SM SCT039 SCT050 OVC090 01/M04 A2986 RMK AO2
+
+KHEF20nm NE192027Z 32011KT 5SM -SN BR SCT017 BKN023 OVC032 00/M03 A2984 RMK AO2 RAB17E19SNB19 P0000
+
+
+
+
+
+TAF
+
+
+KNYG27nm E1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+KIAD31nm NE191727Z 1918/2024 06004KT 1SM -SN BR BKN008 OVC025 TEMPO 1918/1920 1/2SM SN BKN006 FM192000 32006KT 2SM -SHSN BR OVC008 FM192300 32008KT 5SM -SHSN BR OVC025 FM200400 31010G18KT P6SM SCT050 FM202000 30017G30KT P6SM SCT250 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Culpeper Regional Airport
+
+
+
+540-825-8280[web site][email]
+
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Flight training, Aircraft rental, ...
+
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Culpeper Regional Airport
+
+
+
+
+
+100LL Jet AFS$5.55$6.00GUARANTEED
+
+
+
+
+1readwrite
+
+
+
+FS=Full service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+
+
+703-431-2288[web site][email]
+
+Hangar Rental, Aircraft Sales, Aircraft Management and MORE!
+
+
+
+More info and photos of Pelican Aircraft Consulting
+
+
+
+
+ 
+
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Culpeper Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Culpeper Regional Airport
+
+
+
+www.culpeperairport.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

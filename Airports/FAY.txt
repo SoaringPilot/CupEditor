@@ -1,0 +1,491 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KFAY - Fayetteville Regional Airport/Grannis Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1587 users online
+ 
+
+
+
+
+KFAY
+ Fayetteville Regional Airport/Grannis FieldFayetteville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO FAYETTEVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Signature Aviation
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:FAY
+Lat/Long:34-59-28.3600N 078-52-48.9870W34-59.472667N 078-52.816450W34.9912111,-78.8802742(estimated)
+Elevation:189.4 ft. / 57.7 m (surveyed)
+Variation:07W (1985)
+From city:3 miles S of FAYETTEVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28306
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1949
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:FAY (NOTAM-D service available)
+Attendance:0600-0000
+Wind indicator:lighted
+Segmented circle:no
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index B
+
+Airport Communications
+
+UNICOM:122.95
+ATIS:121.25
+WX ASOS:121.25 (910-484-1546)
+FAYETTEVILLE GROUND:121.7 348.6
+FAYETTEVILLE TOWER:118.3 269.2
+FAYETTEVILLE APPROACH:125.175 ;321-060 127.8 ;231-320 133.0 ;061-230 285.575 ;321-060 290.25 ;061-230 343.725 ;231-320
+FAYETTEVILLE DEPARTURE:125.175 ;321-060 127.8 ;231-320 133.0 ;061-230 285.575 ;321-060 290.25 ;061-230 343.725 ;231-320
+CLASS C:125.175 ;321-060 127.8 ;231-320 133.0 ;061-230 285.575 ;321-060 290.25 ;061-230 343.725 ;231-320
+EMERG:121.5 243.0
+IC:133.0 ;061-230 290.25 ;061-230
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAY at fieldFAYETTEVILLE VOR/DME114.8504W
+SDZr114/37.3SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON281/25.541209WCTZ-.-. - --..
+HARNETT209/28.441708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJORMAJOR POWER PLANT REPAIRS AVBL FOR PISTON ENGINES ONLY.
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:7709 x 150 ft. / 2350 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 42 /F/A/X/TSingle wheel:109.0Double wheel:178.0Double tandem:321.0
+Runway edge lights:high intensity
+Operational restrictions:RWY 04/22 NON-STD SAFETY AREA DUE TO TERRAIN FEATURES ON EAST SIDE OF RWY, BTWN TWYS B AND D.
+RUNWAY 4RUNWAY 22
+Latitude:34-59.060722N35-00.147857N
+Longitude:078-53.220525W078-52.421020W
+Elevation:183.1 ft.157.7 ft.
+Traffic pattern:leftleft
+Runway heading:038 magnetic, 031 true218 magnetic, 211 true
+Displaced threshold:598 ft.303 ft.
+Declared distances:TORA:7709 TODA:7709 ASDA:7007 LDA:6508TORA:7709 TODA:7709 ASDA:6715 LDA:6413
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on right (3.13 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdownrollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+
+Runway 10/28
+
+Dimensions:4801 x 150 ft. / 1463 x 46 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:PCN 17 /F/A/X/TSingle wheel:53.0Double wheel:75.0
+Runway edge lights:medium intensity
+RUNWAY 10RUNWAY 28
+Latitude:34-59.269348N34-59.253308N
+Longitude:078-53.290210W078-52.328662W
+Elevation:182.9 ft.183.8 ft.
+Traffic pattern:leftleft
+Runway heading:098 magnetic, 091 true278 magnetic, 271 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:15 ft. trees, 800 ft. from runway, 50 ft. right of centerline, 40:1 slope to clear15 ft. trees, 800 ft. from runway, 90 ft. left of centerline, 40:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CITY OF FAYETTEVILLE400 AIRPORT RD SUITE 1FAYETTEVILLE, NC 28306Phone 910-433-1160
+Manager:ALVESTER T. COLEMAN400 AIRPORT RD SUITE 1FAYETTEVILLE, NC 28306Phone 910-433-1625
+
+Airport Operational Statistics
+
+Aircraft based on the field:74Single engine airplanes:56Multi engine airplanes:11Jet airplanes:6Helicopters:1
+Aircraft operations: avg 91/day*38%transient general aviation37%commercial10%military10%air taxi6%local general aviation* for 12-month period ending 31 December 2022
+Additional Remarks
+
+-CLSD TO ALL MIL ACFT OVER 17000 LBS FOR ACR RAMP OPNS EXCP 24 HR PPR. CALL AMGR 910-433-1160 MON-FRI.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 04
+download (245KB)
+RNAV (GPS) RWY 04
+download (224KB)
+RNAV (GPS) RWY 10
+download (193KB)
+RNAV (GPS) RWY 22
+download (212KB)
+RNAV (GPS) RWY 28
+download (229KB)
+LOC BC RWY 22
+download (225KB)
+VOR RWY 04
+download (189KB)
+VOR RWY 22
+download (178KB)
+VOR RWY 28
+download (174KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+Departure Procedures
+
+MOUNTY FIVE
+download (213KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (365KB)
+
+Other nearby airports with instrument procedures:
+KFBG - Simmons Army Airfield (9 nm N)
+KPOB - Pope Army Airfield (13 nm NW)
+5W4 - P K Airpark (15 nm W)
+KHRJ - Harnett Regional Jetport Airport (24 nm N)
+KLBT - Lumberton Regional Airport (25 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Jake Williams Jr
+Photo taken 06-Jun-2010
+
+Do you have a better or more recent aerial photo of Fayetteville Regional Airport/Grannis Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Fayetteville Regional Airport/Grannis Field?
+Find the distance to fly.
+From 
+to KFAY
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2312:23
+Sunset17:3022:30
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:06:31
+Local (UTC-5)19-Jan-2024 16:06:31
+
+
+
+
+   
+
+METAR
+
+
+KFAY192053Z 31017G28KT 10SM SCT080 12/M06 A2984 RMK AO2 PK WND 30034/2030 SLP100 T01171056 53027
+
+KFBG8nm N192055Z AUTO 31021G26KT 10SM CLR 12/M08 A2983 RMK AO2 PK WND 29028/02 SLPNO T01151079 52031 $
+
+KPOB12nm NW192055Z AUTO 29013G25KT 10SM CLR 11/M09 A2986 RMK AO2 PK WND 32036/04 SLPNO T01081095 52035 $
+
+
+
+
+
+TAF
+
+
+KFAY191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KFBG8nm N192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KPOB12nm NW192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+UNICOM 122.95910-321-7540[web site][email]
+
+Home of Fort Bragg. Fayetteville is a small city in North Carolina. Play a round of golf at one of the 12 golfing locations. Visit some local farms and go berry picking in the warmer months. Fayetteville is also home to multiple military sites such as the 82nd Airborne Division War Memorial Museum.
+
+
+
+More info and photos of Signature Aviation
+
+
+
+
+
+100LL Jet AFS$7.02$7.00Updated 19-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Fayetteville Regional Airport/Grannis Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Fayetteville Regional Airport/Grannis Field
+
+
+
+www.flyfay.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

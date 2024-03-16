@@ -1,0 +1,480 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KJNX - Johnston Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1571 users online
+ 
+
+
+
+
+KJNX
+ Johnston Regional AirportSmithfield, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SMITHFIELD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:JNX
+Lat/Long:35-32-27.3770N 078-23-25.1720W35-32.456283N 078-23.419533W35.5409381,-78.3903256(estimated)
+Elevation:164 ft. / 50.0 m (surveyed)
+Variation:09W (2000)
+From city:3 miles NW of SMITHFIELD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27577
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1978
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:JNX (NOTAM-D service available)
+Attendance:0800-1800UNATNDD THANKSGIVING AND CHRISTMAS DAY.
+Pattern altitude:1199 ft. MSL
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 03; REIL RWY 21; MIRL 03/21; TWY LGTS - CTAF. PAPI RWY 03 & 21 OPER CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.725
+WX AWOS-3:120.225 (919-934-3851)
+RALEIGH APPROACH:125.3
+RALEIGH DEPARTURE:125.3
+WX AWOS-3 at HRJ (19 nm SW):119.025 (910-814-3946)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr145/27.6RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+JURLY032/4.326309WJN.--- -.
+HARNETT073/15.341708WHQT.... --.- -
+CLINTON007/34.041209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL JET-A1+
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:5500 x 100 ft. / 1676 x 30 mHAS A 150 FT SWY ON BOTH ENDS.
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:65.0Double wheel:65.0
+Runway edge lights:medium intensity
+RUNWAY 3RUNWAY 21
+Latitude:35-32.040413N35-32.872132N
+Longitude:078-23.640188W078-23.198850W
+Elevation:146.9 ft.164.0 ft.
+Traffic pattern:leftleft
+Runway heading:032 magnetic, 023 true212 magnetic, 203 true
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (4.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:49 ft. trees, 1167 ft. from runway, 304 ft. right of centerline, 19:1 slope to clear29 FT TREES 0-200 FT FROM THLD OFFSET 425 FT LEFT OF CNTRLN.36 ft. trees, 241 ft. from runway, 435 ft. left of centerline, 1:1 slope to clear6 FT GROUND 0-200 FT FR THR OFFSET 301 FT LEFT OF CNTRLN, AND 54 FT TRESS 122 FT FR THR OFFSET 442 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:JOHNSTON CO ARPT AUTH3149 SWIFT CREEK RDSMITHFIELD, NC 27577-9803Phone 919-934-0992
+Manager:PHIL LANIER3149 SWIFT CREEK RDSMITHFIELD, NC 27577-9803Phone 919-934-0992
+
+Airport Operational Statistics
+
+Aircraft based on the field:135Single engine airplanes:120Multi engine airplanes:7Jet airplanes:7Helicopters:1
+Aircraft operations: avg 201/day*55%local general aviation44%transient general aviation1%military* for 12-month period ending 25 August 2023
+Additional Remarks
+
+-AVOID OVERFLIGHTS OF HOUSING AREA IN TFC PAT FOR NOISE ABATEMENT. FLY WIDER DNWNDS & LONGER DEP LEGS.
+-GCO AVBL ON FREQ 135.075 THRU RDU CD & FLT SVCS.
+-BE ALERT WHEN TAXING NEAR SOUTH RAMP/CORPORATE HNGR.
+-KEY CODE ACES TO PILOT LOUNGE AT PILOT/CREW RAMP.
+-HEL FLT T OPS INVOF ARPT.
+-GPU AVBL.
+-FOR CD IF RALEIGH APCH UNA VIA GCO CTC RALEIGH APCH AT 919-380-3144.
+-DEER AND COYOTE ON &  INVOF ARPT.
+-RWY 21 HAS +65 FT UNMKD PLINE 2000 FT FM THR LEFT AND RIGHT OF CNTRLN.
+-50 FT AGL TWR 200 FT SW OF RWY 03 CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS Y OR LOC Y RWY 03
+download (290KB)
+ILS Z OR LOC Z RWY 03
+download (314KB)
+RNAV (GPS) RWY 03
+download (249KB)
+RNAV (GPS) RWY 21
+download (250KB)
+
+NOTE: Special Alternate Minimums apply
+download
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download
+
+Other nearby airports with instrument procedures:
+KHRJ - Harnett Regional Jetport Airport (19 nm SW)
+KGWW - Wayne Executive Jetport Airport (21 nm E)
+KGSB - Seymour Johnson Air Force Base (24 nm SE)
+W03 - Wilson Industrial Air Center Airport (25 nm NE)
+W40 - Mount Olive Municipal Airport (26 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo courtesy of SkySite Aerial Photography, Ltd.www.skysiteaerial.com
+Photo taken 06-Jun-2006
+
+Do you have a better or more recent aerial photo of Johnston Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Johnston Regional Airport?
+Find the distance to fly.
+From 
+to KJNX
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2212:22
+Sunset17:2722:27
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:21:18
+Local (UTC-5)19-Jan-2024 16:21:18
+
+
+
+
+   
+
+METAR
+
+
+KJNX192050Z AUTO 33008G25KT 290V360 10SM OVC060 10/M02 A2984 RMK AO2
+
+KHRJ19nm SW192050Z AUTO 31016G23KT 10SM SCT070 BKN080 10/M05 A2986 RMK AO2 T00981047
+
+
+
+
+
+TAF
+
+
+KGSB25nm SE191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+KRDU27nm NW191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KRWI30nm NE191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Johnston Regional Airport
+
+919-934-0992[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangar leasing / sales, GPU / Power cart, ...
+
+ 
+
+
+
+
+More info about Johnston Regional Airport
+
+
+
+
+
+Titan100LL Jet AFS$6.12$6.12Updated 17-Jan-2024
+
+
+
+
+5readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Johnston Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Johnston Regional Airport
+
+
+
+johnstonnc.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

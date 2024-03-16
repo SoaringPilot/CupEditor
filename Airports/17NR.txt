@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 17NR - Zombie Air Force Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1459 users online
+ 
+
+
+
+
+17NR
+ Zombie Air Force AirportAmmon, North Carolina, USA 
+
+
+
+
+
+
+GOING TO AMMON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:17NR
+Lat/Long:34-47-01.5700N 078-34-37.0400W34-47.026167N 078-34.617333W34.7837694,-78.5769556(estimated)
+Elevation:86 ft. / 26 m (estimated)
+From city:1 mile S of AMMON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28399
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/2013
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3P at EYF (11 nm S):119.475 (910-862-9982)
+WX AWOS-3 at CTZ (15 nm NE):119.125 (910-592-7488)
+WX ASOS at FAY (19 nm NW):121.25 (910-484-1546)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr134/19.0FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON232/15.641209WCTZ-.-. - --..
+CAMP019/31.422707WCPC-.-. .--. -.-.
+HARNETT181/39.241708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2000 x 200 ft. / 610 x 61 m
+Surface:turf, in good condition
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Displaced threshold:60 ft.60 ft.
+Obstructions:20 ft. trees20 ft. brush
+
+Runway 10/28
+
+Dimensions:600 x 100 ft. / 183 x 30 m
+Surface:turf, in good condition
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CHARLES HEATHERLY2217 WESTHAVEN DRFAYETTEVILLE, NC 28303Phone 910-987-3716
+Manager:CHARLES HEATHERLY2217 WESTHAVEN DRFAYETTEVILLE, NC 28303Phone 910-987-3716
+
+Airport Operational Statistics
+
+Aircraft based on the field:5Single engine airplanes:2Ultralights:3
+Additional Remarks
+
+-BE ALERT FOR DEER ON RWY.
+-AIRCRAFT AND ULTRALIGHT ACTIVITY IN VICINITY OF AIRPORT WITHOUT COMMUNICATIONS.
+-TOWED PARAGLIDING ACTIVITIES AT IRREGULAR INTERVALS -  CTAF 122.8.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 17NR.
+Some nearby airports with instrument procedures:
+KEYF - Curtis L Brown Jr. Field Airport (11 nm S)
+KCTZ - Clinton-Sampson County Airport (15 nm NE)
+KFAY - Fayetteville Regional Airport/Grannis Field (19 nm NW)
+KLBT - Lumberton Regional Airport (26 nm SW)
+KFBG - Simmons Army Airfield (27 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Zombie Air Force Airport?
+Find the distance to fly.
+From 
+to 17NR
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:2922:29
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:12:36
+Local (UTC-5)19-Jan-2024 17:12:36
+
+
+
+
+   
+
+METAR
+
+
+KEYF11nm S192150Z AUTO 32015G23KT 10SM SCT065 11/M05 A2987 RMK AO2 T01151046
+
+KCTZ16nm NE192145Z AUTO 30011G22KT 10SM CLR 11/M05 A2988 RMK AO2 T01051055
+
+KFAY19nm NW192153Z 31014G26KT 10SM OVC080 09/M09 A2990 RMK AO2 PK WND 30034/2134 SLP119 T00941089
+
+
+
+
+
+TAF
+
+
+KFAY19nm NW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Zombie Air Force Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Zombie Air Force Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

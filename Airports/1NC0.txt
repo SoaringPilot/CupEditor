@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 1NC0 - Delk's Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1598 users online
+ 
+
+
+
+
+1NC0
+ Delk's AirportAsheboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ASHEBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:1NC0
+Lat/Long:35-43-19.4910N 079-56-29.1410W35-43.324850N 079-56.485683W35.7220808,-79.9414281(estimated)
+Elevation:460 ft. / 140 m (estimated)
+Variation:06W (1985)
+From city:4 miles W of ASHEBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27203
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1981
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HBI (5 nm SE):119.275 (336-626-7933)
+WX AWOS-3 at EXX (18 nm W):119.825 (336-956-2967)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr254/16.9LIBERTY VORTAC113.0003W
+GSOr178/19.5GREENSBORO VORTAC116.2003W
+SDZr333/35.0SANDHILLS VORTAC111.8003W
+
+Airport Services
+
+
+Runway Information
+Runway 16/34
+
+Dimensions:2300 x 46 ft. / 701 x 14 m
+Surface:turf
+RUNWAY 16RUNWAY 34
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DEMPSEY DELK4705 US HWY 64 WESTASHEBORO, NC 27203Phone 336-229-0991
+Manager:DEMPSEY DELK5205 US HWY 64 WESTASHEBORO, NC 27205Phone 336-229-5544
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:1Helicopters:1
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 1NC0.
+Some nearby airports with instrument procedures:
+KHBI - Asheboro Regional Airport (5 nm SE)
+KEXX - Davidson County Executive Airport (18 nm W)
+KVUJ - Stanly County Airport (21 nm SW)
+KSCR - Siler City Municipal Airport (21 nm E)
+43A - Montgomery County Airport (22 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Delk's Airport?
+Find the distance to fly.
+From 
+to 1NC0
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:00:02
+Local (UTC-5)19-Jan-2024 16:00:02
+
+
+
+
+   
+
+METAR
+
+
+KHBI5nm SE191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+KEXX18nm W192045Z AUTO 30012G22KT 10SM SCT060 05/M08 A2995 RMK AO2 T00501076
+
+
+
+
+
+TAF
+
+
+KGSO23nm N191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT28nm NW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Delk's Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Delk's Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

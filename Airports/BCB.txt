@@ -1,0 +1,440 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KBCB - Virginia Tech/Montgomery Executive Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1438 users online
+ 
+
+
+
+
+KBCB
+ Virginia Tech/Montgomery Executive AirportBlacksburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO BLACKSBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:BCB
+Lat/Long:37-12-33.7920N 080-24-43.5240W37-12.563200N 080-24.725400W37.2093867,-80.4120900(estimated)
+Elevation:2119.5 ft. / 646.0 m (surveyed)
+Variation:08W (2020)
+From city:3 miles S of BLACKSBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24060
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1937
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:BCB (NOTAM-D service available)
+Attendance:APR - OCT 0800-1900,  NOV - MAR 0800-1900UNATNDD NEW YEAR'S DAY, THANKSGIVING DAY, CHRISTMAS DAY, MAJOR HOLIDAYS.
+Pattern altitude:TPA 1000 FT AGL FOR NON TURBINE POWERED ACFT. TPA FOR TURBINE POWERED ACFT 1500 FT AGL.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT ODALS RWY 13; REIL RWY 31; PAPI RWY 13 & 31; MIRL RWY 13/31 - CTAF.  MIRL RWY 13/31 PRESET LOW INTST.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.05
+WX AWOS-3:133.325 (540-231-4837)
+ROANOKE APPROACH:126.9
+ROANOKE DEPARTURE:126.9
+CLEARANCE DELIVERY:124.85
+IC:126.9
+WX AWOS-3 at PSK (13 nm W):127.375 (540-674-2731)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PSKr069/16.1PULASKI VORTAC116.8006W
+ROAr248/18.2ROANOKE VOR/DME109.4004W
+ODRr260/(21.8)WOODRUM VOR114.9008W
+BLFr102/37.8BLUEFIELD VOR/DME115.0503W
+
+
+NDBnameHdg/DistFreqVarID
+TECHat field36808WTEC- . -.-.
+VINTON279/25.427708WVIT...- .. -
+
+Airport Services
+
+Fuel available:100LL JET-A+100LL:PPR FOR FUEL WHEN ARPT UNATNDD; PHONE 540-231-4444; FEE FOR AFT HRS.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 13/31
+
+Dimensions:5501 x 100 ft. / 1677 x 30 m
+Surface:asphalt/grooved, in fair condition
+Runway edge lights:medium intensity
+RUNWAY 13RUNWAY 31
+Latitude:37-12.770175N37-12.356178N
+Longitude:080-25.229450W080-24.221388W
+Elevation:2119.2 ft.2119.5 ft.
+Traffic pattern:leftleft
+Runway heading:125 magnetic, 117 true305 magnetic, 297 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.44 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Approach lights:ODALS: omnidirectional approach lighting system
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:31 ft. sign, 1114 ft. from runway, 359 ft. left of centerline, 29:1 slope to clear70 ft. brush, 2170 ft. from runway, 498 ft. right of centerline, 28:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:VTMRAA1601 RESEARCH CENTER DRIVEBLACKSBURG, VA 24060Phone 540-231-4444
+Manager:KEITH HOLT1601 RESEARCH CENTER DRIVEBLACKSBURG, VA 24060Phone 540-231-4444
+
+Airport Operational Statistics
+
+Aircraft based on the field:42Single engine airplanes:37Multi engine airplanes:1Jet airplanes:3Helicopters:1
+Aircraft operations: avg 60/day*66%transient general aviation31%local general aviation2%air taxi2%military* for 12-month period ending 28 June 2019
+Additional Remarks
+
+-OCCASIONAL WILDLIFE ON ARPT.
+-VFR DEPARTURES MAINTAIN RWY HEADING UNTIL REACHING 1000 FT AGL.
+-NOISE SENSITIVE AREA NORTH OF ARPT.
+-ROA TWR SVCS AVBL AT 540-563-1307.
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 13
+download (243KB)
+RNAV (GPS) RWY 31
+download (235KB)
+LOC RWY 13
+download (248KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+Departure Procedures
+
+BEMAR THREE (RNAV)
+download (137KB)
+SETHY FIVE (RNAV)
+download (190KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KPSK - New River Valley Airport (13 nm W)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (22 nm E)
+KHLX - Twin County Airport (33 nm SW)
+KBLF - Mercer County Airport (38 nm W)
+KLWB - Greenbrier Valley Airport (39 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by William C Harris, Gladstone, NJ
+Photo taken 31-Aug-2018
+looking northwest.
+
+Do you have a better or more recent aerial photo of Virginia Tech/Montgomery Executive Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Virginia Tech/Montgomery Executive Airport?
+Find the distance to fly.
+From 
+to KBCB
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0612:06
+Sunrise07:3412:34
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:05:25
+Local (UTC-5)19-Jan-2024 17:05:25
+
+
+
+
+   
+
+METAR
+
+
+KBCB192155Z AUTO 32013G19KT 3/4SM -SN BKN015 OVC023 M04/M06 A2996 RMK AO2 T10401063
+
+KPSK13nm SW192155Z AUTO 30013G20KT 10SM SCT028 BKN035 OVC046 M04/M10 A2993 RMK AO2 T10361097
+
+
+
+
+
+TAF
+
+
+KBCB191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Virginia Tech/Montgomery Executive Airport
+
+540-231-4444
+
+
+no information available
+If you are affiliated with Virginia Tech/Montgomery Executive Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AFS$5.80$5.85Updated 12-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Virginia Tech/Montgomery Executive Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Virginia Tech/Montgomery Executive Airport
+
+
+
+www.vtmea.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

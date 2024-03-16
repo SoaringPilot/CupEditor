@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: SC61 - Wild Irish Rose Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1463 users online
+ 
+
+
+
+
+SC61
+ Wild Irish Rose AirportCheraw, South Carolina, USA 
+
+
+
+
+
+
+GOING TO CHERAW?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SC61
+Lat/Long:34-37-04.5560N 080-09-06.2380W34-37.075933N 080-09.103967W34.6179322,-80.1517328(estimated)
+Elevation:376 ft. / 114.6 m (surveyed)
+Variation:06W (1985)
+From city:13 miles SW of CHERAW, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29584
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1984
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:no
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at CQW (11 nm NE):124.825 (843-537-3301)
+WX AWOS-3 at HVS (13 nm S):118.225 (843-339-9625)
+WX AWOS-3PT at UDG (17 nm SE):119.925 (843-393-8220)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr111/6.4CHESTERFIELD VOR/DME114.5503W
+FLOr316/33.7FLORENCE VORTAC115.2003W
+
+
+NDBnameHdg/DistFreqVarID
+HARTSVILLE360/12.834107WHVS.... ...- ...
+DARLINGTON315/16.824506WUDG..- -.. --.
+BENNETTSVILLE278/20.723008WBES-... . ...
+SUMTER022/39.025207WSMS... -- ...
+DILLON294/40.027409WDLC-.. .-.. -.-.
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:2600 x 150 ft. / 792 x 46 m
+Surface:turf
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:TENNER BROTHERS INCRT 2, BOX 85PATRICK, SC 29584Phone 803-634-6621
+Manager:DUNCAN LANEYRT2 BOX 85PATRICK, SC 29584Phone 803-634-6621
+
+Additional Remarks
+
+-POWER LINES/POLES 300' FROM RWY 27 THR.
+-FOR CD CTC FLORENCE APCH AT 843-669-5194, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at SC61.
+Some nearby airports with instrument procedures:
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (11 nm NE)
+KPYG - Pageland Airport (12 nm NW)
+KHVS - Hartsville Regional Airport (13 nm S)
+KUDG - Darlington County Airport (17 nm SE)
+KBBP - Marlboro County Jetport - H E Avent Field (21 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Wild Irish Rose Airport?
+Find the distance to fly.
+From 
+to SC61
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2712:27
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:08:13
+Local (UTC-5)19-Jan-2024 17:08:13
+
+
+
+
+   
+
+METAR
+
+
+KCQW11nm NE192155Z AUTO 36012G18KT 10SM FEW070 08/M10 A2996 RMK AO2
+
+KHVS13nm S192155Z AUTO VRB06G15KT 10SM CLR 09/M06 A2995 RMK AO2
+
+KUDG17nm SE192156Z AUTO 33019G24KT 10SM FEW060 08/M07 A2996 RMK AO2 PK WND 32029/2126 SLP145 T00831067
+
+KBBP21nm E192155Z AUTO 31013G22KT 10SM CLR 08/M06 A2995 RMK AO2
+
+
+
+
+
+TAF
+
+
+KFLO33nm SE191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wild Irish Rose Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wild Irish Rose Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

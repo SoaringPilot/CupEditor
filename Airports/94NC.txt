@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 94NC - Viking Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1438 users online
+ 
+
+
+
+
+94NC
+ Viking AirportRaeford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO RAEFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:94NC
+Lat/Long:35-00-34.5980N 079-15-36.1200W35-00.576633N 079-15.602000W35.0096106,-79.2600333(estimated)
+Elevation:295 ft. / 90 m (estimated)
+Variation:06W (1985)
+From city:3 miles NW of RAEFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28376
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1974
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at HFF (12 nm W):141.25 (910-396-7804)
+WX ASOS at MEB (14 nm S):134.125 (910-844-5338)
+WX AWOS-3PT at SOP (15 nm NW):127.575 (910-692-4287)
+WX ASOS at FAY (19 nm E):121.25 (910-484-1546)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr278/19.0FAYETTEVILLE VOR/DME114.8504W
+SDZr131/20.3SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLE053/33.023008WBES-... . ...
+DILLON018/34.027409WDLC-.. .-.. -.-.
+HARNETT236/38.341708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:MOGAS
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+
+Runway Information
+Runway 7/25
+
+Dimensions:2600 x 65 ft. / 792 x 20 m
+Surface:turf
+Runway edge markings:RY 07 AMBER REFLECTORS EVERY 100 FT BOTH SIDES OF RY.
+RUNWAY 7RUNWAY 25
+Traffic pattern:leftright
+Obstructions:25 ft. pline, 640 ft. from runway25' TREES AT THR OF RWY 07.25 ft. pline, 850 ft. from runway25' TREES AT THR OF RWY 25.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ERIC M. CHRISTENSEN353 CHRISTENSEN LANERAEFORD, NC 28376Phone 910-875-4024
+Manager:ERIC M. CHRISTENSEN353 CHRISTENSEN LANERAEFORD, NC 28376Phone 910-904-3500
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:3Multi engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 94NC.
+Some nearby airports with instrument procedures:
+5W4 - P K Airpark (3 nm E)
+KHFF - Mackall Army Airfield (12 nm W)
+KMEB - Laurinburg/Maxton Airport (14 nm S)
+KSOP - Moore County Airport (15 nm NW)
+KPOB - Pope Army Airfield (15 nm NE)
+KFBG - Simmons Army Airfield (18 nm NE)
+KFAY - Fayetteville Regional Airport/Grannis Field (19 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Viking Airport?
+Find the distance to fly.
+From 
+to 94NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:05:04
+Local (UTC-5)19-Jan-2024 17:05:04
+
+
+
+
+   
+
+METAR
+
+
+KHFF12nm W192136Z AUTO 01014G18KT 10SM FEW080 08/M08 A2990 RMK AO2 SLPNO $
+
+KSOP14nm NW192156Z AUTO 33011G21KT 10SM CLR 07/M08 A2994 RMK AO2 SLP146 T00671083
+
+KMEB15nm S192152Z AUTO 32015G25KT 10SM SCT075 08/M08 A2993 RMK AO2 PK WND 32033/2100 SLP134 T00831083
+
+KPOB15nm NE192155Z AUTO 31008G18KT 10SM CLR 09/M08 A2991 RMK AO2 PK WND 30030/2056 SLPNO T00901077 $
+
+KFBG18nm E192155Z AUTO 32020G24KT 10SM CLR 09/M08 A2988 RMK AO2 PK WND 30028/2057 SLPNO T00911080 $
+
+KFAY19nm E192153Z 31014G26KT 10SM OVC080 09/M09 A2990 RMK AO2 PK WND 30034/2134 SLP119 T00941089
+
+
+
+
+
+TAF
+
+
+KPOB15nm NE192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFBG18nm E192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KFAY19nm E191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Viking Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Viking Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

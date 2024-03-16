@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 1NC1 - Ron's Ultralight Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1444 users online
+ 
+
+
+
+
+1NC1
+ Ron's Ultralight FieldPittsboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PITTSBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:1NC1
+Lat/Long:35-48-43.0000N 079-14-19.0000W35-48.716667N 079-14.316667W35.8119444,-79.2386111(estimated)
+Elevation:525 ft. / 160 m (estimated)
+From city:8 miles N of PITTSBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27312
+
+Ultralight Flight Park Operations
+
+Ultralight Flight Park use:Private use. Permission required prior to landing
+Activation date:09/2003
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Ultralight Flight Park Communications
+
+WX AWOS-3 at SCR (14 nm SW):125.775 (919-663-1252)
+WX AWOS-3 at TTA (15 nm SE):120.625 (919-708-5382)
+WX ASOS at BUY (18 nm NW):135.325 (336-570-9813)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr093/18.2LIBERTY VORTAC113.0003W
+RDUr270/22.4RALEIGH/DURHAM VORTAC117.2009W
+GSOr114/38.5GREENSBORO VORTAC116.2003W
+SDZr028/39.6SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON206/26.622008WHUR.... ..- .-.
+HARNETT318/35.741708WHQT.... --.- -
+
+Ultralight Flight Park Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:1600 x 125 ft. / 488 x 38 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftleft
+Displaced threshold:no300 ft.
+Obstructions:75 ft. trees, 150 ft. from runway75 ft. trees, 150 ft. from runway
+
+Ultralight Flight Park Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RONALD W. SCHULTZ2124 LUTTERLOH RDPITTSBORO, NC 27312Phone 919-545-9595
+Manager:RONALD W. SCHULTZ2124 LUTTERLOH RDPITTSBORO, NC 27312Phone 919-545-9595
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 1NC1.
+Some nearby airports with instrument procedures:
+KSCR - Siler City Municipal Airport (14 nm SW)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (15 nm SE)
+KBUY - Burlington/Alamance Regional Airport (18 nm NW)
+KRDU - Raleigh-Durham International Airport (22 nm E)
+KTDF - Raleigh Regional Airport at Person County (31 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Bradley Pearce
+Photo taken 07-Oct-2015
+looking southwest.
+
+Do you have a better or more recent aerial photo of Ron's Ultralight Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Ron's Ultralight Field?
+Find the distance to fly.
+From 
+to 1NC1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2612:26
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:49:30
+Local (UTC-5)19-Jan-2024 16:49:30
+
+
+
+
+   
+
+METAR
+
+
+KSCR14nm SW192125Z AUTO 28008G18KT 230V320 10SM CLR 05/M09 A2993 RMK AO2 T00531094
+
+KTTA15nm SE192130Z AUTO 31015G24KT 10SM CLR 07/M08 A2992 RMK AO2 T00671080
+
+KBUY18nm NW192054Z AUTO 29019G32KT 10SM CLR 05/M09 A2990 RMK AO2 PK WND 25034/2021 SLP126 T00501089 53042
+
+
+
+
+
+TAF
+
+
+KRDU22nm E191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Ron's Ultralight Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Ron's Ultralight Field
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

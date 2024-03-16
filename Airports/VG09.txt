@@ -1,0 +1,361 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG09 - Starbase Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1419 users online
+ 
+
+
+
+
+VG09
+ Starbase AirportCape Charles, Virginia, USA 
+
+
+
+
+
+
+GOING TO CAPE CHARLES?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG09
+Lat/Long:37-13-40.0000N 075-59-00.0000W37-13.666667N 075-59.000000W37.2277778,-75.9833333(estimated)
+Elevation:20 ft. / 6 m (estimated)
+Variation:10W (1995)
+From city:4 miles SE of CAPE CHARLES, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23310
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1998
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT LIRL RWY 09/27 - 122.9.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CCVr185/7.2CAPE CHARLES VORTAC112.2010W
+ORFr034/22.7NORFOLK VORTAC116.9007W
+HCMr118/37.2HARCUM VORTAC108.8007W
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:5000 x 80 ft. / 1524 x 24 m
+Surface:turf, in good condition
+Runway edge lights:low intensity
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftright
+Displaced threshold:no1000 ft.
+Obstructions:30 ft. plines, 500 ft. from runway30 ft. trees, 500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BAYVIEW CORP2464 PLANTATION CREEK LANECAPE CHARLES, VA 23310Phone 757-331-1439
+Manager:ROBT L STARER2464 PLANTATION CREEK LANECAPE CHARLES, VA 23310Phone 757-331-1439MERLE STARER  MSTARER@VERIZON.NET
+
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at VG09.
+Some nearby airports with instrument procedures:
+KLFI - Langley Air Force Base (20 nm SW)
+KNHU - Norfolk Naval Station Airport (22 nm SW)
+KORF - Norfolk International Airport (23 nm SW)
+KNGU - Norfolk Naval Station (Chambers Field) (23 nm SW)
+KNTU - Oceana Naval Air Station (Apollo Soucek Field) (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Jens Reinke
+Photo taken 05-May-2007
+
+Do you have a better or more recent aerial photo of Starbase Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Starbase Airport?
+Find the distance to fly.
+From 
+to VG09
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1322:13
+Evening civil twilight17:4122:41
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:57:22
+Local (UTC-5)19-Jan-2024 16:57:22
+
+
+
+
+   
+
+METAR
+
+
+KLFI21nm SW192155Z AUTO 31015G19KT 10SM SCT035 OVC070 03/M06 A2984 RMK AO2 PK WND 32026/40 SLP111 T00331059 $
+
+KORF22nm SW192151Z 32008G17KT 290V360 10SM FEW039 BKN060 OVC080 04/M04 A2983 RMK AO2 PK WND 32029/2052 SLP100 T00441039
+
+KNGU23nm SW192059Z 31026G35KT 10SM SCT035 BKN060 OVC080 05/M03 A2981 RMK AO2 PK WND 29035/2002 SLP095 T00501033 53034
+
+KNTU25nm S192056Z 31015G29KT 10SM FEW034 BKN060 OVC075 05/M02 A2978 RMK AO2 PK WND 32032/2028 SLP086 T00501022 53035
+
+KPHF25nm W192154Z 32016G33KT 10SM OVC075 03/M05 A2985 RMK AO2 PK WND 32033/2148 SLP107 T00281050
+
+KMFV26nm NE192135Z AUTO 29020G27KT 7SM -SN OVC009 00/M01 A2979 RMK AO2 T00021012
+
+KFAF31nm W192155Z AUTO 30020G25KT 10SM OVC070 03/M05 A2982 RMK AO2 PK WND 30026/02 SLP102 T00341053 TSNO $
+
+KW7532nm NW192155Z AUTO 31011G22KT 10SM BKN019 OVC080 01/M03 A2986 RMK AO1 T00071026
+
+KNFE33nm S192056Z AUTO 32009G20KT 10SM SCT040 SCT050 OVC075 06/M02 A2979 RMK AO2 PK WND 30026/2000 SLP091 T00611017 53035
+
+KPVG35nm SW192155Z 31011G16KT 270V340 10SM BKN030 OVC040 04/M02 A2986 RMK AO2 SLP299 PWINO PNO FZRANO RVRNO
+
+
+
+
+
+TAF
+
+
+KLFI21nm SW191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KORF22nm SW191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KNGU23nm SW1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KNTU25nm S1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1919 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191900 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0919/0923 28014KT 9000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 540009 520909 QNH2980INS TX08/1918Z TNM02/2009Z FN20008 
+
+KPHF25nm W191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Starbase Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Starbase Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

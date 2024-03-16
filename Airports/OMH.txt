@@ -1,0 +1,465 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KOMH - Orange County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1430 users online
+ 
+
+
+
+
+KOMH
+ Orange County AirportOrange, Virginia, USA 
+
+
+
+
+
+
+GOING TO ORANGE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:OMH
+Lat/Long:38-14-49.9300N 078-02-44.2360W38-14.832167N 078-02.737267W38.2472028,-78.0456211(estimated)
+Elevation:464.4 ft. / 141.5 m (surveyed)
+Variation:09W (1990)
+From city:3 miles E of ORANGE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22960
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:11/1946
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:OMH (NOTAM-D service available)
+Attendance:0800-1700UNATDD FEDERAL HOL & EASTER.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 08 & 26; PAPI RWY 08 & 26; MIRL RWY 08/26 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:118.075 (540-672-0505)
+POTOMAC APPROACH:132.85 120.525
+POTOMAC DEPARTURE:132.85 120.525
+WX AWOS-3 at GVE (8 nm SW):120.225 (540-832-2095)
+WX AWOS-3 at LKU (15 nm S):119.475 (540-967-1983)
+WX AWOS-3 at CJR (19 nm NE):119.325 (540-727-0523)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GVEr026/14.9GORDONSVILLE VORTAC115.6006W
+CSNr206/25.1CASANOVA VORTAC116.3006W
+BRVr270/33.1BROOKE VORTAC114.5009W
+LDNr174/37.2LINDEN VORTAC114.3006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR218/14.135110WMSQ-- ... --.-
+SHANNON278/28.123710WEZF. --.. ..-.
+CAVERNS153/33.724509WLUA.-.. ..- .-
+
+Airport Services
+
+Fuel available:100LL JET-A+100LL:100LL SELF SERVICE AFTER HOURS.A+:JET-A+ SELF SERVICE AFTER HOURS.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 8/26
+
+Dimensions:3200 x 75 ft. / 975 x 23 m
+Surface:asphalt/aggregate friction seal coat, in good condition
+Weight bearing capacity:Single wheel:12.0
+Runway edge lights:medium intensity
+RUNWAY 8RUNWAY 26
+Latitude:38-14.724085N38-14.940225N
+Longitude:078-03.042140W078-02.432390W
+Elevation:445.3 ft.464.4 ft.
+Traffic pattern:leftleft
+Runway heading:075 magnetic, 066 true255 magnetic, 246 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (4.00 degrees glide path)2-light PAPI on left (4.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:103 ft. tree, 2389 ft. from runway, 374 ft. left of centerline, 21:1 slope to clear60 ft. pole, 1185 ft. from runway, 381 ft. left of centerline, 16:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:ORANGE COUNTYP O BOX 111ORANGE, VA 22960Phone 540-661-5400
+Manager:PAUL J. WEBER11275 AVIATION WAYORANGE, VA 22960Phone 540-672-2158MOBILE 540-406-1821
+
+Airport Operational Statistics
+
+Aircraft based on the field:37Single engine airplanes:33Multi engine airplanes:3Helicopters:1
+Aircraft operations: avg 23/day*60%transient general aviation38%local general aviation1%military<1%air taxi* for 12-month period ending 30 June 2023
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+-PARACHUTE OPS.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 08
+download (212KB)
+RNAV (GPS) RWY 26
+download (213KB)
+VOR/DME-A
+download (196KB)
+
+NOTE: Special Alternate Minimums apply
+download
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download
+
+Other nearby airports with instrument procedures:
+KGVE - Gordonsville Municipal Airport (8 nm SW)
+KLKU - Louisa County Airport/Freeman Field (15 nm S)
+KCJR - Culpeper Regional Airport (19 nm NE)
+KCHO - Charlottesville-Albemarle Airport (20 nm W)
+7W4 - Lake Anna Airport (22 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 11-Nov-2018
+looking north-northeast.
+
+Do you have a better or more recent aerial photo of Orange County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Orange County Airport?
+Find the distance to fly.
+From 
+to KOMH
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2712:27
+Sunset17:1922:19
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:40:02
+Local (UTC-5)19-Jan-2024 16:40:02
+
+
+
+
+   
+
+METAR
+
+
+KOMH192115Z AUTO 32005G16KT 10SM OVC090 00/M05 A2988 RMK AO2
+
+KGVE8nm SW192115Z AUTO 00000KT 10SM SCT044 SCT055 BKN095 01/M05 A2985 RMK AO1 T00121052
+
+KLKU14nm S192055Z AUTO 31012G18KT 10SM SCT035 BKN060 OVC085 01/M05 A2985 RMK AO2 T00141045 60001
+
+KCJR17nm N192115Z AUTO 32005KT 10SM BKN060 BKN075 OVC085 01/M05 A2988 RMK AO2 T00121050
+
+
+
+
+
+TAF
+
+
+KCHO20nm W191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Orange County Airport
+
+540-672-2158
+
+
+no information available
+If you are affiliated with Orange County Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet ASS$5.85$5.35Updated 12-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+SS=Self service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+SkyWorld Aviation
+
+540-788-9300[web site][email]
+
+Oxygen service, Hangars, Hangar leasing / sales, GPU / Power cart, Aircraft maintenance, Avionics sales and service, Aircraft modifications, ...
+
+ 
+ 
+
+
+
+
+More info about SkyWorld Aviation
+
+
+
+
+26 miles
+
+
+
+1readwrite
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Orange County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Orange County Airport
+
+
+
+orangecountyva.gov/index.aspx?nid=150
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

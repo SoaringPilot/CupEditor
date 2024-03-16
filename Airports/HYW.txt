@@ -1,0 +1,425 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KHYW - Conway-Horry County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1615 users online
+ 
+
+
+
+
+KHYW
+ Conway-Horry County AirportConway, South Carolina, USA 
+
+
+
+
+
+
+GOING TO CONWAY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:HYW
+Lat/Long:33-49-42.5550N 079-07-19.8348W33-49.709250N 079-07.330580W33.8284875,-79.1221763(estimated)
+Elevation:34.8 ft. / 10.6 m (surveyed)
+Variation:08W (2000)
+From city:3 miles W of CONWAY, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29527
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:0900-1700
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MIRL RWY 04/22 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:119.525 (843-397-8046)
+MYRTLE BEACH APPROACH:127.4
+MYRTLE BEACH DEPARTURE:127.4
+WX AWOS-3PT at MYR (13 nm SE):123.925 (843-238-0335)
+WX ASOS at CRE (20 nm E):119.625 (843-361-2802)
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ARTCC ON FREQS 134.375/317.550  (MYRTLE BEACH RCAG) WHEN MYRTLE BEACH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CREr276/19.8GRAND STRAND VORTAC114.4003W
+FLOr135/36.0FLORENCE VORTAC115.2003W
+
+
+NDBnameHdg/DistFreqVarID
+ANDREWS048/30.425506WPHH.--. .... ....
+EVANS099/32.142006WCFY-.-. ..-. -.--
+CAMP224/33.622707WCPC-.-. .--. -.-.
+DILLON171/39.327409WDLC-.. .-.. -.-.
+
+Airport Services
+
+Fuel available:100LL JET-A JET-A+100LL:FUEL 24 HR CREDIT CARD SVC AVBL.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:4401 x 75 ft. / 1341 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5Double wheel:20.0
+Runway edge lights:medium intensity
+RUNWAY 4RUNWAY 22
+Latitude:33-49.400977N33-50.017522N
+Longitude:079-07.559822W079-07.101337W
+Elevation:33.3 ft.34.5 ft.
+Traffic pattern:leftleft
+Runway heading:040 magnetic, 032 true220 magnetic, 212 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on right (3.35 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:85 ft. tree, 1776 ft. from runway, 220 ft. left of centerline, 18:1 slope to clear76 ft. tree, 2013 ft. from runway, 449 ft. right of centerline, 23:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:HORRY COUNTYPO BOX 1236CONWAY, SC 29526Phone 843-397-9111
+Manager:JUDI OLMSTEAD1100 JETPORT RDMYRTLE BEACH, SC 29577Phone 843-448-1580
+
+Airport Operational Statistics
+
+Aircraft based on the field:26Single engine airplanes:22Multi engine airplanes:3Jet airplanes:1
+Aircraft operations: avg 33/day*57%local general aviation40%transient general aviation2%air taxi<1%military* for 12-month period ending 25 August 2021
+Additional Remarks
+
+-FOR CD CTC MYRTLE BEACH APCH AT 843-477-2727 OR 843-477-2704, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 04
+download (244KB)
+RNAV (GPS) RWY 22
+download (227KB)
+
+NOTE: Special Alternate Minimums apply
+download (25KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KMYR - Myrtle Beach International Airport (13 nm SE)
+KCRE - Grand Strand Airport (20 nm E)
+5J9 - Twin City Airport (20 nm NE)
+KMAO - Marion County Airport (24 nm NW)
+KPHH - Robert F Swinnie Airport (30 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Conway-Horry County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Conway-Horry County Airport?
+Find the distance to fly.
+From 
+to KHYW
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2112:21
+Sunset17:3322:33
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:54:55
+Local (UTC-5)19-Jan-2024 15:54:55
+
+
+
+
+   
+
+METAR
+
+
+KHYW192035Z AUTO 27013G18KT 10SM BKN065 15/01 A2983 RMK AO2
+
+KMYR14nm SE191956Z 29020G29KT 10SM FEW060 16/02 A2980 RMK AO2 PK WND 28030/1936 SLP091 T01610017
+
+
+
+
+
+TAF
+
+
+KMYR14nm SE191732Z 1918/2018 28015G23KT P6SM FEW040 FM200000 32011G19KT P6SM SKC FM200600 32008KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Beach Aviation Services
+
+843-397-9111
+
+
+no information available
+If you are affiliated with Beach Aviation Services and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet ASS$5.30$4.08Updated 16-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Conway-Horry County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Conway-Horry County Airport
+
+
+
+www.horrycounty.org/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KTDF - Raleigh Regional Airport at Person County
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1443 users online
+ 
+
+
+
+
+KTDF
+ Raleigh Regional Airport at Person CountyRoxboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ROXBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:TDF
+Lat/Long:36-17-04.6000N 078-59-04.7000W36-17.076667N 078-59.078333W36.2846111,-78.9846389(estimated)
+Elevation:608.9 ft. / 185.6 m (surveyed)
+Variation:08W (2000)
+From city:6 miles S of ROXBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27583
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/1987
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:TDF (NOTAM-D service available)
+Attendance:0900-1700ARPT UNATTENDED THANKSGIVING & CHRISTMAS.FOR SVC AFTER HRS CALL 615-351-9845.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:REIL RWY 24; MIRL RWY 06/24 OPR SS-SR; TO ACTVT OTR TIMES AND ACTVT MALSR RWY 06; PAPI RWY 06 & 24 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:126.725 (336-364-1651)
+RALEIGH APPROACH:132.35
+RALEIGH DEPARTURE:132.35
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr181/23.5SOUTH BOSTON VORTAC110.4005W
+DANr141/(24.1)DANVILLE VOR113.1006W
+RDUr347/26.6RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON060/5.022008WHUR.... ..- .-.
+HUNTSBORO276/17.727109WHXO.... -..- ---
+SLAMMER106/38.142307WSIF... .. ..-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+
+Parking:tiedowns
+
+Runway Information
+Runway 6/24
+
+Dimensions:6005 x 100 ft. / 1830 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:45.0Double wheel:68.0
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:36-16.772270N36-17.380075N
+Longitude:078-59.559902W078-58.595158W
+Elevation:590.4 ft.604.4 ft.
+Traffic pattern:leftleft
+Runway heading:060 magnetic, 052 true240 magnetic, 232 true
+Displaced threshold:303 ft.no
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS/DME
+Obstructions:58 ft. trees, 2360 ft. from runway, 822 ft. left of centerline, 37:1 slope to clear45:1 AT DSPLCD THR.68 ft. trees, 2198 ft. from runway, 77 ft. right of centerline, 29:1 slope to clearDUE TO 4 FT BRUSH LCTD 0-100 FT FM END OF RWY OFFSET 175 FT RIGHT OF CNTRLN AND 3 FT BRUSH LCTD 73 FT FM END OF RWY OFFSET 164 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:PERSON COUNTYCOUNTY BLDG, 304 S MORGAN STROXBORO, NC 27573-5245Phone 336-597-1735
+Manager:BILL TOUGAS385 MONTGOMERY DRIVETIMBERLAKE, NC 27583-5245Phone 336-364-1111
+
+Airport Operational Statistics
+
+Aircraft based on the field:33Single engine airplanes:29Multi engine airplanes:4
+Aircraft operations: avg 95/day*52%transient general aviation43%local general aviation3%military2%air taxi* for 12-month period ending 30 July 2021
+Additional Remarks
+
+-DEER & BIRDS ON & INVOF ARPT.
+-GCO AVBL ON FREQ 119.700 THRU RALEIGH APCH.
+-CONCRETE  HELIPAD, ADJACENT AND NE OF MAIN APRON, UNLGTD, VFR ONLY.
+-NO LINE OF SIGHT BTN RWY ENDS.
+-FOR CD IF UNA VIA GCO CTC RALEIGH APCH AT 919-380-3144.
+-(CONTACT TITLE) FAX:  336-364-2224.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 06
+download (295KB)
+RNAV (GPS) RWY 06
+download (243KB)
+RNAV (GPS) RWY 24
+download (245KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (391KB)
+
+Other nearby airports with instrument procedures:
+KHNZ - Henderson/Oxford Airport (22 nm E)
+KDAN - Danville Regional Airport (24 nm NW)
+KRDU - Raleigh-Durham International Airport (26 nm S)
+W78 - William M Tuck Airport (26 nm N)
+KBUY - Burlington/Alamance Regional Airport (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Brian Tesar
+Photo taken 09-Apr-2017
+looking northeast.
+
+Do you have a better or more recent aerial photo of Raleigh Regional Airport at Person County that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Raleigh Regional Airport at Person County?
+Find the distance to fly.
+From 
+to KTDF
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2612:26
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:41:37
+Local (UTC-5)19-Jan-2024 16:41:37
+
+
+
+
+   
+
+METAR
+
+
+KTDF192105Z AUTO 28007G21KT 10SM CLR 04/M10 A2991 RMK AO2
+
+
+
+
+
+TAF
+
+
+KDAN24nm NW191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+KRDU27nm S191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Red Mountain Aviation, Inc.
+
+
+
+336-364-1111615-351-9845[web site][email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, Passenger terminal and lounge, Aircraft charters, ...
+
+ 
+ 
+
+
+
+
+More info about Red Mountain Aviation, Inc.
+
+
+
+
+
+100LL Jet AFS$6.49$5.99GUARANTEEDMEMBERSONLYDiscounts
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Raleigh Regional Airport at Person County, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Raleigh Regional Airport at Person County
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

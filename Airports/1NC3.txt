@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 1NC3 - Fletcher's Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1607 users online
+ 
+
+
+
+
+1NC3
+ Fletcher's AirportElizabeth City, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ELIZABETH CITY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:1NC3
+Lat/Long:36-10-50.5710N 076-08-56.7440W36-10.842850N 076-08.945733W36.1807142,-76.1490956(estimated)
+Elevation:7 ft. / 2 m (estimated)
+Variation:09W (1985)
+From city:9 miles SE of ELIZABETH CITY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27909
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1940
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ECG (5 nm N):124.375 (252-338-4750)
+WX AWOS-3 at ONX (15 nm NE):119.775 (252-453-8939)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr171/4.8ELIZABETH CITY VOR/DME115.7507W
+RBXr313/26.9WRIGHT BROTHERS VOR/DME111.6008W
+CVIr117/36.8COFIELD VORTAC114.6009W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE134/8.725410WLLW.-.. .-.. .--
+MANTEO315/27.237009WMQI-- --.- ..
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:2500 x 100 ft. / 762 x 30 m
+Surface:turf
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAMES T. FLETCHER1233 SOUNDNECK RDELIZABETH CITY, NC 27909-7437Phone (252) 333-4054
+Manager:JAMES T. FLETCHER1233 SOUNDNECK RDELIZABETH CITY, NC 27909-7437Phone (252) 333-4054
+
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 1NC3.
+Some nearby airports with instrument procedures:
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (5 nm N)
+KONX - Currituck County Regional Airport (15 nm NE)
+KEDE - Northeastern Regional Airport (22 nm SW)
+KFFA - First Flight Airport (25 nm SE)
+KMQI - Dare County Regional Airport (27 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Fletcher's Airport?
+Find the distance to fly.
+From 
+to 1NC3
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4711:47
+Sunrise07:1512:15
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:08:05
+Local (UTC-5)19-Jan-2024 16:08:05
+
+
+
+
+   
+
+METAR
+
+
+KECG5nm N192054Z 31021G30KT 10SM FEW038 OVC070 07/M01 A2978 RMK AO2 PK WND 30031/2037 SLP084 T00671011 53028
+
+KONX15nm NE192045Z AUTO 27013G21KT 250V310 10SM SCT038 SCT046 OVC070 07/M01 A2977 RMK AO2 T00711012
+
+
+
+
+
+TAF
+
+
+KECG5nm N191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Fletcher's Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Fletcher's Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

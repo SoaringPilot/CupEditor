@@ -1,0 +1,421 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8NC8 - Lake Ridge Aero Park Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1541 users online
+ 
+
+
+
+
+8NC8
+ Lake Ridge Aero Park AirportDurham, North Carolina, USA 
+
+
+
+
+
+
+GOING TO DURHAM?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8NC8
+Lat/Long:36-03-36.5220N 078-47-00.0190W36-03.608700N 078-47.000317W36.0601450,-78.7833386(estimated)
+Elevation:309 ft. / 94.2 m (surveyed)
+Variation:07W (1985)
+From city:7 miles NE of DURHAM, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27704
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1948
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Pattern altitude:1409 ft. MSL
+Wind indicator:yes
+Segmented circle:no
+Lights:SS-SR
+
+Airport Communications
+
+WX ASOS at RDU (11 nm S):PHONE 919-840-0816
+WX AWOS-3 at TDF (17 nm NW):126.725 (336-364-1651)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr009/11.3RALEIGH/DURHAM VORTAC117.2009W
+SBVr168/38.5SOUTH BOSTON VORTAC110.4005W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO218/16.527109WHXO.... -..- ---
+PERSON135/17.222008WHUR.... ..- .-.
+HARNETT000/38.041708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:100LL100LL:SELF SERVE, PLEASE CONTACT BEFORE LANDING, PAUL (336)380-7645.
+Parking:hangars and tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 14/32
+
+Dimensions:3200 x 150 ft. / 975 x 46 m
+Surface:turfCENTER 30 FT FAIR.
+Runway edge lights:low intensityRWY LGTS NON STANDARD.
+RUNWAY 14RUNWAY 32
+Traffic pattern:leftleft
+Runway end identifier lights:nono
+Obstructions:50 ft. trees, 300 ft. from runway, 75 ft. left of centerlinePOLE & FENCE 299 FT AND SIGN 100 FT FM THR.75 ft. trees, 300 ft. from runway, 75 ft. both sides of centerline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LAKE RIDGE AERO, LLC7098 HOLTS STORE RDBURLINGTON, NC 27215Phone 336-380-7645
+Manager:PAUL ROVEGNO II5300 SKY LANE DRDURHAM, NC 27704Phone 336-380-7645ALTERNATE CELL: DANIEL ROVEGNO (813)450-5000.
+
+Airport Operational Statistics
+
+Aircraft based on the field:51Single engine airplanes:50Ultralights:1
+Aircraft operations: avg 25/week*77%local general aviation23%transient general aviation* for 12-month period ending 18 May 1981
+Additional Remarks
+
+-RWY SOFT WHEN WET.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 8NC8.
+Some nearby airports with instrument procedures:
+KRDU - Raleigh-Durham International Airport (11 nm S)
+KTDF - Raleigh Regional Airport at Person County (17 nm NW)
+KHNZ - Henderson/Oxford Airport (22 nm NE)
+KLHZ - Triangle North Executive Airport (22 nm E)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (33 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 20-Jul-2008
+on final for runway 32
+
+Do you have a better or more recent aerial photo of Lake Ridge Aero Park Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lake Ridge Aero Park Airport?
+Find the distance to fly.
+From 
+to 8NC8
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:24:05
+Local (UTC-5)19-Jan-2024 16:24:05
+
+
+
+
+   
+
+METAR
+
+
+KRDU12nm S192051Z 30015G30KT 280V340 10SM BKN055 BKN090 09/M08 A2987 RMK AO2 PK WND 32033/2031 SLP113 T00891078 53036
+
+KTDF17nm NW192045Z AUTO 30013G26KT 260V340 10SM SCT055 04/M09 A2990 RMK AO2
+
+KHNZ22nm NE192050Z AUTO 30013G23KT 270V340 10SM CLR 05/M09 A2986 RMK AO2 T00451093
+
+KLHZ22nm E192050Z AUTO 30008G24KT 270V330 10SM SCT080 07/M04 A2985 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRDU12nm S191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Lake Ridge Aero Park
+
+919-688-2928919-682-3166[email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Pilots lounge / snooze room, Public telephone, Restrooms
+
+
+
+More info about Lake Ridge Aero Park
+
+
+
+
+
+Avfuel100LLAS$6.29Updated 03-Dec-2023
+
+
+
+
+write
+
+
+
+AS=Assisted/Self Service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lake Ridge Aero Park Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lake Ridge Aero Park Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

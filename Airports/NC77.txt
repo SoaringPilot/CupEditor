@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC77 - Chalfant Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1618 users online
+ 
+
+
+
+
+NC77
+ Chalfant AirportConcord, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CONCORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC77
+Lat/Long:35-27-20.5030N 080-34-32.2380W35-27.341717N 080-34.537300W35.4556953,-80.5756217(estimated)
+Elevation:587 ft. / 178.9 m (surveyed)
+Variation:05W (1985)
+From city:3 miles N of CONCORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28025
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1978
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+Lights:ACTVT MIRL RY 01/19 ON FREQ 133.675.
+
+Airport Communications
+
+WX AWOS-3 at JQF (8 nm SW):133.675 (704-785-2145)
+WX AWOS-3 at RUQ (12 nm N):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr054/24.3CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA067/32.626006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:2700 x 100 ft. / 823 x 30 m
+Surface:turf
+Runway edge lights:medium intensity
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Visual slope indicator:non-standard VASI system
+Obstructions:none150 ft. pline, 2600 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:W. P. CHALFANT200 OVERBROOK DR NECONCORD, NC 28025Phone 704-782-6660
+Manager:W. P. CHALFANT200 OVERBROOK DR NECONCORD, NC 28025Phone 980-521-1718
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at NC77.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (8 nm SW)
+KRUQ - Mid-Carolina Regional Airport (12 nm N)
+14A - Lake Norman Airpark (18 nm NW)
+KVUJ - Stanly County Airport (21 nm E)
+KCLT - Charlotte/Douglas International Airport (23 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Chalfant Airport?
+Find the distance to fly.
+From 
+to NC77
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:49:50
+Local (UTC-5)19-Jan-2024 15:49:50
+
+
+
+
+   
+
+METAR
+
+
+KJQF8nm SW191953Z 33012G34KT 10SM CLR 07/M08 A2995
+
+KRUQ12nm N192030Z AUTO 29016G25KT 10SM CLR 05/M10 A2994 RMK AO2 T00461098
+
+
+
+
+
+TAF
+
+
+KCLT23nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Chalfant Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Chalfant Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

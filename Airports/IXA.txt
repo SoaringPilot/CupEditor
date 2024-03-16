@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KIXA - Halifax/Northampton Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1564 users online
+ 
+
+
+
+
+KIXA
+ Halifax/Northampton Regional AirportRoanoke Rapids, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ROANOKE RAPIDS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:IXA
+Lat/Long:36-19-47.2500N 077-38-06.8310W36-19.787500N 077-38.113850W36.3297917,-77.6352308(estimated)
+Elevation:144.3 ft. / 44.0 m (surveyed)
+Variation:10W (2010)
+From city:8 miles S of ROANOKE RAPIDS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27839
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/2009
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:IXA (NOTAM-D service available)
+Attendance:SUN 1200-1700,  ALL MON-SAT 0800-1700UNATNDD NEW YEARS DAY, EASTER, JULY 4, THANKSGIVING, CHRISTMAS.FOR SVC AFT HRS CTC 252-578-3774.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 20; REIL RWY 02; PAPI RWY 02 & 20; HIRL RWY 02/20 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.075
+WX AWOS-3PT:119.975 (252-583-3446)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 132.025/290.425 (LAWRENCEVILLE RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr014/21.4TAR RIVER VORTAC117.8005W
+LVLr164/32.0LAWRENCEVILLE VORTAC112.9008W
+CVIr275/37.0COFIELD VORTAC114.6009W
+FKNr241/37.9FRANKLIN VORTAC110.6009W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD350/39.523009WAQE.- --.- .
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:100LL AND JET-A FUEL AVBL 24 HRS SELF SERVICE W/ CREDIT CARD.
+Parking:tiedowns
+
+Runway Information
+Runway 2/20
+
+Dimensions:5500 x 100 ft. / 1676 x 30 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:45.0Double wheel:65.0
+Runway edge lights:high intensity
+RUNWAY 2RUNWAY 20
+Latitude:36-19.339608N36-20.235387N
+Longitude:077-38.199315W077-38.028367W
+Elevation:140.7 ft.138.8 ft.
+Traffic pattern:leftleft
+Runway heading:019 magnetic, 009 true199 magnetic, 189 true
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yesno
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:20 ft. trees, 906 ft. from runway, 490 ft. left of centerline, 35:1 slope to clear22 FT TREES 0-200 FT FR THR OFFSET 320 L OF CNTRLN AND 42 FT TREES 0-200 FT FR THR OFFSET 367 R OF CNTRLN.44 ft. trees, 1596 ft. from runway, 126 ft. left of centerline, 31:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:HALIFAX-NORTHAMPTON RGNL ARPT AUTH10 NORTH KING ST.HALIFAX, NC 27839Phone 252-583-1131
+Manager:FRED DRAPER700 GREGORY FARM RD.HALIFAX, NC 27839Phone 252-583-3492
+
+Airport Operational Statistics
+
+Aircraft based on the field:25Single engine airplanes:21Multi engine airplanes:4
+Aircraft operations: avg 57/day*54%local general aviation45%transient general aviation1%military* for 12-month period ending 31 May 2021
+Additional Remarks
+
+-BIRDS ON & INVOF ARPT.
+-AGRICULTURE EQUIP OCNLY ADJ TO RWY 02/20.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 02
+download (223KB)
+RNAV (GPS) RWY 20
+download (226KB)
+VOR RWY 02
+download (190KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (363KB)
+
+Other nearby airports with instrument procedures:
+KASJ - Tri-County Airport at Henry Joyner Field (23 nm E)
+KEMV - Emporia-Greensville Regional Airport (23 nm N)
+KETC - Tarboro-Edgecombe Airport (24 nm S)
+KLVL - Brunswick County Airport (28 nm N)
+KAVC - Mecklenburg-Brunswick Regional Airport (30 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Halifax/Northampton Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Halifax/Northampton Regional Airport?
+Find the distance to fly.
+From 
+to KIXA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2112:21
+Sunset17:2222:22
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:14:01
+Local (UTC-5)19-Jan-2024 16:14:01
+
+
+
+
+   
+
+METAR
+
+
+KIXA192050Z AUTO 32009G19KT 10SM SCT033 BKN042 BKN050 05/01 A2983 RMK AO2
+
+
+
+
+
+TAF
+
+
+KRWI32nm SW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Halifax-Northhampton County Regional Airport
+
+252-583-3492
+
+
+no information available
+If you are affiliated with Halifax-Northhampton County Regional Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AAS$5.75$5.70Updated 18-Jan-2024
+
+
+
+
+write
+
+
+
+AS=Assisted/Self Service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Halifax/Northampton Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Halifax/Northampton Regional Airport
+
+
+
+www.visithalifax.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

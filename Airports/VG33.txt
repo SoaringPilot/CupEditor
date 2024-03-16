@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG33 - Bull Farm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1619 users online
+ 
+
+
+
+
+VG33
+ Bull Farm AirportCape Charles, Virginia, USA 
+
+
+
+
+
+
+GOING TO CAPE CHARLES?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG33
+Lat/Long:37-09-16.5100N 075-57-24.7480W37-09.275167N 075-57.412467W37.1545861,-75.9568744(estimated)
+Elevation:18 ft. / 5 m (estimated)
+Variation:10W (1985)
+From city:7 miles SE of CAPE CHARLES, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23310
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1971
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:SR-SS
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ORF (20 nm SW):PHONE 757-460-9348
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CCVr180/11.7CAPE CHARLES VORTAC112.2010W
+ORFr043/19.6NORFOLK VORTAC116.9007W
+
+Airport Services
+
+
+Runway Information
+Runway 2/20
+
+Dimensions:3000 x 50 ft. / 914 x 15 m
+Surface:turf
+RUNWAY 2RUNWAY 20
+Traffic pattern:leftleft
+Obstructions:trees, 700 ft. from runwaytrees, 700 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:J D BULLP.O. BOX 124TOWNSEND, VA 23443Phone 757-331-2218
+Manager:J D BULLP.O. BOX 124TOWNSEND, VA 23443Phone 804-331-3894
+
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at VG33.
+Some nearby airports with instrument procedures:
+KORF - Norfolk International Airport (20 nm SW)
+KLFI - Langley Air Force Base (20 nm W)
+KNTU - Oceana Naval Air Station (Apollo Soucek Field) (20 nm S)
+KNHU - Norfolk Naval Station Airport (20 nm SW)
+KNGU - Norfolk Naval Station (Chambers Field) (21 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bull Farm Airport?
+Find the distance to fly.
+From 
+to VG33
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1322:13
+Evening civil twilight17:4122:41
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:48:14
+Local (UTC-5)19-Jan-2024 15:48:14
+
+
+
+
+   
+
+METAR
+
+
+KORF19nm SW192020Z 32011G22KT 10SM SCT029 BKN036 OVC080 06/M02 A2976 RMK AO2 PRESRR T00561017
+
+KLFI20nm W191955Z 30019G28KT 10SM BKN065 05/M02 A2973 RMK AO2A PK WND 29028/49 SLP074 T00491020 $
+
+KNTU20nm S191956Z 30019G31KT 10SM SCT033 SCT044 OVC060 06/M01 A2972 RMK AO2 PK WND 31031/1948 SLP065 T00611006
+
+KNGU21nm SW191959Z 30020G29KT 10SM SCT029 BKN036 OVC065 06/M01 A2976 RMK AO2 PK WND 29034/1935 SLP077 T00611006
+
+KPHF26nm W191954Z 30014G27KT 10SM FEW029 OVC065 04/M01 A2975 RMK AO2 PK WND 32029/1935 SLP075 T00441011
+
+KNFE29nm S191956Z AUTO 32009G18KT 10SM FEW029 BKN038 OVC046 07/M01 A2974 RMK AO2 SLP073 T00671006
+
+KMFV30nm N191915Z AUTO 30014G21KT 5SM -RA BKN009 OVC014 02/01 A2968 RMK AO2 T00220005
+
+KFAF32nm W191955Z AUTO 29016KT 10SM SCT030 BKN040 BKN049 OVC065 05/M01 A2973 RMK AO2 PK WND 29026/19 RAB21E29 SLP071 P0000 T00481008 TSNO $
+
+KPVG33nm SW191956Z AUTO 28010G16KT 10SM SCT033 BKN048 OVC065 06/M01 A2976 RMK AO2 SLP079 T00561006
+
+KCPK34nm SW192035Z AUTO 29011G17KT 10SM SCT034 BKN050 OVC075 05/M02 A2977 RMK AO2 T00521019
+
+
+
+
+
+TAF
+
+
+KORF19nm SW191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KLFI20nm W191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KNTU20nm S1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1919 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191900 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0919/0923 28014KT 9000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 540009 520909 QNH2980INS TX08/1918Z TNM02/2009Z FN20008 
+
+KNGU21nm SW1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bull Farm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bull Farm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

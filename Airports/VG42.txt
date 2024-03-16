@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG42 - Henshaw Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1552 users online
+ 
+
+
+
+
+VG42
+ Henshaw AirportHopewell, Virginia, USA 
+
+
+
+
+
+
+GOING TO HOPEWELL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG42
+Lat/Long:37-15-08.5000N 077-09-09.6000W37-15.141667N 077-09.160000W37.2523611,-77.1526667(estimated)
+Elevation:85 ft. / 26 m 
+Variation:10W (2000)
+From city:5 miles E of HOPEWELL, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23860
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/2002
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W96 (15 nm N):119.875 (804-932-8863)
+WX ASOS at RIC (17 nm NW):PHONE 804-236-1091
+WX AWOS-3 at PTB (17 nm W):133.325 (804-861-5551)
+WX ASOS at AKQ (17 nm SE):128.325 (757-899-2300)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HPWr207/4.9HOPEWELL VORTAC114.3506W
+RICr161/17.0RICHMOND VORTAC114.1009W
+HCMr248/24.1HARCUM VORTAC108.8007W
+FKNr357/33.0FRANKLIN VORTAC110.6009W
+FAKr123/36.2FLAT ROCK VORTAC113.3006W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD347/17.727411WAKQ.- -.- --.-
+
+Airport Services
+
+
+Runway Information
+Runway 2/20
+
+Dimensions:2700 x 75 ft. / 823 x 23 m
+Surface:turf
+RUNWAY 2RUNWAY 20
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RICHARD HENSHAW JR13550 MOODY RDHOPEWELL, VA 23860Phone 804-458-1921
+Manager:RICHARD HENSHAW JR13550 MOODY RDHOPEWELL, VA 23860-9200Phone 804-731-0718
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VG42.
+Some nearby airports with instrument procedures:
+W96 - New Kent County Airport (15 nm N)
+KRIC - Richmond International Airport (17 nm NW)
+KPTB - Tri Cities Executive/Dinwiddie County Airport (17 nm W)
+KAKQ - Wakefield Municipal Airport (17 nm SE)
+KFCI - Richmond Executive-Chesterfield County Airport (20 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Henshaw Airport?
+Find the distance to fly.
+From 
+to VG42
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2112:21
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:17:43
+Local (UTC-5)19-Jan-2024 16:17:43
+
+
+
+
+   
+
+METAR
+
+
+KW9615nm N192055Z AUTO 30011G15KT 280V340 10SM BKN060 OVC080 02/M04 A2984 RMK AO1 T00201040
+
+KRIC18nm NW192054Z 33016G24KT 10SM SCT028 BKN070 03/M04 A2984 RMK AO2 SLP110 60000 T00281039 53033
+
+KAKQ18nm SE192054Z AUTO 31007G15KT 290V350 10SM BKN034 BKN043 OVC070 04/M02 A2982 RMK AO2 SLP101 T00441022 53034
+
+KPTB18nm W192055Z AUTO 33006KT 10SM SCT039 OVC070 03/M01 A2983 RMK AO2 T00331013
+
+KFCI20nm NW192056Z AUTO 31014G17KT 10SM FEW029 OVC065 02/M03 A2983 RMK AO2 SLP116 T00221028 53031 FZRANO
+
+KFYJ25nm NE192055Z AUTO 30014G21KT 10SM SCT024 SCT029 OVC080 02/M03 A2984 RMK AO1 T00211030
+
+KFAF27nm E192055Z 30019G27KT 10SM SCT035 BKN050 BKN060 04/M03 A2978 RMK AO2A PK WND 29030/10 SLP088 60000 T00421027 53035 TSNO $
+
+KOFP30nm NW192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+
+
+
+
+TAF
+
+
+KRIC18nm NW191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Henshaw Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Henshaw Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

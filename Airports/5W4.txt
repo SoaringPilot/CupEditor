@@ -1,0 +1,473 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 5W4 - P K Airpark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1462 users online
+ 
+
+
+
+
+5W4
+ P K AirparkRaeford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO RAEFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:5W4
+Lat/Long:35-01-11.4950N 079-11-27.6140W35-01.191583N 079-11.460233W35.0198597,-79.1910039(estimated)
+Elevation:304 ft. / 92.7 m (surveyed)
+Variation:09W (2020)
+From city:3 miles NE of RAEFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28376
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1964
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0830-DUSK
+Wind indicator:lighted
+Segmented circle:yes
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+FAYETTEVILLE APPROACH:127.8
+FAYETTEVILLE DEPARTURE:127.8
+WX ASOS at HFF (15 nm W):141.25 (910-396-7804)
+WX ASOS at FAY (15 nm E):121.25 (910-484-1546)
+WX ASOS at MEB (16 nm SW):134.125 (910-844-5338)
+WX AWOS-3PT at SOP (16 nm NW):127.575 (910-692-4287)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr282/15.7FAYETTEVILLE VOR/DME114.8504W
+SDZr124/22.7SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+DILLON023/35.327409WDLC-.. .-.. -.-.
+HARNETT234/35.441708WHQT.... --.- -
+BENNETTSVILLE056/35.923008WBES-... . ...
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:3402 x 60 ft. / 1037 x 18 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:30.0
+Runway edge lights:medium intensity
+RUNWAY 4RUNWAY 22
+Latitude:35-00.956983N35-01.426050N
+Longitude:079-11.647300W079-11.273650W
+Elevation:292.0 ft.304.0 ft.
+Traffic pattern:leftright
+Runway heading:042 magnetic, 033 true222 magnetic, 213 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:63 ft. trees, 631 ft. from runway, 66 ft. right of centerline, 6:1 slope to clear41 ft. trees, 615 ft. from runway, 42 ft. left of centerline, 10:1 slope to clearHAS 15 FT BRUSH 0-200 FT FM THR OFFSET 121 FT R OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BILLIE THACKERPO DRAWER 1510RAEFORD, NC 28376Phone 910-875-3261
+Manager:JOEY D'ANNUNZIO155 AIRPORT DRIVERAEFORD, NC 28376Phone (910) 904-0000
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:2Multi engine airplanes:6
+Aircraft operations: avg 64/day*77%local general aviation21%military2%transient general aviation* for 12-month period ending 29 July 2022
+Additional Remarks
+
+-CAUTION: LOW FLYING MIL ACFT IN AREA; ARPT LCTD WITHIN AN MOA.
+-FRQ PRCHT ACT TO TARGET 300 FT SE OF TERMINAL APRON.
+-ACFT IN VICINITY MONITOR 123.5.
+-FLY ONE MILE DOWN WIND LEG TO PREVENT CONFLICTS WITH PAJA (DROP ZONE SOUTHEAST FROM RWY).
+-AFTER HOURS SVC 910-578-4401.
+-MONITOR FREQ 123.5 FOR PAJA.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-CTN DO NOT OVERFLY AIRPORT DUE TO PAJA.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS)-A
+download (137KB)
+VOR-A
+download (158KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KPOB - Pope Army Airfield (13 nm NE)
+KFBG - Simmons Army Airfield (14 nm NE)
+KHFF - Mackall Army Airfield (15 nm W)
+KFAY - Fayetteville Regional Airport/Grannis Field (15 nm E)
+KMEB - Laurinburg/Maxton Airport (16 nm SW)
+KSOP - Moore County Airport (16 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Kelvin Draughon
+Photo taken 25-Dec-2016
+looking northeast.
+
+Do you have a better or more recent aerial photo of P K Airpark that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to P K Airpark?
+Find the distance to fly.
+From 
+to 5W4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2412:24
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:43:43
+Local (UTC-5)19-Jan-2024 16:43:43
+
+
+
+
+   
+
+METAR
+
+
+KPOB12nm NE192115Z AUTO 30015G24KT 10SM CLR 10/M09 A2988 RMK AO2 SLPNO $
+
+KFBG15nm NE192111Z AUTO 31017G26KT 10SM CLR 11/M09 A2985 RMK AO2 PRESRR SLPNO $
+
+KHFF15nm W192115Z AUTO 34009G16KT 10SM BKN080 09/M08 A2988 RMK AO2 SLPNO $
+
+KFAY15nm E192053Z 31017G28KT 10SM SCT080 12/M06 A2984 RMK AO2 PK WND 30034/2030 SLP100 T01171056 53027
+
+KSOP16nm NW192056Z AUTO 32012G25KT 10SM CLR 08/M09 A2989 RMK AO2 PK WND 32028/2035 SLP129 T00831089 53038
+
+KMEB17nm SW192052Z AUTO 32018G37KT 10SM BKN080 11/M06 A2987 RMK AO2 PK WND 34037/2048 SLP115 T01061061 53026
+
+
+
+
+
+TAF
+
+
+KPOB12nm NE192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFBG15nm NE192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KFAY15nm E191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Skydive Paraclete XP
+
+910-904-0000
+
+
+no information available
+If you are affiliated with Skydive Paraclete XP and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AFS$10.00$10.00Updated 14-Dec-2023
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Raeford Aviation
+
+910-875-3261
+
+
+no information available
+If you are affiliated with Raeford Aviation and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Where to Eat: Catering, Restaurants, Food shops
+Business NameContact
+Services / DescriptionDistanceComments
+
+Aviators Grill & Pub
+
+910-904-6761
+
+
+no information available
+If you are affiliated with Aviators Grill & Pub and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the P K Airpark, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about P K Airpark
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

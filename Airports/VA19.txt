@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA19 - Snow Hill Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1445 users online
+ 
+
+
+
+
+VA19
+ Snow Hill AirportCharlottesville, Virginia, USA 
+
+
+
+
+
+
+GOING TO CHARLOTTESVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA19
+Lat/Long:37-57-14.5060N 078-22-09.0280W37-57.241767N 078-22.150467W37.9540294,-78.3691744(estimated)
+Elevation:268 ft. / 82 m (estimated)
+Variation:08W (1985)
+From city:7 miles SE of CHARLOTTESVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22974
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1977
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:CONTINUOUS
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at CHO (12 nm N):PHONE 434-973-5024
+WX AWOS-3 at GVE (15 nm NE):120.225 (540-832-2095)
+WX AWOS-3 at LKU (19 nm E):119.475 (540-967-1983)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GVEr257/10.8GORDONSVILLE VORTAC115.6006W
+MOLr090/35.1MONTEBELLO VOR/DME115.3005W
+FAKr321/36.2FLAT ROCK VORTAC113.3006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR226/37.135110WMSQ-- ... --.-
+
+Airport Services
+
+
+Runway Information
+Runway 10/28
+
+Dimensions:2200 x 100 ft. / 671 x 30 m
+Surface:turf
+RUNWAY 10RUNWAY 28
+Traffic pattern:leftright
+Obstructions:nonehill, 200 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROBERT L. SNOW3802 SNOWHILL LANETROY, VA 22974Phone 434-242-9762
+Manager:ROBERT L. SNOW3802 SNOW HILL LANETROY, VA 22974Phone 434-242-9762
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VA19.
+Some nearby airports with instrument procedures:
+KCHO - Charlottesville-Albemarle Airport (12 nm N)
+KGVE - Gordonsville Municipal Airport (15 nm NE)
+KLKU - Louisa County Airport/Freeman Field (19 nm E)
+KOMH - Orange County Airport (23 nm NE)
+W13 - Eagle's Nest Airport (28 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Snow Hill Airport?
+Find the distance to fly.
+From 
+to VA19
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2812:28
+Sunset17:2122:21
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:54:45
+Local (UTC-5)19-Jan-2024 16:54:45
+
+
+
+
+   
+
+METAR
+
+
+KCHO11nm N192053Z 30008G21KT 270V330 10SM BKN055 03/M10 A2984 RMK AO2 SLP107 60000 T00331100 53024
+
+KGVE15nm NE192135Z AUTO 00000KT 10SM BKN048 OVC095 02/M06 A2986 RMK AO1 T00151059
+
+KLKU19nm E192135Z AUTO 31009G14KT 10SM SCT070 OVC100 01/M06 A2987 RMK AO2 T00131056
+
+
+
+
+
+TAF
+
+
+KCHO11nm N191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Snow Hill Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Snow Hill Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

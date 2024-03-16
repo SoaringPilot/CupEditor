@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KHRJ - Harnett Regional Jetport Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1586 users online
+ 
+
+
+
+
+KHRJ
+ Harnett Regional Jetport AirportErwin, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ERWIN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:HRJ
+Lat/Long:35-22-48.5580N 078-43-56.0520W35-22.809300N 078-43.934200W35.3801550,-78.7322367(estimated)
+Elevation:201.7 ft. / 61.5 m (surveyed)
+Variation:08W (2000)
+From city:4 miles NW of ERWIN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28339
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1981
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:HRJ (NOTAM-D service available)
+Attendance:0800-1700
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 05 & RWY 23; MIRL RWY 05/23 - CTAF; PAPI RWY 05 & RWY 23 ON CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:119.025 (910-814-3946)
+FAYETTEVILLE APPROACH:125.175
+FAYETTEVILLE DEPARTURE:125.175
+CLASS C:125.175
+WX AWOS-3 at JNX (19 nm NE):120.225 (919-934-3851)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr020/24.7FAYETTEVILLE VOR/DME114.8504W
+RDUr184/29.6RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT230/4.241708WHQT.... --.- -
+CLINTON332/30.341209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:100LL 24 HR. SELF SVC WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:5005 x 75 ft. / 1526 x 23 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:45.0Double wheel:60.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:35-22.493110N35-23.125477N
+Longitude:078-44.257573W078-43.610775W
+Elevation:187.9 ft.201.7 ft.
+Traffic pattern:leftleft
+Runway heading:048 magnetic, 040 true228 magnetic, 220 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:none96 ft. trees, 2593 ft. from runway, 172 ft. right of centerline, 24:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:HARNETT COUNTY200 ALEXANDER DRIVE, 108 E. FRONT STREETLILLINGTON, NC 27546Phone 910-814-2740COLEY PRICE, ASST COUNTY MGR.
+Manager:GREG FRANK615 AIRPORT RDERWIN, NC 28339Phone 910-814-2740
+
+Airport Operational Statistics
+
+Aircraft based on the field:38Single engine airplanes:32Multi engine airplanes:3Jet airplanes:1Helicopters:1Ultralights:1
+Aircraft operations: avg 140/day*58%local general aviation27%transient general aviation14%military<1%air taxi* for 12-month period ending 12 August 2022
+Additional Remarks
+
+-RWY 05, 60 FT DROP-OFF 350 FT FM THR & RWY 23, 25 FT DROP-OFF 70 FT LEFT OF CNTRLN.
+-FOR CD CTC FAYETTEVILLE APCH AT 910-484-8012.
+-SVC AVBL 24/7 WITH PRIOR ARNGMNTS.  GPU AND BULK OIL AVBL.
+-ARPT LOCATED 18 NM NE OF POPE ARMY AIRFIELD, LOW LEVEL MIL ACT INVOF ARPT.
+-ROTG BCN OBSC BY TREES N & W OF ARPT.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 05
+download (207KB)
+RNAV (GPS) RWY 23
+download (211KB)
+LOC RWY 05
+download (234KB)
+NDB RWY 23
+download (214KB)
+
+NOTE: Special Alternate Minimums apply
+download (66KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KFBG - Simmons Army Airfield (18 nm SW)
+KPOB - Pope Army Airfield (19 nm SW)
+KJNX - Johnston Regional Airport (19 nm NE)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (22 nm NW)
+KFAY - Fayetteville Regional Airport/Grannis Field (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Dan Clark, President, Executive Flight Training and Services LLC
+Photo taken 12-May-2012
+from 8,000' MSL looking west.
+
+Do you have a better or more recent aerial photo of Harnett Regional Jetport Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Harnett Regional Jetport Airport?
+Find the distance to fly.
+From 
+to KHRJ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2312:23
+Sunset17:2822:28
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:15:25
+Local (UTC-5)19-Jan-2024 16:15:25
+
+
+
+
+   
+
+METAR
+
+
+KHRJ192050Z AUTO 31016G23KT 10SM SCT070 BKN080 10/M05 A2986 RMK AO2 T00981047
+
+KFBG18nm SW192055Z AUTO 31021G26KT 10SM CLR 12/M08 A2983 RMK AO2 PK WND 29028/02 SLPNO T01151079 52031 $
+
+KPOB19nm SW192055Z AUTO 29013G25KT 10SM CLR 11/M09 A2986 RMK AO2 PK WND 32036/04 SLPNO T01081095 52035 $
+
+KJNX19nm NE192050Z AUTO 33008G25KT 290V360 10SM OVC060 10/M02 A2984 RMK AO2
+
+
+
+
+
+TAF
+
+
+KFBG18nm SW192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+KPOB19nm SW192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Harnett Regional Jetport
+
+910-814-2740910-814-2740[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, ...
+
+
+
+More info about Harnett Regional Jetport
+
+
+
+
+
+Titan100LL Jet AFS$4.54$5.53SS$4.54---Updated 04-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Harnett Regional Jetport Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Harnett Regional Jetport Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

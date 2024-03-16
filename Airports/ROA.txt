@@ -1,0 +1,517 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1459 users online
+ 
+
+
+
+
+KROA
+ Roanoke-Blacksburg Regional Airport/Woodrum FieldRoanoke, Virginia, USA 
+
+
+
+
+
+
+GOING TO ROANOKE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Signature Aviation
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ROA
+Lat/Long:37-19-31.7000N 079-58-31.5000W37-19.528333N 079-58.525000W37.3254722,-79.9754167(estimated)
+Elevation:1175.2 ft. / 358.2 m (surveyed)
+Variation:08W (2010)
+From city:3 miles NW of ROANOKE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24019
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1930
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:ROA (NOTAM-D service available)
+Attendance:CONTINUOUS
+Pattern altitude:1975.2 ft. MSL
+Wind indicator:lighted
+Segmented circle:yes
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Fire and rescue:ARFF index B
+
+Airport Communications
+
+UNICOM:122.95
+ATIS:132.375
+WX ASOS:PHONE 540-265-0680
+ROANOKE GROUND:121.9 257.8
+ROANOKE TOWER:118.3 257.8
+ROANOKE APPROACH:118.15 ;RWY 16/34 360-150, RWY 06 23 126.9 ;RWY 16/34 151-359, RWY 06 075 339.8 ;RWY 06, 16/34
+ROANOKE DEPARTURE:118.15 ;RWY 16/34 360-150, RWY 06 23 126.9 ;RWY 16/34 151-359, RWY 06 075 339.8 ;RWY 06, 16/34
+CLEARANCE DELIVERY:119.7
+CLASS C:118.15 ;RWY 16/34 360-150, RWY 06 23 126.9 ;RWY 16/34 151-359, RWY 06 075 339.8 ;RWY 06, 16/34
+EMERG:121.5 243.0
+IC:126.9 ;RWY 16/34 151-359, RWY 06 075 339.8 ;RWY 06, 16/34
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODR at fieldWOODRUM VOR114.9008W
+ROAr107/4.7ROANOKE VOR/DME109.4004W
+LYHr282/35.5LYNCHBURG VOR/DME109.2005W
+PSKr074/38.0PULASKI VORTAC116.8006W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON336/8.627708WVIT...- .. -
+TECH079/21.636808WTEC- . -.-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:HIGH/LOW
+
+Runway Information
+Runway 6/24
+
+Dimensions:6800 x 150 ft. / 2073 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 76 /F/B/X/TSingle wheel:150.0Double wheel:200.0Double tandem:310.0
+Runway edge lights:high intensity
+RUNWAY 6RUNWAY 24
+Latitude:37-19.334133N37-20.058447N
+Longitude:079-59.039960W079-57.969517W
+Elevation:1152.0 ft.1150.7 ft.
+Traffic pattern:leftleft
+Runway heading:057 magnetic, 049 true237 magnetic, 229 true
+Displaced threshold:no790 ft.
+Declared distances:TORA:6800 TODA:6800 ASDA:6800 LDA:6800TORA:6800 TODA:6800 ASDA:6800 LDA:6010
+Markings:precision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-box VASI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)PAPI UNUSBL BYD 5 DEGS R OF CNTRLN DUE TO TRRN.
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LDA/DME
+
+Runway 16/34
+
+Dimensions:5810 x 150 ft. / 1771 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 54 /F/A/X/TSingle wheel:150.0Double wheel:200.0Double tandem:310.0
+Runway edge lights:high intensity
+RUNWAY 16RUNWAY 34
+Latitude:37-19.737388N37-18.926242N
+Longitude:079-58.867565W079-58.230953W
+Elevation:1165.6 ft.1142.9 ft.
+Traffic pattern:leftleft
+Runway heading:156 magnetic, 148 true336 magnetic, 328 true
+Declared distances:TORA:5810 TODA:5810 ASDA:5810 LDA:5810TORA:5810 TODA:5810 ASDA:5810 LDA:5810
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:none837 ft. tower, lighted, 26070 ft. from runway, 30:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:ROANOKE BLACKSBURG RGNL/WOODRUM FIE5202 AVN DR.ROANOKE, VA 24012-1148Phone 540 362-1999
+Manager:MIKE STEWART5202 AVN DR.ROANOKE, VA 24012-1148Phone 540-362-1999
+
+Airport Operational Statistics
+
+Aircraft based on the field:97Single engine airplanes:76Multi engine airplanes:13Jet airplanes:7Helicopters:1
+Aircraft operations: avg 136/day*34%transient general aviation33%local general aviation21%air taxi10%commercial3%military* for 12-month period ending 31 December 2022
+Additional Remarks
+
+E60-34ENGINEERED MATERIALS ARRESTING SYSTEM (EMAS) 299 FT IN LENGTH BY 169 FT IN WIDTH LCTD AT DER 34.
+-DEP RWY 34 & ARR RWY 16 NA AT NIGHT OR DURING IFR COND DUE TO TRRN.
+-TSNT PILOTS CTC FBO UNICOM FOR ACFT PARKING AND ESCORT.
+-BIRDS INVOF ARPT.
+-TWY T CLSD TO ACFT WITH WINGSPAN GREATER THAN 118 FT.
+-COLD TEMPERATURE AIRPORT. ALTITUDE CORRECTION REQUIRED AT OR BELOW -13C.
+-FOR OPR CONCERNS - ATCT 540-563-1307.
+-TKOF AND LNDG PER & RWY COND ASSESSMENT MATRIX NOT MNTD 0000 - 0530 HRS DLY.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 34
+download (313KB)
+RNAV (RNP) Z RWY 06
+download (232KB)
+RNAV (RNP) Z RWY 24
+download (245KB)
+RNAV (RNP) Z RWY 34
+download (310KB)
+RNAV (GPS) Y RWY 06
+download (270KB)
+RNAV (GPS) Y RWY 24
+download (267KB)
+RNAV (GPS) Y RWY 34
+download (319KB)
+LDA Y RWY 06
+download (342KB)
+LDA Z RWY 06
+download (290KB)
+VOR/DME-A
+download (231KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+Departure Procedures
+
+BUFIY THREE (RNAV)
+download (137KB)
+DIXXY EIGHT**CHANGED**
+download (128KB)
+HOKEE THREE**CHANGED**
+download (153KB)
+MONAT THREE (RNAV)
+download (135KB)
+SCUTA THREE (RNAV)
+download (157KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KBCB - Virginia Tech/Montgomery Executive Airport (22 nm W)
+W91 - Smith Mountain Lake Airport (22 nm SE)
+W90 - New London Airport (31 nm E)
+KPSK - New River Valley Airport (35 nm W)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (37 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Ken Stringer
+Photo taken 21-Jun-2015
+looking east.
+
+Do you have a better or more recent aerial photo of Roanoke-Blacksburg Regional Airport/Woodrum Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Roanoke-Blacksburg Regional Airport/Woodrum Field?
+Find the distance to fly.
+From 
+to KROA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3312:33
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:48:16
+Local (UTC-5)19-Jan-2024 16:48:16
+
+
+
+
+   
+
+METAR
+
+
+KROA192054Z 29015G24KT 10SM BKN042 M01/M07 A2992 RMK AO2 PK WND 30033/2004 SLP141 T10061072 51032 $
+
+
+
+
+
+TAF
+
+
+KROA191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Signature Aviation
+
+540-563-4401[web site][email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Aircraft maintenance, Avionics sales and service, Pilot supplies, ...
+
+
+
+More info about Signature Aviation
+
+
+
+
+
+independent100LL Jet AFS$6.44$6.75Updated 19-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Roanoke-Blacksburg Regional Airport/Woodrum Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Roanoke-Blacksburg Regional Airport/Woodrum Field
+
+
+
+www.roanokeairport.com
+
+
+
+
+
+www.ci.roanoke.va.us/...
+
+
+
+
+
+www.roanoke.org/air.html
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

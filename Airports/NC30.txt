@@ -1,0 +1,360 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC30 - Miller Air Park
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1468 users online
+ 
+
+
+
+
+NC30
+ Miller Air ParkMooresville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOORESVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC30
+Lat/Long:35-36-50.4990N 080-44-29.2530W35-36.841650N 080-44.487550W35.6140275,-80.7414592(estimated)
+Elevation:864 ft. / 263.3 m (surveyed)
+Variation:05W (1985)
+From city:3 miles NE of MOORESVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28115
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1949
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at RUQ (11 nm E):118.175 (704-637-6197)
+WX AWOS-3 at JQF (14 nm S):133.675 (704-785-2145)
+WX AWOS-3 at SVH (14 nm NW):119.225 (704-873-1978)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr027/27.4CHARLOTTE VOR/DME115.0005W
+BZMr128/28.7BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY246/14.227506WRU.-. ..-
+STONIA045/32.526006WGHJ--. .... .---
+
+Airport Services
+
+Parking:hangars
+
+Runway Information
+Runway 18/36
+
+Dimensions:2060 x 100 ft. / 628 x 30 m
+Surface:turf, in fair condition
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Markings:nonenone
+Runway end identifier lights:nono
+Obstructions:50 ft. trees, 200 ft. from runway, 4:1 slope to clear30 ft. trees, 100 ft. left of centerline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MILLER AIR PARK120 AIRPARK DRIVEMOORESVILLE, NC 28115-6966Phone 704-664-2831
+Manager:PERRY MILLER325 AIRPARK DRIVEMOORESVILLE, NC 28115Phone 704-402-4418ADDITIONAL CONTACT: HOWARD MILLER 2970 HOPE VALLEY RD. WINSTON-SALEM, NC 27106 336-765-6851 EMAIL HOMILLER727@TRIAD.RR.COM
+
+Airport Operational Statistics
+
+Aircraft based on the field:20Single engine airplanes:20
+Aircraft operations: avg 54/week*71%local general aviation29%transient general aviation* for 12-month period ending 13 July 1989
+Additional Remarks
+
+-VFR OPERATIONS ONLY.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at NC30.
+Some nearby airports with instrument procedures:
+14A - Lake Norman Airpark (8 nm W)
+KRUQ - Mid-Carolina Regional Airport (11 nm E)
+KJQF - Concord-Padgett Regional Airport (14 nm S)
+KSVH - Statesville Regional Airport (14 nm NW)
+KIPJ - Lincolnton-Lincoln County Regional Airport (22 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Bob Perkins
+Photo taken 14-Sep-2012
+looking north.
+
+Do you have a better or more recent aerial photo of Miller Air Park that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Miller Air Park?
+Find the distance to fly.
+From 
+to NC30
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:34:47
+Local (UTC-5)19-Jan-2024 16:34:47
+
+
+
+
+   
+
+METAR
+
+
+KRUQ11nm E192110Z AUTO 29011G20KT 10SM CLR 04/M10 A2997 RMK AO2 T00381096
+
+KSVH13nm NW192105Z AUTO 29014G24KT 10SM CLR 03/M10 A2999 RMK AO2 T00251096
+
+KJQF14nm S192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+KIPJ22nm W192105Z AUTO 29009G19KT 250V310 10SM SCT055 03/M09 A3000 RMK AO2 T00341090
+
+
+
+
+
+TAF
+
+
+KCLT26nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KHKY32nm W191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Miller Air Park, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Miller Air Park
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

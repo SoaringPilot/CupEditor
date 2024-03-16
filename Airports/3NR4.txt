@@ -1,0 +1,290 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3NR4 - Crabbe Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1615 users online
+ 
+
+
+
+
+3NR4
+ Crabbe AirportElizabeth City, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ELIZABETH CITY?
+
+
+ 
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3NR4
+Lat/Long:36-16-51.0000N 076-20-12.0000W36-16.850000N 076-20.200000W36.2808333,-76.3366667(estimated)
+Elevation:15 ft. / 5 m (estimated)
+From city:10 miles W of ELIZABETH CITY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27909
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/2013
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ECG (8 nm E):124.375 (252-338-4750)
+WX AWOS-3 at ONX (17 nm NE):119.775 (252-453-8939)
+WX AWOS-3 at EDE (19 nm SW):118.275 (252-482-0757)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr287/7.9ELIZABETH CITY VOR/DME115.7507W
+CVIr111/26.4COFIELD VORTAC114.6009W
+ORFr197/37.2NORFOLK VORTAC116.9007W
+RBXr313/37.8WRIGHT BROTHERS VOR/DME111.6008W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE310/2.225410WLLW.-.. .-.. .--
+MANTEO314/38.137009WMQI-- --.- ..
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:3100 x 125 ft. / 945 x 38 m
+Surface:turf, in good condition
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-ownedCRABBE AVIATION, LLC; C/O DIVERSIFIED APPLICATIONS, LLC; ATTN: CATHERINE PENDLETON
+Owner:CRABBE AVIATION, LLC255 SCHILLING BLVD, STE 210COLLIERVILLE, TN 38017Phone 901-537-8766
+Manager:JEFF ELMORE255 SCHILLING BLVD, STE 210COLLIERVILLE, TN 38017Phone 901-537-8537
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:1Helicopters:1
+Additional Remarks
+
+-HEAVY AGRICULTURAL ACFT OPNS.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 3NR4.
+Some nearby airports with instrument procedures:
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (8 nm E)
+KONX - Currituck County Regional Airport (17 nm NE)
+KEDE - Northeastern Regional Airport (19 nm SW)
+KCPK - Chesapeake Regional Airport (23 nm N)
+KSFQ - Suffolk Executive Airport (27 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Crabbe Airport?
+Find the distance to fly.
+From 
+to 3NR4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:55:00
+Local (UTC-5)19-Jan-2024 15:55:00
+
+
+
+
+   
+
+METAR
+
+
+KECG7nm E191954Z 31022G32KT 10SM FEW048 OVC060 08/M02 A2973 RMK AO2 PK WND 29032/1952 SLP068 T00831017
+
+KONX17nm NE192025Z AUTO 28009G18KT 10SM BKN038 BKN044 OVC060 08/M01 A2975 RMK AO2 T00751006
+
+KEDE19nm SW192030Z AUTO 31019G24KT 10SM SCT050 OVC080 09/01 A2978 RMK AO2 T00910006
+
+
+
+
+
+TAF
+
+
+KECG7nm E191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Crabbe Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Crabbe Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

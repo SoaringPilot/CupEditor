@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 67NC - C H S-Pineville Heliport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1555 users online
+ 
+
+
+
+
+67NC
+ C H S-Pineville HeliportCharlotte, North Carolina, USA 
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:67NC
+Lat/Long:35-05-36.0000N 080-52-22.6000W35-05.600000N 080-52.376667W35.0933333,-80.8729444(estimated)
+Elevation:628 ft. / 191 m (estimated)
+From city:8 miles S of CHARLOTTE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28134
+
+Heliport Operations
+
+Heliport use:Private use. Permission required prior to landing
+Activation date:06/2020
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Heliport Communications
+
+WX ASOS at CLT (8 nm NW):PHONE 704-790-5484
+WX ASOS at UZA (11 nm SW):120.775 (803-981-9388)
+WX ASOS at EQY (13 nm E):135.775 (704-283-5185)
+WX ASOS at AKH (15 nm NW):135.725 (704-868-9034)
+WX AWOS-3 at JQF (19 nm NE):133.675 (704-785-2145)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr151/7.0CHARLOTTE VOR/DME115.0005W
+CTFr315/39.7CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA119/15.226006WGHJ--. .... .---
+CHESTER047/24.522006WDCM-.. -.-. --
+FIRST RIVER111/36.941706WSLP... .-.. .--.
+
+Heliport Services
+
+
+Runway Information
+Helipad H1
+
+Dimensions:60 x 60 ft. / 18 x 18 m
+Surface:concrete, in good condition
+Latitude:35-05.600000N
+Longitude:080-52.376667W
+Elevation:628.0 ft.
+Traffic pattern:leftleft
+
+Heliport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CAROLINAS HEALTHCARE SYSTEM10628 PARK ROADCHARLOTTE, NC 20208Phone 704-512-7941
+Manager:MARTIN J. FISHER5315 MORRIS FIELD DRIVECHARLOTTE, NC 28208Phone 704-512-7941MARTIN FISHER@CAROLINASHEALTHCARE.ORG
+
+Heliport Operational Statistics
+
+Aircraft based on the field:1Helicopters:1
+Instrument Procedures
+There are no published instrument procedures at 67NC.
+Some nearby airports with instrument procedures:
+KCLT - Charlotte/Douglas International Airport (8 nm NW)
+KUZA - Rock Hill (York County) Airport-Bryant Field (11 nm SW)
+KEQY - Charlotte-Monroe Executive Airport (13 nm E)
+N52 - JAARS-Townsend Airport (15 nm SE)
+KAKH - Gastonia Municipal Airport (15 nm NW)
+KJQF - Concord-Padgett Regional Airport (19 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to C H S-Pineville Heliport?
+Find the distance to fly.
+From 
+to 67NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3822:38
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:18:05
+Local (UTC-5)19-Jan-2024 16:18:05
+
+
+
+
+   
+
+METAR
+
+
+KCLT8nm NW192052Z 32016G27KT 10SM FEW060 06/M10 A2997 RMK AO2 PK WND 33034/2008 SLP166 T00611100 53045
+
+KUZA11nm SW192054Z AUTO 35015G20KT 10SM CLR 07/M07 A2997 RMK AO2 SLP152 T00671067 53038
+
+KEQY13nm E192053Z AUTO 33015G26KT 10SM CLR 07/M09 A2994 RMK AO2 PK WND 32032/2039 SLP154 T00721089 53041
+
+KAKH15nm NW192054Z AUTO 32008G21KT 10SM CLR 06/M08 A2997 RMK AO2 SLP153 T00561083 51040
+
+KJQF19nm NE192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+
+
+
+
+TAF
+
+
+KCLT8nm NW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the C H S-Pineville Heliport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about C H S-Pineville Heliport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

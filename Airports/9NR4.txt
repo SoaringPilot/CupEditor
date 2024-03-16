@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9NR4 - Wolf Pit Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1453 users online
+ 
+
+
+
+
+9NR4
+ Wolf Pit AirportMount Pleasant, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOUNT PLEASANT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9NR4
+Lat/Long:35-21-18.0000N 080-25-53.0000W35-21.300000N 080-25.883333W35.3550000,-80.4313889(estimated)
+Elevation:535 ft. / 163 m (estimated)
+From city:3 miles S of MT. PLEASANT, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28124
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:12/2014
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at JQF (14 nm W):133.675 (704-785-2145)
+WX AWOS-3 at VUJ (14 nm E):128.175 (704-986-2097)
+WX AWOS-3 at RUQ (18 nm N):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr074/27.3CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA081/36.926006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:1500 x 50 ft. / 457 x 15 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Obstructions:none40 ft. pline, marked, 50 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:GARY W BARRIER4600 BARRIER GEORGEVILLE ROADMT. PLEASANT, NC 28124Phone 704-589-7439
+Manager:GARY W BARRIER4600 BARRIER GEORGEVILLE ROADMT. PLEASANT, NC 28124Phone 704-589-7439
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-40 FT POWER LINE MARKED WITH ORANGE BALL 50 FT FROM RWY 21 THLD
+-RECOMMMEND LNDG RWY 03 AND TKOF RWY 21
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 9NR4.
+Some nearby airports with instrument procedures:
+KJQF - Concord-Padgett Regional Airport (14 nm W)
+KVUJ - Stanly County Airport (14 nm E)
+KRUQ - Mid-Carolina Regional Airport (18 nm N)
+KEQY - Charlotte-Monroe Executive Airport (22 nm SW)
+KEXX - Davidson County Executive Airport (26 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Wolf Pit Airport?
+Find the distance to fly.
+From 
+to 9NR4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:10:51
+Local (UTC-5)19-Jan-2024 17:10:51
+
+
+
+
+   
+
+METAR
+
+
+KJQF14nm W192150Z 30014G27KT 10SM CLR 04/M09 A3002
+
+KVUJ14nm E192145Z AUTO 32009G17KT 270V020 10SM CLR 05/M09 A3001 RMK AO2 T00501086
+
+KRUQ18nm N192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+KEQY22nm SW192153Z AUTO 32015G27KT 10SM CLR 05/M10 A2999 RMK AO2 PK WND 34029/2108 SLP172 T00501100
+
+KEXX26nm N192145Z AUTO 30009G18KT 280V360 10SM CLR 03/M09 A2999 RMK AO2 T00301086
+
+KAFP27nm SE192150Z AUTO 29010G18KT 250V310 10SM CLR 07/M10 A2998 RMK AO2 T00691102
+
+KCLT27nm W192152Z 30014G24KT 10SM FEW060 04/M10 A3002 RMK AO2 PK WND 29035/2108 SLP184 T00391100
+
+
+
+
+
+TAF
+
+
+KCLT27nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wolf Pit Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wolf Pit Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

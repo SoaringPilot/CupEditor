@@ -1,0 +1,354 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 04VG - Manquin Flight Park
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1505 users online
+ 
+
+
+
+
+04VG
+ Manquin Flight ParkManquin, Virginia, USA 
+
+
+
+
+
+
+GOING TO MANQUIN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:04VG
+Lat/Long:37-42-51.9600N 077-12-42.5400W37-42.866000N 077-12.709000W37.7144333,-77.2118167(estimated)
+Elevation:50 ft. / 15 m (estimated)
+From city:4 miles N of MANQUIN, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23106
+
+Ultralight Flight Park Operations
+
+Ultralight Flight Park use:Private use. Permission required prior to landing
+Activation date:01/2004
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:DAYLIGHT HOURS
+Wind indicator:yes
+Segmented circle:no
+
+Ultralight Flight Park Communications
+
+WX ASOS at OFP (11 nm W):119.025 (804-752-2902)
+WX AWOS-3 at W96 (13 nm S):119.875 (804-932-8863)
+WX ASOS at RIC (14 nm S):PHONE 804-236-1091
+WX AWOS-3 at XSA (17 nm NE):125.775 (804-445-8724)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RICr031/13.7RICHMOND VORTAC114.1009W
+HPWr355/23.6HOPEWELL VORTAC114.3506W
+HCMr311/28.6HARCUM VORTAC108.8007W
+FAKr075/31.3FLAT ROCK VORTAC113.3006W
+BRVr179/37.9BROOKE VORTAC114.5009W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON171/35.023710WEZF. --.. ..-.
+
+Ultralight Flight Park Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:3500 x 80 ft. / 1067 x 24 m
+Surface:turf, in fair condition
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+
+Runway 11/29
+
+Dimensions:1800 x 70 ft. / 549 x 21 m
+Surface:turf, in fair condition
+RUNWAY 11RUNWAY 29
+Traffic pattern:leftleft
+
+Ultralight Flight Park Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MANQUIN FLIGHT PARK INCP. O. BOX 159MANQUIN, VA 23106Phone 804-514-5843
+Manager:RAWLING G. DAVENPORT JR.P. O. BOX 159MANQUIN, VA 23106Phone 804-514-5843
+
+Ultralight Flight Park Operational Statistics
+
+Aircraft based on the field:30Single engine airplanes:4Gliders airplanes:25Ultralights:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 04VG.
+Some nearby airports with instrument procedures:
+KOFP - Hanover County Municipal Airport (11 nm W)
+W96 - New Kent County Airport (13 nm S)
+KRIC - Richmond International Airport (14 nm S)
+KXSA - Tappahannock/Essex County Airport (17 nm NE)
+KFCI - Richmond Executive-Chesterfield County Airport (24 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 30-Apr-2018
+looking southwest.
+
+Do you have a better or more recent aerial photo of Manquin Flight Park that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Manquin Flight Park?
+Find the distance to fly.
+From 
+to 04VG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2212:22
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:29:41
+Local (UTC-5)19-Jan-2024 16:29:41
+
+
+
+
+   
+
+METAR
+
+
+KOFP11nm W192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+KRIC13nm SW192054Z 33016G24KT 10SM SCT028 BKN070 03/M04 A2984 RMK AO2 SLP110 60000 T00281039 53033
+
+KW9613nm S192115Z AUTO 31007G16KT 10SM SCT032 BKN060 OVC070 02/M04 A2984 RMK AO1 T00231040
+
+KXSA17nm NE192115Z AUTO 31010G15KT 280V340 10SM SCT016 BKN065 OVC080 01/M02 A2987 RMK AO2 T00061019
+
+
+
+
+
+TAF
+
+
+KRIC13nm SW191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Manquin Flight Park, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Manquin Flight Park
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

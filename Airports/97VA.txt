@@ -1,0 +1,315 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 97VA - Singleton Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1441 users online
+ 
+
+
+
+
+97VA
+ Singleton AirportWarm Springs, Virginia, USA 
+
+
+
+
+
+
+GOING TO WARM SPRINGS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:97VA
+Lat/Long:38-12-38.4470N 079-42-48.1800W38-12.640783N 079-42.803000W38.2106797,-79.7133833(estimated)
+Elevation:2060 ft. / 628 m (estimated)
+Variation:07W (1990)
+From city:11 miles NE of WARM SPRINGS, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24484
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1993
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at HSP (17 nm S):118.8 (540-839-5974)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr308/34.2MONTEBELLO VOR/DME115.3005W
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:1600 x 50 ft. / 488 x 15 m
+Surface:turf
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Obstructions:4 ft. fence4 ft. fence
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOHN & CATHY SINGLETONPO BOX 116WARM SPRINGS, VA 24484Phone 703-839-5009
+Manager:JOHN & CATHY SINGLETONPO BOX 116WARM SPRINGS, VA 24484Phone 703-839-5009
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 97VA.
+Some nearby airports with instrument procedures:
+KHSP - Ingalls Field Airport (17 nm S)
+KVBW - Bridgewater Air Park (37 nm E)
+W13 - Eagle's Nest Airport (37 nm E)
+KSHD - Shenandoah Valley Regional Airport (39 nm E)
+KLWB - Greenbrier Valley Airport (39 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Singleton Airport?
+Find the distance to fly.
+From 
+to 97VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3412:34
+Sunset17:2622:26
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:53:31
+Local (UTC-5)19-Jan-2024 16:53:31
+
+
+
+
+   
+
+METAR
+
+
+
+
+
+
+TAF
+
+
+KLWB38nm SW191735Z 1918/2018 30012G22KT 5SM -SHSN OVC025 TEMPO 1918/1922 2SM -SHSN OVC015 FM200600 28008G19KT 6SM -SHSN OVC025 FM201500 30013G23KT P6SM -SHSN BKN035 
+
+KEKN41nm N191937Z 1920/2018 29008G17KT 1 1/2SM -SN OVC020 TEMPO 1920/1923 1/2SM SN OVC012 FM200100 28008KT 2SM -SHSN SCT008 OVC015 FM201300 28009G17KT 6SM -SHSN OVC025 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Singleton Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Singleton Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,442 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KFFA - First Flight Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1601 users online
+ 
+
+
+
+
+KFFA
+ First Flight AirportKill Devil Hills, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KILL DEVIL HILLS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:FFA
+Lat/Long:36-01-03.3000N 075-40-17.7000W36-01.055000N 075-40.295000W36.0175833,-75.6715833(estimated)
+Elevation:11.9 ft. / 3.6 m (surveyed)
+Variation:11W (2020)
+From city:1 mile W of KILL DEVIL HILLS, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27948
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:FFA (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:lighted
+Segmented circle:yes
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3:118.075 (252-449-0698)
+CHERRY POINT APPROACH:124.725
+CHERRY POINT DEPARTURE:124.725
+WX AWOS-3 at MQI (6 nm S):128.275 (252-473-2826)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RBXr020/6.0WRIGHT BROTHERS VOR/DME111.6008W
+ECGr128/28.4ELIZABETH CITY VOR/DME115.7507W
+
+
+NDBnameHdg/DistFreqVarID
+MANTEO020/6.237009WMQI-- --.- ..
+WOODVILLE126/33.725410WLLW.-.. .-.. .--
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:3000 x 60 ft. / 914 x 18 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:10.0
+RUNWAY 3RUNWAY 21
+Latitude:36-00.816898N36-01.294677N
+Longitude:075-40.372653W075-40.215673W
+Elevation:11.6 ft.8.0 ft.
+Traffic pattern:leftright
+Runway heading:026 magnetic, 015 true206 magnetic, 195 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:92 ft. trees, 348 ft. from runway, 176 ft. right of centerline, 1:1 slope to clear10 FT ROAD 125 FT R; 0-200 FT FM THR.37 ft. trees, 362 ft. from runway, 214 ft. right of centerline, 4:1 slope to clear37 FT TREES 109 FT FM THR OFFSET 213 FT R.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:NATIONAL PARK SVC.1401 NATIONAL PARK DR.MANTEO, NC 27954-2708Phone 252-478-9000ARPT LEASED TO NC DOT UNDER SPECIAL-USE PERMIT; CTC NR 919-814-0550.
+Manager:MARK SEAMAN1401 NATIONAL PARK DR.MANTEO, NC 27984-2708Phone 252-475-9000NTL PARKS SVC NR ANSWERED 7 DAYS A WEEK BTWN 0800 TO 1700.
+
+Airport Operational Statistics
+
+
+Aircraft operations: avg 103/day*61%local general aviation37%transient general aviation1%military* for 12-month period ending 20 August 2021
+Additional Remarks
+
+-MAX OF 24 HRS PRKG PMTD. NO MORE THAN TWO OVNGT STAYS PER MONTH.
+-RWY 21 HAS 10 FT DEEP DITCH 400 FT FM THR.
+-DEER AND BIRDS ON & INVOF ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-SITE OF FIRST FLIGHT BY WRIGHT BROTHERS.
+-RESTROOM FAC ON SITE; KEY CODE ACES TO PILOT LOUNGE.
+-HANG GLIDING & POWERED HANG GLIDING TO 4000 FT INVOF ARPT FROM SR-SS YEAR ROUND.
+-ARPT CLSD 30 MIN AFT SS TIL 30 MIN BEFORE SR.
+-100 FT+ UNMKD TRANSMISSION PLINES 1300 FT FM THR IN APCH AREA RWY 21; 300 FT TWR AND TANK 1/2 MI N OF RWY 21 THR.
+-HOLDLINES RWY 21 ARE 115 FT FM CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 03
+download (173KB)
+RNAV (GPS) RWY 21
+download (184KB)
+
+NOTE: Special Alternate Minimums apply
+download
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (258KB)
+
+Other nearby airports with instrument procedures:
+KMQI - Dare County Regional Airport (6 nm S)
+KONX - Currituck County Regional Airport (28 nm NW)
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (28 nm NW)
+7W6 - Hyde County Airport (31 nm SW)
+KEDE - Northeastern Regional Airport (44 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Antonio Gemma More'photo01aviation.com
+Photo taken 11-Jul-2017
+looking north.
+
+Do you have a better or more recent aerial photo of First Flight Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to First Flight Airport?
+Find the distance to fly.
+From 
+to KFFA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4511:45
+Sunrise07:1212:12
+Sunset17:1522:15
+Evening civil twilight17:4222:42
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:07:34
+Local (UTC-5)19-Jan-2024 16:07:34
+
+
+
+
+   
+
+METAR
+
+
+KFFA192045Z AUTO 30013G21KT 10SM SCT060 OVC070 08/01 A2974 RMK AO2 T00790006
+
+KMQI6nm S192050Z AUTO 32015G24KT 10SM BKN050 OVC070 08/00 A2977 RMK AO2 T00811002
+
+
+
+
+
+TAF
+
+
+KECG29nm NW191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+Wright Brothers Memorial Pilot Facility
+
+
+
+
+no information available
+If you are affiliated with Wright Brothers Memorial Pilot Facility and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+1readwrite
+
+
+
+
+
+Things to do: Attractions on or near the airport
+Business NameContact
+Services / DescriptionDistanceComments
+
+Wright Brothers National Memorial
+
+252-441-7430
+
+
+no information available
+If you are affiliated with Wright Brothers National Memorial and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+0.1 miles
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the First Flight Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about First Flight Airport
+
+
+
+www.avweb.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

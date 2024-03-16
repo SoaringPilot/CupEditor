@@ -1,0 +1,457 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KPTB - Tri Cities Executive/Dinwiddie County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1592 users online
+ 
+
+
+
+
+KPTB
+ Tri Cities Executive/Dinwiddie County AirportPetersburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO PETERSBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:PTB
+Lat/Long:37-11-03.4850N 077-30-22.2280W37-11.058083N 077-30.370467W37.1843014,-77.5061744(estimated)
+Elevation:192.7 ft. / 58.7 m (surveyed)
+Variation:08W (1985)
+From city:5 miles SW of PETERSBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23803
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:04/1976
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:PTB (NOTAM-D service available)
+Attendance:OCT-MAR MON-SUN 0700-1800,  ARP-SEPT MON-SUN 0700-1900
+Pattern altitude:992.7 ft. MSL
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT ODALS RWY 05; REIL RWY 23; PAPI RWYS 05 & 23;  & MIRL RWY 05/23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:133.325 (804-861-5551)
+POTOMAC APPROACH:126.75
+POTOMAC DEPARTURE:126.75
+WX AWOS-3PT at FCI (13 nm N):128.625 (804-271-8426)
+
+
+APCH/DEP SVC PRVDD BY POTOMAC TRACON 126.75/307.2.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HPWr251/20.6HOPEWELL VORTAC114.3506W
+RICr214/21.0RICHMOND VORTAC114.1009W
+FAKr149/25.7FLAT ROCK VORTAC113.3006W
+LVLr049/29.1LAWRENCEVILLE VORTAC112.9008W
+FKNr329/36.8FRANKLIN VORTAC110.6009W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE091/26.032609WBKT-... -.- -
+WAKEFIELD308/27.027411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL JET-A100LL:SELF SVC FUELING AVBL AFTER HRS.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+
+Runway Information
+Runway 5/23
+
+Dimensions:5002 x 100 ft. / 1525 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Single wheel:25.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:37-10.756250N37-11.359907N
+Longitude:077-30.721125W077-30.019772W
+Elevation:192.7 ft.189.8 ft.
+Traffic pattern:leftleft
+Runway heading:051 magnetic, 043 true231 magnetic, 223 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:ODALS: omnidirectional approach lighting system
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:35 ft. tree, 1117 ft. from runway, 227 ft. left of centerline, 26:1 slope to clear71 ft. tree, 3432 ft. from runway, 325 ft. right of centerline, 45:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:DINWIDDIE ARPT AND INDUSTRIAL AUTH.6775 BECK-CHAPPELL DRIVEPETERSBURG, VA 23803Phone 804-861-0218
+Manager:JEREMY PULTZ6775 BECK-CHAPPELL DRIVEPETERSBURG, VA 23803Phone 804-861-0218
+
+Airport Operational Statistics
+
+Aircraft based on the field:52Single engine airplanes:43Multi engine airplanes:4Jet airplanes:4Helicopters:1
+Aircraft operations: avg 89/day*46%transient general aviation31%military16%local general aviation8%air taxi* for 12-month period ending 31 December 2018
+Additional Remarks
+
+-CONC PADS ON MAIN APRON AVBL FOR HEL PRKG.  CTC UNICOM FOR TRML HEL PRKG.
+-GCO AVBL ON FREQ 135.075 THRU POTOMAC APCH CD.  IF UNA, FOR CD CTC POTOMAC APCH AT 866-640-4124.
+-HELICOPTERS APCH PARL TO RWY 05/23 & TRANSITION PERPENDICULAR TO RWY 05/23 TO HELIPADS ON NE CORNER OF APRON.
+-ULTRALIGHT ACT ON & INVOF ARPT.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 05
+download (298KB)
+RNAV (GPS) RWY 23
+download (266KB)
+LOC RWY 05
+download (288KB)
+VOR RWY 23
+download (296KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (363KB)
+
+Other nearby airports with instrument procedures:
+KFCI - Richmond Executive-Chesterfield County Airport (13 nm N)
+KRIC - Richmond International Airport (21 nm NE)
+KBKT - Allen C Perkinson Airport/Blackstone Army Airfield (23 nm W)
+W96 - New Kent County Airport (26 nm NE)
+KAKQ - Wakefield Municipal Airport (27 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 21-Sep-2006
+with Kodak DX7590 digital camera
+
+Do you have a better or more recent aerial photo of Tri Cities Executive/Dinwiddie County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Tri Cities Executive/Dinwiddie County Airport?
+Find the distance to fly.
+From 
+to KPTB
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2212:22
+Sunset17:1922:19
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:00:55
+Local (UTC-5)19-Jan-2024 16:00:55
+
+
+
+
+   
+
+METAR
+
+
+KPTB192055Z AUTO 33006KT 10SM SCT039 OVC070 03/M01 A2983 RMK AO2 T00331013
+
+KFCI13nm N192043Z AUTO 32013KT 10SM SCT027 BKN034 OVC070 02/M03 A2983 RMK AO2 FZRANO
+
+
+
+
+
+TAF
+
+
+KRIC22nm NE191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Tri City Executive-Dinwiddie County Airport
+
+
+
+UNICOM 122.70804-861-0218[web site][email]
+
+Aviation Fuel 100LL and Jet-A w/Additive
+
+ 
+
+
+
+
+More info about Tri City Executive-Dinwiddie County Airport
+
+
+
+
+
+100LL Jet AFS$6.20$5.40SS$6.00$5.20GUARANTEED
+
+
+
+
+write
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Tri Cities Executive/Dinwiddie County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Tri Cities Executive/Dinwiddie County Airport
+
+
+
+www.ptbairport.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

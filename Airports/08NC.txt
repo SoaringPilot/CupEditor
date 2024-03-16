@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 08NC - Whiteheart Farm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1455 users online
+ 
+
+
+
+
+08NC
+ Whiteheart Farm AirportLewisville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LEWISVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:08NC
+Lat/Long:36-04-03.4930N 080-27-56.2030W36-04.058217N 080-27.936717W36.0676369,-80.4656119(estimated)
+Elevation:750 ft. / 229 m (estimated)
+Variation:06W (1990)
+From city:3 miles SW of LEWISVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27023
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1993
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at INT (12 nm E):PHONE 336-661-3096
+WX AWOS-3 at EXX (19 nm SE):119.825 (336-956-2967)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr276/23.8GREENSBORO VORTAC116.2003W
+BZMr078/39.5BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER248/38.942307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:3200 x 50 ft. / 975 x 15 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Displaced threshold:350 ft.no
+Obstructions:60 ft. treesnone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:WILLIAM. H. WHITEHEART210 S CHERRY STWINSTON SALEM, NC 27101-5231Phone 336-817-1555
+Manager:WILLIAM. H. WHITEHEART210 S CHERRY STWINSTON SALEM, NC 27101-5231Phone 336-817-1555
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 08NC.
+Some nearby airports with instrument procedures:
+8A7 - Twin Lakes Airport (9 nm S)
+KINT - Smith Reynolds Airport (12 nm E)
+KEXX - Davidson County Executive Airport (19 nm SE)
+KZEF - Elkin Municipal Airport (20 nm NW)
+N63 - Meadow Brook Field Airport (21 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Whiteheart Farm Airport?
+Find the distance to fly.
+From 
+to 08NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3422:34
+Evening civil twilight18:0123:01
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:07:31
+Local (UTC-5)19-Jan-2024 17:07:31
+
+
+
+
+   
+
+METAR
+
+
+KINT13nm E192154Z 29011G26KT 10SM OVC055 03/M10 A2999 RMK AO2 PK WND 28026/2147 SLP158 T00281100
+
+KEXX19nm SE192145Z AUTO 30009G18KT 280V360 10SM CLR 03/M09 A2999 RMK AO2 T00301086
+
+KMWK24nm N192145Z AUTO 29008G17KT 250V330 10SM OVC050 01/M10 A3000 RMK AO2 T00051100
+
+KGSO25nm E192154Z 32013G21KT 10SM FEW055 02/M11 A2996 RMK AO2 PK WND 31030/2130 SLP150 T00221106
+
+KRUQ25nm S192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+
+
+
+
+TAF
+
+
+KINT13nm E191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Whiteheart Farm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Whiteheart Farm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC70 - McKee Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1487 users online
+ 
+
+
+
+
+NC70
+ McKee AirportFairmont, North Carolina, USA 
+
+
+
+
+
+
+GOING TO FAIRMONT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC70
+Lat/Long:34-30-17.5910N 079-06-09.1250W34-30.293183N 079-06.152083W34.5048864,-79.1025347(estimated)
+Elevation:110 ft. / 34 m (estimated)
+Variation:06W (1985)
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28340
+
+Airport Operations
+
+Airport use:CLOSED INDEFINITELY
+Activation date:03/1989
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at LBT (7 nm N):134.775 (910-739-7120)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr205/30.9FAYETTEVILLE VOR/DME114.8504W
+FLOr062/31.9FLORENCE VORTAC115.2003W
+
+
+NDBnameHdg/DistFreqVarID
+JIGEL152/3.038408WJB.--- -...
+DILLON085/13.627409WDLC-.. .-.. -.-.
+CAMP313/23.822707WCPC-.-. .--. -.-.
+BENNETTSVILLE111/31.923008WBES-... . ...
+DARLINGTON091/39.024506WUDG..- -.. --.
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:3300 x 80 ft. / 1006 x 24 m
+Surface:turf, in good condition
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:none20 ft. plines
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LANNESS K. MCKEE806 TAYLOR STFAIRMONT, NC 28340Phone 910-628-7157
+Manager:LANNESS K. MCKEE806 TAYLOR STFAIRMONT, NC 28340Phone 910-628-7157
+
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-(ARPT STATUS) ARPT CLSD INDEFLY.
+
+Instrument Procedures
+There are no published instrument procedures at NC70.
+Some nearby airports with instrument procedures:
+KLBT - Lumberton Regional Airport (7 nm N)
+KDLC - Dillon County Airport (14 nm W)
+KMEB - Laurinburg/Maxton Airport (22 nm NW)
+KMAO - Marion County Airport (23 nm SW)
+KCPC - Columbus County Municipal Airport (24 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to McKee Airport?
+Find the distance to fly.
+From 
+to NC70
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5611:56
+Sunrise07:2312:23
+Sunset17:3222:32
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:32:19
+Local (UTC-5)19-Jan-2024 16:32:19
+
+
+
+
+   
+
+METAR
+
+
+KLBT6nm N192056Z AUTO 32017G27KT 10SM SCT075 12/M01 A2984 RMK AO2 PK WND 32031/2018 SLP105 T01221011 53022
+
+
+
+
+
+TAF
+
+
+KLBT6nm N191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the McKee Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about McKee Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

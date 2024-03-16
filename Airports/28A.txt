@@ -1,0 +1,376 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 28A - Goose Creek Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1565 users online
+ 
+
+
+
+
+28A
+ Goose Creek AirportIndian Trail, North Carolina, USA 
+
+
+
+
+
+
+GOING TO INDIAN TRAIL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:28A
+Lat/Long:35-07-15.5260N 080-35-14.2420W35-07.258767N 080-35.237367W35.1209794,-80.5872894(estimated)
+Elevation:565 ft. / 172 m (estimated)
+Variation:05W (1985)
+From city:6 miles NE of INDIAN TRAIL, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28079
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1970
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:IRREG
+Pattern altitude:1100 ft. MSLTPA: 535 FT AGL ULTRALIGHTS, 1035 FT AGL ALL OTR ACFT.
+Wind indicator:yes
+Segmented circle:no
+Lights:FM SS ON FOR 2 HRS. AFTER SS; FOR LGT AFTER HRS CALL 704-614-3084.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX ASOS at EQY (6 nm S):135.775 (704-283-5185)
+WX AWOS-3 at JQF (17 nm N):133.675 (704-785-2145)
+WX ASOS at CLT (19 nm W):PHONE 704-790-5484
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr108/18.4CHARLOTTE VOR/DME115.0005W
+CTFr334/32.1CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA105/28.326006WGHJ--. .... .---
+CHESTER062/36.322006WDCM-.. -.-. --
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:MAJOR980-875-0114
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:2350 x 35 ft. / 716 x 11 m
+Surface:asphalt, in good condition
+Runway edge lights:non-standardNSTD LIRL; NO THR LGTS.
+RUNWAY 4RUNWAY 22
+Traffic pattern:leftR TFC FOR ULTRALIGHTS ONLY.leftR TFC FOR ULTRALIGHTS ONLY.
+Displaced threshold:122 ft.RWY 4 - NIGHT LANDINGS NOT AUTHORIZED.no
+Markings:basic, in good conditionbasic, in good condition
+Obstructions:70 ft. trees, 378 ft. from runway, 96 ft. left of centerline, 2:1 slope to clear8 FT HILL 80-160 FT FM THR OFFSET 90 FT LEFT OF CNTRLN.19 ft. trees, 201 ft. from runway, 21 ft. right of centerline40 FT TREES 150-200 FT FM THR OFFSET 80 FT RIGHT AND 9 FT TREES 70-200 FT FM THR OFFSET 26 FT LEFT.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LOCO PANTHER AVIATION, LLC2020 LAWYERS RDINDIAN TRAIL, NC 28079Phone 704-614-3084
+Manager:JAMES HONEYCUTT & THOMAS ROOD2020 LAWYERS RDINDIAN TRAIL, NC 28079Phone 704-614-3084
+
+Airport Operational Statistics
+
+Aircraft based on the field:37Single engine airplanes:27Helicopters:1Ultralights:9
+Aircraft operations: avg 68/week*84%local general aviation14%transient general aviation1%military<1%air taxi* for 12-month period ending 23 June 2021
+Additional Remarks
+
+-BIRDS AND WILDLIFE ON AND INVOF ARPT.
+-RWY 04/22 - FIRST 400 FT SW END UNLIGHTED.
+-RWY 04/22 HAS 15 FT DROPOFF 50 FT FM CNTRLN ON SE SIDE AT MIDFIELD.
+-RWY 04/22 HAS 15 FT ROADS 55 FT FM CNTRLN BOTH SIDES OF RWY.
+-FARM EQUIPMENT ON AND INVOF ARPT.
+-USE CAUTION DUE TO EXTENSIVE ULTRALIGHT ACTIVITY.
+-NO NIGHT LANDINGS 2 HRS AFTER SS.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+-CALL ARPT FOR FUEL WHEN UNATNDD 704-614-3084.
+-RWY SAFETY AREA HAS POTENTIALLY HAZARDOUS DEPRESSIONS AND HUMPS.
+-NUMEROUS OBSTR (TREES, BLDGS, VEHICLES, PARKED ACFT & LANDSCAPE POLES) IN PRIMARY SFC 65 FT FROM RWY CNTRLN.
+-NUMEROUS UNMARKED & UNLGTD OBSTN IN BOTH APPROACHES.
+
+Instrument Procedures
+There are no published instrument procedures at 28A.
+Some nearby airports with instrument procedures:
+KEQY - Charlotte-Monroe Executive Airport (6 nm S)
+KJQF - Concord-Padgett Regional Airport (17 nm N)
+N52 - JAARS-Townsend Airport (17 nm SW)
+KCLT - Charlotte/Douglas International Airport (19 nm W)
+KUZA - Rock Hill (York County) Airport-Bryant Field (24 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Goose Creek Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Goose Creek Airport?
+Find the distance to fly.
+From 
+to 28A
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3012:30
+Sunset17:3622:36
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:11:35
+Local (UTC-5)19-Jan-2024 16:11:35
+
+
+
+
+   
+
+METAR
+
+
+KEQY6nm S192053Z AUTO 33015G26KT 10SM CLR 07/M09 A2994 RMK AO2 PK WND 32032/2039 SLP154 T00721089 53041
+
+KJQF17nm N192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+KCLT19nm W192052Z 32016G27KT 10SM FEW060 06/M10 A2997 RMK AO2 PK WND 33034/2008 SLP166 T00611100 53045
+
+
+
+
+
+TAF
+
+
+KCLT19nm W191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Goose Creek Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Goose Creek Airport
+
+
+
+Goose Creek Airport
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

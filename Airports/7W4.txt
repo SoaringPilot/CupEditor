@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 7W4 - Lake Anna Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1545 users online
+ 
+
+
+
+
+7W4
+ Lake Anna AirportBumpass, Virginia, USA 
+
+
+
+
+
+
+GOING TO BUMPASS?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:7W4
+Lat/Long:37-57-56.9500N 077-44-45.2500W37-57.949167N 077-44.754167W37.9658194,-77.7459028(estimated)
+Elevation:351.2 ft. / 107 m (estimated)
+Variation:10W (2010)
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23024
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:no
+Segmented circle:no
+Lights:ACTVT MIRL RY 08/26 - CTAF
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3:120.775 (540-872-0303)
+POTOMAC APPROACH:126.75
+POTOMAC DEPARTURE:126.75
+WX AWOS-3 at LKU (11 nm W):119.475 (540-967-1983)
+
+
+CTAF 122.90
+APCH/DEP SVC PRVDD BY POTOMAC TRACON 126.75/307.2 .
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GVEr104/19.5GORDONSVILLE VORTAC115.6006W
+FAKr014/26.5FLAT ROCK VORTAC113.3006W
+BRVr229/28.9BROOKE VORTAC114.5009W
+RICr333/34.4RICHMOND VORTAC114.1009W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON228/22.823710WEZF. --.. ..-.
+NAILR176/30.335110WMSQ-- ... --.-
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 8/26
+
+Dimensions:2558 x 50 ft. / 780 x 15 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:6.0
+Runway edge lights:medium intensity
+RUNWAY 8RUNWAY 26
+Latitude:37-57.893368N37-58.005060N
+Longitude:077-45.010845W077-44.497258W
+Elevation:349.5 ft.351.2 ft.
+Traffic pattern:leftleft
+Runway heading:085 magnetic, 075 true265 magnetic, 255 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:63 ft. trees, 1011 ft. from runway, 13 ft. left of centerline, 12:1 slope to clear59 ft. tree, 1022 ft. from runway, 116 ft. left of centerline, 13:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MILE HIGH CHARTERS, LLC10267 MATTHEWS GROVE LN.MECHANICSVILLE, VA 23116Phone 804-550-5794
+Manager:RICHARD HENRY REMPE10267 MATTHEWS GROVE LN.MECHANICSVILLE, VA 23116Phone 804-550-5794EMERGENCY PHONE NUMBER IS: (804) 514-6642
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:2Multi engine airplanes:1
+Aircraft operations: avg 81/month*77%local general aviation18%transient general aviation5%military* for 12-month period ending 31 December 2022
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 08
+download (183KB)
+RNAV (GPS) RWY 26
+download (182KB)
+
+NOTE: Special Alternate Minimums apply
+download
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KLKU - Louisa County Airport/Freeman Field (11 nm W)
+KOFP - Hanover County Municipal Airport (21 nm SE)
+KOMH - Orange County Airport (22 nm NW)
+KEZF - Shannon Airport (23 nm NE)
+KGVE - Gordonsville Municipal Airport (23 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Hank Rempe
+Photo taken 18-Oct-2010
+looking west.
+
+Do you have a better or more recent aerial photo of Lake Anna Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Lake Anna Airport?
+Find the distance to fly.
+From 
+to 7W4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:1822:18
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:23:33
+Local (UTC-5)19-Jan-2024 16:23:33
+
+
+
+
+   
+
+METAR
+
+
+K7W4192055Z AUTO 36003KT 10SM SCT029 BKN038 OVC050 01/M03 A2985 RMK AO1 T00111032
+
+KLKU11nm W192055Z AUTO 31012G18KT 10SM SCT035 BKN060 OVC085 01/M05 A2985 RMK AO2 T00141045 60001
+
+
+
+
+
+TAF
+
+
+KRIC34nm SE191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+KCHO35nm W191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+KNYG39nm NE1915/2015 32008KT 9999 OVC020 QNH2977INS TEMPO 1915/1920 32010G18KT 3200 -SN OVC009 BECMG 1920/1922 34015G25KT BKN015 QNH2980INS BECMG 2000/2002 35009G18KT SCT050 QNH2992INS FM200500 35009G15KT 9999 SKC QNH3002INS T02/1921Z TM07/2012Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Lake Anna Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Lake Anna Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8NC4 - Dead Dog Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1595 users online
+ 
+
+
+
+
+8NC4
+ Dead Dog AirportPittsboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PITTSBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8NC4
+Lat/Long:35-43-47.5140N 079-18-46.0630W35-43.791900N 079-18.767717W35.7298650,-79.3127953(estimated)
+Elevation:525 ft. / 160 m (estimated)
+Variation:06W (1985)
+From city:7 miles W of PITTSBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27312
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1991
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SCR (9 nm W):125.775 (919-663-1252)
+WX AWOS-3 at TTA (14 nm SE):120.625 (919-708-5382)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr112/15.4LIBERTY VORTAC113.0003W
+RDUr261/27.1RALEIGH/DURHAM VORTAC117.2009W
+SDZr027/33.7SANDHILLS VORTAC111.8003W
+GSOr123/37.4GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON210/32.522008WHUR.... ..- .-.
+HARNETT308/35.941708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 16/34
+
+Dimensions:2000 x 60 ft. / 610 x 18 m
+Surface:turf, in fair condition
+RUNWAY 16RUNWAY 34
+Traffic pattern:leftleft
+Obstructions:treesnone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ED COFFMAN7909 US HWY 64 WESTPITTSBORO, NC 27312-6863Phone 919-742-4866
+Manager:ED COFFMAN7909 US HWY 64 WESTPITTSBORO, NC 27312-6863Phone 919-742-4866
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 8NC4.
+Some nearby airports with instrument procedures:
+KSCR - Siler City Municipal Airport (9 nm W)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (14 nm SE)
+KBUY - Burlington/Alamance Regional Airport (21 nm N)
+KRDU - Raleigh-Durham International Airport (27 nm E)
+KHBI - Asheboro Regional Airport (29 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Dead Dog Airport?
+Find the distance to fly.
+From 
+to 8NC4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2612:26
+Sunset17:3022:30
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:58:59
+Local (UTC-5)19-Jan-2024 15:58:59
+
+
+
+
+   
+
+METAR
+
+
+KSCR9nm W192045Z AUTO 32011G19KT 10SM SCT060 07/M08 A2990 RMK AO2 T00701077
+
+KTTA14nm SE192050Z AUTO 32011G24KT 10SM CLR 08/M07 A2988 RMK AO2 T00801072
+
+
+
+
+
+TAF
+
+
+KRDU27nm E191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dead Dog Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Dead Dog Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8VA6 - Flatwoods Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1608 users online
+ 
+
+
+
+
+8VA6
+ Flatwoods AirportLovingston, Virginia, USA 
+
+
+
+
+
+
+GOING TO LOVINGSTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8VA6
+Lat/Long:37-44-17.5070N 078-57-44.0860W37-44.291783N 078-57.734767W37.7381964,-78.9622461(estimated)
+Elevation:840 ft. / 256 m (estimated)
+Variation:07W (1985)
+From city:5 miles SW of LOVINGSTON, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22922
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1982
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr150/11.9MONTEBELLO VOR/DME115.3005W
+LYHr029/31.8LYNCHBURG VOR/DME109.2005W
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:1400 x 120 ft. / 427 x 37 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:BASIL JOE CLARK1507 SLEEPY HOLLOW RDROSELAND, VA 22967Phone 434-277-9125
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 8VA6.
+Some nearby airports with instrument procedures:
+W13 - Eagle's Nest Airport (20 nm N)
+W24 - Falwell Airport (23 nm S)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (27 nm SW)
+KSHD - Shenandoah Valley Regional Airport (32 nm N)
+W90 - New London Airport (33 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Flatwoods Airport?
+Find the distance to fly.
+From 
+to 8VA6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:3012:30
+Sunset17:2422:24
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:07:55
+Local (UTC-5)19-Jan-2024 16:07:55
+
+
+
+
+   
+
+METAR
+
+
+KW1320nm N192055Z AUTO 29010G16KT 10SM SCT050 BKN110 00/M11 A2982 RMK AO1 T00021107
+
+KLYH28nm SW192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+KSHD32nm N192055Z AUTO 30016G28KT 10SM -RA SCT065 SCT120 00/M10 A2985 RMK AO2 T00001105
+
+KCHO34nm NE192053Z 30008G21KT 270V330 10SM BKN055 03/M10 A2984 RMK AO2 SLP107 60000 T00331100 53024
+
+KFVX35nm SE192055Z AUTO 32005G16KT 10SM SCT060 BKN070 04/M09 A2985 RMK AO2 T00421094
+
+K0V436nm S192055Z AUTO 27013KT 10SM BKN050 03/M08 A2988 RMK AO1
+
+KVBW38nm N192055Z AUTO 29015G23KT 10SM BKN050 BKN120 00/M10 A2984 RMK AO1 T10011105
+
+
+
+
+
+TAF
+
+
+KLYH28nm SW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+KCHO34nm NE191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Flatwoods Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Flatwoods Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

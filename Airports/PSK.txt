@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KPSK - New River Valley Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1441 users online
+ 
+
+
+
+
+KPSK
+ New River Valley AirportDublin, Virginia, USA 
+
+
+
+
+
+
+GOING TO DUBLIN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:PSK
+Lat/Long:37-08-14.4110N 080-40-42.5260W37-08.240183N 080-40.708767W37.1373364,-80.6784794(estimated)
+Elevation:2104.5 ft. / 641.5 m (surveyed)
+Variation:06W (1985)
+From city:2 miles N of DUBLIN, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24084
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/1961
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:PSK (NOTAM-D service available)
+Attendance:MON-FRI 0800-1900,  ALL SAT-SUN 0900-1700UNATTENDED THANKSGIVING AND CHRISTMAS DAY.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 06; REIL RWY 24; PAPI RWY 06 & 24; HIRL RWY 06/24 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:127.375 (540-674-2731)
+ROANOKE APPROACH:126.0
+ROANOKE DEPARTURE:126.0
+CLEARANCE DELIVERY:121.7
+IC:126.0
+WX AWOS-3 at BCB (13 nm E):133.325 (540-231-4837)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PSKr035/3.4PULASKI VORTAC116.8006W
+BLFr115/26.7BLUEFIELD VOR/DME115.0503W
+ROAr251/31.6ROANOKE VOR/DME109.4004W
+ODRr259/(35.2)WOODRUM VOR114.9008W
+
+
+NDBnameHdg/DistFreqVarID
+TECH260/13.836808WTEC- . -.-.
+VINTON272/38.327708WVIT...- .. -
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:6201 x 150 ft. / 1890 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Double wheel:60.0
+Runway edge lights:high intensity
+RUNWAY 6RUNWAY 24
+Latitude:37-07.926307N37-08.554022N
+Longitude:080-41.212238W080-40.205230W
+Elevation:2104.5 ft.2073.0 ft.
+Traffic pattern:leftleft
+Runway heading:058 magnetic, 052 true238 magnetic, 232 true
+Markings:precision, in fair conditionnonprecision, in fair condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:93 ft. trees, 2205 ft. from runway, 531 ft. right of centerline, 21:1 slope to clear10 FT ROAD 100 FT FM THR ON CNTRLN (SVC ROAD).none
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:NEW RIVER VALLEY ARPT CMSN5391 C. V. JACKSON ROADDUBLIN, VA 24084Phone 540-674-4141
+Manager:AARON BRUMMITT5391 C. V. JACKSON ROADDUBLIN, VA 24084Phone 540-674-4141
+
+Airport Operational Statistics
+
+Aircraft based on the field:34Single engine airplanes:24Multi engine airplanes:9Jet airplanes:1
+Aircraft operations: avg 126/week*38%military32%transient general aviation30%local general aviation* for 12-month period ending 30 April 2018
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-MIL CONTRACT FUEL UNAVBL.
+-ROA TWR SVCS AVBL AT 540-563-1307.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC Y RWY 06
+download (276KB)
+ILS OR LOC Z RWY 06
+download (293KB)
+RNAV (GPS) RWY 06
+download (299KB)
+RNAV (GPS) RWY 24
+download (270KB)
+VOR/DME RWY 06
+download (247KB)
+
+NOTE: Special Alternate Minimums apply
+download (142KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KBCB - Virginia Tech/Montgomery Executive Airport (13 nm E)
+KHLX - Twin County Airport (23 nm S)
+KBLF - Mercer County Airport (27 nm W)
+KMKJ - Mountain Empire Airport (35 nm SW)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (35 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 22-Feb-2012
+looking east.
+
+Do you have a better or more recent aerial photo of New River Valley Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to New River Valley Airport?
+Find the distance to fly.
+From 
+to KPSK
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3512:35
+Sunset17:3222:32
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:38:48
+Local (UTC-5)19-Jan-2024 16:38:48
+
+
+
+
+   
+
+METAR
+
+
+KPSK192115Z AUTO 28012G19KT 10SM BKN034 BKN044 OVC050 M03/M09 A2991 RMK AO2 T10351091
+
+KBCB13nm E192115Z AUTO 30011G19KT 3/4SM -SN SCT019 OVC030 M03/M08 A2993 RMK AO2 T10301082
+
+
+
+
+
+TAF
+
+
+KBCB13nm E191735Z 1918/2018 30013G26KT 6SM -SHSN SCT025 OVC040 TEMPO 1918/1922 3SM -SHSN OVC025 FM200000 29011G25KT P6SM -SHSN BKN040 FM201500 29011G21KT P6SM SCT040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+New River Valley Airport
+
+540-674-4141
+
+
+no information available
+If you are affiliated with New River Valley Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AFS$5.89$6.59Updated 17-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the New River Valley Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about New River Valley Airport
+
+
+
+www.nrvairport.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

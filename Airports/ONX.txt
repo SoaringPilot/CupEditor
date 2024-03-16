@@ -1,0 +1,460 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KONX - Currituck County Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1604 users online
+ 
+
+
+
+
+KONX
+ Currituck County Regional AirportCurrituck, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CURRITUCK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ONX
+Lat/Long:36-23-59.7880N 076-00-55.5310W36-23.996467N 076-00.925517W36.3999411,-76.0154253(estimated)
+Elevation:17.7 ft. / 5.4 m (surveyed)
+Variation:10W (1995)
+From city:4 miles S of CURRITUCK, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27956
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1976
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:ONX (NOTAM-D service available)
+Attendance:0800-1600UNATNDD ON ALL STATE HOLIDAYS.AFTER HRS SVC CALL 252-232-6101.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 05 & 23; MIRL RWY 05/23 AFT SS - CTAF. PAPI RWY 05 & 23 ON CONSLY; TO INCR INTST - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3:119.775 (252-453-8939)
+OCEANA APPROACH:123.9
+OCEANA DEPARTURE:123.9
+WX ASOS at ECG (11 nm SW):124.375 (252-338-4750)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr049/11.5ELIZABETH CITY VOR/DME115.7507W
+ORFr170/30.8NORFOLK VORTAC116.9007W
+RBXr340/32.6WRIGHT BROTHERS VOR/DME111.6008W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE069/15.925410WLLW.-.. .-.. .--
+MANTEO341/33.037009WMQI-- --.- ..
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:FUEL AVBL 24 HRS WITH CREDIT CARD.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:5502 x 150 ft. / 1677 x 46 m
+Surface:asphalt/concrete, in good condition
+Weight bearing capacity:Single wheel:35.0Double wheel:47.5
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:36-23.625082N36-24.367853N
+Longitude:076-01.247220W076-00.603770W
+Elevation:12.7 ft.14.1 ft.
+Traffic pattern:leftleft
+Runway heading:045 magnetic, 035 true225 magnetic, 215 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on right (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:106 ft. pline, 3395 ft. from runway, 148 ft. right of centerline, 30:1 slope to clear41 ft. trees, 816 ft. from runway, 56 ft. right of centerline, 15:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY OF CURRITUCK153 COURTHOUSE ROAD, SUITE 800CURRITUCK, NC 27929-9653Phone 252-453-8032
+Manager:WILLIAM NELSON264 AIRPORT RD (PHYSICAL ADDRESS), 153 COURTHOUSE ROAD, SUITE 302CURRITUCK, NC 27929Phone (252) 453-2876OR 252-453-8032.
+
+Airport Operational Statistics
+
+Aircraft based on the field:54Single engine airplanes:49Multi engine airplanes:4Helicopters:1
+Aircraft operations: avg 68/day*56%transient general aviation28%military14%local general aviation2%air taxi* for 12-month period ending 20 August 2021
+Additional Remarks
+
+-BIRDS & DEER ON AND INVOF ARPT.
+-FOR CD CTC OCEANA APCH AT 757-433-2968.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 05
+download (267KB)
+RNAV (GPS) RWY 23
+download (220KB)
+VOR/DME-A
+download (237KB)
+
+NOTE: Special Alternate Minimums apply
+download (162KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (11 nm SW)
+KCPK - Chesapeake Regional Airport (22 nm NW)
+KNTU - Oceana Naval Air Station (Apollo Soucek Field) (25 nm N)
+KFFA - First Flight Airport (28 nm SE)
+KORF - Norfolk International Airport (31 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Mark Leuzinger
+Photo taken 27-May-2017
+looking northeast.
+
+Do you have a better or more recent aerial photo of Currituck County Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Currituck County Regional Airport?
+Find the distance to fly.
+From 
+to KONX
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4711:47
+Sunrise07:1512:15
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:57:22
+Local (UTC-5)19-Jan-2024 15:57:22
+
+
+
+
+   
+
+METAR
+
+
+KONX192045Z AUTO 27013G21KT 250V310 10SM SCT038 SCT046 OVC070 07/M01 A2977 RMK AO2 T00711012
+
+KECG11nm SW192054Z 31021G30KT 10SM FEW038 OVC070 07/M01 A2978 RMK AO2 PK WND 30031/2037 SLP084 T00671011 53028
+
+KNFE18nm N191956Z AUTO 32009G18KT 10SM FEW029 BKN038 OVC046 07/M01 A2974 RMK AO2 SLP073 T00671006
+
+
+
+
+
+TAF
+
+
+KECG11nm SW191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+122.90252-453-8032252-453-2876[web site][email]
+
+Want great fuel pricing? Come to Currituck!Let our pricing get you here, our friendly,professional staff will keep you coming back!
+
+
+
+More info and photos of Currituck County Regional Airport
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS---$5.10SS$5.00$5.10GUARANTEED
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Currituck County Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Currituck County Regional Airport
+
+
+
+co.currituck.nc.us/airport
+
+
+
+
+
+www.thinkcurrituck.com/currituck-regional-airport-onx
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

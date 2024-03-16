@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC86 - Rocking A Farm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1451 users online
+ 
+
+
+
+
+NC86
+ Rocking A Farm AirportWhite Oak, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WHITE OAK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC86
+Lat/Long:34-44-01.0000N 078-45-11.0000W34-44.016667N 078-45.183333W34.7336111,-78.7530556(estimated)
+Elevation:58 ft. / 18 m (estimated)
+Variation:07W (1990)
+From city:2 miles W of WHITE OAK, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28399
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1996
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at EYF (12 nm SE):119.475 (910-862-9982)
+WX ASOS at FAY (17 nm N):121.25 (910-484-1546)
+WX ASOS at LBT (17 nm SW):134.775 (910-739-7120)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FAYr162/16.3FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON242/24.141209WCTZ-.-. - --..
+CAMP003/27.722707WCPC-.-. .--. -.-.
+DILLON070/34.827409WDLC-.. .-.. -.-.
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:3300 x 25 ft. / 1006 x 8 m
+Surface:asphalt
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Displaced threshold:1000 ft.1000 ft.
+Obstructions:treespline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ROCKING A RANCH INCPO BOX 234WHITE OAK, NC 28399Phone 910-587-2699
+Manager:GARDNER ALTMAN600 WHITE OAK NATIONAL DRWHITE OAK, NC 28339Phone 910-876-7495
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC86.
+Some nearby airports with instrument procedures:
+KEYF - Curtis L Brown Jr. Field Airport (12 nm SE)
+KFAY - Fayetteville Regional Airport/Grannis Field (17 nm N)
+KLBT - Lumberton Regional Airport (17 nm SW)
+KCTZ - Clinton-Sampson County Airport (24 nm NE)
+KFBG - Simmons Army Airfield (26 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Rocking A Farm Airport?
+Find the distance to fly.
+From 
+to NC86
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5511:55
+Sunrise07:2212:22
+Sunset17:3022:30
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:48:58
+Local (UTC-5)19-Jan-2024 16:48:58
+
+
+
+
+   
+
+METAR
+
+
+KEYF12nm SE192130Z AUTO 30007G20KT 10SM SCT065 13/M03 A2985 RMK AO2 T01251026
+
+KFAY16nm NW192053Z 31017G28KT 10SM SCT080 12/M06 A2984 RMK AO2 PK WND 30034/2030 SLP100 T01171056 53027
+
+KLBT17nm SW192056Z AUTO 32017G27KT 10SM SCT075 12/M01 A2984 RMK AO2 PK WND 32031/2018 SLP105 T01221011 53022
+
+
+
+
+
+TAF
+
+
+KFAY16nm NW191732Z 1918/2018 29015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KLBT17nm SW191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Rocking A Farm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Rocking A Farm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

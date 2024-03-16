@@ -1,0 +1,437 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 8A7 - Twin Lakes Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1426 users online
+ 
+
+
+
+
+8A7
+ Twin Lakes AirportMocksville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOCKSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:8A7
+Lat/Long:35-54-53.6940N 080-27-24.5030W35-54.894900N 080-27.408383W35.9149150,-80.4568064(estimated)
+Elevation:818 ft. / 249.3 m (surveyed)
+Variation:06W (1985)
+From city:5 miles NE of MOCKSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27006
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0800-1700
+Wind indicator:yes
+Segmented circle:no
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+GREENSBORO APPROACH:124.35
+GREENSBORO DEPARTURE:124.35
+WX AWOS-3 at EXX (11 nm SE):119.825 (336-956-2967)
+WX AWOS-3 at RUQ (16 nm S):118.175 (704-637-6197)
+WX ASOS at INT (17 nm NE):PHONE 336-661-3096
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr254/24.6GREENSBORO VORTAC116.2003W
+BZMr092/38.2BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY014/11.027506WRU.-. ..-
+
+Airport Services
+
+Fuel available:100LL100LL:24 HR SELF SERVICE WITH CC.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 9/27
+
+Dimensions:2943 x 50 ft. / 897 x 15 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:non-standardRWY 09/27 NSTD LIGHTING DUE TO NUMBER AND LOCATION.
+Runway edge markings:RWY 27 MARKINGS NONSTANDARD DUE TO SIZE AND LOCATION.
+RUNWAY 9RUNWAY 27
+Latitude:35-54.886633N35-54.902933N
+Longitude:080-27.706933W080-27.111000W
+Elevation:773.0 ft.818.0 ft.
+Traffic pattern:leftleft
+Runway heading:094 magnetic, 088 true274 magnetic, 268 true
+Markings:NSTD, in good conditionNSTD, in good condition
+Visual slope indicator:2-light PAPI on left (3.50 degrees glide path)
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:64 ft. trees, 428 ft. from runway, 139 ft. right of centerline, 3:1 slope to clearHAS 8-20 FT BRUSH STARTING 0-200 FT FM THR OFFSET 19-125 FT R OF CNTRLN AND HAS 8-28 FT BRUSH 0-150 FT FM THR OFFSET 30-90 FT L OF CNTRLN.68 ft. trees, 399 ft. from runway, 185 ft. right of centerline, 2:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DR. PHILIP MARTIN3434 EDWARDS MILL RD, SUITE 112-341RALEIGH, NC 27612Phone 919-571-0081
+Manager:BRIAN MEADOWS1105 FORK BIXBY RDADVANCE, NC 27006Phone 336-998-8101
+
+Airport Operational Statistics
+
+Aircraft based on the field:90Single engine airplanes:88Multi engine airplanes:2
+Aircraft operations: avg 82/day*80%local general aviation17%transient general aviation3%military* for 12-month period ending 08 July 2022
+Additional Remarks
+
+-RWY 09 -18 FT DROP-OFF 150 FT FROM THR LEFT & RIGHT OF CNTRLN.
+-RWY 09 UPHILL GRADE.
+-DEER/MIGRATORY BIRDS OCNLLY ON ARPT.
+-FOR CD CTC GREENSBORO APCH AT 336-333-5119.
+-FOR AFT HRS SVC CTC 336-998-2126.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 09
+download (213KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KEXX - Davidson County Executive Airport (11 nm SE)
+KRUQ - Mid-Carolina Regional Airport (16 nm S)
+KINT - Smith Reynolds Airport (17 nm NE)
+KSVH - Statesville Regional Airport (26 nm W)
+KZEF - Elkin Municipal Airport (27 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Louis Guillama, CRS 
+Photo taken 20-Nov-2014
+looking west.
+
+Do you have a better or more recent aerial photo of Twin Lakes Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Twin Lakes Airport?
+Find the distance to fly.
+From 
+to 8A7
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3112:31
+Sunset17:3422:34
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:03:19
+Local (UTC-5)19-Jan-2024 17:03:19
+
+
+
+
+   
+
+METAR
+
+
+KEXX11nm SE192145Z AUTO 30009G18KT 280V360 10SM CLR 03/M09 A2999 RMK AO2 T00301086
+
+KRUQ16nm S192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+KINT18nm NE192154Z 29011G26KT 10SM OVC055 03/M10 A2999 RMK AO2 PK WND 28026/2147 SLP158 T00281100
+
+
+
+
+
+TAF
+
+
+KINT18nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Twin Lakes Airport
+
+336-998-8101
+
+
+no information available
+If you are affiliated with Twin Lakes Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLSS$6.50Updated 11-Jan-2024
+
+
+
+
+write
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Twin Lakes Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Twin Lakes Airport
+
+
+
+www.twinlakesairport.com/default.htm
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 0VA4 - Worley Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1453 users online
+ 
+
+
+
+
+0VA4
+ Worley Field AirportRocky Mount, Virginia, USA 
+
+
+
+
+
+
+GOING TO ROCKY MOUNT?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:0VA4
+Lat/Long:36-57-00.5030N 079-52-46.1210W36-57.008383N 079-52.768683W36.9501397,-79.8794781(estimated)
+Elevation:1219 ft. / 371.6 m (surveyed)
+Variation:06W (1985)
+From city:3 miles S of ROCKY MOUNT, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24151
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1989
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ODRr176/(22.9)WOODRUM VOR114.9008W
+ROAr163/25.3ROANOKE VOR/DME109.4004W
+DANr317/(34.7)DANVILLE VOR113.1006W
+LYHr244/35.8LYNCHBURG VOR/DME109.2005W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON188/15.227708WVIT...- .. -
+TECH130/29.536808WTEC- . -.-.
+SLAMMER358/34.642307WSIF... .. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:2100 x 90 ft. / 640 x 27 m
+Surface:turf
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+Obstructions:50 ft. plines, 400 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DONALD E. OR JOYCE M. WORLEY JR.200 SONTAG RDROCKY MOUNT, VA 24151-4201Phone (540) 263-0324
+Manager:DONALD E. OR JOYCE M WORLEY JR.200 SONTAG RDROCKY MOUNT, VA 24151-4201Phone (540) 263-0318
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-OR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at 0VA4.
+Some nearby airports with instrument procedures:
+W91 - Smith Mountain Lake Airport (17 nm NE)
+KMTV - Blue Ridge Airport (20 nm S)
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (23 nm N)
+KBCB - Virginia Tech/Montgomery Executive Airport (30 nm NW)
+KSIF - Rockingham County NC Shiloh Airport (31 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Worley Field Airport?
+Find the distance to fly.
+From 
+to 0VA4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:12:04
+Local (UTC-5)19-Jan-2024 17:12:04
+
+
+
+
+   
+
+METAR
+
+
+KMTV21nm S192155Z AUTO 33014KT 10SM OVC055 01/M12 A3000 RMK AO2 T00051120
+
+KROA22nm N192154Z 30013G26KT 10SM FEW043 BKN050 M01/M09 A2997 RMK AO2 PK WND 29031/2101 SLP156 T10061089 $
+
+KBCB30nm NW192155Z AUTO 32013G19KT 3/4SM -SN BKN015 OVC023 M04/M06 A2996 RMK AO2 T10401063
+
+KSIF31nm S192150Z AUTO 30012G19KT 10SM CLR 03/M10 A2998 RMK AO2 T00261096
+
+KDAN35nm SE192153Z AUTO 33011G19KT 10SM OVC037 03/M09 A2996 RMK AO2 SLP144 T00281094
+
+KPSK39nm W192155Z AUTO 30013G20KT 10SM SCT028 BKN035 OVC046 M04/M10 A2993 RMK AO2 T10361097
+
+KLYH39nm NE192154Z 28007G18KT 250V320 10SM BKN055 01/M09 A2992 RMK AO2 SLP139 T00111094
+
+
+
+
+
+TAF
+
+
+KROA22nm N191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Worley Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Worley Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

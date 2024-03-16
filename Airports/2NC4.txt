@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2NC4 - Scottbrook Farm Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1455 users online
+ 
+
+
+
+
+2NC4
+ Scottbrook Farm AirportGoldsboro, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GOLDSBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2NC4
+Lat/Long:35-20-16.5860N 078-09-16.9770W35-20.276433N 078-09.282950W35.3379406,-78.1547158(estimated)
+Elevation:160 ft. / 49 m (estimated)
+Variation:07W (1985)
+From city:12 miles SW of GOLDSBORO, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27530
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:08/1982
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3P at W40 (9 nm SE):120.075 (919-658-8067)
+WX AWOS-3PT at GSB (10 nm E):317.625
+WX AWOS-3P at GWW (12 nm NE):118.975 (919-731-4473)
+WX AWOS-3 at JNX (17 nm NW):120.225 (919-934-3851)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr271/29.3KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON034/24.041209WCTZ-.-. - --..
+HARNETT111/26.141708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:1350 x 40 ft. / 411 x 12 m640' STOPWAY ON NORTH END.
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:32 ft. pline, 700 ft. from runway42 ft. pline, 840 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:KENNETH SCOTT3545 STEVENS MILL RDGOLDSBORO, NC 27530Phone 919-689-9554
+Manager:KENNETH SCOTT3545 STEVENS MILL RDGOLDSBORO, NC 27530Phone 919-689-9554
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 2NC4.
+Some nearby airports with instrument procedures:
+W40 - Mount Olive Municipal Airport (9 nm SE)
+KGSB - Seymour Johnson Air Force Base (10 nm E)
+KGWW - Wayne Executive Jetport Airport (12 nm NE)
+KJNX - Johnston Regional Airport (17 nm NW)
+KDPL - Duplin County Airport (22 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Scottbrook Farm Airport?
+Find the distance to fly.
+From 
+to 2NC4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2112:21
+Sunset17:2622:26
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:51:57
+Local (UTC-5)19-Jan-2024 16:51:57
+
+
+
+
+   
+
+METAR
+
+
+KGSB9nm E192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KGWW12nm NE192130Z AUTO 31011G18KT 270V340 10SM SCT065 SCT070 SCT080 08/M03 A2985 RMK AO2 T00841030
+
+KJNX16nm NW192130Z AUTO 31012G22KT 270V330 10SM SCT060 09/M03 A2988 RMK AO2
+
+
+
+
+
+TAF
+
+
+KGSB9nm E191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Scottbrook Farm Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Scottbrook Farm Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

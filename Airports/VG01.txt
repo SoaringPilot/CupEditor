@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG01 - Eureka Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1592 users online
+ 
+
+
+
+
+VG01
+ Eureka AirportKeysville, Virginia, USA 
+
+
+
+
+
+
+GOING TO KEYSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG01
+Lat/Long:37-03-44.5400N 078-33-42.1000W37-03.742333N 078-33.701667W37.0623722,-78.5616944(estimated)
+Elevation:420 ft. / 128 m (estimated)
+Variation:08W (1995)
+From city:4 miles SE of KEYSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23947
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1997
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at CXE (17 nm S):121.225 (434-372-4506)
+WX AWOS-3 at FVX (19 nm N):132.725 (434-392-9718)
+WX AWOS-3 at W31 (19 nm E):123.875 (434-676-1078)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr048/31.8SOUTH BOSTON VORTAC110.4005W
+LYHr115/34.3LYNCHBURG VOR/DME109.2005W
+LVLr303/34.8LAWRENCEVILLE VORTAC112.9008W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE270/25.132609WBKT-... -.- -
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2900 x 50 ft. / 884 x 15 m
+Surface:turf
+Operational restrictions:LNDG TO S; TKOF TO N.
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:none50 ft. pline, 300 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOHN WATTSROUTE 2, P.O. BOX 54KEYSVILLE, VA 23947Phone 804-736-8637
+Manager:JOHN WATTSROUTE 2, P.O. BOX 54KEYSVILLE, VA 23947Phone 804-736-8637
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-OWNER DESIRES AIRPORT NOT TO BE CHARTED.
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at VG01.
+Some nearby airports with instrument procedures:
+KCXE - Chase City Municipal Airport (17 nm S)
+KFVX - Farmville Regional Airport (19 nm N)
+W31 - Lunenburg County Airport (19 nm E)
+0V4 - Brookneal/Campbell County Airport (22 nm W)
+W81 - Crewe Municipal Airport (23 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Eureka Airport?
+Find the distance to fly.
+From 
+to VG01
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2612:26
+Sunset17:2422:24
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:05:49
+Local (UTC-5)19-Jan-2024 16:05:49
+
+
+
+
+   
+
+METAR
+
+
+KCXE17nm S192055Z AUTO 10SM CLR 04/M07 A2987 RMK AO1 T00371071
+
+KFVX19nm N192055Z AUTO 32005G16KT 10SM SCT060 BKN070 04/M09 A2985 RMK AO2 T00421094
+
+KW3119nm E192055Z AUTO 29009G16KT 10SM SCT060 05/M07 A2984 RMK AO1 T00481071
+
+K0V422nm W192055Z AUTO 27013KT 10SM BKN050 03/M08 A2988 RMK AO1
+
+KW8123nm E192055Z AUTO 29012KT 240V330 10SM OVC070 04/M11 A2984 RMK AO1 T00351109
+
+KW7825nm SW192055Z AUTO 28012G18KT 10SM SCT055 SCT065 03/M09 A2990 RMK AO1 T00321087
+
+KW6328nm S192055Z AUTO 30016G23KT 10SM SCT050 05/M06 A2986 RMK AO1
+
+KBKT29nm E192055Z AUTO 30015G26KT 9SM BKN050 OVC065 05/M07 A2982 RMK AO2 PK WND 31026/46 SLP104 60000 T00491069 52027 $
+
+
+
+
+
+TAF
+
+
+KLYH34nm NW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Eureka Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Eureka Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

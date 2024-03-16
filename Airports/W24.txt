@@ -1,0 +1,402 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W24 - Falwell Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1590 users online
+ 
+
+
+
+
+W24
+ Falwell AirportLynchburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO LYNCHBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W24
+Lat/Long:37-22-40.5150N 079-07-20.0830W37-22.675250N 079-07.334717W37.3779208,-79.1222453(estimated)
+Elevation:939 ft. / 286.2 m (surveyed)
+Variation:09W (2005)
+From city:3 miles SE of LYNCHBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24501
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:04/1948
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:APR-OCT 0700-1900,  ALL 0700-1800
+Pattern altitude:1739 ft. MSL
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTIVATE TRIL RWY 28 CTAF
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+ROANOKE APPROACH:125.475 ;EAST OF LYH VORTAC 135.0 ;WEST OF LYH VORTAC
+ROANOKE DEPARTURE:125.475 ;EAST OF LYH VORTAC 135.0 ;WEST OF LYH VORTAC
+IC:135.0 ;WEST OF LYH VORTAC
+WX ASOS at LYH (5 nm SW):PHONE 434-237-0749
+WX AWOS-3 at 0V4 (15 nm S):120.575 (434-283-7826)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr041/9.2LYNCHBURG VOR/DME109.2005W
+MOLr186/31.4MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+BOJAR048/9.038508WLY.-.. -.--
+VINTON082/37.727708WVIT...- .. -
+
+Airport Services
+
+Fuel available:100LL
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 10/28
+
+Dimensions:2932 x 50 ft. / 894 x 15 m
+Surface:asphalt, in fair condition
+Runway edge lights:medium intensity
+Operational restrictions:LAND RY 28 (WEST) TKOF RY 10 (EAST).
+RUNWAY 10RUNWAY 28
+Latitude:37-22.700100N37-22.667972N
+Longitude:079-07.604208W079-07.000357W
+Elevation:938.0 ft.801.4 ft.
+Traffic pattern:leftleft
+Markings:basic, in good conditionbasic, in good condition
+Visual slope indicator:tri-color VASI on left
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:59 ft. tree, 315 ft. from runway, 89 ft. right of centerline, 1:1 slope to clearRWY 10 +47 FT TREE 89 FT FROM THLD 76 FT RHT.20 ft. trees, 310 ft. from runway, 171 ft. left of centerline, 5:1 slope to clear13 FT LINE OF TREES 180 FT LEFT OF THR ON APCH.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:4180 RICHMOND HIGHWAY LLCFREEDOM AVIATION, 310 HANGER ROADLYNCHBURG, VA 24502Phone 434-582-3028
+Manager:ROGER BECKMCLAREN CORP., 4332 RICHMOND HWYLYNCHBURG, VA 24501Phone 434-845-8769
+
+Airport Operational Statistics
+
+Aircraft based on the field:9Single engine airplanes:9
+Aircraft operations: avg 29/day*74%local general aviation26%transient general aviation* for 12-month period ending 31 July 2023
+Additional Remarks
+
+-NO TGL.
+-DEER ON AND INVOF ARPT.
+-ROA TWR SVCS AVBL AT 540-563-1307.
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+-RUNWAY 28 CLOSED FOR TAKE-OFF RUNWAY 10 CLOSED FOR LANDING
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 28
+download (179KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (5 nm SW)
+W90 - New London Airport (12 nm SW)
+0V4 - Brookneal/Campbell County Airport (15 nm S)
+W91 - Smith Mountain Lake Airport (28 nm SW)
+KFVX - Farmville Regional Airport (33 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by John Wallace
+Photo taken 03-Jan-2008
+
+Do you have a better or more recent aerial photo of Falwell Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Falwell Airport?
+Find the distance to fly.
+From 
+to W24
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2912:29
+Sunset17:2522:25
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:06:10
+Local (UTC-5)19-Jan-2024 16:06:10
+
+
+
+
+   
+
+METAR
+
+
+KLYH5nm SW192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+K0V415nm S192055Z AUTO 27013KT 10SM BKN050 03/M08 A2988 RMK AO1
+
+
+
+
+
+TAF
+
+
+KLYH5nm SW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+McLaren Corporation
+
+434-845-8769[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, ...
+
+
+
+More info about McLaren Corporation
+
+
+
+
+
+Phillips 66100LLPA$6.36Updated 15-Jan-2024
+
+
+
+
+write
+
+
+
+PA=Pilot-Assisted
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Falwell Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Falwell Airport
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

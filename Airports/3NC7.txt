@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3NC7 - Maxwell Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1499 users online
+ 
+
+
+
+
+3NC7
+ Maxwell AirportSparta, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SPARTA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3NC7
+Lat/Long:36-31-09.4630N 081-08-12.3120W36-31.157717N 081-08.205200W36.5192953,-81.1367533(estimated)
+Elevation:3050 ft. / 930 m (estimated)
+Variation:05W (1984)
+From city:1 mile NW of SPARTA, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28675
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:06/1984
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at GEV (15 nm W):120.675 (336-982-5555)
+WX AWOS-3 at UKF (18 nm S):126.625 (336-696-3788)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr013/39.3BARRETTS MOUNTAIN VOR/DME113.7506W
+PSKr217/39.7PULASKI VORTAC116.8006W
+
+Airport Services
+
+
+Runway Information
+Runway 17/35
+
+Dimensions:1300 x 60 ft. / 396 x 18 m
+Surface:turf
+Operational restrictions:ALL LNDGS TO THE N; TKOFS TO THE S.
+RUNWAY 17RUNWAY 35
+Traffic pattern:leftleft
+Obstructions:plinesnone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:W. A. MAXWELLPO BOX 414SPARTA, NC 28675Phone 336-372-2347
+Manager:W. A. MAXWELL1310 HWY 21 NSPARTA, NC 28675Phone 336-372-2347
+
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 3NC7.
+Some nearby airports with instrument procedures:
+KGEV - Ashe County Airport (15 nm W)
+KUKF - Wilkes County Airport (18 nm S)
+KHLX - Twin County Airport (21 nm NE)
+KZEF - Elkin Municipal Airport (22 nm SE)
+KMKJ - Mountain Empire Airport (25 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Maxwell Airport?
+Find the distance to fly.
+From 
+to 3NC7
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3512:35
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:30:55
+Local (UTC-5)19-Jan-2024 16:30:55
+
+
+
+
+   
+
+METAR
+
+
+KGEV14nm W192105Z AUTO 31011G21KT 290V350 2SM -SN OVC021 M06/M10 A2987 RMK AO2 VIS 1 1/2V3 T10581101
+
+KUKF18nm S192105Z AUTO 30007G17KT 280V360 10SM SCT049 BKN055 00/M10 A3003 RMK AO2
+
+KHLX21nm NE192115Z AUTO 31017G27KT 10SM OVC035 M04/M11 A2986 RMK AO2 T10421114
+
+KMKJ24nm NW192115Z AUTO 28018G31KT 1 1/4SM -SN SCT023 BKN029 OVC035 M06/M09 A2994 RMK AO2 VIS 1/2V5 T10571093
+
+KMWK28nm E192105Z AUTO 30009G22KT 10SM SCT046 SCT050 01/M10 A2997 RMK AO2 T00081104
+
+
+
+
+
+TAF
+
+
+KBLF47nm N191735Z 1918/2018 29016G27KT 1 1/2SM -SN BR OVC015 TEMPO 1918/1921 1/2SM SN VV008 FM192100 29017G28KT 4SM -SHSN OVC012 TEMPO 1921/1924 2SM -SHSN BR OVC006 FM201500 29010KT P6SM -SHSN OVC025 
+
+KHKY48nm S191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Maxwell Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Maxwell Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

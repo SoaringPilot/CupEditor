@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 64NC - Fields Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1594 users online
+ 
+
+
+
+
+64NC
+ Fields AirportPleasant Garden, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PLEASANT GARDEN?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:64NC
+Lat/Long:35-54-07.0000N 079-46-21.0000W35-54.116667N 079-46.350000W35.9019444,-79.7725000(estimated)
+Elevation:820 ft. / 250 m (estimated)
+Variation:08W (2000)
+From city:5 miles SE of PLEASANT GARDEN, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27313
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/2001
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at GSO (14 nm NW):128.55 (336-393-0168)
+WX AWOS-3 at HBI (16 nm S):119.275 (336-626-7933)
+WX ASOS at BUY (17 nm NE):135.325 (336-570-9813)
+WX AWOS-3 at SCR (18 nm SE):125.775 (919-663-1252)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr308/9.5LIBERTY VORTAC113.0003W
+GSOr134/13.1GREENSBORO VORTAC116.2003W
+
+
+NDBnameHdg/DistFreqVarID
+ALAMM251/10.236108WHB.... -...
+SLAMMER188/28.842307WSIF... .. ..-.
+PERSON248/39.622008WHUR.... ..- .-.
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:1800 x 50 ft. / 549 x 15 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Obstructions:75 ft. pline, 400 ft. from runway50 ft. pline, 1500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:WILLIAM HOWARD FIELDS1701 LYNWOOD DRIVEGREENSBORO, NC 27406Phone 336-674-2202
+Manager:HOWARD FIELDS1701 LYNWOOD DRIVEGREENSBORO, NC 27406Phone 336-674-6994BRYAN FIELDS 3520 OLD CLIMAX RD GREENSBORO, NC 27406 336-674-6994 BFIELDS172@GMAIL.COM
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-LAND RWY 19, TKOF RWY 01 DUE TO POWER LINE ON SOUTH END OF RWY.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 64NC.
+Some nearby airports with instrument procedures:
+KGSO - Piedmont Triad International Airport (14 nm NW)
+KHBI - Asheboro Regional Airport (16 nm S)
+KBUY - Burlington/Alamance Regional Airport (17 nm NE)
+KSCR - Siler City Municipal Airport (18 nm SE)
+KINT - Smith Reynolds Airport (26 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Fields Airport?
+Find the distance to fly.
+From 
+to 64NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2812:28
+Sunset17:3122:31
+Evening civil twilight17:5922:59
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:07:13
+Local (UTC-5)19-Jan-2024 16:07:13
+
+
+
+
+   
+
+METAR
+
+
+KGSO15nm NW192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KHBI16nm S191820Z AUTO 30013G24KT 280V340 10SM SCT060 09/M06 A2984 RMK AO2 T00941059
+
+KBUY17nm NE192054Z AUTO 29019G32KT 10SM CLR 05/M09 A2990 RMK AO2 PK WND 25034/2021 SLP126 T00501089 53042
+
+KSCR18nm SE192045Z AUTO 32011G19KT 10SM SCT060 07/M08 A2990 RMK AO2 T00701077
+
+KINT26nm NW192054Z 30016G29KT 10SM SCT060 03/M11 A2995 RMK AO2 PK WND 31029/2053 SLP145 T00281111 51043
+
+KEXX27nm W192045Z AUTO 30012G22KT 10SM SCT060 05/M08 A2995 RMK AO2 T00501076
+
+
+
+
+
+TAF
+
+
+KGSO15nm NW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Fields Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Fields Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

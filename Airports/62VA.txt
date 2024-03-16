@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 62VA - Grasso Salvage Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1563 users online
+ 
+
+
+
+
+62VA
+ Grasso Salvage AirportHolland, Virginia, USA 
+
+
+
+
+
+
+GOING TO HOLLAND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:62VA
+Lat/Long:36-40-11.5430N 076-43-42.8430W36-40.192383N 076-43.714050W36.6698731,-76.7285675(estimated)
+Elevation:70 ft. / 21 m (estimated)
+Variation:09W (1985)
+From city:3 miles SE of HOLLAND, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23437
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1987
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:DAWN-DUSK
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+UNICOM:122.8
+WX AWOS-3 at SFQ (6 nm E):119.375 (757-934-3942)
+WX AWOS-3PT at FKN (9 nm W):124.675 (757-562-8765)
+WX AWOS-3PT at PVG (15 nm NE):118.375 (757-465-2175)
+WX AWOS-3 at CPK (20 nm E):123.675 (757-204-4290)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FKNr110/13.9FRANKLIN VORTAC110.6009W
+CVIr030/19.1COFIELD VORTAC114.6009W
+ORFr249/28.7NORFOLK VORTAC116.9007W
+ECGr320/36.4ELIZABETH CITY VOR/DME115.7507W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD156/22.927411WAKQ.- -.- --.-
+WOODVILLE330/32.125410WLLW.-.. .-.. .--
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:2200 x 200 ft. / 671 x 61 m
+Surface:turf
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+Displaced threshold:400 ft.no
+Obstructions:pline, marked50 ft. trees, 200 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:KURT GRASSO901 HARE ROADSUFFOLK, VA 23437Phone 804-539-4816
+Manager:KURT GRASSO901 HARE ROADSUFFOLK, VA 23437Phone 804-539-4816
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 62VA.
+Some nearby airports with instrument procedures:
+KSFQ - Suffolk Executive Airport (6 nm E)
+KFKN - Franklin Regional Airport (9 nm W)
+KPVG - Hampton Roads Executive Airport (15 nm NE)
+KCPK - Chesapeake Regional Airport (20 nm E)
+KAKQ - Wakefield Municipal Airport (23 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Grasso Salvage Airport?
+Find the distance to fly.
+From 
+to 62VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:12:16
+Local (UTC-5)19-Jan-2024 16:12:16
+
+
+
+
+   
+
+METAR
+
+
+KSFQ6nm E192055Z AUTO 33010G19KT 300V010 10SM SCT033 SCT043 OVC075 06/00 A2981 RMK AO2 T00561001
+
+KFKN8nm W192055Z AUTO 30011G22KT 10SM SCT032 BKN060 OVC075 05/M03 A2982 RMK AO2 T00501034
+
+KPVG15nm NE192056Z AUTO 30008G18KT 10SM FEW030 BKN043 OVC055 05/M01 A2981 RMK AO2 RAB17E31 SLP095 P0000 6//// T00501006 53033
+
+KCPK20nm E192055Z AUTO 30010G21KT 10SM SCT031 BKN075 OVC080 05/M02 A2979 RMK AO2 T00521019
+
+
+
+
+
+TAF
+
+
+KNGU27nm NE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KFAF27nm N191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KORF29nm NE191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+KLFI29nm NE191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+KPHF30nm N191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Grasso Salvage Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Grasso Salvage Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

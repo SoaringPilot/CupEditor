@@ -1,0 +1,460 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KHNZ - Henderson/Oxford Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1557 users online
+ 
+
+
+
+
+KHNZ
+ Henderson/Oxford AirportOxford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO OXFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:HNZ
+Lat/Long:36-21-40.1070N 078-31-47.3780W36-21.668450N 078-31.789633W36.3611408,-78.5298272(estimated)
+Elevation:526.3 ft. / 160.4 m (surveyed)
+Variation:09W (2015)
+From city:4 miles NE of OXFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27565
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:09/1971
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:HNZ (NOTAM-D service available)
+Attendance:MON-SAT 0800-1700,  ALL SUN 1300-1700UNATTENDED THANKSGIVING & CHRISTMAS DAYS.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 06; PAPI RWY 06 & 24; MIRL RWY 06/24 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:118.625 (919-693-9516)
+RALEIGH APPROACH:132.35
+RALEIGH DEPARTURE:132.35
+WX AWOS-3 at W63 (14 nm N):118.225 (434-374-2431)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SBVr134/30.0SOUTH BOSTON VORTAC110.4005W
+RDUr032/31.8RALEIGH/DURHAM VORTAC117.2009W
+
+
+NDBnameHdg/DistFreqVarID
+HUNTSBORO059/5.627109WHXO.... -..- ---
+PERSON082/27.022008WHUR.... ..- .-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:FUEL 24 HR CREDIT CARD SVC AVBL.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:5501 x 100 ft. / 1677 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Single wheel:30.0
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:36-21.384428N36-21.952448N
+Longitude:078-32.226343W078-31.352855W
+Elevation:523.2 ft.505.1 ft.
+Traffic pattern:leftleft
+Runway heading:060 magnetic, 051 true240 magnetic, 231 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.50 degrees glide path)2-light PAPI on left (3.75 degrees glide path)
+Runway end identifier lights:yes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOCALIZER
+Obstructions:48 ft. trees, 1634 ft. from runway, 63 ft. left of centerline, 29:1 slope to clear33 ft. pline, 1353 ft. from runway, 34:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:OXFORD-HENDERSON ARPT AUTH6514 AIRPORT ROADOXFORD, NC 27565-6459Phone 919-693-5769
+Manager:AMANDA WELSH6514 AIRPORT ROADOXFORD, NC 27565-6459Phone 919-693-5769
+
+Airport Operational Statistics
+
+Aircraft based on the field:46Single engine airplanes:41Multi engine airplanes:4Helicopters:1
+Aircraft operations: avg 69/day*52%transient general aviation43%local general aviation5%military* for 12-month period ending 01 July 2023
+Additional Remarks
+
+-RWY 24 HAS 60 FT DROP OFF 325 FT FM THR & 90 FT LEFT & RIGHT FM CNTRLN.
+-RWY 6 HAS 28 FT UNMARKED POWERLINE 1000 FT FM THR ON CNTRLN.
+-NO LINE OF SIGHT BTN RWY ENDS.
+-FOR AFTER HOURS SERVICE CALL 919-693-5769.
+-TREES EAST OF THE ARPT OBSCURE THE ROTG BCN.
+-HOLD LINES ARE LESS THAN 150 FT FROM CNTRLN.
+-RWY 24 HAS 30 FT UNMKD POWERLINE 1000 FT FM THR ON CNTRLN.
+-FOR CD IF UNA VIA GCO CTC RALEIGH APCH AT 919-380-3144.
+-RWY 6 HAS 30 FT DROP-OFF 280 FT FROM THR & 40-60 FT DROP-OFF 75 FT BOTH SIDES OF CNTRLN.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 06
+download (258KB)
+RNAV (GPS) RWY 24
+download (263KB)
+LOC RWY 06
+download (259KB)
+
+NOTE: Special Alternate Minimums apply
+download (142KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (356KB)
+
+Other nearby airports with instrument procedures:
+W63 - Lake Country Regional Airport (14 nm N)
+KLHZ - Triangle North Executive Airport (22 nm SE)
+KTDF - Raleigh Regional Airport at Person County (22 nm W)
+KCXE - Chase City Municipal Airport (26 nm N)
+W78 - William M Tuck Airport (26 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Strevel, Raleigh NC
+Taken in July 2015
+looking west.
+
+Do you have a better or more recent aerial photo of Henderson/Oxford Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Henderson/Oxford Airport?
+Find the distance to fly.
+From 
+to KHNZ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:2522:25
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:17:37
+Local (UTC-5)19-Jan-2024 16:17:37
+
+
+
+
+   
+
+METAR
+
+
+KHNZ192050Z AUTO 30013G23KT 270V340 10SM CLR 05/M09 A2986 RMK AO2 T00451093
+
+KW6314nm N192055Z AUTO 30016G23KT 10SM SCT050 05/M06 A2986 RMK AO1
+
+
+
+
+
+TAF
+
+
+KRDU32nm SW191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+flyHNZ
+
+919-693-5769[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Flight training, Courtesy transportation, Computerized weather, Restrooms
+
+
+
+More info about flyHNZ
+
+
+
+
+
+Phillips 66100LL Jet AFS---$5.76SS$6.00---Updated 11-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Henderson/Oxford Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Henderson/Oxford Airport
+
+
+
+www.flyhnz.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

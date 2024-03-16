@@ -1,0 +1,621 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KRIC - Richmond International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1448 users online
+ 
+
+
+
+
+KRIC
+ Richmond International AirportRichmond, Virginia, USA 
+
+
+
+
+
+
+GOING TO RICHMOND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+Where will you pickup your Hertz vehicle?
+Million Air Richmond
+Hertz location serving airline terminal
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:RIC
+Lat/Long:37-30-18.6520N 077-19-11.0590W37-30.310867N 077-19.184317W37.5051811,-77.3197386(estimated)
+Elevation:167.5 ft. / 51.1 m (surveyed)
+Variation:10W (2020)
+From city:6 miles E of RICHMOND, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23250
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:12/1931
+Control tower:yes
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:RIC (NOTAM-D service available)
+Attendance:CONTINUOUS
+Pattern altitude:TPA - 1033 AGL SINGLE ENGINE, LGT ACFT, 1533 AGL ALL OTHERS.
+Wind indicator:lighted
+Segmented circle:no
+Lights:SS-SR
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Landing fee:yes
+Fire and rescue:ARFF index C
+Airline operations:ARFF INDEX D/E AVBL UPON REQUEST.
+International operations:customs landing rights airport 
+
+Airport Communications
+
+UNICOM:122.95
+ATIS:119.15 263.025
+WX ASOS:PHONE 804-236-1091
+RICHMOND GROUND:121.9 348.6
+RICHMOND TOWER:121.1 257.8
+POTOMAC APPROACH:126.4 ;001-185 126.75 ;186-360 118.2
+POTOMAC DEPARTURE:126.4 ;001-185 126.75 ;186-360
+CLEARANCE DELIVERY:127.55 348.6
+PRE-TAXI CLEARANCE:127.55 348.6
+ARNG OPS:142.125 365.95 41.525
+CLASS C:126.4 ;001-185 126.75 ;186-360
+CLASS C/S:118.2
+COLIN DP:126.4
+DUCXS STAR:126.75
+EMERG:121.5 243.0
+KALLI DP:126.75
+LUCYL DP:126.4
+POWTN STAR:126.75
+SPIDR STAR:126.75
+WX AWOS-3 at W96 (9 nm E):119.875 (804-932-8863)
+WX AWOS-3PT at FCI (11 nm SW):128.625 (804-271-8426)
+WX ASOS at OFP (13 nm NW):119.025 (804-752-2902)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RIC at fieldRICHMOND VORTAC114.1009W
+HPWr323/14.4HOPEWELL VORTAC114.3506W
+FAKr099/24.2FLAT ROCK VORTAC113.3006W
+HCMr284/29.2HARCUM VORTAC108.8007W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD345/34.827411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 16/34
+
+Dimensions:9003 x 150 ft. / 2744 x 46 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:PCN 92 /F/B/W/TSingle wheel:125.0Double wheel:200.0Double tandem:340.0
+Runway edge lights:high intensity
+RUNWAY 16RUNWAY 34
+Latitude:37-30.998187N37-29.747552N
+Longitude:077-19.414595W077-18.413082W
+Elevation:166.9 ft.160.5 ft.
+Traffic pattern:leftleft
+Runway heading:157 magnetic, 147 true337 magnetic, 327 true
+Declared distances:TORA:9003 TODA:9003 ASDA:9003 LDA:9003TORA:9003 TODA:9003 ASDA:9003 LDA:9003
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+RVR equipment:touchdown, midfield, rollouttouchdown, midfield, rollout
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lightsALSF2: standard 2,400 foot high intensity approach lighting system with centerline sequenced flashers (category II or III)
+Centerline lights:yesyes
+Touchdown point:yes, no lightsyes, lighted
+Instrument approach:ILSILS
+
+Runway 2/20
+
+Dimensions:6607 x 150 ft. / 2014 x 46 m
+Surface:asphalt/grooved, in excellent condition
+Weight bearing capacity:PCN 70 /F/C/W/TSingle wheel:125.0Double wheel:200.0Double tandem:340.0
+Runway edge lights:high intensity
+RUNWAY 2RUNWAY 20
+Latitude:37-29.932348N37-30.991123N
+Longitude:077-19.779457W077-19.461292W
+Elevation:158.6 ft.165.3 ft.
+Traffic pattern:leftleft
+Runway heading:023 magnetic, 013 true203 magnetic, 193 true
+Declared distances:TORA:6607 TODA:6607 ASDA:6607 LDA:6607TORA:6607 TODA:6607 ASDA:6607 LDA:6607
+Markings:precision, in good conditionprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.00 degrees glide path)4-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:noyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/GS
+Obstructions:90 ft. pole, lighted, 3300 ft. from runway, 450 ft. left of centerline, 34:1 slope to clear67 ft. tree, 2400 ft. from runway, 650 ft. left of centerline, 33:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:CAPITAL REGION ARPT COMM.1 RICHARD E BYRD TERMINAL DRRICHMOND, VA 23250Phone 804-226-3000
+Manager:PERRY J. MILLER1 RICHARD E BYRD TERMINAL DRRICHMOND, VA 23250Phone (804) 226-3001
+
+Airport Operational Statistics
+
+Aircraft based on the field:72Single engine airplanes:22Multi engine airplanes:11Jet airplanes:10Helicopters:8Ultralights:1Military aircraft:20
+Aircraft operations: avg 310/day*49%commercial17%transient general aviation14%air taxi13%local general aviation8%military* for 12-month period ending 31 July 2023
+Additional Remarks
+
+-NO PRACTICE LDGS 2200-0700.
+-TWY V BTN TWY A & TWY R RSTRD FM USE BY ACFT WITH WINGSPANS GREATER THAN 99 FT.
+-NO TAXIING BTN PUSHED BACK ACFT AND THE TRML ON THE ACR RAMP.
+-DUE TO OPR CONSTRAINTS ACFT PUSHED BACK FOR DEP PROHIBITED FM HLDG ON ACR RAMPS FOR MORE THAN 5 MINS.
+-CONS CONST ON ARPT; BE ALERT FOR FREQ RWY & TWY CLOSURES.
+-ATC CLNC RQRD FOR PUSHBACKS FROM GATES A6, A8, A10, A12, A14, B5, B7, B9, B11, B13 ONTO TWY A.
+-ATC CLNC RQRD FOR PUSHBACK FROM HARDSTANDS C9, C10 AND C12 ONTO TWY T.
+-ARPT SFC COND NOT MNTD 0000 TO 0600 LCL TIME.
+-BIRD ACT INVOF ALL RWYS & TWYS & INVOF ARPT.
+-ACR APRON CLSD TO UNSKED ACFT WEIGHING UNDER 35000 LBS.
+-NO EDGE LGTS ON N/S SECTION OF TWY V - REFLECTORS ONLY.
+-HOLD LINE RWY 20 EAST SIDE LCTD ACROSS RWY 34 150 FT FM DEP END. HOLD LINE RWY 20 WEST SIDE ACROSS TWY A & ALSO SERVES AS HOLD LINE FOR RWY 16; SIGNAGE INDICATES BOTH RWYS.
+-NON-RDO EQUIPPED VEHICLES CROSSING MIDFIELD TWYS C, E AND H AND DRIVING ON TWY L.
+-THE FOLLOWING AREAS ARE NOT VISIBLE FROM THE TWR: PORTIONS OF THE ACR APRON; ANG ACFT PRKG RAMP.
+-DUE TO THE CLOSE PROXIMITY TO RWY 02/20, TWY UNIFORM SIGNAGE MAY BE BEHIND ACFT, ONCE CLEAR OF RWY 02/20.
+-RIC HAS FACILITY CONSTRAINTS THAT LIMIT ITS ABILITY TO ACCOMMODATE DIVERTED FLTS AND STRONGLY ENCOURAGES ACFT OPRS TO CTC ARPT OPNS AT 804-226-0001 FOR PRIOR CDN OF DIVERTED FLTS, EXCEPT IN THE CASE OF A DECLARED IN-FLIGHT EMERG.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+DUCXS FIVE (RNAV)
+download (159KB)
+POWTN FIVE (RNAV)
+download (192KB)
+SPIDR FOUR (RNAV)
+download (194KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 02
+download (304KB)
+ILS OR LOC RWY 16
+download (321KB)
+ILS OR LOC RWY 34
+download (300KB)
+ILS RWY 34 (SA CAT I)
+download (272KB)
+ILS RWY 34 (CAT II - III)
+download (276KB)
+RNAV (RNP) Y RWY 02
+download (280KB)
+RNAV (RNP) Y RWY 16
+download (266KB)
+RNAV (RNP) Y RWY 20
+download (271KB)
+RNAV (RNP) Y RWY 34
+download (248KB)
+RNAV (GPS) Z RWY 02
+download (283KB)
+RNAV (GPS) Z RWY 16
+download (269KB)
+RNAV (GPS) Z RWY 20
+download (281KB)
+RNAV (GPS) Z RWY 34
+download (265KB)
+VOR RWY 02
+download (252KB)
+VOR RWY 16
+download (256KB)
+VOR RWY 20
+download (259KB)
+VOR RWY 34
+download (254KB)
+
+NOTE: Special Alternate Minimums apply
+download (44KB)
+Departure Procedures
+
+COLIN EIGHT**CHANGED**
+download (249KB)
+KALLI SEVEN (RNAV)
+2 pages:
+ [1] [2] (286KB)
+LUCYL SIX (RNAV)
+2 pages:
+ [1] [2] (330KB)
+READE SEVEN**CHANGED**
+2 pages:
+ [1] [2] (332KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (382KB)
+
+Other nearby airports with instrument procedures:
+W96 - New Kent County Airport (9 nm E)
+KFCI - Richmond Executive-Chesterfield County Airport (11 nm SW)
+KOFP - Hanover County Municipal Airport (13 nm NW)
+KPTB - Tri Cities Executive/Dinwiddie County Airport (21 nm SW)
+KFYJ - Middle Peninsula Regional Airport (27 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Minor
+Photo taken 08-May-2014
+looking west.
+
+Do you have a better or more recent aerial photo of Richmond International Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+Download PDFof official airport diagram from the FAA
+
+
+Airport distance calculator
+
+
+Flying to Richmond International Airport?
+Find the distance to fly.
+From 
+to KRIC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5411:54
+Sunrise07:2212:22
+Sunset17:1822:18
+Evening civil twilight17:4622:46
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:47:34
+Local (UTC-5)19-Jan-2024 16:47:34
+
+
+
+
+   
+
+METAR
+
+
+KRIC192139Z 33009KT 10SM -SN SCT032 BKN075 03/M04 A2986 RMK AO2 SNB39 P0000 T00281039
+
+KW969nm E192135Z AUTO 34005KT 10SM BKN030 BKN037 OVC070 02/M04 A2986 RMK AO1 T00181038
+
+KFCI11nm SW192056Z AUTO 31014G17KT 10SM FEW029 OVC065 02/M03 A2983 RMK AO2 SLP116 T00221028 53031 FZRANO
+
+KOFP13nm NW192054Z AUTO VRB06G19KT 10SM FEW085 03/M04 A2986 RMK AO2 SLP112 60000 T00281044 53032
+
+
+
+
+
+TAF
+
+
+KRIC191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+
+ASRI 131.425804-226-7200toll-free 800-296-2973[web site][email]
+
+Aviation fuel, Oxygen service, Aircraft parking (ramp or tiedown), Hangars, Aircraft maintenance, Avionics sales and service, Aircraft modifications, Aircraft parts, ...
+
+
+
+More info and photos of Richmond Jet Center
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+100LL Jet AFS$7.35$5.59GUARANTEED
+
+
+
+
+write
+
+
+
+
+
+Million Air Richmond
+
+
+
+ASRI 130.30804-222-3700toll-free 800-962-5262[web site][email]
+
+Million Air Richmond is a full service, 24 hour FBO. We have an on site maintenance department, detailing department and charter department. Amenities include pilot's lounge, flight planning, crew cars, rental cars, heated hangars, GPU, lav, customs, de-ice, and catering.
+
+ 
+
+
+
+
+More info about Million Air Richmond
+
+
+
+
+
+100LL Jet AFS$7.52$7.66Updated 16-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Richmond International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Richmond International Airport
+
+
+
+www.flyrichmond.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

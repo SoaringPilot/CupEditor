@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N22 - Sky Manor Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1443 users online
+ 
+
+
+
+
+N22
+ Sky Manor AirportJacksonville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO JACKSONVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N22
+Lat/Long:34-42-39.0700N 077-35-05.9500W34-42.651167N 077-35.099167W34.7108528,-77.5849861(estimated)
+Elevation:60 ft. / 18 m (estimated)
+Variation:08W (1985)
+From city:8 miles W of JACKSONVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28454
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1977
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at NCA (7 nm E):288.325
+WX AWOS-3PT at OAJ (7 nm N):PHONE 910-324-5233
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ILMr041/25.9WILMINGTON VORTAC117.0007W
+EWNr239/34.3NEW BERN VOR/DME113.6008W
+ISOr187/39.6KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+ELLAS120/6.426108WOA--- .-
+
+Airport Services
+
+Parking:tiedowns
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 8/26
+
+Dimensions:3610 x 85 ft. / 1100 x 26 m
+Surface:turf, in good condition
+Runway edge markings:RWY 08/26 HAS NO MARKINGS DUE TO ONGOING RECONSTRUCTION.
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Displaced threshold:595 ft.no
+Obstructions:79 ft. trees, 393 ft. from runway, 136 ft. left of centerline, 4:1 slope to clearAPCH SLOPE 13:1 TO DSPLCD THR DUE TO 73 FT TREES LCTD 984 FT FM DSPLCD THR OFFSET 181 FT LEFT OF CNTRLN.90 ft. trees, 276 ft. from runway, 32 ft. left of centerline, 3:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:ATLAS JEFFREY BROWN115 ATLAS BROWN DRIVEJACKSONVILLE, NC 28540Phone 910-389-3014
+Manager:JEFF BROWN115 ATLAS BROWN DRIVEJACKSONVILLE, NC 28540Phone 910-389-3014
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Aircraft operations: avg 50/month*83%local general aviation17%transient general aviation* for 12-month period ending 02 June 2022
+Additional Remarks
+
+-PVT ROAD PARLS RWY ON S SIDE 20 FT FRM RWY EDGE.
+-ARPT IS BEING RECONSTRUCTED; MEN AND EQPT ON AND INVOF RWY 08/26.
+-BE ALERT DEER INVOF ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at N22.
+Some nearby airports with instrument procedures:
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (7 nm E)
+KOAJ - Albert J Ellis Airport (7 nm N)
+KACZ - Henderson Field Airport (21 nm W)
+KDPL - Duplin County Airport (26 nm NW)
+KILM - Wilmington International Airport (31 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken in 2005
+
+Do you have a better or more recent aerial photo of Sky Manor Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Sky Manor Airport?
+Find the distance to fly.
+From 
+to N22
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1712:17
+Sunset17:2522:25
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:53:52
+Local (UTC-5)19-Jan-2024 16:53:52
+
+
+
+
+   
+
+METAR
+
+
+KOAJ7nm N192056Z 28010G15KT 240V310 10SM BKN060 OVC080 12/00 A2980 RMK AO2 SLP093 T01220000 53018
+
+KNCA7nm E192056Z 32019G26KT 10SM FEW048 BKN060 12/01 A2979 RMK AO2 PK WND 29027/2046 SLP089 T01220011 53016
+
+
+
+
+
+TAF
+
+
+KOAJ7nm N191727Z 1918/2018 29015G26KT P6SM SCT050 FM200300 31009G18KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KNCA7nm E1915/2015 27014G26KT 9999 FEW030 QNH2977INS FM191600 29018G33KT 9999 FEW060 QNH2973INS FM200100 31011G21KT 9999 SKC QNH2999INS T13/1919Z TM04/2010Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Sky Manor Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Sky Manor Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

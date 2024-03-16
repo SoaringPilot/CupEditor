@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KRUQ - Mid-Carolina Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1446 users online
+ 
+
+
+
+
+KRUQ
+ Mid-Carolina Regional AirportSalisbury, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SALISBURY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:RUQ
+Lat/Long:35-38-45.1800N 080-31-13.0500W35-38.753000N 080-31.217500W35.6458833,-80.5202917(estimated)
+Elevation:772.3 ft. / 235.4 m (surveyed)
+Variation:06W (1985)
+From city:3 miles SW of SALISBURY, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28147
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1938
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RUQ (NOTAM-D service available)
+Attendance:0800-2000UNATNDD THANKSGIVING AND CHRISTMAS DAY. TO SKED AFT HRS OR HOLIDAY SVC CALL 980-892-2840.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MALSR RWY 20; REIL RWY 02 & 20; PAPI RWY 02 & 20; MIRL RWY 02/20 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.725
+WX AWOS-3:118.175 (704-637-6197)
+CHARLOTTE APPROACH:128.325
+CHARLOTTE DEPARTURE:128.325
+CLEARANCE DELIVERY:127.35
+BARMY DP:128.325
+BEAVY DP:128.325
+BOBZY DP:128.325
+ESTRR DP:128.325
+ICONS DP:128.325
+JOJJO DP:128.325
+JOOLS STAR:135.6
+KABEE STAR:126.15
+KERMIT DP:128.325
+KILNS DP:128.325
+KNIGHTS DP:128.325
+KWEEN DP:128.325
+LILLS DP:128.325
+NASCR STAR:128.325
+WEAZL DP:128.325
+WX AWOS-3 at EXX (13 nm NE):119.825 (336-956-2967)
+WX AWOS-3 at JQF (18 nm SW):133.675 (704-785-2145)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr043/34.5CHARLOTTE VOR/DME115.0005W
+GSOr231/35.7GREENSBORO VORTAC116.2003W
+BZMr117/37.5BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY202/5.427506WRU.-. ..-
+
+Airport Services
+
+Fuel available:100LL JET-A1+A1+:MIL FUEL A+ CTC KILLDEVIL OPS 24 HR PPR, C 984-661-6506/6507/6557.100LL:24 SELF SERVICE AVBL FOR 100LL WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 2/20
+
+Dimensions:5501 x 100 ft. / 1677 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:45.0Double wheel:55.0
+Runway edge lights:medium intensity
+RUNWAY 2RUNWAY 20
+Latitude:35-38.317147N35-39.188833N
+Longitude:080-31.370385W080-31.064443W
+Elevation:769.1 ft.765.6 ft.
+Traffic pattern:leftleft
+Runway heading:022 magnetic, 016 true202 magnetic, 196 true
+Displaced threshold:126 ft.no
+Markings:nonprecision, in good conditionprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Approach lights:MALSR: 1,400 foot medium intensity approach lighting system with runway alignment indicator lights
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:ILS
+Obstructions:35 ft. trees, 814 ft. from runway, 356 ft. left of centerline, 17:1 slope to clearAPCH RATIO 22:1 AT DSPLCD DUE TO 41 FT TREES 1123 FT FM THR OFFSET 418 LEFT OF CNTRLN.23 ft. trees, 231 ft. from runway, 297 ft. left of centerline, 1:1 slope to clear15 FT TREES 0-200 FT FM THR OFFSET 325 FT LEFT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:ROWAN COUNTY130 W. INNES STSALISBURY, NC 28144Phone 704-216-8100
+Manager:VALERIE STEELE3670 AIRPORT LOOPSALISBURY, NC 28147-8921Phone 704-216-7753
+
+Airport Operational Statistics
+
+Aircraft based on the field:95Single engine airplanes:69Multi engine airplanes:9Jet airplanes:3Helicopters:4Military aircraft:10
+Aircraft operations: avg 140/day*49%transient general aviation39%local general aviation10%military2%air taxi* for 12-month period ending 02 September 2023
+Additional Remarks
+
+-MAIN TRML APRON GRASS AREA ADJ TO FUEL PUMPS CLSD TO HELS.
+-BE ALERT FOR MIL ROTOR WING TFC. RNG RAMP LCTD W OF RWY. FRQ NGT OPS.
+-CTC KILLDEVIL OPS 10 MIN PRIOR TO LDG. RNG OPS FREQ - 40.700, 126.100, 293.000.
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+-ADDNL OBSTNS FOR RWY 02; 20 FT BLDG 1100 FT FM THR 100 FT R OF CNTRLN.
+-24 HR SVC BY REQ.  FOR AFT HRS SVC CALL 980-892-2840.
+-TRANSIT MIL FUEL.
+-RMK:  ARNG; LTD PRK RAMP CLSD TO ALL TFC EXC MIL ACFT WITH PPR.  OPR 1200-2030Z++ MON-FRI EXC HOL.
+-SKY DIVING OPS OVR ARPT; DO NOT OVERFLY ARPT DRG SKY DIVING OPS.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+STARs - Standard Terminal Arrivals
+
+JOOLS ONE (RNAV)
+download (274KB)
+KABEE THREE (RNAV)
+download (152KB)
+NASCR FOUR
+download (243KB)
+IAPs - Instrument Approach Procedures
+
+ILS OR LOC RWY 20**CHANGED**
+download (290KB)
+RNAV (GPS) RWY 02**CHANGED**
+download (259KB)
+RNAV (GPS) RWY 20**CHANGED**
+download (269KB)
+NDB RWY 20**CHANGED**
+download (264KB)
+
+NOTE: Special Alternate Minimums apply
+download (66KB)
+Departure Procedures
+
+BARMY FOUR (RNAV)
+download (229KB)
+BEAVY FIVE (RNAV)
+download (214KB)
+BOBZY FOUR (RNAV)
+download (219KB)
+ESTRR FOUR (RNAV)
+download (192KB)
+ICONS FOUR (RNAV)
+download (207KB)
+JOJJO FOUR (RNAV)
+download (248KB)
+KERMIT THREE
+2 pages:
+ [1] [2] (444KB)
+KILNS FOUR (RNAV)
+download (207KB)
+KNIGHTS TWO
+2 pages:
+ [1] [2] (497KB)
+KRITR FIVE (RNAV)
+download (194KB)
+KWEEN FOUR (RNAV)
+download (205KB)
+LILLS TWO (RNAV)
+download (184KB)
+WEAZL FOUR (RNAV)
+download (185KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (588KB)
+
+Other nearby airports with instrument procedures:
+KEXX - Davidson County Executive Airport (13 nm NE)
+8A7 - Twin Lakes Airport (16 nm N)
+KJQF - Concord-Padgett Regional Airport (18 nm SW)
+14A - Lake Norman Airpark (19 nm W)
+KSVH - Statesville Regional Airport (22 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo courtesy of NCSHP and Airport Director Kevin Davis
+Photo taken 17-Jan-2019
+looking northeast.
+
+Do you have a better or more recent aerial photo of Mid-Carolina Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport diagram
+
+
+
+CAUTION: Diagram may not be current
+
+
+
+Airport distance calculator
+
+
+Flying to Mid-Carolina Regional Airport?
+Find the distance to fly.
+From 
+to KRUQ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:50:22
+Local (UTC-5)19-Jan-2024 16:50:22
+
+
+
+
+   
+
+METAR
+
+
+KRUQ192130Z AUTO 32009G15KT 280V340 10SM CLR 04/M09 A2998 RMK AO2 T00371094
+
+KEXX14nm NE192125Z AUTO 29011G18KT 220V340 10SM CLR 04/M09 A2998 RMK AO2 T00381086
+
+KJQF18nm SW192055Z 30016G32KT 10SM CLR 06/M09 A2998
+
+
+
+
+
+TAF
+
+
+KINT33nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KCLT33nm SW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KGSO39nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Mid-Carolina Regional Airport
+
+
+
+UNICOM 122.725704-216-7749[web site][email]
+
+Runway 5500' X 100' ILS/NDB/Full Length Taxiway. 18 Miles North of Charlotte Motor Speedway. Low fuel prices and discount for volume purchases. Maintenance and Avionics installation and repair on-site. Corporate hangar available. GA hangar rentals and Tie-down. Flight Schools. Office Space Available. Pilot's Lounge. Rental Cars
+
+
+
+More info about Mid-Carolina Regional Airport
+
+
+
+
+
+100LL Jet AFS$6.67$5.98SS$5.90---Updated 17-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Aviation Businesses, Services, and Facilities
+Business NameContact
+Services / DescriptionDistanceComments
+
+
+BOSS Aircraft Refinishers
+
+
+
+704-310-1421[web site][email]
+
+Hangars, Aircraft maintenance, Aircraft modifications, Aircraft painting, Aircraft interiors
+
+
+
+More info about BOSS Aircraft Refinishers
+
+
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mid-Carolina Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mid-Carolina Regional Airport
+
+
+
+www.rowancountync.gov/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

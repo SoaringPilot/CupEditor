@@ -1,0 +1,427 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KUDG - Darlington County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1594 users online
+ 
+
+
+
+
+KUDG
+ Darlington County AirportDarlington, South Carolina, USA 
+
+
+
+
+
+
+GOING TO DARLINGTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:UDG
+Lat/Long:34-26-50.9600N 079-53-11.1270W34-26.849333N 079-53.185450W34.4474889,-79.8864242(estimated)
+Elevation:192.2 ft. / 58.6 m (surveyed)
+Variation:06W (1985)
+From city:9 miles N of DARLINGTON, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29593
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/1943
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:UDG (NOTAM-D service available)
+Attendance:MON-FRI 0800-1700
+Wind indicator:yes
+Segmented circle:yes
+Lights:ODALS RWY 05; MIRL RWY 05/23; AND TWY LGTS PRESET LOW INTST DUSK-2300; TO INCR INTST - CTAF.  AFT 2300, ACTVT ODALS RWY 05; REIL RWY 05 & 23; PAPI RWY 05 & 23; MIRL RWY 05/23; AND TWY LGTS - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3PT:119.925 (843-393-8220)
+FLORENCE APPROACH:118.6
+FLORENCE DEPARTURE:118.6
+CLEARANCE DELIVERY:118.55
+WX AWOS-3 at HVS (12 nm W):118.225 (843-339-9625)
+WX AWOS-3PT at BBP (13 nm NE):123.825 (843-479-5817)
+WX AWOS-3 at CQW (16 nm N):124.825 (843-537-3301)
+WX ASOS at FLO (18 nm SE):PHONE 843-665-1306
+
+
+APCH/DEP SVC PRVDD BY JACKSONVILLE ARTCC ON FREQS 133.45/306.3 (FLORENCE RCAG) WHEN FLORENCE APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr322/17.2FLORENCE VORTAC115.2003W
+CTFr125/22.7CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+DARLINGTONat field24506WUDG..- -.. --.
+HARTSVILLE085/11.834107WHVS.... ...- ...
+BENNETTSVILLE224/12.823008WBES-... . ...
+DILLON279/25.627409WDLC-.. .-.. -.-.
+EVANS356/36.042006WCFY-.-. ..-. -.--
+SUMTER048/36.125207WSMS... -- ...
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:5500 x 100 ft. / 1676 x 30 m
+Surface:concrete, in good condition
+Weight bearing capacity:PCN 6  /F/C/Y/TSingle wheel:17.0Double wheel:27.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:34-26.521218N34-27.177413N
+Longitude:079-53.563143W079-52.807717W
+Elevation:188.5 ft.183.1 ft.
+Traffic pattern:leftleft
+Runway heading:049 magnetic, 043 true229 magnetic, 223 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Approach lights:ODALS: omnidirectional approach lighting system
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:DARLINGTON COUNTYCOUNTY COURTHOUSEDARLINGTON, SC 29532Phone (843) 393-4100
+Manager:BARRY KENNETT313 G.GRAHAM SEGARS PARKWAYDARLINGTON, SC 29540Phone 843-393-9928
+
+Airport Operational Statistics
+
+Aircraft based on the field:12Single engine airplanes:10Jet airplanes:2
+Aircraft operations: avg 117/week*60%local general aviation30%transient general aviation8%air taxi2%military* for 12-month period ending 26 September 2023
+Additional Remarks
+
+-AFTER HRS SERVICE CALL 843-393-9928.
+-FOR CD CTC FLORENCE APCH AT 843-665-0632, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 05
+download (226KB)
+RNAV (GPS) RWY 23
+download (264KB)
+VOR-A
+download (177KB)
+
+NOTE: Special Alternate Minimums apply
+download (166KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (209KB)
+
+Other nearby airports with instrument procedures:
+KHVS - Hartsville Regional Airport (12 nm W)
+KBBP - Marlboro County Jetport - H E Avent Field (13 nm NE)
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (16 nm N)
+KFLO - Florence Regional Airport (18 nm SE)
+KDLC - Dillon County Airport (26 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 11-Sep-2009
+
+Do you have a better or more recent aerial photo of Darlington County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Darlington County Airport?
+Find the distance to fly.
+From 
+to KUDG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2612:26
+Sunset17:3522:35
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:58:16
+Local (UTC-5)19-Jan-2024 15:58:16
+
+
+
+
+   
+
+METAR
+
+
+KUDG191956Z AUTO 31016G26KT 10SM OVC055 13/01 A2984 RMK AO2 PK WND 28028/1925 SLP107 T01280006
+
+KHVS12nm W192035Z AUTO VRB07G19KT 10SM OVC060 11/M06 A2988 RMK AO2
+
+KBBP13nm NE192035Z AUTO 31018G26KT 10SM OVC070 12/M02 A2987 RMK AO2
+
+KCQW16nm N192055Z AUTO 35020G29KT 10SM SCT075 SCT085 11/M06 A2991 RMK AO2
+
+KFLO18nm SE192053Z 32018G28KT 10SM SCT065 13/M01 A2986 RMK AO2 PK WND 31029/2043 PRESRR SLP110 T01331006 53016
+
+
+
+
+
+TAF
+
+
+KFLO18nm SE191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Darlington County Jetport
+
+843-393-9928
+
+
+no information available
+If you are affiliated with Darlington County Jetport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AAS$5.75---FS---$5.30Updated 27-Dec-2023
+
+
+
+
+1readwrite
+
+
+
+AS=Assisted/Self ServiceFS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Darlington County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Darlington County Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

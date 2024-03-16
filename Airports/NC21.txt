@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC21 - Aero Plantation Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1603 users online
+ 
+
+
+
+
+NC21
+ Aero Plantation AirportWeddington, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WEDDINGTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC21
+Lat/Long:34-59-30.5370N 080-44-54.2500W34-59.508950N 080-44.904167W34.9918158,-80.7484028(estimated)
+Elevation:634 ft. / 193.2 m (surveyed)
+Variation:05W (1985)
+From city:2 miles SE of WEDDINGTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28173
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1964
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:CONTINUOUS
+Wind indicator:yes
+Segmented circle:no
+Lights:ACTVT LIRL RWY 06/24  - 123.0. 5 CLICKS.
+Beacon:white-green (lighted land airport)ACTVT ARPT BCN - 123.0.  5 CLICKS.
+
+Airport Communications
+
+UNICOM:123.0
+WX ASOS at EQY (6 nm E):135.775 (704-283-5185)
+WX ASOS at UZA (15 nm W):120.775 (803-981-9388)
+WX ASOS at CLT (17 nm NW):PHONE 704-790-5484
+WX AWOS-3 at LKR (17 nm S):120.825 (803-286-6444)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CLTr145/15.5CHARLOTTE VOR/DME115.0005W
+CTFr314/31.0CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA127/23.426006WGHJ--. .... .---
+CHESTER067/25.522006WDCM-.. -.-. --
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:2400 x 60 ft. / 732 x 18 m
+Surface:asphalt, in fair condition
+Runway edge lights:low intensity
+RUNWAY 6RUNWAY 24
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:AERO PLANTATION INC.865 BARON ROADWEDDINGTON, NC 28173Phone 704-843-5338
+Manager:ALLEN OSBORNE865 BARON ROADWEDDINGTON, NC 28173Phone (704) 608-6637
+
+Airport Operational Statistics
+
+Aircraft based on the field:14Single engine airplanes:12Helicopters:1Ultralights:1
+Aircraft operations: 110/year73%local general aviation27%transient general aviation
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at NC21.
+Some nearby airports with instrument procedures:
+KEQY - Charlotte-Monroe Executive Airport (6 nm E)
+N52 - JAARS-Townsend Airport (8 nm S)
+KUZA - Rock Hill (York County) Airport-Bryant Field (15 nm W)
+KCLT - Charlotte/Douglas International Airport (17 nm NW)
+KLKR - Lancaster County Airport-Mc Whirter Field (17 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Aero Plantation Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Aero Plantation Airport?
+Find the distance to fly.
+From 
+to NC21
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3012:30
+Sunset17:3722:37
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:05
+Local (UTC-5)19-Jan-2024 15:44:05
+
+
+
+
+   
+
+METAR
+
+
+KEQY7nm E191953Z AUTO 32017G29KT 10SM BKN065 08/M06 A2989 RMK AO2 PK WND 31031/1921 WSHFT 1900 SLP136 T00781056
+
+KUZA15nm W191954Z AUTO 34015G23KT 10SM BKN070 08/M06 A2993 RMK AO2 PK WND 31036/1858 SLP136 T00781056
+
+KCLT17nm NW191952Z 32018G36KT 10SM FEW060 07/M09 A2993 RMK AO2 PK WND 31036/1947 SLP150 T00721089
+
+KLKR17nm S192035Z AUTO 29013G24KT 260V320 10SM FEW065 08/M09 A2994 RMK AO2
+
+
+
+
+
+TAF
+
+
+KCLT17nm NW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Aero Plantation Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Aero Plantation Airport
+
+
+
+www.aeroplantation.net
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

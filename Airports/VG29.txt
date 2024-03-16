@@ -1,0 +1,325 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VG29 - Branham Mill Airpark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+VG29
+ Branham Mill AirparkWarsaw, Virginia, USA 
+
+
+
+
+
+
+GOING TO WARSAW?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VG29
+Lat/Long:37-58-12.4000N 076-42-31.2000W37-58.206667N 076-42.520000W37.9701111,-76.7086667(estimated)
+Elevation:100 ft. / 30 m (estimated)
+Variation:11W (2000)
+From city:3 miles NE of WARSAW, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22572
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/2002
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at XSA (11 nm SW):125.775 (804-445-8724)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PXTr227/24.0PATUXENT VORTAC117.6010W
+HCMr007/31.3HARCUM VORTAC108.8007W
+BRVr135/37.5BROOKE VORTAC114.5009W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT227/23.840010WNHK-. .... -.-
+SHANNON127/39.323710WEZF. --.. ..-.
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:3100 x 100 ft. / 945 x 30 m
+Surface:turf
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Obstructions:60 ft. trees, 200 ft. from runway60 ft. trees, 200 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:PATRICK WEAKLAND1539 THREEWAY RDWARSAW, VA 22572Phone 804-313-2220
+Manager:PATRICK WEAKLAND1539 THREEWAY RDWARSAW, VA 22572Phone 804-313-2220
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:1Multi engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC PATUXENT APCH AT 301-342-3740, WHEN PATUXENT APCH IS CLSD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VG29.
+Some nearby airports with instrument procedures:
+KXSA - Tappahannock/Essex County Airport (11 nm SW)
+2W6 - St Mary's County Regional Airport (22 nm N)
+KNHK - Patuxent River Naval Air Station (Trapnell Field) Airport (24 nm NE)
+W75 - Hummel Field Airport (25 nm SE)
+KFYJ - Middle Peninsula Regional Airport (27 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken in November 2003
+
+Do you have a better or more recent aerial photo of Branham Mill Airpark that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Branham Mill Airpark?
+Find the distance to fly.
+From 
+to VG29
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2112:21
+Sunset17:1422:14
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:30
+Local (UTC-5)19-Jan-2024 15:44:30
+
+
+
+
+   
+
+METAR
+
+
+KXSA11nm SW192035Z AUTO 30008KT 10SM BKN014 BKN046 OVC065 01/M01 A2984 RMK AO2 T00051014
+
+KNUI17nm NE192036Z AUTO 31011G18KT 2SM -SN BR BKN009 BKN016 OVC022 00/M01 A2979 RMK AO2 CIG 008V013 P0000 T00001011
+
+
+
+
+
+TAF
+
+
+KNHK23nm NE1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Branham Mill Airpark, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Branham Mill Airpark
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

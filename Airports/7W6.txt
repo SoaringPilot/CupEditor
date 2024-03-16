@@ -1,0 +1,369 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 7W6 - Hyde County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1559 users online
+ 
+
+
+
+
+7W6
+ Hyde County AirportEngelhard, North Carolina, USA 
+
+
+
+
+
+
+GOING TO ENGELHARD?
+
+
+ 
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:7W6
+Lat/Long:35-33-43.3330N 075-57-20.3550W35-33.722217N 075-57.339250W35.5620369,-75.9556542(estimated)
+Elevation:6.3 ft. / 1.9 m (surveyed)
+Variation:09W (1985)
+From city:7 miles N of ENGELHARD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27824
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:01/1981
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:MON-FRI 1300-1600
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MIRL RWY 11/29 -  CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3P:119.275 (252-925-1136)
+CHERRY POINT APPROACH:124.725
+CHERRY POINT DEPARTURE:124.725
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RBXr218/24.9WRIGHT BROTHERS VOR/DME111.6008W
+
+
+NDBnameHdg/DistFreqVarID
+MANTEO220/24.737009WMQI-- --.- ..
+
+Airport Services
+
+Fuel available:100LL100LL:24 HR SELF SERVE WITH CREDIT CARD.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 11/29
+
+Dimensions:4700 x 100 ft. / 1433 x 30 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:30.0Double wheel:43.0
+Runway edge lights:medium intensity
+RUNWAY 11RUNWAY 29
+Latitude:35-33.790118N35-33.654277N
+Longitude:075-57.805952W075-56.872575W
+Elevation:6.2 ft.6.0 ft.
+Traffic pattern:rightleft
+Runway heading:109 magnetic, 100 true289 magnetic, 280 true
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:63 ft. trees, 2999 ft. from runway, 52 ft. right of centerline, 44:1 slope to clear45 ft. trees, 1389 ft. from runway, 195 ft. right of centerline, 26:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:HYDE COUNTYPO BOX 95SWAN QUARTER, NC 27885Phone (252) 926-4372
+Manager:JANE HODGESPO BOX 95SWAN QUARTER, NC 27885Phone 252-943-4113
+
+Airport Operational Statistics
+
+
+Aircraft operations: avg 78/week*62%transient general aviation25%local general aviation12%military1%air taxi* for 12-month period ending 09 August 2022
+Additional Remarks
+
+-R5314 5 MILES NORTH OF ARPT AND R5313 5 MILES EAST HAVE HEAVY CONCENTRATIONS OF MILITARY ACFT WITHIN 1000' AGL AND IN EXCESS OF 500 KNOTS. MANUEVERING FOR LANDING AND AFTER TAKEOFF SHOULD REMAIN OVER LAND EAST OF ARPT.
+-DEER & BIRDS ON & INVOF ARPT.
+-GEESE NESTING NORTH SIDE OF RY AT UPPER AND MIDDLE PONDS.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 11
+download (179KB)
+
+NOTE: Special Alternate Minimums apply
+download (135KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (282KB)
+
+Other nearby airports with instrument procedures:
+KMQI - Dare County Regional Airport (25 nm NE)
+KHSE - Billy Mitchell Airport (26 nm SE)
+W95 - Ocracoke Island Airport (28 nm S)
+KFFA - First Flight Airport (31 nm NE)
+KEDE - Northeastern Regional Airport (41 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Joe Davis
+Photo taken 30-May-2015
+looking west.
+
+Do you have a better or more recent aerial photo of Hyde County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Hyde County Airport?
+Find the distance to fly.
+From 
+to 7W6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4511:45
+Sunrise07:1212:12
+Sunset17:1722:17
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:19:48
+Local (UTC-5)19-Jan-2024 16:19:48
+
+
+
+
+   
+
+METAR
+
+
+K7W6192050Z AUTO 32017G22KT 10SM SCT050 SCT070 OVC080 10/00 A2976 RMK AO2 T00980004
+
+K2DP8nm N192055Z AUTO 31016KT M M M 10/M00 A2974 RMK AO2 SLPNO T00951001 RVRNO $
+
+
+
+
+
+TAF
+
+
+KECG44nm N191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Hyde County Airport
+
+252-925-1097
+
+
+no information available
+If you are affiliated with Hyde County Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LLSS$5.25Updated 28-Nov-2023
+
+
+
+
+1readwrite
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Hyde County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Hyde County Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

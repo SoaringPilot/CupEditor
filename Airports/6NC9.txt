@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6NC9 - Moss Hill Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1464 users online
+ 
+
+
+
+
+6NC9
+ Moss Hill AirportKinston, North Carolina, USA 
+
+
+
+
+
+
+GOING TO KINSTON?
+
+
+ 
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6NC9
+Lat/Long:35-12-07.5870N 077-45-01.9140W35-12.126450N 077-45.031900W35.2021075,-77.7505317(estimated)
+Elevation:30 ft. / 9 m (estimated)
+Variation:07W (1985)
+From city:9 miles SW of KINSTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28504
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1987
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at ISO (10 nm NE):132.75 (252-522-2712)
+WX AWOS-3PT at GSB (13 nm NW):317.625
+WX AWOS-3P at W40 (14 nm W):120.075 (919-658-8067)
+WX AWOS-3 at DPL (17 nm SW):120.675 (910-296-9688)
+WX AWOS-3P at GWW (19 nm NW):118.975 (919-731-4473)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr228/13.8KINSTON VORTAC117.5005W
+EWNr291/35.5NEW BERN VOR/DME113.6008W
+
+
+NDBnameHdg/DistFreqVarID
+STALS235/3.627609WIS.. ...
+CLINTON075/33.041209WCTZ-.-. - --..
+ALWOOD220/35.523009WAQE.- --.- .
+CHOCOWINITY248/36.538808WRNW.-. -. .--
+
+Airport Services
+
+
+Runway Information
+Runway 1/19
+
+Dimensions:3000 x 60 ft. / 914 x 18 m
+Surface:turf
+RUNWAY 1RUNWAY 19
+Traffic pattern:leftleft
+Displaced threshold:no300 ft.
+Obstructions:treesroad
+
+Runway 13/31
+
+Dimensions:1000 x 100 ft. / 305 x 30 m
+Surface:turf
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MOSS HILL AIRPORT, INC.4180 DAVIS HARDY ROADKINSTON, NC 28504-7446Phone 252-569-8161
+Manager:ELIZABETH ANN DAVIS4180 DAVIS HARDY ROADKINSTON, NC 28504-7446Phone 252-569-3956
+
+Airport Operational Statistics
+
+Aircraft based on the field:6Single engine airplanes:6
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 6NC9.
+Some nearby airports with instrument procedures:
+KISO - Kinston Regional Jetport at Stallings Field (10 nm NE)
+KGSB - Seymour Johnson Air Force Base (13 nm NW)
+W40 - Mount Olive Municipal Airport (14 nm W)
+KDPL - Duplin County Airport (17 nm SW)
+KGWW - Wayne Executive Jetport Airport (19 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Moss Hill Airport?
+Find the distance to fly.
+From 
+to 6NC9
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:2522:25
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:36:00
+Local (UTC-5)19-Jan-2024 16:36:00
+
+
+
+
+   
+
+METAR
+
+
+KISO10nm NE192056Z 35008G15KT 10SM SCT065 BKN075 11/M00 A2981
+
+KGSB13nm NW192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KDPL16nm SW192105Z AUTO 32010G16KT 10SM BKN070 BKN085 11/M03 A2982 RMK AO2
+
+KGWW19nm NW192110Z AUTO 31010G22KT 270V330 10SM SCT060 OVC075 09/M02 A2984 RMK AO2 T00881021
+
+
+
+
+
+TAF
+
+
+KISO10nm NE191727Z 1918/2018 30016G27KT P6SM SCT050 FM200300 31011G20KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KGSB13nm NW191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Moss Hill Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Moss Hill Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

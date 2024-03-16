@@ -1,0 +1,339 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 91VA - Miller Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1472 users online
+ 
+
+
+
+
+91VA
+ Miller AirportBedford, Virginia, USA 
+
+
+
+
+
+
+GOING TO BEDFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:91VA
+Lat/Long:37-19-39.5120N 079-24-17.1040W37-19.658533N 079-24.285067W37.3276422,-79.4047511(estimated)
+Elevation:760 ft. / 232 m (estimated)
+Variation:07W (1990)
+From city:6 miles E of BEDFORD, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24556
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1994
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at LYH (10 nm E):PHONE 434-237-0749
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr304/9.2LYNCHBURG VOR/DME109.2005W
+ODRr098/(27.4)WOODRUM VOR114.9008W
+ROAr096/31.8ROANOKE VOR/DME109.4004W
+MOLr207/37.2MONTEBELLO VOR/DME115.3005W
+
+
+NDBnameHdg/DistFreqVarID
+BOJAR305/8.738508WLY.-.. -.--
+VINTON080/23.927708WVIT...- .. -
+
+Airport Services
+
+
+Runway Information
+Runway 5/23
+
+Dimensions:1850 x 70 ft. / 564 x 21 m
+Surface:turf
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DAVID EUGENE MILLER2760 BELLS MILL RDGOODE, VA 24556Phone 540-586-5155
+Manager:DAVID EUGENE MILLER2760 BELLS MILL RDGOODE, VA 24556Phone 540-586-5155
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at 91VA.
+Some nearby airports with instrument procedures:
+W90 - New London Airport (5 nm SE)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (10 nm E)
+W24 - Falwell Airport (14 nm E)
+W91 - Smith Mountain Lake Airport (16 nm SW)
+0V4 - Brookneal/Campbell County Airport (22 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Miller Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Miller Airport?
+Find the distance to fly.
+From 
+to 91VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:2722:27
+Evening civil twilight17:5522:55
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:34:36
+Local (UTC-5)19-Jan-2024 16:34:36
+
+
+
+
+   
+
+METAR
+
+
+KLYH10nm E192054Z 29008KT 250V340 10SM SCT060 02/M09 A2987 RMK AO2 SLP120 T00221089 53030
+
+
+
+
+
+TAF
+
+
+KLYH10nm E191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Miller Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Miller Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

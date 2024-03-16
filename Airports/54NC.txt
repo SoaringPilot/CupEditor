@@ -1,0 +1,314 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 54NC - Dillard Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1591 users online
+ 
+
+
+
+
+54NC
+ Dillard AirportWinfall, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WINFALL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:54NC
+Lat/Long:36-14-22.0000N 076-25-02.0000W36-14.366667N 076-25.033333W36.2394444,-76.4172222(estimated)
+Elevation:15 ft. / 5 m (estimated)
+Variation:10W (2000)
+From city:4 miles NE of WINFALL, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27944
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/2000
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ECG (12 nm E):124.375 (252-338-4750)
+WX AWOS-3 at EDE (15 nm SW):118.275 (252-482-0757)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr272/11.7ELIZABETH CITY VOR/DME115.7507W
+CVIr119/23.4COFIELD VORTAC114.6009W
+RBXr307/39.8WRIGHT BROTHERS VOR/DME111.6008W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE266/5.925410WLLW.-.. .-.. .--
+
+Airport Services
+
+
+Runway Information
+Runway 7/25
+
+Dimensions:2700 x 85 ft. / 823 x 26 m
+Surface:turf
+RUNWAY 7RUNWAY 25
+Traffic pattern:leftleft
+Obstructions:40 ft. pline, 250 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DILLARD WARDROUTE 2 BOX 259HERTFORD, NC 27944Phone 252-426-9676
+Manager:CRAIG CRAFT603 SWING GATE ROADHERTFORD, NC 27944Phone 252-426-7613
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:3
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 54NC.
+Some nearby airports with instrument procedures:
+KECG - Elizabeth City Coast Guard Air Station/Regional Airport (12 nm E)
+KEDE - Northeastern Regional Airport (15 nm SW)
+KONX - Currituck County Regional Airport (22 nm NE)
+KCPK - Chesapeake Regional Airport (26 nm N)
+KSFQ - Suffolk Executive Airport (28 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Dillard Airport?
+Find the distance to fly.
+From 
+to 54NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:00:34
+Local (UTC-5)19-Jan-2024 16:00:34
+
+
+
+
+   
+
+METAR
+
+
+KECG11nm E192054Z 31021G30KT 10SM FEW038 OVC070 07/M01 A2978 RMK AO2 PK WND 30031/2037 SLP084 T00671011 53028
+
+KEDE15nm SW192050Z AUTO 31017G25KT 10SM OVC080 09/01 A2980 RMK AO2 T00890012
+
+KONX22nm NE192045Z AUTO 27013G21KT 250V310 10SM SCT038 SCT046 OVC070 07/M01 A2977 RMK AO2 T00711012
+
+
+
+
+
+TAF
+
+
+KECG11nm E191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dillard Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Dillard Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 23VA - Wheatland Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1449 users online
+ 
+
+
+
+
+23VA
+ Wheatland AirportBuckingham, Virginia, USA 
+
+
+
+
+
+
+GOING TO BUCKINGHAM?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:23VA
+Lat/Long:37-33-25.5210N 078-37-12.0300W37-33.425350N 078-37.200500W37.5570892,-78.6200083(estimated)
+Elevation:490 ft. / 149 m (estimated)
+Variation:08W (1985)
+From city:4 miles W of BUCKINGHAM, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23921
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:10/1984
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at FVX (15 nm SE):132.725 (434-392-9718)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr137/31.0MONTEBELLO VOR/DME115.3005W
+LYHr063/34.5LYNCHBURG VOR/DME109.2005W
+GVEr225/35.2GORDONSVILLE VORTAC115.6006W
+FAKr279/37.7FLAT ROCK VORTAC113.3006W
+
+
+NDBnameHdg/DistFreqVarID
+BLACKSTONE322/37.732609WBKT-... -.- -
+
+Airport Services
+
+
+Runway Information
+Runway 15/33
+
+Dimensions:1800 x 25 ft. / 549 x 8 m
+Surface:asphalt
+Operational restrictions:LAND RY 33.
+RUNWAY 15RUNWAY 33
+Traffic pattern:leftleft
+Obstructions:plinenone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DONALD L. MOSELEY450 WILLOW LAKE ROADBUCKINGHAM, VA 23921Phone 434-969-4559
+Manager:Phone 434-969-4559DAYTIME PHONE NO. 434-969-4559
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at 23VA.
+Some nearby airports with instrument procedures:
+KFVX - Farmville Regional Airport (15 nm SE)
+W24 - Falwell Airport (26 nm SW)
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (31 nm SW)
+0V4 - Brookneal/Campbell County Airport (31 nm SW)
+W81 - Crewe Municipal Airport (34 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken  mid November 2005
+on approach to runway 33
+
+Do you have a better or more recent aerial photo of Wheatland Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Wheatland Airport?
+Find the distance to fly.
+From 
+to 23VA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2812:28
+Sunset17:2322:23
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:07:21
+Local (UTC-5)19-Jan-2024 17:07:21
+
+
+
+
+   
+
+METAR
+
+
+KFVX16nm SE192155Z AUTO 23004KT 10SM SCT060 03/M10 A2989 RMK AO2 T00261097
+
+KLYH31nm SW192154Z 28007G18KT 250V320 10SM BKN055 01/M09 A2992 RMK AO2 SLP139 T00111094
+
+K0V431nm SW192155Z AUTO 10SM SCT050 02/M09 A2993 RMK AO1
+
+
+
+
+
+TAF
+
+
+KLYH31nm SW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+KCHO36nm N191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Wheatland Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Wheatland Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

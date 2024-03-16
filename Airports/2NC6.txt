@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2NC6 - Flying M Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1571 users online
+ 
+
+
+
+
+2NC6
+ Flying M AirportLexington, North Carolina, USA 
+
+
+
+
+
+
+GOING TO LEXINGTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2NC6
+Lat/Long:35-47-58.4970N 080-23-46.1980W35-47.974950N 080-23.769967W35.7995825,-80.3961661(estimated)
+Elevation:845 ft. / 258 m (estimated)
+Variation:06W (1985)
+From city:7 miles W of LEXINGTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27295
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/1983
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:lighted
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at EXX (5 nm E):119.825 (336-956-2967)
+WX AWOS-3 at RUQ (11 nm SW):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr237/25.2GREENSBORO VORTAC116.2003W
+LIBr272/38.1LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY055/6.027506WRU.-. ..-
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:1780 x 200 ft. / 543 x 61 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:50 ft. pline, 20 ft. from runwaynone
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JEFFREY ROSS MICHAEL101 FLYING M LANELEXINGTON, NC 27292Phone (336) 853-6227
+Manager:JEFFREY ROSS MICHAEL101 FLYING M LANELEXINGTON, NC 27292Phone (336) 853-6227
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:4
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at 2NC6.
+Some nearby airports with instrument procedures:
+KEXX - Davidson County Executive Airport (5 nm E)
+8A7 - Twin Lakes Airport (8 nm NW)
+KRUQ - Mid-Carolina Regional Airport (11 nm SW)
+KINT - Smith Reynolds Airport (22 nm NE)
+KVUJ - Stanly County Airport (26 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Flying M Airport?
+Find the distance to fly.
+From 
+to 2NC6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0312:03
+Sunrise07:3112:31
+Sunset17:3422:34
+Evening civil twilight18:0223:02
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:09:08
+Local (UTC-5)19-Jan-2024 16:09:08
+
+
+
+
+   
+
+METAR
+
+
+KEXX5nm E192045Z AUTO 30012G22KT 10SM SCT060 05/M08 A2995 RMK AO2 T00501076
+
+KRUQ11nm SW192050Z AUTO 29011G19KT 250V320 10SM CLR 04/M09 A2995 RMK AO2 T00421095
+
+
+
+
+
+TAF
+
+
+KINT22nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Flying M Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Flying M Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

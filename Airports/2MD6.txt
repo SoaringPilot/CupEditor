@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2MD6 - Cherry Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1616 users online
+ 
+
+
+
+
+2MD6
+ Cherry Field AirportLexington Park, Maryland, USA 
+
+
+
+
+
+
+GOING TO LEXINGTON PARK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2MD6
+Lat/Long:38-08-38.4560N 076-28-19.8300W38-08.640933N 076-28.330500W38.1440156,-76.4721750(estimated)
+Elevation:8 ft. / 2 m (estimated)
+Variation:10W (1985)
+From city:7 miles S of LEXINGTON PARK, MD
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:20630
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1985
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at 2W6 (11 nm N):119.575 (301-373-6514)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+PXTr211/9.3PATUXENT VORTAC117.6010W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT211/9.140010WNHK-. .... -.-
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:2000 x 150 ft. / 610 x 46 m
+Surface:turf, in fair condition
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RICHARD WATTS46369 CHERRYFIELD LNDRAYDEN, MD 20630Phone 817-705-6043
+Manager:RICHARD WATTS46369 CHERRYFIELD LNDRAYDEN, MD 20630Phone 817-705-6043
+
+Additional Remarks
+
+-FOR CD CTC PATUXENT APCH AT 301-342-3740, WHEN PATUXENT APCH IS CLSD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 2MD6.
+Some nearby airports with instrument procedures:
+KNHK - Patuxent River Naval Air Station (Trapnell Field) Airport (9 nm N)
+2W6 - St Mary's County Regional Airport (11 nm N)
+KXSA - Tappahannock/Essex County Airport (26 nm SW)
+KTGI - Tangier Island Airport (29 nm SE)
+W41 - Crisfield-Somerset County Airport (31 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Richard D. Watts
+Photo taken 06-May-2021
+looking southwest.
+
+Do you have a better or more recent aerial photo of Cherry Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Cherry Field Airport?
+Find the distance to fly.
+From 
+to 2MD6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:2112:21
+Sunset17:1322:13
+Evening civil twilight17:4222:42
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:50:46
+Local (UTC-5)19-Jan-2024 15:50:46
+
+
+
+
+   
+
+METAR
+
+
+KNUI2nm E192036Z AUTO 31011G18KT 2SM -SN BR BKN009 BKN016 OVC022 00/M01 A2979 RMK AO2 CIG 008V013 P0000 T00001011
+
+KNHK8nm NE191952Z 32018G24KT 1 1/4SM -SN BKN008 OVC013 01/M02 A2975 RMK AO2 CIG 007V011 SLP076 P0000 T00111017 $
+
+K2W611nm N192030Z AUTO 00000KT 2SM OVC008 00/M01 A2980 RMK AO1
+
+
+
+
+
+TAF
+
+
+KNHK8nm NE1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Cherry Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Cherry Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,335 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC09 - Stoneriver Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1424 users online
+ 
+
+
+
+
+NC09
+ Stoneriver AirportStatesville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO STATESVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC09
+Lat/Long:35-53-03.2700N 080-46-21.9500W35-53.054500N 080-46.365833W35.8842417,-80.7727639(estimated)
+Elevation:820 ft. / 250 m (estimated)
+From city:8 miles NE of STATESVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28625
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/2003
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SVH (11 nm SW):119.225 (704-873-1978)
+WX AWOS-3 at RUQ (19 nm SE):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr094/22.8BARRETTS MOUNTAIN VOR/DME113.7506W
+GSOr259/39.9GREENSBORO VORTAC116.2003W
+
+Airport Services
+
+
+Runway Information
+Runway 16/34
+
+Dimensions:2000 x 120 ft. / 610 x 37 m
+Surface:turf
+RUNWAY 16RUNWAY 34
+Traffic pattern:rightleft
+Obstructions:30 ft. trees30 ft. trees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CATHY J. NORRIS1785 OLD MOCKSVILLE ROADSTATESVILLE, NC 28625Phone 704-924-7830
+Manager:CATHY J. NORRIS1785 OLD MOCKSVILLE ROADSTATESVILLE, NC 28625Phone 704-924-7830
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at NC09.
+Some nearby airports with instrument procedures:
+KSVH - Statesville Regional Airport (11 nm SW)
+8A7 - Twin Lakes Airport (15 nm E)
+14A - Lake Norman Airpark (17 nm S)
+KRUQ - Mid-Carolina Regional Airport (19 nm SE)
+KEXX - Davidson County Executive Airport (24 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Stoneriver Airport?
+Find the distance to fly.
+From 
+to NC09
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3212:32
+Sunset17:3522:35
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:58:04
+Local (UTC-5)19-Jan-2024 16:58:04
+
+
+
+
+   
+
+METAR
+
+
+KSVH12nm SW192145Z AUTO 30010G19KT 10SM CLR 03/M10 A3001 RMK AO2 T00251100
+
+KRUQ19nm SE192150Z AUTO 30010KT 270V330 10SM BKN055 04/M09 A2999 RMK AO2 T00351094
+
+
+
+
+
+TAF
+
+
+KHKY31nm W191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+KINT31nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Stoneriver Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Stoneriver Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2VA6 - Nimcock Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1600 users online
+ 
+
+
+
+
+2VA6
+ Nimcock AirportSaluda, Virginia, USA 
+
+
+
+
+
+
+GOING TO SALUDA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2VA6
+Lat/Long:37-37-25.5060N 076-36-03.8340W37-37.425100N 076-36.063900W37.6237517,-76.6010650(estimated)
+Elevation:85 ft. / 26 m (estimated)
+Variation:09W (1985)
+From city:1 mile NW of SALUDA, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23149
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1972
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at W75 (7 nm E):118.45 (804-758-8592)
+WX AWOS-3 at FYJ (10 nm SW):132.825 (804-785-2307)
+WX AWOS-3 at XSA (20 nm NW):125.775 (804-445-8724)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr034/11.7HARCUM VORTAC108.8007W
+HPWr060/30.2HOPEWELL VORTAC114.3506W
+CCVr310/33.2CAPE CHARLES VORTAC112.2010W
+RICr087/35.0RICHMOND VORTAC114.1009W
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 8/26
+
+Dimensions:3200 x 60 ft. / 975 x 18 m
+Surface:turf
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Obstructions:5 ft. trees, 225 ft. from runway85 ft. trees, 375 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:NIMCOCK LLC3656 CUSTIS MILL POND ROADWEST POINT, VA 23181Phone 804-514-1221
+Manager:SIBYL ROSE3656 CUSTIS MILL POND ROADWEST POINT, VA 23181Phone 804-514-1221
+
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at 2VA6.
+Some nearby airports with instrument procedures:
+W75 - Hummel Field Airport (7 nm E)
+KFYJ - Middle Peninsula Regional Airport (10 nm SW)
+W94 - Camp Peary Landing Strip Airport (19 nm S)
+KXSA - Tappahannock/Essex County Airport (20 nm NW)
+KJGG - Williamsburg-Jamestown Airport (24 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Steve Beste
+Photo taken 27-Sep-2014
+looking south.
+
+Do you have a better or more recent aerial photo of Nimcock Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Nimcock Airport?
+Find the distance to fly.
+From 
+to 2VA6
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:2012:20
+Sunset17:1522:15
+Evening civil twilight17:4322:43
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:11
+Local (UTC-5)19-Jan-2024 15:44:11
+
+
+
+
+   
+
+METAR
+
+
+KW757nm E192035Z AUTO 30011G18KT 10SM BKN015 OVC021 02/M01 A2980 RMK AO1 T00161012
+
+KFYJ10nm SW192035Z AUTO 31004G15KT 10SM SCT024 BKN034 OVC080 03/M02 A2982 RMK AO1 T00251017
+
+KXSA20nm NW192035Z AUTO 30008KT 10SM BKN014 BKN046 OVC065 01/M01 A2984 RMK AO2 T00051014
+
+
+
+
+
+TAF
+
+
+KPHF30nm S191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KFAF30nm S191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KRIC35nm W191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+KLFI35nm S191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Nimcock Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Nimcock Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

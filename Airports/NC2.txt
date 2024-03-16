@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC2 - Taylorsville Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1422 users online
+ 
+
+
+
+
+NC2
+ Taylorsville AirportTaylorsville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO TAYLORSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC2
+Lat/Long:35-55-51.0000N 081-11-48.0000W35-55.850000N 081-11.800000W35.9308333,-81.1966667(estimated)
+Elevation:1090 ft. / 332 m (estimated)
+Variation:05W (1985)
+From city:1 mile NW of TAYLORSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28681
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1962
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at HKY (15 nm SW):118.325 (828-322-2996)
+WX AWOS-3 at SVH (15 nm SE):119.225 (704-873-1978)
+WX AWOS-3 at UKF (18 nm N):126.625 (336-696-3788)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr036/4.3BARRETTS MOUNTAIN VOR/DME113.7506W
+
+
+NDBnameHdg/DistFreqVarID
+TAWBA037/10.133206WHK.... -.-
+FIDDLERS067/26.639107WFIQ..-. .. --.-
+HEMLOCK114/35.732002WBAR-... .- .-.
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 8/26
+
+Dimensions:2400 x 60 ft. / 732 x 18 m
+Surface:turf, in good condition
+RUNWAY 8RUNWAY 26
+Traffic pattern:leftleft
+Obstructions:44 ft. trees, 56 ft. from runway, 115 ft. left of centerline, 1:1 slope to clear69 ft. trees, 116 ft. from runway, 72 ft. left of centerline, 1:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:TAYLORSVILLE FLYING SERVICE, LLC496 AIRPORT ROADTAYLORSVILLE, NC 28681Phone 828-514-7731
+Manager:WARREN MILLER & CLAYTON ROBERTS496 AIRPORT ROADTAYLORSVILLE, NC 28681Phone (828) 455-5566CLAYTON ROBERTS PHONE NR 704-880-9586.
+
+Airport Operational Statistics
+
+Aircraft based on the field:11Single engine airplanes:10Ultralights:1
+Aircraft operations: avg 35/month*94%local general aviation6%transient general aviation* for 12-month period ending 28 July 2023
+Additional Remarks
+
+-ARPT RSTRD TO DAY VFR ONLY.
+-RWY 08 PREF FOR LDGS, RWY 26 PREF FOR DEP.
+-DEER ON & INVOF ARPT.
+-ALL PILOTS ARE STGLY ENCOURAGED TO FLY A FULL PATTERN AND ANNC INTNS AND PSN ON 122.90.  STA NOT RCMDD.  MOWERS ON RWYS EQUIPPED WITH SAFETY FLAGS AND RDOS.
+-RWY 08 HAS 10 FT DITCH ALONG LEFT SIDE.
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+-RWY 08 HAS 5 FT FENCE AND 8 FT HILL AT RWY END.
+
+Instrument Procedures
+There are no published instrument procedures at NC2.
+Some nearby airports with instrument procedures:
+KHKY - Hickory Regional Airport (15 nm SW)
+KSVH - Statesville Regional Airport (15 nm SE)
+KUKF - Wilkes County Airport (18 nm N)
+KMRN - Foothills Regional Airport (21 nm W)
+14A - Lake Norman Airpark (24 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Taylorsville Airport?
+Find the distance to fly.
+From 
+to NC2
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0712:07
+Sunrise07:3412:34
+Sunset17:3722:37
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:00:00
+Local (UTC-5)19-Jan-2024 17:00:00
+
+
+
+
+   
+
+METAR
+
+
+KHKY14nm SW192153Z 30010KT 10SM BKN050 OVC060 02/M10 A3001 RMK AO2 SLP160 T00171100
+
+KSVH16nm SE192145Z AUTO 30010G19KT 10SM CLR 03/M10 A3001 RMK AO2 T00251100
+
+KUKF18nm N192145Z AUTO 31008G14KT 10SM BKN049 BKN055 00/M10 A3005 RMK AO2
+
+KMRN22nm W192145Z AUTO 31007G15KT 10SM CLR 02/M09 A3002 RMK AO2 T00151094
+
+KIPJ27nm S192145Z AUTO 28012G19KT 10SM SCT050 03/M09 A3002 RMK AO2 T00261090
+
+KTNB27nm NW 118.525 828-268-8921
+192135Z AUTO RMK AO2 PWINO PNO
+
+
+
+
+
+TAF
+
+
+KHKY14nm SW191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Taylorsville Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Taylorsville Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

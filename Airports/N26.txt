@@ -1,0 +1,321 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: N26 - Derby Aerodrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1594 users online
+ 
+
+
+
+
+N26
+ Derby AerodromePinehurst, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PINEHURST?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:N26
+Lat/Long:35-08-02.0000N 079-37-48.0000W35-08.033333N 079-37.800000W35.1338889,-79.6300000(estimated)
+Elevation:516 ft. / 157 m (estimated)
+From city:9 miles WSW of PINEHURST, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27281
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:02/2015
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at HFF (9 nm SE):141.25 (910-396-7804)
+WX AWOS-3PT at SOP (13 nm NE):127.575 (910-692-4287)
+WX AWOS-3 at RCZ (16 nm SW):118.775 (910-997-4093)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SDZr206/5.3SANDHILLS VORTAC111.8003W
+FAYr287/38.1FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLE017/31.223008WBES-... . ...
+
+Airport Services
+
+Parking:tiedowns
+
+Runway Information
+Runway 5/23
+
+Dimensions:2600 x 60 ft. / 792 x 18 m
+Surface:turf, in good condition
+Runway edge markings:RY 5/23 MKD WITH YELLOW CONES
+RUNWAY 5RUNWAY 23
+Traffic pattern:leftleft
+Markings:nonenone
+Obstructions:50 ft. trees, 109 ft. from runway, 96 ft. left of centerline, 2:1 slope to clear26 ft. bldg, 37 ft. from runway, 68 ft. right of centerline, 1:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DERBY AERODROME, LLC.527 PAPPY RABB ROADELLERBE, NC 28338Phone 815-238-5026ARPT PHYS ADDRESS: 2054 DERBY RD. ELERBE, NC 28338
+Manager:LARRY GEBLER527 PAPPY RABB ROADELLERBE, NC 28338Phone 815-238-5026DAVID LAMB PHONE 810-423-4830
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:8
+Aircraft operations: avg 23/week*58%local general aviation42%transient general aviation* for 12-month period ending 27 June 2023
+Additional Remarks
+
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-RUNWAY CLOSED TO TURBINE AIRCRAFT EXCEPT WITH PRIOR PERMISSION
+-OVERNIGHT AIRCRAFT MUST BE TIED DOWN
+
+Instrument Procedures
+There are no published instrument procedures at N26.
+Some nearby airports with instrument procedures:
+KHFF - Mackall Army Airfield (9 nm SE)
+KSOP - Moore County Airport (13 nm NE)
+KRCZ - Richmond County Airport (16 nm SW)
+43A - Montgomery County Airport (17 nm NW)
+5W4 - P K Airpark (23 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 10-Jan-2016
+looking west.
+
+Do you have a better or more recent aerial photo of Derby Aerodrome that you would like to share?  If so, please send us your photo.
+
+
+
+
+Airport distance calculator
+
+
+Flying to Derby Aerodrome?
+Find the distance to fly.
+From 
+to N26
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2612:26
+Sunset17:3322:33
+Evening civil twilight18:0023:00
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:00:13
+Local (UTC-5)19-Jan-2024 16:00:13
+
+
+
+
+   
+
+METAR
+
+
+KHFF9nm SE192032Z AUTO 34018G29KT 10SM SCT070 10/M08 A2985 RMK AO2 SLPNO $
+
+KSOP12nm NE191956Z AUTO 30018G26KT 10SM SCT075 11/M06 A2984 RMK AO2 PK WND 31026/1954 SLP109 T01061061
+
+KRCZ16nm SW192050Z AUTO 31016G22KT 10SM SCT075 09/M07 A2990 RMK AO2 T00901074
+
+
+
+
+
+TAF
+
+
+KPOB30nm E192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFBG35nm E192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Derby Aerodrome, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Derby Aerodrome
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

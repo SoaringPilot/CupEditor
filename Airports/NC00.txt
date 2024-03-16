@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC00 - Moretz Riverside Landing Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1464 users online
+ 
+
+
+
+
+NC00
+ Moretz Riverside Landing AirportSanford, North Carolina, USA 
+
+
+
+
+
+
+GOING TO SANFORD?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC00
+Lat/Long:35-33-36.0000N 079-11-37.0000W35-33.600000N 079-11.616667W35.5600000,-79.1936111(estimated)
+Elevation:326 ft. / 99 m (estimated)
+Variation:07W (1995)
+From city:5 miles S of SANFORD, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27330
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:05/1999
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at TTA (5 nm E):120.625 (919-708-5382)
+WX AWOS-3 at SCR (17 nm NW):125.775 (919-663-1252)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr129/25.4LIBERTY VORTAC113.0003W
+RDUr236/27.4RALEIGH/DURHAM VORTAC117.2009W
+SDZr046/28.3SANDHILLS VORTAC111.8003W
+FAYr340/37.8FAYETTEVILLE VOR/DME114.8504W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT295/26.541708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2000 x 24 ft. / 610 x 7 m
+Surface:asphalt
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:100 ft. trees, 50 ft. from runway100 ft. plines, 50 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:AERODYNE, INC.P.O. BOX 1647SANFORD, NC 27330-1647Phone 919-774-6055
+Manager:DOUG MORETZP.O. BOX 1647SANFORD, NC 27330-1647Phone 919-774-6055
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-EXTENSIVE AEROBATIC ACTVTY INVOF ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at NC00.
+Some nearby airports with instrument procedures:
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (5 nm E)
+KSCR - Siler City Municipal Airport (17 nm NW)
+KSOP - Moore County Airport (22 nm SW)
+KPOB - Pope Army Airfield (25 nm S)
+KHRJ - Harnett Regional Jetport Airport (25 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Moretz Riverside Landing Airport?
+Find the distance to fly.
+From 
+to NC00
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2512:25
+Sunset17:3022:30
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:35:39
+Local (UTC-5)19-Jan-2024 16:35:39
+
+
+
+
+   
+
+METAR
+
+
+KTTA5nm E192110Z AUTO 32018G25KT 10SM CLR 08/M08 A2990 RMK AO2 T00751082
+
+KSCR17nm NW192105Z AUTO 30011G17KT 250V320 10SM SCT060 06/M07 A2992 RMK AO2 T00571073
+
+
+
+
+
+TAF
+
+
+KPOB25nm S192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KRDU27nm NE191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KFBG30nm SE192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Moretz Riverside Landing Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Moretz Riverside Landing Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

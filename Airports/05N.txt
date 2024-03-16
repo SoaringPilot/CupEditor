@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 05N - South Oaks Aerodrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1438 users online
+ 
+
+
+
+
+05N
+ South Oaks AerodromeWinterville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WINTERVILLE?
+
+
+ 
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:05N
+Lat/Long:35-28-55.8650N 077-21-20.7875W35-28.931083N 077-21.346458W35.4821847,-77.3557743(estimated)
+Elevation:50 ft. / 15 m (estimated)
+From city:5 miles SE of WINTERVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28513
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:07/2005
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3 at PGV (9 nm N):128.425 (252-758-6485)
+WX AWOS-3 at ISO (15 nm SW):132.75 (252-522-2712)
+WX AWOS-3 at OCW (16 nm E):120.175 (252-975-6133)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr061/11.9KINSTON VORTAC117.5005W
+EWNr336/28.9NEW BERN VOR/DME113.6008W
+TYIr155/34.2TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+CHOCOWINITY270/12.338808WRNW.-. -. .--
+ALWOOD186/13.523009WAQE.- --.- .
+
+Airport Services
+
+Parking:tiedowns
+
+Runway Information
+Runway 7/25
+
+Dimensions:1850 x 50 ft. / 564 x 15 m
+Surface:turf, in good condition
+RUNWAY 7RUNWAY 25
+Latitude:35-28.891500N35-28.970667N
+Longitude:077-21.526500W077-21.166417W
+Elevation:42.7 ft.49.2 ft.
+Traffic pattern:leftleft
+Obstructions:58 ft. trees, 374 ft. from runway, 69 ft. left of centerline, 6:1 slope to clear66 ft. trees, 279 ft. from runway, 122 ft. right of centerline, 4:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:CHARLES A. LEWIS JR5245 COUNTY HOME ROADWINTERVILLE, NC 28590Phone 252-714-0514ARPT PHYS ADDRESS:  6440 COUNTY HOME ROAD
+Manager:CHARLES A. LEWIS JR5245 COUNTY HOME ROADWINTERVILLE, NC 28590Phone 252-714-0514
+
+Airport Operational Statistics
+
+Aircraft based on the field:22Single engine airplanes:22
+Aircraft operations: avg 48/week*96%local general aviation4%transient general aviation* for 12-month period ending 01 June 2021
+Additional Remarks
+
+-RY 07/25 MKD WITH YELLOW CONES.
+-DAYTIME USE ONLY.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-RWY 25 HAS 15 FT+/- ROAD 150 FT +/- FM THR BOTH SIDE OF CNTRLN AND 10 FT+/- DRIVEWAY 25 FT +/- FM THR OFFSET 5 FT +/- RIGHT OF CNTRLN
+
+Instrument Procedures
+There are no published instrument procedures at 05N.
+Some nearby airports with instrument procedures:
+KPGV - Pitt-Greenville Airport (9 nm N)
+KISO - Kinston Regional Jetport at Stallings Field (15 nm SW)
+KOCW - Washington-Warren Airport (16 nm E)
+KMCZ - Martin County Airport (24 nm N)
+KETC - Tarboro-Edgecombe Airport (29 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Tim Wooten
+Photo taken 12-May-2011
+looking northeast.
+
+Do you have a better or more recent aerial photo of South Oaks Aerodrome that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to South Oaks Aerodrome?
+Find the distance to fly.
+From 
+to 05N
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:2322:23
+Evening civil twilight17:5022:50
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:55:27
+Local (UTC-5)19-Jan-2024 16:55:27
+
+
+
+
+   
+
+METAR
+
+
+KPGV8nm N192125Z AUTO 34010G18KT 10SM BKN050 OVC070 07/M01 A2984 RMK AO2
+
+KOCW16nm E192125Z AUTO 34016G23KT 10SM OVC050 08/M02 A2983 RMK AO2 T00801017
+
+KISO16nm SW192056Z 35008G15KT 10SM SCT065 BKN075 11/M00 A2981
+
+
+
+
+
+TAF
+
+
+KPGV8nm N191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KISO16nm SW191727Z 1918/2018 30016G27KT P6SM SCT050 FM200300 31011G20KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the South Oaks Aerodrome, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about South Oaks Aerodrome
+
+
+
+www.southoaksaerodrome.org
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

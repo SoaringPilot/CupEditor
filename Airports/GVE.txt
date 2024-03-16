@@ -1,0 +1,391 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KGVE - Gordonsville Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1566 users online
+ 
+
+
+
+
+KGVE
+ Gordonsville Municipal AirportGordonsville, Virginia, USA 
+
+
+
+
+
+
+GOING TO GORDONSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:GVE
+Lat/Long:38-09-21.5860N 078-09-56.8080W38-09.359767N 078-09.946800W38.1559961,-78.1657800(estimated)
+Elevation:454 ft. / 138 m (estimated)
+Variation:10W (2010)
+From city:3 miles NE of GORDONSVILLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22942
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:03/1940
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTIVATE MIRL RY 05/23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:120.225 (540-832-2095)
+POTOMAC APPROACH:132.85
+POTOMAC DEPARTURE:132.85
+WX AWOS-3 at OMH (8 nm NE):118.075 (540-672-0505)
+WX AWOS-3 at LKU (13 nm SE):119.475 (540-967-1983)
+WX ASOS at CHO (14 nm W):PHONE 434-973-5024
+
+
+COMMUNICATIONS PRVDD BY LEESBURG RADIO ON FREQ 122.1R/115.6T (GORDONSVILLE RCO).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GVEr002/8.6GORDONSVILLE VORTAC115.6006W
+CSNr212/32.4CASANOVA VORTAC116.3006W
+BRVr263/39.8BROOKE VORTAC114.5009W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR224/21.735110WMSQ-- ... --.-
+SHANNON269/34.423710WEZF. --.. ..-.
+CAVERNS165/35.624509WLUA.-.. ..- .-
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:2300 x 40 ft. / 701 x 12 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:38-09.209850N38-09.508617N
+Longitude:078-10.094100W078-09.798933W
+Elevation:453.0 ft.442.0 ft.
+Traffic pattern:leftleft
+Runway heading:048 magnetic, 038 true228 magnetic, 218 true
+Displaced threshold:no440 ft.
+Markings:basic, in good conditionbasic, in good condition
+Visual slope indicator:panels that may or may not be lighted,  on rightpanels that may or may not be lighted,  on right
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:11 ft. tree, 217 ft. from runway, 46 ft. left of centerline, 1:1 slope to clear77 ft. tree, 567 ft. from runway, 130 ft. right of centerline, 4:1 slope to clearLINE OF TREES 120 FT S OF RWY CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF GORDONSVILLEP.O. BOX 276GORDONSVILLE, VA 22942Phone 540-832-2233
+Manager:DEBORAH S. KENDALL, TOWN MGRPO BOX 276GORDONSVILLE, VA 22942Phone (540) 832-2233
+
+Airport Operational Statistics
+
+Aircraft based on the field:23Single engine airplanes:21Multi engine airplanes:1Helicopters:1
+Aircraft operations: avg 30/day*74%local general aviation22%transient general aviation3%military<1%air taxi* for 12-month period ending 30 June 2023
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS)-A
+download (177KB)
+RNAV (GPS)-B
+download (184KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KOMH - Orange County Airport (8 nm NE)
+KLKU - Louisa County Airport/Freeman Field (13 nm SE)
+KCHO - Charlottesville-Albemarle Airport (14 nm W)
+7W4 - Lake Anna Airport (23 nm SE)
+KCJR - Culpeper Regional Airport (26 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 26-Oct-2008
+
+Do you have a better or more recent aerial photo of Gordonsville Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Gordonsville Municipal Airport?
+Find the distance to fly.
+From 
+to KGVE
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:2022:20
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:11:45
+Local (UTC-5)19-Jan-2024 16:11:45
+
+
+
+
+   
+
+METAR
+
+
+KGVE192055Z AUTO 31004KT 10SM SCT044 SCT050 BKN080 01/M05 A2984 RMK AO1 T00071047
+
+KOMH8nm NE192055Z AUTO 30006KT 10SM SCT070 OVC090 00/M04 A2987 RMK AO2
+
+KLKU13nm SE192055Z AUTO 31012G18KT 10SM SCT035 BKN060 OVC085 01/M05 A2985 RMK AO2 T00141045 60001
+
+KCHO13nm W192053Z 30008G21KT 270V330 10SM BKN055 03/M10 A2984 RMK AO2 SLP107 60000 T00331100 53024
+
+
+
+
+
+TAF
+
+
+KCHO13nm W191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Gordonsville Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Gordonsville Municipal Airport
+
+
+
+www.townofgordonsville.org/...
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

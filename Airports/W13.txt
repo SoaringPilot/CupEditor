@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W13 - Eagle's Nest Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1607 users online
+ 
+
+
+
+
+W13
+ Eagle's Nest AirportWaynesboro, Virginia, USA 
+
+
+
+
+
+
+GOING TO WAYNESBORO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W13
+Lat/Long:38-04-36.9750N 078-56-39.9750W38-04.616250N 078-56.666250W38.0769375,-78.9444375(estimated)
+Elevation:1436 ft. / 438 m (estimated)
+Variation:09W (2010)
+From city:3 miles W of WAYNESBORO, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22980
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:12/1946
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:0800 - 1630
+Wind indicator:yes
+Segmented circle:no
+Lights:ACTVT MIRL RWY 06/24 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.05
+WX AWOS-3PT:118.625 (540-941-7570)
+POTOMAC APPROACH:132.85
+POTOMAC DEPARTURE:132.85
+WX AWOS-3 at SHD (11 nm N):124.925 (540-234-0110)
+WX AWOS-3 at VBW (17 nm N):119.55 (540-828-2076)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+MOLr041/13.1MONTEBELLO VOR/DME115.3005W
+GVEr282/37.6GORDONSVILLE VORTAC115.6006W
+
+
+NDBnameHdg/DistFreqVarID
+STAUT184/7.537509WSH... ....
+
+Airport Services
+
+Fuel available:100LL
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 6/24
+
+Dimensions:2004 x 50 ft. / 611 x 15 m
+Surface:asphalt, in good condition
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:38-04.515333N38-04.717167N
+Longitude:078-56.831500W078-56.501000W
+Elevation:1436.0 ft.1430.0 ft.
+Traffic pattern:leftleft
+Markings:numbers only, in good conditionnumbers only, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:38 ft. tree, 500 ft. from runway, 113 ft. right of centerline, 7:1 slope to clear23 FT BRUSH AND TREES L SIDE OF RWY APPROXIMATELY 155 FT FM THR AND 108 FT FM CNTRLN.32 ft. tree, 418 ft. from runway, 132 ft. left of centerline, 6:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MICHAEL L FOGLEP. O. BOX 691236CHARLOTTE, NC 28227-7021Phone 704-576-3500
+Manager:MICHAEL T.K. ROSOLINA249 AERO DRWAYNESBORO, VA 22980Phone 540-943-4447
+
+Airport Operational Statistics
+
+Aircraft based on the field:64Single engine airplanes:60Multi engine airplanes:3Gliders airplanes:1
+Aircraft operations: avg 39/day*70%local general aviation23%transient general aviation7%air taxi* for 12-month period ending 31 December 2021
+Additional Remarks
+
+-DEER ON AND INVOF ARPT.
+-NO REPETITIVE PRACTICE TKOFS AND LDGS AFT 0100Z.
+-NO GRASS LANDINGS OR TAKEOFFS EITHER SIDE OF RWY 06/24.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 06
+download (185KB)
+RNAV (GPS) RWY 24
+download (169KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+KSHD - Shenandoah Valley Regional Airport (11 nm N)
+KVBW - Bridgewater Air Park (17 nm N)
+KCHO - Charlottesville-Albemarle Airport (24 nm E)
+8W2 - New Market Airport (36 nm N)
+KGVE - Gordonsville Municipal Airport (37 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Eagle's Nest Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Eagle's Nest Airport?
+Find the distance to fly.
+From 
+to W13
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:2322:23
+Evening civil twilight17:5222:52
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:03:22
+Local (UTC-5)19-Jan-2024 16:03:22
+
+
+
+
+   
+
+METAR
+
+
+KW13192055Z AUTO 29010G16KT 10SM SCT050 BKN110 00/M11 A2982 RMK AO1 T00021107
+
+KSHD12nm N192055Z AUTO 30016G28KT 10SM -RA SCT065 SCT120 00/M10 A2985 RMK AO2 T00001105
+
+KVBW17nm N192055Z AUTO 29015G23KT 10SM BKN050 BKN120 00/M10 A2984 RMK AO1 T10011105
+
+
+
+
+
+TAF
+
+
+KCHO24nm E191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Eagle's Nest Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Eagle's Nest Airport
+
+
+
+www.eaglesnest.aero
+
+
+
+
+
+www.eaglesnestairpark.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

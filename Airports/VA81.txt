@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA81 - Cub Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1626 users online
+ 
+
+
+
+
+VA81
+ Cub Field AirportMineral, Virginia, USA 
+
+
+
+
+
+
+GOING TO MINERAL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA81
+Lat/Long:37-56-43.5070N 077-53-57.9830W37-56.725117N 077-53.966383W37.9454186,-77.8994397(estimated)
+Elevation:396 ft. / 120.7 m (surveyed)
+Variation:08W (1985)
+From city:4 miles S of MINERAL, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23117
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:02/1967
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:IREG
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at LKU (5 nm NW):119.475 (540-967-1983)
+WX AWOS-3 at 7W4 (7 nm E):120.775 (540-872-0303)
+WX AWOS-3 at GVE (18 nm NW):120.225 (540-832-2095)
+WX AWOS-3 at OMH (19 nm N):118.075 (540-672-0505)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GVEr115/12.7GORDONSVILLE VORTAC115.6006W
+FAKr358/25.2FLAT ROCK VORTAC113.3006W
+BRVr237/34.9BROOKE VORTAC114.5009W
+RICr323/38.2RICHMOND VORTAC114.1009W
+
+
+NDBnameHdg/DistFreqVarID
+SHANNON238/28.623710WEZF. --.. ..-.
+NAILR189/30.535110WMSQ-- ... --.-
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 18/36
+
+Dimensions:1400 x 80 ft. / 427 x 24 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:trees, 1550 ft. from runwaypline, 1500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DORIS E. MCCRAY15434 CROSS COUNTY RDMINERAL, VA 23117Phone 703-894-4465
+Manager:DORIS E. MCCRAY15434 CROSS COUNTY RDMINERAL, VA 23117Phone 703-894-4465
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Ultralights:1
+Additional Remarks
+
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+There are no published instrument procedures at VA81.
+Some nearby airports with instrument procedures:
+KLKU - Louisa County Airport/Freeman Field (5 nm NW)
+7W4 - Lake Anna Airport (7 nm E)
+KGVE - Gordonsville Municipal Airport (18 nm NW)
+KOMH - Orange County Airport (19 nm N)
+KOFP - Hanover County Municipal Airport (26 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Cub Field Airport?
+Find the distance to fly.
+From 
+to VA81
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2612:26
+Sunset17:1922:19
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:56:08
+Local (UTC-5)19-Jan-2024 15:56:08
+
+
+
+
+   
+
+METAR
+
+
+KLKU5nm NW192035Z AUTO 30012G21KT 10SM BKN037 OVC049 02/M04 A2984 RMK AO2 T00161035
+
+K7W47nm E192035Z AUTO 00000KT 10SM SCT042 SCT048 OVC065 01/M03 A2984 RMK AO1 T00101033
+
+KGVE18nm NW192035Z AUTO 32006KT 10SM SCT050 OVC075 01/M04 A2984 RMK AO1 T00101038
+
+KOMH20nm N192035Z AUTO 33007KT 10SM SCT039 SCT050 OVC090 01/M04 A2986 RMK AO2
+
+
+
+
+
+TAF
+
+
+KCHO28nm NW191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Cub Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Cub Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

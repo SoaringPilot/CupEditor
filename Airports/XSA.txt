@@ -1,0 +1,427 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KXSA - Tappahannock/Essex County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1419 users online
+ 
+
+
+
+
+KXSA
+ Tappahannock/Essex County AirportTappahannock, Virginia, USA 
+
+
+
+
+
+
+GOING TO TAPPAHANNOCK?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:XSA
+Lat/Long:37-51-34.5930N 076-53-38.8300W37-51.576550N 076-53.647167W37.8596092,-76.8941194(estimated)
+Elevation:135.2 ft. / 41.2 m (surveyed)
+Variation:11W (2010)
+From city:5 miles S of TAPPAHANNOCK, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:22454
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/2007
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:XSA (NOTAM-D service available)
+Attendance:NOV - FEB 0800-1800,  MAR - OCT 0900-1900
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT PAPI RWY 10 & 28; MIRL RWY 10/28 - CTAF.
+Beacon:white-green (lighted land airport)ACTVT ROTG BCN - CTAF.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:125.775 (804-445-8724)
+POTOMAC APPROACH:126.4
+POTOMAC DEPARTURE:126.4
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr348/26.1HARCUM VORTAC108.8007W
+RICr052/29.5RICHMOND VORTAC114.1009W
+HPWr024/33.5HOPEWELL VORTAC114.3506W
+PXTr232/34.7PATUXENT VORTAC117.6010W
+BRVr152/35.9BROOKE VORTAC114.5009W
+
+
+NDBnameHdg/DistFreqVarID
+PATUXENT232/34.540010WNHK-. .... -.-
+SHANNON143/35.923710WEZF. --.. ..-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+
+Runway Information
+Runway 10/28
+
+Dimensions:4300 x 75 ft. / 1311 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 10RUNWAY 28
+Latitude:37-51.549600N37-51.603488N
+Longitude:076-54.092648W076-53.201673W
+Elevation:135.2 ft.127.7 ft.
+Traffic pattern:leftleft
+Runway heading:097 magnetic, 086 true277 magnetic, 266 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:6 ft. trees, 383 ft. from runway, 157 ft. left of centerline, 30:1 slope to clear8 ft. trees, 515 ft. from runway, 24 ft. left of centerline, 39:1 slope to clear4 FT TREE 238 FT FM THR, 233 R OF CNTRLN ON APCH CLNC SLP 9:1.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:ESSEX COUNTY ARPT AUTH1450 AVIATION ROADTAPPAHANNOCK, VA 22560Phone 804-443-5885
+Manager:JIM EVANS1450 AVIATION ROADTAPPAHANNOCK, VA 22560Phone 804-443-5885
+
+Airport Operational Statistics
+
+Aircraft based on the field:24Single engine airplanes:22Multi engine airplanes:2
+Aircraft operations: avg 32/day*50%local general aviation23%air taxi18%military10%transient general aviation* for 12-month period ending 31 December 2017
+Additional Remarks
+
+-DEER & OTHER WILDLIFE ON & INVOF ARPT.
+-FOR CD CTC POTOMAC APCH AT 866-640-4124.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 10
+download (226KB)
+RNAV (GPS) RWY 28
+download (301KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+KFYJ - Middle Peninsula Regional Airport (21 nm S)
+W96 - New Kent County Airport (24 nm SW)
+W75 - Hummel Field Airport (26 nm SE)
+KOFP - Hanover County Municipal Airport (27 nm W)
+KRIC - Richmond International Airport (29 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken in 2007
+
+Do you have a better or more recent aerial photo of Tappahannock/Essex County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Tappahannock/Essex County Airport?
+Find the distance to fly.
+From 
+to KXSA
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2212:22
+Sunset17:1522:15
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:59:28
+Local (UTC-5)19-Jan-2024 16:59:28
+
+
+
+
+   
+
+METAR
+
+
+KXSA192155Z AUTO 30003KT 10SM SCT050 00/M03 A2989 RMK AO2 T00011029
+
+
+
+
+
+TAF
+
+
+KRIC29nm SW191740Z 1918/2018 30011KT P6SM SCT008 OVC015 TEMPO 1918/1921 2SM -SHSN FM192100 31013G20KT P6SM BKN040 FM200200 31012G19KT P6SM FEW050 FM200900 31011KT P6SM SKC FM201500 32014G22KT P6SM SCT060 
+
+KNHK34nm NE1918/2015 32011KT 6000 SN BR SCT007 BKN012 OVC018 650109 651009 651901 QNH2966INS TEMPO 1918/1923 0800 SN FG BKN004 OVC010 BECMG 1922/1923 31014G19KT 9999 NSW BKN015 OVC025 611009 611905 500000 QNH2982INS BECMG 2007/2009 31015G20KT 9999 SCT025 SCT035 BKN050 600000 520005 QNH3000INS BECMG 2013/2015 30018G25KT 9999 FEW030 FEW080 520005 QNH3010INS TX04/1918Z TNM04/2012Z AMD 1850 FN00067 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Tappahannock-Essex County Airport
+
+804-443-5885[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Passenger terminal and lounge, ...
+
+
+
+More info about Tappahannock-Essex County Airport
+
+
+
+
+
+Phillips 66100LL Jet AAS$5.35$5.15Updated 15-Jan-2024
+
+
+
+
+2readwrite
+
+
+
+AS=Assisted/Self Service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Tappahannock/Essex County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Tappahannock/Essex County Airport
+
+
+
+www.tappahannockessexairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

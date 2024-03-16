@@ -1,0 +1,442 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KLKU - Louisa County Airport/Freeman Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1531 users online
+ 
+
+
+
+
+KLKU
+ Louisa County Airport/Freeman FieldLouisa, Virginia, USA 
+
+
+
+
+
+
+GOING TO LOUISA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:LKU
+Lat/Long:38-00-35.3690N 077-58-12.4560W38-00.589483N 077-58.207600W38.0098247,-77.9701267(estimated)
+Elevation:493.7 ft. / 150.5 m (surveyed)
+Variation:10W (2010)
+From city:2 miles SE of LOUISA, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23093
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1987
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:LKU (NOTAM-D service available)
+Attendance:MON-FRI 0830-1700,  ALL SAT & SUN CLSD
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 09/27; PAPI RWY 09 & 27; MIRL RWY 09/27 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.975
+WX AWOS-3:119.475 (540-967-1983)
+POTOMAC APPROACH:132.85 120.525
+POTOMAC DEPARTURE:132.85 120.525
+WX AWOS-3 at 7W4 (11 nm E):120.775 (540-872-0303)
+WX AWOS-3 at GVE (13 nm NW):120.225 (540-832-2095)
+WX AWOS-3 at OMH (15 nm N):118.075 (540-672-0505)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GVEr098/8.6GORDONSVILLE VORTAC115.6006W
+FAKr353/29.7FLAT ROCK VORTAC113.3006W
+BRVr245/35.1BROOKE VORTAC114.5009W
+CSNr193/38.2CASANOVA VORTAC116.3006W
+
+
+NDBnameHdg/DistFreqVarID
+NAILR197/26.835110WMSQ-- ... --.-
+SHANNON248/29.023710WEZF. --.. ..-.
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+
+Runway Information
+Runway 9/27
+
+Dimensions:4300 x 100 ft. / 1311 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 9RUNWAY 27
+Latitude:38-00.542198N38-00.636730N
+Longitude:077-58.651320W077-57.763887W
+Elevation:469.4 ft.493.5 ft.
+Traffic pattern:rightleft
+Runway heading:092 magnetic, 082 true272 magnetic, 262 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:43 ft. trees, 673 ft. from runway, 272 ft. right of centerline, 11:1 slope to clear23 ft. trees, 1316 ft. from runway, 383 ft. left of centerline, 48:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:IND DEV AUTH OF LOUISA CO.PO BOX 27LOUISA, VA 23093Phone 540-967-0050
+Manager:ED JARVIS335 INDUSTRIAL DR, P.O. BOX 27LOUISA, VA 23093Phone 540-967-0050EJARVIS@LOUISA.ORG
+
+Airport Operational Statistics
+
+Aircraft based on the field:51Single engine airplanes:45Multi engine airplanes:5Jet airplanes:1
+Aircraft operations: avg 85/day*64%local general aviation32%transient general aviation2%air taxi2%military* for 12-month period ending 30 April 2019
+Additional Remarks
+
+-BCN LOCATED ON WATER TWR; NORTH SIDE APCH RY 27.
+-DEER & BIRDS ON & INVOF ARPT.
+-3 FT PVC GAS LINE MARKER LCTD APRX 26 FT FM RY 09 THLD, 54 FT LEFT OF CNTRLN.
+-FOR CD CTC POTOMAC APCH AT 540-349-9697
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 09
+download (237KB)
+RNAV (GPS) RWY 27
+download (226KB)
+LOC RWY 27
+download (198KB)
+
+NOTE: Special Alternate Minimums apply
+download (143KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (357KB)
+
+Other nearby airports with instrument procedures:
+7W4 - Lake Anna Airport (11 nm E)
+KGVE - Gordonsville Municipal Airport (13 nm NW)
+KOMH - Orange County Airport (15 nm N)
+KCHO - Charlottesville-Albemarle Airport (24 nm W)
+KEZF - Shannon Airport (29 nm NE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Louisa County Airport/Freeman Field that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Louisa County Airport/Freeman Field?
+Find the distance to fly.
+From 
+to KLKU
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2612:26
+Sunset17:1922:19
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:28:16
+Local (UTC-5)19-Jan-2024 16:28:16
+
+
+
+
+   
+
+METAR
+
+
+KLKU192055Z AUTO 31012G18KT 10SM SCT035 BKN060 OVC085 01/M05 A2985 RMK AO2 T00141045 60001
+
+K7W411nm E192115Z AUTO 35005KT 2 1/2SM SCT007 BKN028 OVC036 00/M02 A2986 RMK AO1 T00041021
+
+KGVE13nm NW192115Z AUTO 00000KT 10SM SCT044 SCT055 BKN095 01/M05 A2985 RMK AO1 T00121052
+
+KOMH15nm N192115Z AUTO 32005G16KT 10SM OVC090 00/M05 A2988 RMK AO2
+
+
+
+
+
+TAF
+
+
+KCHO24nm W191727Z 1918/2018 29006KT 4SM -SN BR BKN025 OVC045 FM192000 29009KT P6SM BKN045 FM201700 30016G28KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+IDA FBO
+
+540-967-0050540-967-1695[web site][email]
+
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, ...
+
+
+
+More info about IDA FBO
+
+
+
+
+
+Phillips 66100LL Jet AFS---$5.25SS$5.45---Updated 12-Jan-2024
+
+
+
+
+write
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Louisa County Airport/Freeman Field, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Louisa County Airport/Freeman Field
+
+
+
+www.louisacountyairport.org
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

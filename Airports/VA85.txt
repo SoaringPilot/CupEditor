@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: VA85 - New Castle International Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1442 users online
+ 
+
+
+
+
+VA85
+ New Castle International AirportNew Castle, Virginia, USA 
+
+
+
+
+
+
+GOING TO NEW CASTLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:VA85
+Lat/Long:37-29-00.4650N 080-05-59.1700W37-29.007750N 080-05.986167W37.4834625,-80.0997694(estimated)
+Elevation:1320 ft. / 402 m (estimated)
+Variation:06W (1985)
+From city:2 miles SE of NEW CASTLE, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24127
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1962
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at ROA (11 nm SE):PHONE 540-265-0680
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ROAr355/8.5ROANOKE VOR/DME109.4004W
+ODRr337/(11.2)WOODRUM VOR114.9008W
+PSKr057/37.7PULASKI VORTAC116.8006W
+
+
+NDBnameHdg/DistFreqVarID
+VINTON336/19.727708WVIT...- .. -
+TECH049/21.936808WTEC- . -.-.
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 18/36
+
+Dimensions:2400 x 100 ft. / 732 x 30 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftright
+Obstructions:nonehill
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LANIER FRANTZHC-34 BOX 54NEW CASTLE, VA 24127-9312Phone 540-864-5800
+Manager:LANIER FRANTZHC-34 BOX 54NEW CASTLE, VA 24127Phone 540-864-5542
+
+Airport Operational Statistics
+
+Aircraft based on the field:15Single engine airplanes:5Gliders airplanes:10GLIDERS
+Additional Remarks
+
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+There are no published instrument procedures at VA85.
+Some nearby airports with instrument procedures:
+KROA - Roanoke-Blacksburg Regional Airport/Woodrum Field (11 nm SE)
+KBCB - Virginia Tech/Montgomery Executive Airport (22 nm SW)
+KLWB - Greenbrier Valley Airport (27 nm NW)
+KHSP - Ingalls Field Airport (31 nm NE)
+W91 - Smith Mountain Lake Airport (33 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of New Castle International Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to New Castle International Airport?
+Find the distance to fly.
+From 
+to VA85
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:37:55
+Local (UTC-5)19-Jan-2024 16:37:55
+
+
+
+
+   
+
+METAR
+
+
+KROA12nm SE192054Z 29015G24KT 10SM BKN042 M01/M07 A2992 RMK AO2 PK WND 30033/2004 SLP141 T10061072 51032 $
+
+KBCB22nm SW192115Z AUTO 30011G19KT 3/4SM -SN SCT019 OVC030 M03/M08 A2993 RMK AO2 T10301082
+
+
+
+
+
+TAF
+
+
+KROA12nm SE191735Z 1918/2018 29017G27KT P6SM -SN BKN040 FM200500 30014G24KT P6SM BKN060 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the New Castle International Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about New Castle International Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

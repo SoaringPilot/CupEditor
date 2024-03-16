@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KSIF - Rockingham County NC Shiloh Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1455 users online
+ 
+
+
+
+
+KSIF
+ Rockingham County NC Shiloh AirportReidsville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO REIDSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SIF
+Lat/Long:36-26-13.9790N 079-51-03.6350W36-26.232983N 079-51.060583W36.4372164,-79.8510097(estimated)
+Elevation:693.5 ft. / 211.4 m (surveyed)
+Variation:07W (1990)
+From city:8 miles NW of REIDSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27048
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:12/1975
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:SIF (NOTAM-D service available)
+Attendance:0800-1700
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 13 & 31; PAPI RWY 13 & 31; HIRL RWY 13/31 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:119.775 (336-573-3677)
+GREENSBORO APPROACH:124.35
+GREENSBORO DEPARTURE:124.35
+WX AWOS-3 at MTV (14 nm NW):118.45 (276-957-3784)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr017/24.3GREENSBORO VORTAC116.2003W
+DANr258/(26.0)DANVILLE VOR113.1006W
+LIBr346/39.3LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER315/5.442307WSIF... .. ..-.
+BALES168/9.739607WUV..- ...-
+PERSON296/39.922008WHUR.... ..- .-.
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:100LL FUEL 24 HR CREDIT CARD SVC AVBL.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 13/31
+
+Dimensions:5200 x 100 ft. / 1585 x 30 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:32.0Double wheel:43.0
+Runway edge lights:high intensity
+RUNWAY 13RUNWAY 31
+Latitude:36-26.476170N36-25.989755N
+Longitude:079-51.497150W079-50.624055W
+Elevation:693.5 ft.667.9 ft.
+Traffic pattern:leftleft
+Runway heading:132 magnetic, 125 true312 magnetic, 305 true
+Displaced threshold:500 ft.no
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:4-light PAPI on left (3.70 degrees glide path)4-light PAPI on left (3.70 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:SDF
+Obstructions:83 ft. trees, 671 ft. from runway, 320 ft. right of centerline, 5:1 slope to clear5 FT GND 0-200 FT FROM THR 150 FT RIGHT OF CNTRLN.55 ft. trees, 893 ft. from runway, 211 ft. right of centerline, 12:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:ROCKINGHAM COUNTY2691 SETTLE BRIDGE ROADSTONEVILLE, NC 27048Phone 336-573-3115
+Manager:MIKE BROOKS2691 SETTLE BRIDGE ROADSTONEVILLE, NC 27048Phone 336-573-3115FAX 336-573-9415.
+
+Airport Operational Statistics
+
+Aircraft based on the field:48Single engine airplanes:42Multi engine airplanes:4Jet airplanes:1Helicopters:1
+Aircraft operations: avg 66/day*62%local general aviation37%transient general aviation<1%military* for 12-month period ending 04 November 2022
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-FOR CD CTC GREENSBORO APCH AT 743-222-6129.
+-SEASONAL FARMING OPNS AND EQPT INVOF RWY.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 13
+download (211KB)
+RNAV (GPS) RWY 31
+download (208KB)
+VOR/DME-A
+download (198KB)
+NDB RWY 31
+download (209KB)
+
+NOTE: Special Alternate Minimums apply
+download (162KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (363KB)
+
+Other nearby airports with instrument procedures:
+KMTV - Blue Ridge Airport (14 nm NW)
+N63 - Meadow Brook Field Airport (17 nm SW)
+KGSO - Piedmont Triad International Airport (21 nm S)
+KINT - Smith Reynolds Airport (26 nm SW)
+KDAN - Danville Regional Airport (26 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 12-Nov-2011
+looking north.
+
+Do you have a better or more recent aerial photo of Rockingham County NC Shiloh Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Rockingham County NC Shiloh Airport?
+Find the distance to fly.
+From 
+to KSIF
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3022:30
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:49:08
+Local (UTC-5)19-Jan-2024 16:49:08
+
+
+
+
+   
+
+METAR
+
+
+KSIF192130Z AUTO 29009G17KT 10SM SCT060 03/M09 A2996 RMK AO2 T00331093
+
+KMTV13nm NW192135Z AUTO 34014KT 10SM BKN050 BKN065 01/M12 A2999 RMK AO2 T00101119
+
+
+
+
+
+TAF
+
+
+KGSO21nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KINT25nm SW191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Rockingham County / Shiloh Airport
+
+
+
+336-573-3115336-314-8612[web site][email]
+
+Airport management, Aviation fuel, Aircraft ground handling, Aircraft parking (ramp or tiedown), Hangar leasing / sales, Passenger terminal and lounge, ...
+
+ 
+ 
+ 
+ 
+
+
+
+
+More info about Rockingham County / Shiloh Airport
+
+
+
+
+
+100LL Jet AFS$5.80$5.99SS$5.48---GUARANTEED
+
+
+
+
+3readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Rockingham County NC Shiloh Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Rockingham County NC Shiloh Airport
+
+
+
+www.shilohairport.com
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

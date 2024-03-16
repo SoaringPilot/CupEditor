@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 15NC - Dragonfly Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1611 users online
+ 
+
+
+
+
+15NC
+ Dragonfly Field AirportAhoskie, North Carolina, USA 
+
+
+
+
+
+
+GOING TO AHOSKIE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:15NC
+Lat/Long:36-14-23.0000N 076-58-26.0000W36-14.383333N 076-58.433333W36.2397222,-76.9738889(estimated)
+Elevation:49 ft. / 15 m (estimated)
+Variation:09W ()
+From city:3 miles N of AHOSKIE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27910
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:01/2000
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at ASJ (10 nm W):119.075 (252-345-2967)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CVIr221/9.4COFIELD VORTAC114.6009W
+FKNr185/28.5FRANKLIN VORTAC110.6009W
+ECGr275/38.6ELIZABETH CITY VOR/DME115.7507W
+TYIr071/38.7TAR RIVER VORTAC117.8005W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE278/32.725410WLLW.-.. .-.. .--
+ALWOOD040/37.423009WAQE.- --.- .
+
+Airport Services
+
+
+Runway Information
+Runway 14/32
+
+Dimensions:1800 x 50 ft. / 549 x 15 m
+Surface:turf
+RUNWAY 14RUNWAY 32
+Traffic pattern:rightleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:MICHAEL A. SPALDINGPO BOX 925AHOSKIE, NC 27910Phone 252-332-7690
+Manager:MICHAEL A. SPALDINGPO BOX 925AHOSKIE, NC 27910Phone 252-332-7690
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-OWNER DESIRES ARPT NOT BE CHARTED.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 15NC.
+Some nearby airports with instrument procedures:
+KASJ - Tri-County Airport at Henry Joyner Field (10 nm W)
+KEDE - Northeastern Regional Airport (23 nm SE)
+KMCZ - Martin County Airport (25 nm SW)
+KPMZ - Plymouth Municipal Airport (28 nm S)
+KFKN - Franklin Regional Airport (28 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Dragonfly Field Airport?
+Find the distance to fly.
+From 
+to 15NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:1922:19
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:01:58
+Local (UTC-5)19-Jan-2024 16:01:58
+
+
+
+
+   
+
+METAR
+
+
+KASJ10nm W192045Z AUTO 32007G21KT 10SM BKN038 OVC045 05/M03 A2983 RMK AO2 T00531026
+
+
+
+
+
+TAF
+
+
+KECG38nm E191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+KPGV43nm SW191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Dragonfly Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Dragonfly Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: W40 - Mount Olive Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1470 users online
+ 
+
+
+
+
+W40
+ Mount Olive Municipal AirportMount Olive, North Carolina, USA 
+
+
+
+
+
+
+GOING TO MOUNT OLIVE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:W40
+Lat/Long:35-13-17.2350N 078-02-19.0200W35-13.287250N 078-02.317000W35.2214542,-78.0386167(estimated)
+Elevation:166.7 ft. / 50.8 m (surveyed)
+Variation:09W (2015)
+From city:3 miles NE of MOUNT OLIVE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28365
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0800-1800UNATNDD ON MAJOR HOLS.  FOR SVC AFTER HRS CALL 252-234-7778 OR 252-289-7778.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:AFTER SS ACTVT AND INCR INTST MIRL RWY 05/23 - CTAF. ACTVT PAPI RWY 05 & 23 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3P:120.075 (919-658-8067)
+SEYMOUR JOHNSON APPROACH:119.7
+SEYMOUR JOHNSON DEPARTURE:119.7
+WX AWOS-3PT at GSB (8 nm NE):317.625
+WX AWOS-3 at DPL (14 nm S):120.675 (910-296-9688)
+WX AWOS-3P at GWW (15 nm N):118.975 (919-731-4473)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG) WHEN APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr254/25.2KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+CLINTON056/21.741209WCTZ-.-. - --..
+HARNETT120/33.641708WHQT.... --.- -
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:FOR AVGAS AND JET A - 24 HR SELF SVC WITH CREDIT CARD.
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:HIGH/LOW
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:5254 x 75 ft. / 1601 x 23 m
+Surface:asphalt, in excellent condition
+Weight bearing capacity:Single wheel:20.0
+Runway edge lights:medium intensity
+RUNWAY 5RUNWAY 23
+Latitude:35-12.956978N35-13.617505N
+Longitude:078-02.658345W078-01.975605W
+Elevation:166.2 ft.166.5 ft.
+Traffic pattern:leftleft
+Runway heading:049 magnetic, 040 true229 magnetic, 220 true
+Displaced threshold:no254 ft.
+Markings:nonprecision, in fair conditionnonprecision, in fair condition
+Visual slope indicator:2-light PAPI on left (3.50 degrees glide path)2-light PAPI on left (3.50 degrees glide path)
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:54 ft. trees, 361 ft. from runway, 200 ft. right of centerline, 2:1 slope to clear19 ft. road, 279 ft. from runway, 96 ft. left of centerline, 4:1 slope to clearAPCH SLOPE 19:1 TO DSPLCD THR.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF MT OLIVE AND WAYNE COUNTY114 EAST JAMES STREETMT OLIVE, NC 28365Phone 919-635-9539
+Manager:MICHAEL BASS227 MT OLIVE AIRPORT ROADMT OLIVE, NC 28365Phone 919-635-1471
+
+Airport Operational Statistics
+
+Aircraft based on the field:16Single engine airplanes:13Multi engine airplanes:2Helicopters:1
+Aircraft operations: avg 40/day*69%local general aviation31%transient general aviation<1%military* for 12-month period ending 19 June 2021
+Additional Remarks
+
+-RWY 05 +200 FT AM RADIO TWR APPROX 6000 FT SW OF RWY END ON CNTRLN.
+-LOW-LEVEL MIL ACT NEAR ARPT.
+--5 FT DRAINAGE DITCH 100 FT LEFT OF CNTRLN OF RWY 05.
+-FOR COLLISION AVOIDANCE CONTACT SEYMOUR AFB 119.7.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 05
+download (207KB)
+RNAV (GPS) RWY 23
+download (188KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KGSB - Seymour Johnson Air Force Base (8 nm NE)
+KDPL - Duplin County Airport (14 nm S)
+KGWW - Wayne Executive Jetport Airport (15 nm N)
+KCTZ - Clinton-Sampson County Airport (22 nm SW)
+KISO - Kinston Regional Jetport at Stallings Field (22 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Tim Wooten
+Photo taken 28-May-2011
+looking northeast.
+
+Do you have a better or more recent aerial photo of Mount Olive Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mount Olive Municipal Airport?
+Find the distance to fly.
+From 
+to W40
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2012:20
+Sunset17:2622:26
+Evening civil twilight17:5322:53
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:36:53
+Local (UTC-5)19-Jan-2024 16:36:53
+
+
+
+
+   
+
+METAR
+
+
+KGSB7nm NE192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KDPL14nm S192105Z AUTO 32010G16KT 10SM BKN070 BKN085 11/M03 A2982 RMK AO2
+
+KGWW15nm N192110Z AUTO 31010G22KT 270V330 10SM SCT060 OVC075 09/M02 A2984 RMK AO2 T00881021
+
+
+
+
+
+TAF
+
+
+KGSB7nm NE191300Z 1913/2019 24009KT 9999 FEW020 SCT030 BKN070 QNH2972INS BECMG 1914/1915 26012KT 9999 SCT022 SCT045 QNH2971INS BECMG 1917/1918 27013G23KT 9999 SCT030 BKN050 QNH2969INS TEMPO 1919/1923 30015G30KT BKN030 510003 BECMG 2004/2005 32012KT 9999 FEW030 FEW080 QNH2980INS TX12/1918Z TNM05/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Bass Aviation
+
+919-635-1471[web site][email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, GPU / Power cart, Passenger terminal and lounge, Flight training, ...
+
+
+
+More info about Bass Aviation
+
+
+
+
+
+Phillips 66100LL Jet AAS---$4.38SS$4.86---Updated 16-Jan-2024
+
+
+
+
+write
+
+
+
+AS=Assisted/Self ServiceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mount Olive Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mount Olive Municipal Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

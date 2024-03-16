@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 3NC9 - Womble Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1460 users online
+ 
+
+
+
+
+3NC9
+ Womble Field AirportChapel Hill, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CHAPEL HILL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:3NC9
+Lat/Long:35-52-41.3900N 079-05-13.2800W35-52.689833N 079-05.221333W35.8781639,-79.0870222(estimated)
+Elevation:475 ft. / 145 m (estimated)
+Variation:07W (1985)
+From city:3 miles SW of CHAPEL HILL, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27516
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:03/1985
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:yes
+Lights:FOR LIRL RWY 07/25 CALL 919-929-8471.
+
+Airport Communications
+
+WX ASOS at RDU (15 nm E):PHONE 919-840-0816
+WX AWOS-3 at TTA (18 nm S):120.625 (919-708-5382)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+RDUr280/14.8RALEIGH/DURHAM VORTAC117.2009W
+LIBr084/25.9LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON191/21.322008WHUR.... ..- .-.
+HARNETT331/33.441708WHQT.... --.- -
+HUNTSBORO231/34.127109WHXO.... -..- ---
+
+Airport Services
+
+
+Runway Information
+Runway 7/25
+
+Dimensions:1600 x 50 ft. / 488 x 15 m
+Surface:turf
+Runway edge lights:low intensity
+RUNWAY 7RUNWAY 25
+Traffic pattern:leftleft
+Displaced threshold:no200 ft.
+Obstructions:150 ft. trees, 500 ft. from runway75 ft. trees, 50 ft. from runwayPLINES.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:WARREN G. WOMBLE3015 DAMASCUS CHURCH ROADCHAPEL HILL, NC 27516Phone 919-929-8471
+Manager:WARREN G. WOMBLE3015 DAMASCUS CHURCH ROADCHAPEL HILL, NC 27516Phone 919-260-2275
+
+Airport Operational Statistics
+
+Aircraft based on the field:4Single engine airplanes:3Ultralights:1
+Additional Remarks
+
+-RWY 25 CLSD TO LNDG.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-ONLY LAND TO THE EAST AND DEPART TO THE WEST.
+-HELICOPTER FRIENDLY.
+
+Instrument Procedures
+There are no published instrument procedures at 3NC9.
+Some nearby airports with instrument procedures:
+KRDU - Raleigh-Durham International Airport (15 nm E)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (18 nm S)
+KBUY - Burlington/Alamance Regional Airport (21 nm NW)
+KSCR - Siler City Municipal Airport (23 nm SW)
+KTDF - Raleigh Regional Airport at Person County (25 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Womble Field Airport?
+Find the distance to fly.
+From 
+to 3NC9
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2612:26
+Sunset17:2922:29
+Evening civil twilight17:5622:56
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:11:12
+Local (UTC-5)19-Jan-2024 17:11:12
+
+
+
+
+   
+
+METAR
+
+
+KRDU15nm E192151Z 30013G23KT 10SM FEW055 FEW090 07/M09 A2992 RMK AO2 PK WND 30035/2111 SLP131 T00671089
+
+KTTA18nm S192150Z AUTO 32015G22KT 10SM CLR 06/M09 A2993 RMK AO2 T00611091
+
+
+
+
+
+TAF
+
+
+KRDU15nm E191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Womble Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Womble Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

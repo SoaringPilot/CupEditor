@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 7NC - Donald's Air Park Inc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1607 users online
+ 
+
+
+
+
+7NC
+ Donald's Air Park IncPlymouth, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PLYMOUTH?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:7NC
+Lat/Long:35-43-54.0814N 076-40-16.5327W35-43.901357N 076-40.275545W35.7316893,-76.6712591(estimated)
+Elevation:18 ft. / 5 m (estimated)
+Variation:09W (1985)
+From city:8 miles SE of PLYMOUTH, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27962
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1981
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:MON-SAT 0800-1700,  ALL SUN 1300-1700
+Wind indicator:yes
+Segmented circle:no
+Lights:TO ACTVT LIRL RWY 04/22 CALL 252-809-9010.
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3 at EDE (18 nm N):118.275 (252-482-0757)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ECGr224/39.7ELIZABETH CITY VOR/DME115.7507W
+CVIr175/39.7COFIELD VORTAC114.6009W
+
+
+NDBnameHdg/DistFreqVarID
+CHOCOWINITY066/25.138808WRNW.-. -. .--
+ALWOOD097/34.223009WAQE.- --.- .
+WOODVILLE220/36.725410WLLW.-.. .-.. .--
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MINOR
+
+Runway Information
+Runway 4/22
+
+Dimensions:4195 x 100 ft. / 1279 x 30 m
+Surface:turf, in good condition
+Runway edge lights:low intensityNSTD LIRL DUE TO SPACING OF RWY LGTS AND NO END LGTS.
+Runway edge markings:RWY 04 & 22 MKD WITH YELLOW CONES.
+RUNWAY 4RUNWAY 22
+Latitude:35-43.624862N35-44.177852N
+Longitude:076-40.530162W076-40.020928W
+Elevation:18.0 ft.18.0 ft.
+Traffic pattern:leftleft
+Displaced threshold:no801 ft.
+Markings:NSTD, in good conditionNSTD, in good condition
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:13 ft. brush, 21 ft. from runway, 81 ft. left of centerline, 1:1 slope to clear32 ft. pole, lighted, 57 ft. from runway, 67 ft. left of centerline, 1:1 slope to clearDUE TO BURIED PLINE,  NO MKD DTHR.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DONALD L. STOTESBERRY5230 NC HWY 99 SOUTHPANTEGO, NC 27860-8916Phone 252-935-5000
+Manager:DONALD L. STOTESBERRY5212 NC HWY 99 SOUTHPANTEGO, NC 27860-8916Phone 252-809-9010
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:8
+Aircraft operations: avg 56/day*98%local general aviation1%transient general aviation<1%military* for 12-month period ending 08 July 2023
+Additional Remarks
+
+-HEAVY AGRICULTURAL ACFT OPS MAR-NOV.
+-RWY 22 HAS UNMKD PLINE 60 FT +/- EACH SIDE OF THLD; POWER POLES EACH SIDE OF THLD WITH PLINE BURIED ACRS RWY WIDTH AT THLD.  ADDNL UNMKD 50 FT PLINE 1200 FT FROM RWY 22 THLD.
+-PARL TURF RWY ARPT WI 3/4 MILE NW.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-RWY 4 HAS 8 FT DITCH 12 FT FROM THLD BOTH SIDES CNTRLN.
+-MNT FREQ 122.8 FOR TFC ADZY.
+
+Instrument Procedures
+There are no published instrument procedures at 7NC.
+Some nearby airports with instrument procedures:
+KPMZ - Plymouth Municipal Airport (6 nm NW)
+KEDE - Northeastern Regional Airport (18 nm N)
+KOCW - Washington-Warren Airport (21 nm SW)
+KMCZ - Martin County Airport (26 nm W)
+KPGV - Pitt-Greenville Airport (35 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Donald's Air Park Inc?
+Find the distance to fly.
+From 
+to 7NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4811:48
+Sunrise07:1612:16
+Sunset17:1922:19
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:01:26
+Local (UTC-5)19-Jan-2024 16:01:26
+
+
+
+
+   
+
+METAR
+
+
+KEDE18nm N192050Z AUTO 31017G25KT 10SM OVC080 09/01 A2980 RMK AO2 T00890012
+
+KOCW21nm SW192045Z AUTO 32010G15KT 10SM BKN065 OVC080 09/M01 A2979 RMK AO2 T00911012
+
+KMCZ26nm W192045Z AUTO 33018G23KT 10SM BKN055 OVC065 08/M02 A2981 RMK AO2 T00751019
+
+
+
+
+
+TAF
+
+
+KPGV36nm W191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KECG40nm NE191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+KEWN44nm SW191727Z 1918/2018 29014G26KT P6SM SCT050 FM200300 30010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Donald's Air Park Inc, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Donald's Air Park Inc
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

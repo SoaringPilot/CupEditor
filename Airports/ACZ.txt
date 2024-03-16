@@ -1,0 +1,431 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KACZ - Henderson Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1564 users online
+ 
+
+
+
+
+KACZ
+ Henderson Field AirportWallace, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WALLACE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:ACZ
+Lat/Long:34-43-04.3000N 078-00-14.0000W34-43.071667N 078-00.233333W34.7178611,-78.0038889(estimated)
+Elevation:38.1 ft. / 11.6 m (surveyed)
+Variation:09W (2000)
+From city:1 mile SW of WALLACE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28466
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:06/1954
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:SUN 1300-1800,  ALL MON-SAT 0800-170024 HR ACES TO PILOTS LOUNGE.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT MIRLS RWY 09/27- CTAF.  PAPIS OPR CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3P:121.07 (910-285-0419)
+WILMINGTON APPROACH:135.75
+WILMINGTON DEPARTURE:135.75
+WX AWOS-3 at DPL (17 nm N):120.675 (910-296-9688)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 124.025/269.15 (WILMINGTON RCAG) WHEN WILMINGTON APCH CTL CLSD.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ILMr351/22.9WILMINGTON VORTAC117.0007W
+
+
+NDBnameHdg/DistFreqVarID
+ELLAS270/14.926108WOA--- .-
+CLINTON140/23.441209WCTZ-.-. - --..
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:24 HR SELF SVC FUEL WITH CREDIT CARD.
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 9/27
+
+Dimensions:4153 x 75 ft. / 1266 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 9RUNWAY 27
+Latitude:34-43.042453N34-43.101515N
+Longitude:078-00.645852W077-59.819745W
+Elevation:37.9 ft.29.2 ft.
+Traffic pattern:leftleft
+Runway heading:094 magnetic, 085 true274 magnetic, 265 true
+Displaced threshold:149 ft.151 ft.
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.10 degrees glide path)2-light PAPI on left (3.51 degrees glide path)
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:33 ft. pole, 784 ft. from runway, 36 ft. left of centerline, 17:1 slope to clear4 FT DIRT MOUND 27 FT FR RWY END OFFSET 107 FT RIGHT OF CNTRLN.78 ft. trees, 1656 ft. from runway, 209 ft. left of centerline, 18:1 slope to clear3 FT BUSHES 157 FT FR RWY END OFFSET 147 FT RIGHT OF CNTRLN.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF WALLACE316 E. MURRAY STREET, PO BOX 849WALLACE, NC 28466Phone 910-285-4136
+Manager:BEN JONES250 HENDERSON FIELD ROADWALLACE, NC 28466Phone 910-285-6642FBO (DAY):  910-285-6642. AFT HRS:  910-271-8955. ALTN (POLICE DEPT):  910-285-2126.
+
+Airport Operational Statistics
+
+Aircraft based on the field:27Single engine airplanes:25Multi engine airplanes:2
+Aircraft operations: avg 46/day*59%transient general aviation27%local general aviation14%military* for 12-month period ending 12 June 2021
+Additional Remarks
+
+-5 FT DITCH 135 FT RIGHT OF CNTRLN RWY 09.
+-7 FT DITCH 140 FT LEFT OF CNTRLN RWY 27.
+-RWY 27 SAFETY AREA HAS 20 FT DEPRESSIONS/CREEK 160 FT FR THR BOTH SIDES CNTRLN.
+-MIL ACFT LIMIT DELAY ON RWY TO AVOID DAMAGE TO RWY SURFACES.
+-NOISE ABATEMENT PROCEDURES IN EFFECT, CALL AMGR 910-271-8955.
+-HENDERSON FLD ARPT CLSD TO TOUCH & GO/PRACTICE APPROACHES 2100-0600 LCL DLY.
+-ARPT CLSD TO MIL ACFT EXCEPT 1 HR PPR.
+-FOR CD CTC WILMINGTON APCH AT 910-815-4676, OR WHEN APCH CLSD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 09
+download (235KB)
+RNAV (GPS) RWY 27
+download (219KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (364KB)
+
+Other nearby airports with instrument procedures:
+KDPL - Duplin County Airport (17 nm N)
+KOAJ - Albert J Ellis Airport (20 nm E)
+KCTZ - Clinton-Sampson County Airport (24 nm NW)
+KILM - Wilmington International Airport (27 nm S)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (28 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Richard Verdier
+Photo taken 23-Oct-2014
+looking west.
+
+Do you have a better or more recent aerial photo of Henderson Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Henderson Field Airport?
+Find the distance to fly.
+From 
+to KACZ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5211:52
+Sunrise07:1912:19
+Sunset17:2722:27
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:17:01
+Local (UTC-5)19-Jan-2024 16:17:01
+
+
+
+
+   
+
+METAR
+
+
+KACZ192045Z AUTO 31011G17KT 10SM SCT060 OVC080 13/01 A2980 RMK AO2 T01310014
+
+KDPL17nm N192045Z AUTO 31014G20KT 10SM BKN070 OVC080 12/M02 A2980 RMK AO2
+
+KOAJ20nm E192056Z 28010G15KT 240V310 10SM BKN060 OVC080 12/00 A2980 RMK AO2 SLP093 T01220000 53018
+
+
+
+
+
+TAF
+
+
+KOAJ20nm E191727Z 1918/2018 29015G26KT P6SM SCT050 FM200300 31009G18KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Henderson Field Airport
+
+910-285-6642336-250-9052[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Aircraft maintenance, Rental cars delivered, Courtesy transportation, ...
+
+
+
+More info about Henderson Field Airport
+
+
+
+
+
+Phillips 66100LL Jet AAS$4.88---FS---$4.61Updated 17-Jan-2024
+
+
+
+
+5readwrite
+
+
+
+AS=Assisted/Self ServiceFS=Full service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Henderson Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Henderson Field Airport
+
+
+
+www.wallacenc.gov/index.aspx?NID=859
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

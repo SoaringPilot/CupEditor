@@ -1,0 +1,420 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KMCZ - Martin County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1502 users online
+ 
+
+
+
+
+KMCZ
+ Martin County AirportWilliamston, North Carolina, USA 
+
+
+
+
+
+
+GOING TO WILLIAMSTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:MCZ
+Lat/Long:35-51-43.8940N 077-10-41.5220W35-51.731567N 077-10.692033W35.8621928,-77.1782006(estimated)
+Elevation:74.9 ft. / 22.8 m (surveyed)
+Variation:09W (1990)
+From city:6 miles W of WILLIAMSTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27892
+
+Airport Operations
+
+Airport use:Open to the public
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0800-1700FOR SVC AFT HRS CALL 252-799-8718 OR 252-217-4023.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:PAPI RWY 03 & 21 OPR CONT.  MIRL RWY 03/21 DUSK TO DAWN; TO CHG INTST - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3P:118.65 (252-802-4261)
+WX AWOS-3 at PGV (17 nm SW):128.425 (252-758-6485)
+WX AWOS-3P at ETC (18 nm W):119.575 (252-641-1640)
+WX AWOS-3 at OCW (19 nm S):120.175 (252-975-6133)
+
+
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC (ZDC) ON 123.85/279.65 (NEW BERN RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+TYIr110/26.4TAR RIVER VORTAC117.8005W
+CVIr215/34.1COFIELD VORTAC114.6009W
+ISOr037/34.8KINSTON VORTAC117.5005W
+
+
+NDBnameHdg/DistFreqVarID
+ALWOOD054/13.323009WAQE.- --.- .
+CHOCOWINITY359/21.438808WRNW.-. -. .--
+
+Airport Services
+
+Fuel available:100LL JET-A1100LL:100LL AND JET-A HAS 24 HR SELF-SVC WITH CC.
+Parking:hangars and tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:5000 x 75 ft. / 1524 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:21.0
+Runway edge lights:medium intensity
+Runway edge markings:RWY 21 MARKINGS FADED.
+RUNWAY 3RUNWAY 21
+Latitude:35-51.354407N35-52.108735N
+Longitude:077-10.895797W077-10.488245W
+Elevation:64.7 ft.74.3 ft.
+Traffic pattern:leftleft
+Runway heading:033 magnetic, 024 true213 magnetic, 204 true
+Markings:nonprecision, in poor conditionnonprecision, in poor condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)OTS INDEF.2-light PAPI on left (3.00 degrees glide path)
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:16 ft. road, 362 ft. from runway, 274 ft. right of centerline, 10:1 slope to clear15 ft. road, 587 ft. from runway, 242 ft. left of centerline, 25:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:COUNTY OF MARTIN305 E. MAIN STREET, PO BOX 668WILLIAMSTON, NC 27892Phone 252-789-4300
+Manager:JESSE COUNCIL, JULIET CHARLIE AVIAT2135 AIRPORT RDWILLIAMSTON, NC 27892Phone 252-792-1971
+
+Airport Operational Statistics
+
+Aircraft based on the field:14Single engine airplanes:13Helicopters:1
+Aircraft operations: avg 34/day*56%local general aviation40%transient general aviation4%military* for 12-month period ending 30 May 2021
+Additional Remarks
+
+-DEER ON AND INVOF ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+-RWY 03 HAS 10-15 FT DROP-OFF 70 FT FM CNTRLN BOTH SIDES.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 03
+download (201KB)
+RNAV (GPS) RWY 21
+download (208KB)
+
+NOTE: Special Alternate Minimums apply
+download (167KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (391KB)
+
+Other nearby airports with instrument procedures:
+KPGV - Pitt-Greenville Airport (17 nm SW)
+KETC - Tarboro-Edgecombe Airport (18 nm W)
+KOCW - Washington-Warren Airport (19 nm S)
+KPMZ - Plymouth Municipal Airport (21 nm E)
+KASJ - Tri-County Airport at Henry Joyner Field (26 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Photo taken 14-Mar-2012
+from 5,500' altitude looking north. 
+
+Do you have a better or more recent aerial photo of Martin County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Martin County Airport?
+Find the distance to fly.
+From 
+to KMCZ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1812:18
+Sunset17:2122:21
+Evening civil twilight17:4922:49
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:30:24
+Local (UTC-5)19-Jan-2024 16:30:24
+
+
+
+
+   
+
+METAR
+
+
+KMCZ192105Z AUTO 31010G18KT 10SM SCT055 OVC065 07/M02 A2982 RMK AO2 T00711020
+
+KPGV18nm SW192105Z AUTO 34012G23KT 10SM SCT047 BKN050 OVC065 08/00 A2983 RMK AO2
+
+KETC18nm W192105Z AUTO 31010G18KT 7SM SCT065 OVC085 07/M03 A2984 RMK AO2 T00721027
+
+KOCW19nm S192105Z AUTO 32012G16KT 10SM BKN060 BKN070 OVC080 09/M01 A2981 RMK AO2 T00911014
+
+
+
+
+
+TAF
+
+
+KPGV18nm SW191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Juliet Charlie Aviation
+
+
+
+252-792-1971252-799-8718[email]
+
+Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Pilots lounge / snooze room, Internet access
+
+
+
+More info about Juliet Charlie Aviation
+
+
+
+
+
+100LL Jet AAS---$6.05SS$5.65---Updated 18-Jan-2024
+
+
+
+
+write
+
+
+
+AS=Assisted/Self ServiceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Martin County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Martin County Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

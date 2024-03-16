@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9W9 - Clio Crop Care Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1634 users online
+ 
+
+
+
+
+9W9
+ Clio Crop Care AirportClio, South Carolina, USA 
+
+
+
+
+
+
+GOING TO CLIO?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9W9
+Lat/Long:34-33-41.1000N 079-32-17.1000W34-33.685000N 079-32.285000W34.5614167,-79.5380833(estimated)
+Elevation:192.3 ft. / 59 m (estimated)
+Variation:06W (1985)
+From city:2 miles SE of CLIO, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29525
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:05/1976
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+NOTAMs facility:AND (NOTAM-D service available)
+Attendance:MON-FRI 0800-DUSK,  ALL SAT 0800-1200
+Pattern altitude:792.3 ft. MSL
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX AWOS-3PT at BBP (10 nm W):123.825 (843-479-5817)
+WX ASOS at MEB (16 nm NE):134.125 (910-844-5338)
+WX AWOS-3PT at UDG (19 nm W):119.925 (843-393-8220)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+FLOr020/20.6FLORENCE VORTAC115.2003W
+CTFr101/36.8CHESTERFIELD VOR/DME114.5503W
+SDZr179/39.3SANDHILLS VORTAC111.8003W
+
+
+NDBnameHdg/DistFreqVarID
+BENNETTSVILLE118/10.323008WBES-... . ...
+DILLON318/10.727409WDLC-.. .-.. -.-.
+MAXTN212/11.325708WME-- .
+DARLINGTON074/18.724506WUDG..- -.. --.
+HARTSVILLE079/30.234107WHVS.... ...- ...
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 5/23
+
+Dimensions:2598 x 125 ft. / 792 x 38 m
+Surface:turf, in fair conditionTALL GRASS.
+RUNWAY 5RUNWAY 23
+Latitude:34-33.531952N34-33.839128N
+Longitude:079-32.465493W079-32.104673W
+Elevation:192.3 ft.192.3 ft.
+Traffic pattern:leftleft
+Markings:none, in good conditionnone, in good condition
+Touchdown point:yes, no lightsyes, no lights
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:KEN HANKEPO BOX 422CLIO, SC 29525Phone 803-586-9225
+Manager:KEN HANKEPO BOX 422CLIO, SC 29525Phone 843-586-9225
+
+Airport Operational Statistics
+
+Aircraft based on the field:7Single engine airplanes:6Ultralights:1
+Aircraft operations: avg 22/day*94%local general aviation6%transient general aviation* for 12-month period ending 29 March 2018
+Additional Remarks
+
+-RWY 23 100 FT R OF CNTRLN HGR & OFFICE AREA & TANKS 100 FT L 0 FT FM THR & CONCRETE BLDG 125 FT R 0-100 FT FM THR.
+-FOR CD CTC FLORENCE APCH AT 843-665-0632, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at 9W9.
+Some nearby airports with instrument procedures:
+KBBP - Marlboro County Jetport - H E Avent Field (10 nm W)
+KDLC - Dillon County Airport (11 nm SE)
+KMEB - Laurinburg/Maxton Airport (16 nm NE)
+KUDG - Darlington County Airport (19 nm W)
+KCQW - Cheraw Municipal Airport/Lynch Bellinger Field (23 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Clio Crop Care Airport?
+Find the distance to fly.
+From 
+to 9W9
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5711:57
+Sunrise07:2512:25
+Sunset17:3322:33
+Evening civil twilight18:0123:01
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:52:53
+Local (UTC-5)19-Jan-2024 15:52:53
+
+
+
+
+   
+
+METAR
+
+
+KBBP10nm W192035Z AUTO 31018G26KT 10SM OVC070 12/M02 A2987 RMK AO2
+
+KMEB16nm NE191952Z AUTO 30022G32KT 10SM SCT070 13/M02 A2982 RMK AO2 PK WND 28032/1944 SLP097 T01281022
+
+KUDG18nm W191956Z AUTO 31016G26KT 10SM OVC055 13/01 A2984 RMK AO2 PK WND 28028/1925 SLP107 T01280006
+
+
+
+
+
+TAF
+
+
+KLBT23nm E191732Z 1918/2018 29014G25KT P6SM FEW040 FM200000 31010G18KT P6SM SKC FM200300 31007KT P6SM SKC 
+
+KFLO25nm SW191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Clio Crop Care Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Clio Crop Care Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,410 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 0V4 - Brookneal/Campbell County Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1586 users online
+ 
+
+
+
+
+0V4
+ Brookneal/Campbell County AirportBrookneal, Virginia, USA 
+
+
+
+
+
+
+GOING TO BROOKNEAL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:0V4
+Lat/Long:37-08-30.2000N 079-00-59.0000W37-08.503333N 079-00.983333W37.1417222,-79.0163889(estimated)
+Elevation:596.6 ft. / 181.8 m (surveyed)
+Variation:09W (2000)
+From city:6 miles NW of BROOKNEAL, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:24554
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/1982
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:DCA (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:lighted
+Segmented circle:yes
+Lights:DUSK-DAWN. MIRL RWY 06/24 PRESET LOW, TO INCR INTST AND ACTVT REIL RWY 06 AND 24 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.7
+WX AWOS-3:120.575 (434-283-7826)
+ROANOKE APPROACH:125.475 ;EAST OF LYH VORTAC 135.0 ;WEST OF LYH VORTAC
+ROANOKE DEPARTURE:125.475 ;EAST OF LYH VORTAC 135.0 ;WEST OF LYH VORTAC
+IC:135.0 ;WEST OF LYH VORTAC
+WX ASOS at LYH (14 nm NW):PHONE 434-237-0749
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LYHr128/12.5LYNCHBURG VOR/DME109.2005W
+SBVr005/28.0SOUTH BOSTON VORTAC110.4005W
+DANr030/(37.7)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+BOJAR132/13.038508WLY.-.. -.--
+
+Airport Services
+
+Parking:tiedowns
+
+Runway Information
+Runway 6/24
+
+Dimensions:3798 x 60 ft. / 1158asphalt x 18 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 6RUNWAY 24
+Latitude:37-08.316402N37-08.691338N
+Longitude:079-01.296162W079-00.670192W
+Elevation:596.0 ft.588.9 ft.
+Traffic pattern:leftleft
+Runway heading:062 magnetic, 053 true242 magnetic, 233 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on right (3.00 degrees glide path)2-light PAPI on left (3.00 degrees glide path)
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:69 ft. tree, 2472 ft. from runway, 491 ft. right of centerline, 32:1 slope to clear45 ft. tree, 892 ft. from runway, 302 ft. left of centerline, 15:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:BROOKNEAL/CAMPBELL CO. AUTHPO BOX 100, 133 RUNWAY ROADRUSTBURG, VA 24588Phone 434-592-9595
+Manager:BOB GILLESPIE85 CARDEN LANE, PO BOX 100GLADYS, VA 24554Phone 240-750-0199
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Aircraft operations: avg 23/week*96%local general aviation3%transient general aviation<1%military<1%air taxi* for 12-month period ending 31 December 2020
+Additional Remarks
+
+-ULTRALGT ACTIVITY ON & INVOF ARPT.
+-DEER ON & INVOF ARPT.
+-ROA TWR SVCS AVBL AT 540-563-1307.
+-FOR CD CTC ROANOKE APCH AT 540-563-1307.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 06
+download (245KB)
+RNAV (GPS) RWY 24
+download (200KB)
+
+NOTE: Special Alternate Minimums apply
+download (147KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (156KB)
+
+Other nearby airports with instrument procedures:
+KLYH - Lynchburg Regional Airport/Preston Glenn Field (14 nm NW)
+W24 - Falwell Airport (15 nm N)
+W90 - New London Airport (17 nm NW)
+W78 - William M Tuck Airport (27 nm S)
+W91 - Smith Mountain Lake Airport (28 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by Bill Wheaton
+Photo taken 11-Jun-2010
+looking southwest.
+
+Do you have a better or more recent aerial photo of Brookneal/Campbell County Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Brookneal/Campbell County Airport?
+Find the distance to fly.
+From 
+to 0V4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2522:25
+Evening civil twilight17:5422:54
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:45:35
+Local (UTC-5)19-Jan-2024 15:45:35
+
+
+
+
+   
+
+METAR
+
+
+K0V4192035Z AUTO 27015G21KT 10SM OVC050 03/M08 A2988 RMK AO1
+
+KLYH14nm NW191954Z 28008G24KT 10SM OVC055 02/M08 A2984 RMK AO2 SLP110 T00221078
+
+
+
+
+
+TAF
+
+
+KLYH14nm NW191735Z 1918/2018 28012G22KT P6SM BKN045 FM200000 29009G19KT P6SM SCT060 FM200700 29005KT P6SM FEW060 FM201500 29010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Freedom Aviation
+
+434-237-8420240-750-0199[web site][email]
+
+Aviation fuel
+
+
+
+More info about Freedom Aviation
+
+
+
+
+
+Phillips 66100LLSS$5.50GUARANTEED
+
+
+
+
+write
+
+
+
+SS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Brookneal/Campbell County Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Brookneal/Campbell County Airport
+
+
+
+www.campbellvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,422 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KEMV - Emporia-Greensville Regional Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1608 users online
+ 
+
+
+
+
+KEMV
+ Emporia-Greensville Regional AirportEmporia, Virginia, USA 
+
+
+
+
+
+
+GOING TO EMPORIA?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:EMV
+Lat/Long:36-41-12.6890N 077-28-57.8960W36-41.211483N 077-28.964933W36.6868581,-77.4827489(estimated)
+Elevation:126.7 ft. / 38.6 m (surveyed)
+Variation:10W (2000)
+From city:3 miles E of EMPORIA, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23847
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:10/1943
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:EMV (NOTAM-D service available)
+Attendance:0900-1700
+Pattern altitude:TPA LGT ACFT 1000 FT, HVY ACFT 1500 FT.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTIVATE REIL RWY 16 & 34; MIRL RWY 16/34 - CTAF.  PAPI RWY 16 & 34 OPR CONSLY.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:123.0
+WX AWOS-3:124.175 (434-634-0656)
+WX AWOS-3 at LVL (16 nm W):119.625 (434-848-2017)
+
+
+COMMUNICATIONS THRU WASHINGTON FSS ON FREQ 122.4.
+APCH/DEP SVC PRVDD BY WASHINGTON ARTCC ON FREQS 132.025/290.425 (LAWRENCEVILLE RCAG).
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LVLr119/21.7LAWRENCEVILLE VORTAC112.9008W
+FKNr275/22.7FRANKLIN VORTAC110.6009W
+CVIr312/35.0COFIELD VORTAC114.6009W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD243/29.227411WAKQ.- -.- --.-
+BLACKSTONE143/37.832609WBKT-... -.- -
+
+Airport Services
+
+Fuel available:100LL JET-A
+Parking:hangars and tiedowns
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 16/34
+
+Dimensions:5010 x 100 ft. / 1527 x 30 m
+Surface:asphalt/grooved, in good condition
+Weight bearing capacity:Single wheel:30.0Double wheel:50.0Double tandem:85.0
+Runway edge lights:medium intensity
+RUNWAY 16RUNWAY 34
+Latitude:36-41.551228N36-40.871742N
+Longitude:077-29.256010W077-28.673888W
+Elevation:126.6 ft.109.9 ft.
+Traffic pattern:leftleft
+Runway heading:155 magnetic, 145 true335 magnetic, 325 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (3.00 degrees glide path)RWY 16 PAPI UNUSBL BYD 7 DEG LEFT & RIGHT OF CNTRLN.2-light PAPI on left (3.00 degrees glide path)RWY 34 PAPI UNUSBL BYD 8 DEG RIGHT OF CNTRLN.
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Instrument approach:LOC/DME
+Obstructions:15 ft. road, lighted, 336 ft. from runway, 263 ft. right of centerline, 9:1 slope to clear50 ft. tree, lighted, 2117 ft. from runway, 285 ft. right of centerline, 38:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:EMPORIA-GREENSVILLE ARPT COMM139 AIRPORT DREMPORIA, VA 23847Phone 804-370-2203
+Manager:MELVIN VICK139 AIRPORT DR.EMPORIA, VA 23847Phone 434-634-3696
+
+Airport Operational Statistics
+
+Aircraft based on the field:12Single engine airplanes:10Multi engine airplanes:2
+Aircraft operations: avg 27/week*63%transient general aviation27%local general aviation5%military5%air taxi* for 12-month period ending 31 December 2020
+Additional Remarks
+
+-DEER ON & INVOF ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 16
+download (169KB)
+RNAV (GPS) RWY 34
+download (197KB)
+LOC RWY 34
+download (203KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (189KB)
+
+Other nearby airports with instrument procedures:
+KLVL - Brunswick County Airport (16 nm W)
+KIXA - Halifax/Northampton Regional Airport (23 nm S)
+KAVC - Mecklenburg-Brunswick Regional Airport (28 nm W)
+KASJ - Tri-County Airport at Henry Joyner Field (28 nm SE)
+KFKN - Franklin Regional Airport (28 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 05-Nov-2006
+from a Mooney at 6,000 feet MSL
+
+Do you have a better or more recent aerial photo of Emporia-Greensville Regional Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Emporia-Greensville Regional Airport?
+Find the distance to fly.
+From 
+to KEMV
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5311:53
+Sunrise07:2112:21
+Sunset17:2022:20
+Evening civil twilight17:4822:48
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:04:46
+Local (UTC-5)19-Jan-2024 16:04:46
+
+
+
+
+   
+
+METAR
+
+
+KEMV192055Z AUTO RMK AO2 6//// PWINO PNO TSNO
+
+KLVL16nm W192055Z AUTO 28006G20KT 240V320 10SM SCT050 SCT070 07/M07 A2984 RMK AO1 T00651070
+
+
+
+
+
+TAF
+
+
+KFAF49nm NE191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+
+Emporia-Greensville Regional Airport
+
+
+
+434-634-3696434-594-6333[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Passenger terminal and lounge, Courtesy transportation, ...
+
+ 
+
+
+
+
+More info about Emporia-Greensville Regional Airport
+
+
+
+
+
+100LL Jet APS$6.19$5.45Updated 05-Jan-2024
+
+
+
+
+3readwrite
+
+
+
+PS=Pump service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Emporia-Greensville Regional Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Emporia-Greensville Regional Airport
+
+
+
+www.emporiagreensvilleairport.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

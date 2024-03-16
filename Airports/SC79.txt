@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: SC79 - Bermuda High Gliderport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1602 users online
+ 
+
+
+
+
+SC79
+ Bermuda High GliderportLancaster, South Carolina, USA 
+
+
+
+
+
+
+GOING TO LANCASTER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:SC79
+Lat/Long:34-36-40.5580N 080-26-59.2500W34-36.675967N 080-26.987500W34.6112661,-80.4497917(estimated)
+Elevation:550 ft. / 168 m (estimated)
+Variation:06W (1990)
+From city:18 miles SE of LANCASTER, SC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:29067
+
+Gliderport Operations
+
+Gliderport use:Private use. Permission required prior to landing
+Activation date:06/1992
+Control tower:no
+ARTCC:JACKSONVILLE CENTER
+FSS:ANDERSON FLIGHT SERVICE STATION
+Attendance:THUR-SUN 1000-1700
+Wind indicator:yes
+Segmented circle:no
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CTFr258/8.9CHESTERFIELD VOR/DME114.5503W
+
+
+NDBnameHdg/DistFreqVarID
+HARTSVILLE314/20.434107WHVS.... ...- ...
+DARLINGTON296/29.624506WUDG..- -.. --.
+BENNETTSVILLE277/35.423008WBES-... . ...
+SUMTER000/37.525207WSMS... -- ...
+CHESTER112/38.522006WDCM-.. -.-. --
+
+Gliderport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:4000 x 200 ft. / 1219 x 61 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:rightleft
+Obstructions:treestrees
+
+Gliderport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JAYNE EWING REID4278 THERMAL TRAILJEFFERSON, SC 29718-1510Phone 803-475-7627
+Manager:JAYNE EWING REID4278 THERMAL TRAILJEFFERSON, SC 29718-1510Phone 803-475-7627
+
+Gliderport Operational Statistics
+
+Aircraft based on the field:28Single engine airplanes:3Gliders airplanes:25
+Additional Remarks
+
+-FOR CD CTC SHAW APCH AT 803-895-4884, WHEN APCH CLSD CTC JACKSONVILLE ARTCC AT 904-845-1592.
+
+Instrument Procedures
+There are no published instrument procedures at SC79.
+Some nearby airports with instrument procedures:
+KPYG - Pageland Airport (9 nm NE)
+KCDN - Woodward Field Airport (20 nm S)
+KHVS - Hartsville Regional Airport (21 nm SE)
+KLKR - Lancaster County Airport-Mc Whirter Field (21 nm W)
+N52 - JAARS-Townsend Airport (21 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Bermuda High Gliderport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Bermuda High Gliderport?
+Find the distance to fly.
+From 
+to SC79
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0112:01
+Sunrise07:2812:28
+Sunset17:3722:37
+Evening civil twilight18:0423:04
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:44:20
+Local (UTC-5)19-Jan-2024 15:44:20
+
+
+
+
+   
+
+METAR
+
+
+KCDN20nm S192035Z AUTO 33018KT 10SM CLR 11/M06 A2991 RMK AO2
+
+KHVS21nm SE192035Z AUTO VRB07G19KT 10SM OVC060 11/M06 A2988 RMK AO2
+
+KLKR21nm W192035Z AUTO 29013G24KT 260V320 10SM FEW065 08/M09 A2994 RMK AO2
+
+KCQW25nm E192035Z AUTO 02015G26KT 10SM BKN075 OVC085 11/M05 A2989 RMK AO2
+
+KEQY26nm N191953Z AUTO 32017G29KT 10SM BKN065 08/M06 A2989 RMK AO2 PK WND 31031/1921 WSHFT 1900 SLP136 T00781056
+
+KUDG30nm E191956Z AUTO 31016G26KT 10SM OVC055 13/01 A2984 RMK AO2 PK WND 28028/1925 SLP107 T01280006
+
+KAFP31nm NE192030Z AUTO 30015G23KT 10SM BKN075 09/M08 A2990 RMK AO2 T00901083
+
+KBBP35nm E192035Z AUTO 31018G26KT 10SM OVC070 12/M02 A2987 RMK AO2
+
+KUZA37nm NW191954Z AUTO 34015G23KT 10SM BKN070 08/M06 A2993 RMK AO2 PK WND 31036/1858 SLP136 T00781056
+
+KFDW37nm SW192035Z AUTO 34014G25KT 10SM CLR 10/M05 A2993 RMK AO1
+
+
+
+
+
+TAF
+
+
+KSSC39nm S191600Z 1916/2022 28015G25KT 9999 FEW040 510003 QNH2991INS TEMPO 1916/1922 29015G31KT BECMG 1922/1923 33007KT 9999 SKC 510023 QNH2996INS BECMG 2014/2015 33010G20KT 9999 SKC QNH3027INS TX13/1918Z TNM05/2012Z 
+
+KFLO44nm SE191732Z 1918/2018 29014G24KT P6SM FEW040 FM200000 32010G18KT P6SM SKC FM200300 32006KT P6SM SKC 
+
+KCLT44nm NW191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+KMMT45nm S191900Z 1919/2022 26020G25KT 9999 SKC QNH2982INS TEMPO 1919/1923 26025G35KT BECMG 1922/1923 31012KT 9999 SKC 510013 QNH2987INS BECMG 2014/2015 34012G18KT 9999 SKC 510043 QNH3030INS TX15/1919Z TNM03/2013Z 
+
+KCUB47nm SW191735Z 1918/2018 28018G25KT P6SM SCT050 FM192200 30014G22KT P6SM SKC FM200100 29004KT P6SM SKC FM201300 34007KT P6SM SKC AMD NOT SKED 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Bermuda High Gliderport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Bermuda High Gliderport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 5NC5 - The Duchy Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1428 users online
+ 
+
+
+
+
+5NC5
+ The Duchy AirportChapel Hill, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CHAPEL HILL?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:5NC5
+Lat/Long:35-58-53.5010N 079-16-23.0590W35-58.891683N 079-16.384317W35.9815281,-79.2730719(estimated)
+Elevation:650 ft. / 198 m (estimated)
+Variation:06W (1985)
+From city:15 miles W of CHAPEL HILL, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27258
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1986
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX ASOS at BUY (11 nm NW):135.325 (336-570-9813)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+LIBr061/19.4LIBERTY VORTAC113.0003W
+RDUr294/24.7RALEIGH/DURHAM VORTAC117.2009W
+GSOr099/34.3GREENSBORO VORTAC116.2003W
+DANr181/(35.4)DANVILLE VOR113.1006W
+
+
+NDBnameHdg/DistFreqVarID
+PERSON222/18.122008WHUR.... ..- .-.
+SLAMMER142/33.742307WSIF... .. ..-.
+HUNTSBORO248/37.127109WHXO.... -..- ---
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:3500 x 44 ft. / 1067 x 13 m
+Surface:asphalt
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Obstructions:none60 ft. trees, 600 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:DUCHY PROPERTY OWNERS ASSOC.50001 DUCHY DRIVEMEBANE, NC 27302Phone 336-516-0644
+Manager:JOSEPH M. SEPKO III5435 BROWNSTONE DRIVEMEBANE, NC 27302Phone 972-358-8144
+
+Airport Operational Statistics
+
+Aircraft based on the field:6Single engine airplanes:5Multi engine airplanes:1
+Additional Remarks
+
+-NUMEROUS TREES RIGHT OF RY 21.
+-28 FT BLDGS 100 FT L OF RY 21.
+-10 FT BERM 30 FT FM END OF RY 03.
+-NIGHT OPERATIONS UNATHORIZED; RESTRICTED TO OWNERS AND GUESTS.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 5NC5.
+Some nearby airports with instrument procedures:
+KBUY - Burlington/Alamance Regional Airport (11 nm NW)
+KSCR - Siler City Municipal Airport (20 nm SW)
+KTDF - Raleigh Regional Airport at Person County (23 nm NE)
+KRDU - Raleigh-Durham International Airport (24 nm E)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (25 nm S)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo taken 02-Oct-2009
+
+Do you have a better or more recent aerial photo of The Duchy Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to The Duchy Airport?
+Find the distance to fly.
+From 
+to 5NC5
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5911:59
+Sunrise07:2712:27
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:00:10
+Local (UTC-5)19-Jan-2024 17:00:10
+
+
+
+
+   
+
+METAR
+
+
+KBUY10nm NW192154Z AUTO 31011G21KT 10SM CLR 03/M09 A2995 RMK AO2 PK WND 28033/2055 SLP146 T00331094
+
+KSCR20nm SW192145Z AUTO 31008G21KT 270V340 10SM CLR 05/M10 A2995 RMK AO2 T00471100
+
+
+
+
+
+TAF
+
+
+KRDU25nm E191732Z 1918/2018 30015G26KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the The Duchy Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about The Duchy Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

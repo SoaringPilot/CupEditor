@@ -1,0 +1,355 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 0NC8 - Flying S Ranch Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1610 users online
+ 
+
+
+
+
+0NC8
+ Flying S Ranch AirportCleveland, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CLEVELAND?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:0NC8
+Lat/Long:35-45-20.5030N 080-44-07.2480W35-45.341717N 080-44.120800W35.7556953,-80.7353467(estimated)
+Elevation:830 ft. / 253 m (estimated)
+Variation:05W (1985)
+From city:4 miles NW of CLEVELAND, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27013
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SVH (11 nm W):119.225 (704-873-1978)
+WX AWOS-3 at RUQ (12 nm SE):118.175 (704-637-6197)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr111/25.5BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr022/35.5CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+ROVDY282/12.027506WRU.-. ..-
+STONIA037/39.726006WGHJ--. .... .---
+
+Airport Services
+
+
+Runway Information
+Runway 3/21
+
+Dimensions:2300 x 100 ft. / 701 x 30 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:SHAVER WOOD PRODUCTS14440 STATESVILLE RDCLEVELAND, NC 27013-8791Phone 704-278-9291
+Manager:RICHARD W. SHAVER14440 STATESVILLE RDCLEVELAND, NC 27013-8791Phone (704) 928-5893
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 0NC8.
+Some nearby airports with instrument procedures:
+KSVH - Statesville Regional Airport (11 nm W)
+14A - Lake Norman Airpark (12 nm SW)
+KRUQ - Mid-Carolina Regional Airport (12 nm SE)
+8A7 - Twin Lakes Airport (17 nm NE)
+KEXX - Davidson County Executive Airport (21 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Flying S Ranch Airport?
+Find the distance to fly.
+From 
+to 0NC8
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0412:04
+Sunrise07:3212:32
+Sunset17:3622:36
+Evening civil twilight18:0323:03
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:01:37
+Local (UTC-5)19-Jan-2024 16:01:37
+
+
+
+
+   
+
+METAR
+
+
+KSVH10nm W192045Z AUTO 30014G22KT 10SM CLR 03/M10 A2998 RMK AO2 T00301096
+
+KRUQ12nm SE192050Z AUTO 29011G19KT 250V320 10SM CLR 04/M09 A2995 RMK AO2 T00421095
+
+
+
+
+
+TAF
+
+
+KHKY32nm W191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+KINT34nm NE191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+KCLT34nm S191951Z 1920/2024 31015G25KT P6SM FEW060 FM200100 33009KT P6SM SKC FM201500 34011G19KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Flying S Ranch Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Flying S Ranch Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

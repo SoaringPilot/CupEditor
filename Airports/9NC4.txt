@@ -1,0 +1,351 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 9NC4 - Jiles Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1554 users online
+ 
+
+
+
+
+9NC4
+ Jiles Field AirportGates, North Carolina, USA 
+
+
+
+
+
+
+GOING TO GATES?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:9NC4
+Lat/Long:36-30-34.0000N 076-39-51.0000W36-30.566667N 076-39.850000W36.5094444,-76.6641667(estimated)
+Elevation:75 ft. / 23 m (estimated)
+Variation:10W ()
+From city:5 miles NE of GATES, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27926
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:07/1999
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SFQ (11 nm N):119.375 (757-934-3942)
+WX AWOS-3PT at FKN (16 nm NW):124.675 (757-562-8765)
+WX AWOS-3 at CPK (19 nm NE):123.675 (757-204-4290)
+WX AWOS-3PT at PVG (19 nm NE):118.375 (757-465-2175)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CVIr060/12.9COFIELD VORTAC114.6009W
+FKNr135/20.8FRANKLIN VORTAC110.6009W
+ECGr310/28.0ELIZABETH CITY VOR/DME115.7507W
+ORFr231/32.0NORFOLK VORTAC116.9007W
+
+
+NDBnameHdg/DistFreqVarID
+WOODVILLE320/23.125410WLLW.-.. .-.. .--
+WAKEFIELD161/32.727411WAKQ.- -.- --.-
+
+Airport Services
+
+
+Runway Information
+Runway 18/36
+
+Dimensions:2000 x 40 ft. / 610 x 12 m
+Surface:turf
+RUNWAY 18RUNWAY 36
+Traffic pattern:leftleft
+Obstructions:25 ft. trees, 500 ft. from runway25 ft. pline, 500 ft. from runway
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JEROME W. JILES125 SAUNDERSTOWN RDCORAPEAKE, NC 27926Phone 252-465-2169DAYTIME PHONE 804-658-4174.
+Manager:JEROME W. JILES125 SAUNDERSTOWN RDCORAPEAKE, NC 27926-9519Phone 757-641-7579
+
+Additional Remarks
+
+-OWNER DESIRES ARPT NOT BE CHARTED.
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 9NC4.
+Some nearby airports with instrument procedures:
+KSFQ - Suffolk Executive Airport (11 nm N)
+KFKN - Franklin Regional Airport (16 nm NW)
+KCPK - Chesapeake Regional Airport (19 nm NE)
+KPVG - Hampton Roads Executive Airport (19 nm NE)
+KASJ - Tri-County Airport at Henry Joyner Field (28 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Jiles Field Airport?
+Find the distance to fly.
+From 
+to 9NC4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1712:17
+Sunset17:1822:18
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:20:21
+Local (UTC-5)19-Jan-2024 16:20:21
+
+
+
+
+   
+
+METAR
+
+
+KSFQ11nm N192055Z AUTO 33010G19KT 300V010 10SM SCT033 SCT043 OVC075 06/00 A2981 RMK AO2 T00561001
+
+KFKN16nm NW192055Z AUTO 30011G22KT 10SM SCT032 BKN060 OVC075 05/M03 A2982 RMK AO2 T00501034
+
+KCPK19nm NE192055Z AUTO 30010G21KT 10SM SCT031 BKN075 OVC080 05/M02 A2979 RMK AO2 T00521019
+
+KPVG19nm NE192056Z AUTO 30008G18KT 10SM FEW030 BKN043 OVC055 05/M01 A2981 RMK AO2 RAB17E31 SLP095 P0000 6//// T00501006 53033
+
+
+
+
+
+TAF
+
+
+KECG27nm SE191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+KNGU31nm NE1915/2015 25012KT 9999 SCT040 OVC075 640309 QNH2965INS TEMPO 1915/1918 VRB06KT 6000 -SHRA BR BKN020 OVC040 FM191800 32015G25KT 9999 SCT020 BKN040 640208 540009 QNH2963INS TEMPO 0918/0923 28014KT 8000 -SHRA OVC020 FM192300 33018G25KT BKN030 BKN200 600000 520009 520909 QNH2980INS FM200400 32018G25KT SCT030 520009 QNH2991INS TX07/1918Z TNM02/2009Z FN20067 
+
+KORF32nm NE191740Z 1918/2018 29011KT P6SM SCT025 BKN070 FM192000 30013G20KT P6SM VCSH BKN025 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Jiles Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Jiles Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

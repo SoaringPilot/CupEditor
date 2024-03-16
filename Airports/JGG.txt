@@ -1,0 +1,492 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KJGG - Williamsburg-Jamestown Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1466 users online
+ 
+
+
+
+
+KJGG
+ Williamsburg-Jamestown AirportWilliamsburg, Virginia, USA 
+
+
+
+
+
+
+GOING TO WILLIAMSBURG?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:JGG
+Lat/Long:37-14-21.0290N 076-42-57.9460W37-14.350483N 076-42.965767W37.2391747,-76.7160961(estimated)
+Elevation:49 ft. / 14.9 m (surveyed)
+Variation:11W (2010)
+From city:3 miles SW of WILLIAMSBURG, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23185
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1970
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+NOTAMs facility:JGG (NOTAM-D service available)
+Attendance:NOV-FEB 0800-1800,  MAR-OCT 0800-1900ARPT UNATTND CHRISTMAS DAY - ATTND BY REQUEST.
+Pattern altitude:849 ft. MSL
+Wind indicator:lighted
+Segmented circle:no
+Lights:ACTVT REIL RWY 13 & 31; MIRL RY 13/31; PERIMETER LGTS RY H1 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+Landing fee:no, LANDING FEE FOR COML & CHTR ACFT.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+WX AWOS-3:120.625 (757-220-8810)
+NORFOLK APPROACH:119.45
+NORFOLK DEPARTURE:119.45
+WX ASOS at PHF (12 nm SE):PHONE 757-874-3682
+WX AWOS-3 at FYJ (17 nm N):132.825 (804-785-2307)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr188/12.6HARCUM VORTAC108.8007W
+HPWr112/19.8HOPEWELL VORTAC114.3506W
+ORFr317/32.3NORFOLK VORTAC116.9007W
+RICr128/32.9RICHMOND VORTAC114.1009W
+FKNr033/34.5FRANKLIN VORTAC110.6009W
+CCVr269/34.9CAPE CHARLES VORTAC112.2010W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD053/20.627411WAKQ.- -.- --.-
+
+Airport Services
+
+Fuel available:100LL JET-A+
+Parking:hangars and tiedowns
+Airframe service:MAJOR
+Powerplant service:MAJOR
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 13/31
+
+Dimensions:3204 x 60 ft. / 977 x 18 m
+Surface:asphalt, in fair condition
+Weight bearing capacity:Single wheel:12.5
+Runway edge lights:medium intensity
+RUNWAY 13RUNWAY 31
+Latitude:37-14.483717N37-14.216817N
+Longitude:076-43.250367W076-42.680517W
+Elevation:48.0 ft.22.0 ft.
+Traffic pattern:rightleft
+Runway heading:131 magnetic, 120 true311 magnetic, 300 true
+Markings:basic, in fair conditionbasic, in fair condition
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:106 ft. trees, 2016 ft. from runway, 269 ft. right of centerline, 17:1 slope to clearnone20 FT TREE 156 FT FM THR 106 L OF CNTRLN; BRUSH APRX 127 FT FM THR, ARND PEN EDGE, 15 FT ABV RWY END.
+
+Helipad H1
+
+Dimensions:60 x 60 ft. / 18 x 18 m
+Surface:concrete, in good condition
+Traffic pattern:leftleft
+Markings:basic, in fair condition
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:WILLIAMSBURG-JAMESTOWN ARPT.100 MARCLAY RDWILLIAMSBURG, VA 23185Phone 757-229-9256
+Manager:LARRY T. WALTRIP100 MARCLAY RDWILLIAMSBURG, VA 23185Phone 757-229-9256
+
+Airport Operational Statistics
+
+Aircraft based on the field:59Single engine airplanes:58Multi engine airplanes:1
+Aircraft operations: avg 80/day*52%local general aviation38%transient general aviation9%air taxi<1%military* for 12-month period ending 31 December 2018
+Additional Remarks
+
+-DEER & BIRDS ON & INVOF ARPT.
+-NOISE ABATEMENT PROCEDURES IN EFFECT; CTC AMGR 757-229-9256. RY 31 DEP TURN LEFT HEADING 270 DEG TO AVOID SCHOOL 3500 FT OFF RY END.
+-GCO AVBL ON FREQ 135.075 THRU NORFOLK CD, 4 CLICKS NORFOLK, 5 LEESBURG RADIO (CLICK SLOWLY).  IF UN, FOR CD CTC NORFOLK APCH AT 757-464-0757.
+-HELIPAD CLSD CT 122.8 FOR LDG INSTRUCTIONS.
+-PAEW ADJECENT TO RY 13/31.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS)-C
+download (174KB)
+VOR-B
+download (163KB)
+
+NOTE: Special Alternate Minimums apply
+download (19KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (140KB)
+
+Other nearby airports with instrument procedures:
+W94 - Camp Peary Landing Strip Airport (6 nm NE)
+KFAF - Felker Army Airfield (8 nm SE)
+KPHF - Newport News/Williamsburg International Airport (12 nm SE)
+KFYJ - Middle Peninsula Regional Airport (17 nm N)
+KLFI - Langley Air Force Base (19 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Photo by David Newcomer
+Photo taken 10-Sep-2019
+looking south from 5,000' altitude.
+
+Do you have a better or more recent aerial photo of Williamsburg-Jamestown Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Williamsburg-Jamestown Airport?
+Find the distance to fly.
+From 
+to KJGG
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:1622:16
+Evening civil twilight17:4422:44
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 22:09:16
+Local (UTC-5)19-Jan-2024 17:09:16
+
+
+
+
+   
+
+METAR
+
+
+KFAF9nm SE192158Z 30021G30KT 10SM OVC070 03/M05 A2983 RMK SLP105 TSNO $
+
+KPHF12nm SE192154Z 32016G33KT 10SM OVC075 03/M05 A2985 RMK AO2 PK WND 32033/2148 SLP107 T00281050
+
+KFYJ17nm N192155Z AUTO 33006G14KT 10SM SCT080 01/M04 A2988 RMK AO1 T00091040
+
+KLFI20nm SE192155Z AUTO 31015G19KT 10SM SCT035 OVC070 03/M06 A2984 RMK AO2 PK WND 32026/40 SLP111 T00331059 $
+
+
+
+
+
+TAF
+
+
+KFAF9nm SE191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KPHF12nm SE191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+KLFI20nm SE191800Z 1918/2024 29015G25KT 9999 SCT025 BKN040 QNH2969INS TEMPO 1921/2001 30020G30KT BECMG 2002/2003 31020G25KT 9999 FEW035 SCT050 QNH2996INS TX07/1919Z TNM03/2011Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Williamsburg-Jamestown Airport
+
+757-229-9256[web site][email]
+
+Airport management, Aviation fuel, Aircraft parking (ramp or tiedown), Hangars, Hangar leasing / sales, Pilot school (FAR Part 141), Flight training, ...
+
+
+
+More info about Williamsburg-Jamestown Airport
+
+
+
+
+
+100LL Jet AFS$6.00$5.75Updated 12-Jan-2024
+
+
+
+
+4readwrite
+
+
+
+FS=Full service
+
+
+
+
+Where to Eat: Catering, Restaurants, Food shops
+Business NameContact
+Services / DescriptionDistanceComments
+
+Charly's
+
+757-258-0034
+
+
+no information available
+If you are affiliated with Charly's and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+on airport
+
+
+
+write
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Williamsburg-Jamestown Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Williamsburg-Jamestown Airport
+
+
+
+www.wjairport.com
+
+
+
+
+
+www.flyvirginia.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

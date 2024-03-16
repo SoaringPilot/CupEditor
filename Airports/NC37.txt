@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NC37 - Mountain View Aerodrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1463 users online
+ 
+
+
+
+
+NC37
+ Mountain View AerodromeReidsville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO REIDSVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NC37
+Lat/Long:36-20-24.4910N 079-50-28.1290W36-20.408183N 079-50.468817W36.3401364,-79.8411469(estimated)
+Elevation:800 ft. / 244 m (estimated)
+Variation:06W (1985)
+From city:12 miles W of REIDSVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27320
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/1988
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:CONTINUOUS
+Wind indicator:no
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at SIF (6 nm N):119.775 (336-573-3677)
+WX ASOS at GSO (15 nm S):128.55 (336-393-0168)
+WX AWOS-3 at MTV (19 nm NW):118.45 (276-957-3784)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+GSOr023/18.8GREENSBORO VORTAC116.2003W
+DANr247/(27.9)DANVILLE VOR113.1006W
+LIBr344/33.6LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER244/4.542307WSIF... .. ..-.
+PERSON288/38.022008WHUR.... ..- .-.
+
+Airport Services
+
+
+Runway Information
+Runway 12/30
+
+Dimensions:2000 x 50 ft. / 610 x 15 m
+Surface:turf
+RUNWAY 12RUNWAY 30
+Traffic pattern:leftleft
+Obstructions:nonepline
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:E.C. HESTER1102 GREEN ST.REIDSVILLE, NC 27320Phone 336-342-5322
+Manager:E.C. HESTER1102 GREEN ST.REIDSVILLE, NC 27320Phone 336-342-5322
+
+Additional Remarks
+
+-FOR CD CTC ATLANTA ARTCC AT 770-210-7692.
+
+Instrument Procedures
+There are no published instrument procedures at NC37.
+Some nearby airports with instrument procedures:
+KSIF - Rockingham County NC Shiloh Airport (6 nm N)
+N63 - Meadow Brook Field Airport (15 nm W)
+KGSO - Piedmont Triad International Airport (15 nm S)
+KMTV - Blue Ridge Airport (19 nm NW)
+KINT - Smith Reynolds Airport (22 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Mountain View Aerodrome?
+Find the distance to fly.
+From 
+to NC37
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0212:02
+Sunrise07:3012:30
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:36:21
+Local (UTC-5)19-Jan-2024 16:36:21
+
+
+
+
+   
+
+METAR
+
+
+KSIF6nm N192110Z AUTO 28011G22KT 10SM SCT060 04/M09 A2995 RMK AO2 T00371093
+
+KGSO15nm S192054Z 29016G25KT 10SM FEW055 03/M09 A2992 RMK AO2 PK WND 32033/2012 SLP134 T00331094 51042
+
+KMTV19nm NW192115Z AUTO 33013G21KT 10SM OVC050 02/M11 A2997 RMK AO2 T00151115
+
+
+
+
+
+TAF
+
+
+KGSO15nm S191732Z 1918/2018 31015G28KT P6SM BKN050 FM192300 31012G19KT P6SM SCT050 FM200500 31011KT P6SM SKC FM201400 33012G22KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Mountain View Aerodrome, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Mountain View Aerodrome
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

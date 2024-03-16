@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: NR37 - Suter Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1417 users online
+ 
+
+
+
+
+NR37
+ Suter Field AirportTrenton, North Carolina, USA 
+
+
+
+
+
+
+GOING TO TRENTON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:NR37
+Lat/Long:35-03-26.0000N 077-27-43.0000W35-03.433333N 077-27.716667W35.0572222,-77.4619444(estimated)
+Elevation:35 ft. / 11 m (estimated)
+From city:5 miles WSW of TRENTON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28585
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:11/2019
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3PT at OAJ (16 nm SW):PHONE 910-324-5233
+WX AWOS-3 at ISO (18 nm NW):132.75 (252-522-2712)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+ISOr171/19.4KINSTON VORTAC117.5005W
+EWNr275/20.5NEW BERN VOR/DME113.6008W
+
+
+NDBnameHdg/DistFreqVarID
+CHOCOWINITY221/32.238808WRNW.-. -. .--
+ALWOOD195/39.223009WAQE.- --.- .
+
+Airport Services
+
+
+Runway Information
+Runway 13/31
+
+Dimensions:2117 x 60 ft. / 645 x 18 m
+Surface:turf
+RUNWAY 13RUNWAY 31
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOHN SUTER379 CREEDMOOR ROADJACKSONVILLE, NC 28546Phone 910-545-3211
+Manager:JOHN SUTER379 CREEDMOOR ROADJACKSONVILLE, NC 28546Phone 910-545-3211
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-OWNER DESIRES ARPT BE CHARTED
+
+Instrument Procedures
+There are no published instrument procedures at NR37.
+Some nearby airports with instrument procedures:
+KOAJ - Albert J Ellis Airport (16 nm SW)
+KISO - Kinston Regional Jetport at Stallings Field (18 nm NW)
+KEWN - Coastal Carolina Regional Airport (21 nm E)
+KNCA - New River Marine Corps Air Station (McCutcheon Field) Airport (21 nm S)
+KDPL - Duplin County Airport (26 nm W)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+Taken in January 2020
+
+Do you have a better or more recent aerial photo of Suter Field Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Airport distance calculator
+
+
+Flying to Suter Field Airport?
+Find the distance to fly.
+From 
+to NR37
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5011:50
+Sunrise07:1712:17
+Sunset17:2422:24
+Evening civil twilight17:5122:51
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:58:46
+Local (UTC-5)19-Jan-2024 16:58:46
+
+
+
+
+   
+
+METAR
+
+
+KOAJ16nm SW192056Z 28010G15KT 240V310 10SM BKN060 OVC080 12/00 A2980 RMK AO2 SLP093 T01220000 53018
+
+KISO17nm NW192056Z 35008G15KT 10SM SCT065 BKN075 11/M00 A2981
+
+KEWN20nm E192154Z 32010G20KT 10SM SCT065 SCT080 10/00 A2983 RMK AO2 PK WND 29026/2055 SLP101 T01000000
+
+KNCA20nm S192056Z 32019G26KT 10SM FEW048 BKN060 12/01 A2979 RMK AO2 PK WND 29027/2046 SLP089 T01220011 53016
+
+KDPL25nm W192145Z AUTO 31018G27KT 10SM BKN080 11/M05 A2986 RMK AO2
+
+KGSB29nm NW192055Z 32013G30KT 10SM BKN070 11/M04 A2978 RMK AO2A PK WND 31030/45 SLPNO T01131036 53025 $
+
+KNKT31nm E192056Z 28015G23KT 10SM BKN065 12/01 A2978 RMK AO2 PK WND 29026/2037 SLP080 T01220006 53017
+
+KNJM32nm SE192057Z AUTO 31010G18KT 260V320 8SM BKN060 OVC075 12/02 A2978 RMK AO2 SLP089 T01220022 53016
+
+
+
+
+
+TAF
+
+
+KOAJ16nm SW191727Z 1918/2018 29015G26KT P6SM SCT050 FM200300 31009G18KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KISO17nm NW191727Z 1918/2018 30016G27KT P6SM SCT050 FM200300 31011G20KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KEWN20nm E191727Z 1918/2018 29014G26KT P6SM SCT050 FM200300 30010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Suter Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Suter Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

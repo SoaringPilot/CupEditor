@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6NC1 - Little Mountain Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1541 users online
+ 
+
+
+
+
+6NC1
+ Little Mountain AirportDenver, North Carolina, USA 
+
+
+
+
+
+
+GOING TO DENVER?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6NC1
+Lat/Long:35-35-30.4810N 081-04-46.2810W35-35.508017N 081-04.771350W35.5918003,-81.0795225(estimated)
+Elevation:1030 ft. / 314 m (estimated)
+Variation:05W (1985)
+From city:4 miles SE of DENVER, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28650
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:09/1974
+Control tower:no
+ARTCC:ATLANTA CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:CONTINUOUS
+Pattern altitude:1800 ft. MSL
+Wind indicator:yes
+Segmented circle:yes
+Lights:ACTVT LIRL RY 03/21 - 130.55.
+Beacon:white-green (lighted land airport)ACTVT ROTG BCN  - 130.55.
+
+Airport Communications
+
+WX AWOS-3 at IPJ (8 nm SW):119.675 (704-735-6954)
+WX AWOS-3 at SVH (12 nm NE):119.225 (704-873-1978)
+WX ASOS at HKY (18 nm NW):118.325 (828-322-2996)
+
+
+AIRCRAFT ADVISED TO MONITOR COMPANY A/C FREQUENCY 130.55 LANDING AND TAKEOFFS.
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+BZMr161/18.4BARRETTS MOUNTAIN VOR/DME113.7506W
+CLTr350/24.9CHARLOTTE VOR/DME115.0005W
+
+
+NDBnameHdg/DistFreqVarID
+STONIA015/24.326006WGHJ--. .... .---
+FIDDLERS111/29.739107WFIQ..-. .. --.-
+FIRST RIVER057/32.541706WSLP... .-.. .--.
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:3000 x 40 ft. / 914 x 12 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:15.0
+Runway edge lights:low intensityNON-STD LGTS.
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Runway end identifier lights:nono
+Obstructions:30 ft. trees, 200 ft. from runwayTREES 85' RIGHT OF CNTRLN; 100' FROM THR.19 ft. trees, 350 ft. from runway, 20 ft. left of centerline, 26:1 slope to clear+50' HILL 150' LEFT OF CNTRLN AT THR.
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:LITTLE MOUNTAIN ARPT ASSOCPO BOX 488DENVER, NC 28037-0488Phone 866-584-5423
+Manager:JAY KOTLINSKI3524 AIRPORT ROADMAIDEN, NC 28650-9056Phone 828-464-8471
+
+Airport Operational Statistics
+
+Aircraft based on the field:3Single engine airplanes:1Multi engine airplanes:2
+Aircraft operations: avg 40/week*100%transient general aviation* for 12-month period ending 08 September 1982
+Additional Remarks
+
+-FOR CD CTC CHARLOTTE APCH AT 704-359-0241.
+
+Instrument Procedures
+There are no published instrument procedures at 6NC1.
+Some nearby airports with instrument procedures:
+KIPJ - Lincolnton-Lincoln County Regional Airport (8 nm SW)
+14A - Lake Norman Airpark (9 nm E)
+KSVH - Statesville Regional Airport (12 nm NE)
+KHKY - Hickory Regional Airport (18 nm NW)
+KJQF - Concord-Padgett Regional Airport (22 nm SE)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Little Mountain Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Little Mountain Airport?
+Find the distance to fly.
+From 
+to 6NC1
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0512:05
+Sunrise07:3312:33
+Sunset17:3722:37
+Evening civil twilight18:0523:05
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:27:13
+Local (UTC-5)19-Jan-2024 16:27:13
+
+
+
+
+   
+
+METAR
+
+
+KIPJ8nm SW192105Z AUTO 29009G19KT 250V310 10SM SCT055 03/M09 A3000 RMK AO2 T00341090
+
+KSVH11nm NE192105Z AUTO 29014G24KT 10SM CLR 03/M10 A2999 RMK AO2 T00251096
+
+KHKY18nm NW192053Z 30009G21KT 10SM FEW043 02/M07 A2998 RMK AO2 SLP147 T00171072 51030
+
+
+
+
+
+TAF
+
+
+KHKY18nm NW191730Z 1918/2018 30015G25KT P6SM SCT045 FM200100 31011KT P6SM SKC FM201500 31010G18KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Little Mountain Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Little Mountain Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

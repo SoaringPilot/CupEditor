@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 84NC - Rooster Field Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1447 users online
+ 
+
+
+
+
+84NC
+ Rooster Field AirportCameron, North Carolina, USA 
+
+
+
+
+
+
+GOING TO CAMERON?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:84NC
+Lat/Long:35-16-24.0000N 079-14-55.0000W35-16.400000N 079-14.916667W35.2733333,-79.2486111(estimated)
+Elevation:340 ft. / 104 m (estimated)
+From city:4 miles S of CAMERON, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:28394
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Activation date:04/2002
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3PT at SOP (7 nm W):127.575 (910-692-4287)
+WX ASOS at HFF (19 nm SW):141.25 (910-396-7804)
+WX AWOS-3 at TTA (20 nm N):120.625 (919-708-5382)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+SDZr081/17.0SANDHILLS VORTAC111.8003W
+FAYr317/25.2FAYETTEVILLE VOR/DME114.8504W
+LIBr154/36.9LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+HARNETT259/29.741708WHQT.... --.- -
+
+Airport Services
+
+
+Runway Information
+Runway 9/27
+
+Dimensions:2155 x 132 ft. / 657 x 40 m
+Surface:turf
+RUNWAY 9RUNWAY 27
+Traffic pattern:leftleft
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:JOSEPH FITZGERALD168 W 86TH ST, APT 12BNEW YORK, NY 10024-2078Phone 919-454-3612
+Manager:JOSEPH FITZGERALD168 W 86TH ST, APT 12BNEW YORK, NY 10024-2078Phone 919-454-3612
+
+Airport Operational Statistics
+
+Aircraft based on the field:1Single engine airplanes:1
+Additional Remarks
+
+-726 FT CELL TOWER 1.5 NM NW OF RY.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 84NC.
+Some nearby airports with instrument procedures:
+KSOP - Moore County Airport (7 nm W)
+KPOB - Pope Army Airfield (13 nm SE)
+5W4 - P K Airpark (15 nm S)
+KFBG - Simmons Army Airfield (18 nm SE)
+KHFF - Mackall Army Airfield (19 nm SW)
+KTTA - Raleigh Executive Jetport at Sanford-Lee County Airport (20 nm N)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Rooster Field Airport?
+Find the distance to fly.
+From 
+to 84NC
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5811:58
+Sunrise07:2512:25
+Sunset17:3122:31
+Evening civil twilight17:5822:58
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:49:40
+Local (UTC-5)19-Jan-2024 16:49:40
+
+
+
+
+   
+
+METAR
+
+
+KSOP8nm SW192056Z AUTO 32012G25KT 10SM CLR 08/M09 A2989 RMK AO2 PK WND 32028/2035 SLP129 T00831089 53038
+
+KPOB13nm SE192115Z AUTO 30015G24KT 10SM CLR 10/M09 A2988 RMK AO2 SLPNO $
+
+KFBG19nm SE192129Z AUTO 31016G25KT 10SM CLR 10/M09 A2987 RMK AO2 PRESRR SLPNO $
+
+KHFF20nm SW192115Z AUTO 34009G16KT 10SM BKN080 09/M08 A2988 RMK AO2 SLPNO $
+
+KTTA20nm N192130Z AUTO 31015G24KT 10SM CLR 07/M08 A2992 RMK AO2 T00671080
+
+
+
+
+
+TAF
+
+
+KPOB13nm SE192010Z 1920/2024 30015G26KT 9999 SCT050 510102 QNH2976INS TEMPO 1920/1923 31022G36KT BECMG 2001/2002 32012G18KT 9999 SKC 510102 QNH3005INS BECMG 2014/2015 34015G23KT 9999 SKC 510102 QNH3020INS BECMG 2022/2023 33010G15KT 9999 SKC 510102 QNH3029INS TX12/1921Z TNM05/2011Z 
+
+KFBG19nm SE192000Z 1920/2024 28015G25KT 9999 BKN060 QNH2974INS BECMG 2001/2002 28015G20KT 9999 SKC QNH2974INS BECMG 2022/2023 31010KT 9999 SKC QNH2974INS TX14/1920Z TNM02/2006Z 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Rooster Field Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Rooster Field Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

@@ -1,0 +1,7 @@
+AirNav: 35NC - Johnston Airpot
+CTAF:
+Lat/Long:WW35.5383333,-80.7513833(estimated)
+Runway 16/34
+Elevation:715 ft.
+Surface:turf
+Dimensions:2100 x 100 ft.

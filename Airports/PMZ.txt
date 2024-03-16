@@ -1,0 +1,393 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: KPMZ - Plymouth Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1464 users online
+ 
+
+
+
+
+KPMZ
+ Plymouth Municipal AirportPlymouth, North Carolina, USA 
+
+
+
+
+
+
+GOING TO PLYMOUTH?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:PMZ
+Lat/Long:35-48-38.8090N 076-45-30.1320W35-48.646817N 076-45.502200W35.8107803,-76.7583700(estimated)
+Elevation:36.3 ft. / 11.1 m (surveyed)
+Variation:10W (2000)
+From city:2 miles S of PLYMOUTH, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27962
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:03/1978
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:0800-1700FOR SVC AFTER HRS CALL 252-793-9801.
+Wind indicator:lighted
+Segmented circle:yes
+Lights:ACTVT REIL RWY 03 & 21; PAPI RWY 03 & 21; MIRL RWY 03/21 - CTAF.
+Beacon:white-green (lighted land airport)Operates sunset to sunrise.
+
+Airport Communications
+
+CTAF/UNICOM:122.8
+CHERRY POINT APPROACH:119.35
+CHERRY POINT DEPARTURE:119.35
+WX AWOS-3 at EDE (16 nm NE):118.275 (252-482-0757)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+CVIr180/34.2COFIELD VORTAC114.6009W
+ECGr234/39.0ELIZABETH CITY VOR/DME115.7507W
+
+
+NDBnameHdg/DistFreqVarID
+CHOCOWINITY051/24.838808WRNW.-. -. .--
+ALWOOD087/30.523009WAQE.- --.- .
+WOODVILLE229/35.125410WLLW.-.. .-.. .--
+
+Airport Services
+
+Fuel available:100LL JET-A1+100LL:24 HR SS FUELING WITH CC.
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:5500 x 75 ft. / 1676 x 23 m
+Surface:asphalt, in good condition
+Weight bearing capacity:Single wheel:25.0
+Runway edge lights:medium intensity
+RUNWAY 3RUNWAY 21
+Latitude:35-48.214307N35-49.079320N
+Longitude:076-45.668500W076-45.335860W
+Elevation:36.3 ft.34.9 ft.
+Traffic pattern:leftleft
+Runway heading:027 magnetic, 017 true207 magnetic, 197 true
+Markings:nonprecision, in good conditionnonprecision, in good condition
+Visual slope indicator:2-light PAPI on left (4.00 degrees glide path)2-light PAPI on left (4.00 degrees glide path)UNUSBL BYD 8 DEG R OF CNTRLN.
+Runway end identifier lights:yesyes
+Touchdown point:yes, no lightsyes, no lights
+Obstructions:43 ft. trees, 243 ft. from runway, 254 ft. left of centerline, 1:1 slope to clear97 ft. trees, 2190 ft. from runway, 192 ft. left of centerline, 20:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:WASHINGTON COUNTYPO BOX 1007, 116 ADAMS STREETPLYMOUTH, NC 27962Phone 252-793-5823
+Manager:KNAPP BRABBLE1069 AIRPORT RD.PLYMOUTH, NC 27962Phone 252-793-9801
+
+Airport Operational Statistics
+
+Aircraft based on the field:8Single engine airplanes:7Multi engine airplanes:1
+Aircraft operations: avg 36/day*62%local general aviation23%transient general aviation15%military* for 12-month period ending 24 June 2021
+Additional Remarks
+
+-ARPT LCTD 5 MI W OF MIL RSTRD AREA; SAFETY PROBLEM DUE FAST MIL ACFT CROSSING ARPT BELOW 3000 FT MSL ENROUTE TO RSTRD AREA - CROSSINGS ARE UNANNOUNCED.
+-DEER ACTVTY INVOF ARPT.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+NOTE: All procedures below are presented as PDF files. If you need a reader for these files, you should download the free Adobe Reader.NOT FOR NAVIGATION. Please procure official charts for flight.FAA instrument procedures published for use from 28 December 2023 at 0901Z to 25 January 2024 at 0900z.
+
+IAPs - Instrument Approach Procedures
+
+RNAV (GPS) RWY 03
+download (226KB)
+RNAV (GPS) RWY 21
+download (224KB)
+
+NOTE: Special Take-Off Minimums/Departure Procedures apply
+download (141KB)
+
+Other nearby airports with instrument procedures:
+KEDE - Northeastern Regional Airport (16 nm NE)
+KOCW - Washington-Warren Airport (20 nm SW)
+KMCZ - Martin County Airport (21 nm W)
+KPGV - Pitt-Greenville Airport (32 nm W)
+KASJ - Tri-County Airport at Henry Joyner Field (35 nm NW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+WARNING: Photo may not be current or correct
+
+
+Do you have a better or more recent aerial photo of Plymouth Municipal Airport that you would like to share?  If so, please send us your photo.
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Plymouth Municipal Airport?
+Find the distance to fly.
+From 
+to KPMZ
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:4911:49
+Sunrise07:1612:16
+Sunset17:2022:20
+Evening civil twilight17:4722:47
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:44:15
+Local (UTC-5)19-Jan-2024 16:44:15
+
+
+
+
+   
+
+METAR
+
+
+KEDE15nm NE192130Z AUTO 34015G22KT 10SM SCT047 BKN060 OVC080 08/02 A2983 RMK AO2 T00800020
+
+KOCW20nm SW192125Z AUTO 34016G23KT 10SM OVC050 08/M02 A2983 RMK AO2 T00801017
+
+KMCZ21nm W192120Z AUTO 32013G20KT 10SM BKN065 OVC085 07/M02 A2984 RMK AO2 T00701020
+
+
+
+
+
+TAF
+
+
+KPGV33nm W191727Z 1918/2018 30016G26KT P6SM BKN050 FM200300 31010G19KT P6SM SKC AMD LTD TO CLD VIS AND WIND 
+
+KECG39nm NE191759Z 1918/2018 24007KT P6SM BKN060 FM192000 28015G22KT P6SM BKN040 FM201100 31010KT P6SM SKC FM201500 30013G20KT P6SM SCT050 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+FBO, Fuel Providers, and Aircraft Ground Support
+Business NameContact
+Services / DescriptionFuel PricesComments
+
+Plymouth Municipal Airport
+
+252-793-9801
+
+
+no information available
+If you are affiliated with Plymouth Municipal Airport and would like to show here your services, contact info, web link, logo, and more, click here
+
+
+
+100LL Jet AFS$5.99$4.49SS$5.99$4.49Updated 11-Jan-2024
+
+
+
+
+1readwrite
+
+
+
+FS=Full serviceSS=Self service
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Plymouth Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Plymouth Municipal Airport
+
+
+
+www.visitplymouthnc.com/...
+
+
+
+
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

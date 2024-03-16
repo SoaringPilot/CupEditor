@@ -1,0 +1,7 @@
+AirNav: N/A - N/A
+CTAF:
+Lat/Long:WW35.9989,-79.6892(estimated)
+Runway 9/27
+Elevation:777 ft.
+Surface:asphalt poor
+Dimensions:2400 x 30 ft.

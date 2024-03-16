@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 2VA2 - Melville Airstrip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1496 users online
+ 
+
+
+
+
+2VA2
+ Melville AirstripSurry, Virginia, USA 
+
+
+
+
+
+
+GOING TO SURRY?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:2VA2
+Lat/Long:37-08-45.5340N 076-47-23.8540W37-08.758900N 076-47.397567W37.1459817,-76.7899594(estimated)
+Elevation:90 ft. / 27.4 m (surveyed)
+Variation:09W (1985)
+From city:2 miles E of SURRY, VA
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:23883
+
+Airport Operations
+
+Airport use:Private use. Permission required prior to landing
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:LEESBURG FLIGHT SERVICE STATION
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+WX AWOS-3 at JGG (7 nm NE):120.625 (757-220-8810)
+WX ASOS at AKQ (14 nm SW):128.325 (757-899-2300)
+WX ASOS at PHF (14 nm E):PHONE 757-874-3682
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+HCMr199/18.5HARCUM VORTAC108.8007W
+HPWr131/19.0HOPEWELL VORTAC114.3506W
+FKNr031/28.0FRANKLIN VORTAC110.6009W
+ORFr305/32.1NORFOLK VORTAC116.9007W
+RICr139/33.1RICHMOND VORTAC114.1009W
+CCVr262/39.7CAPE CHARLES VORTAC112.2010W
+
+
+NDBnameHdg/DistFreqVarID
+WAKEFIELD057/14.127411WAKQ.- -.- --.-
+
+Airport Services
+
+Airframe service:NONE
+Powerplant service:NONE
+
+Runway Information
+Runway 3/21
+
+Dimensions:2900 x 60 ft. / 884 x 18 m
+Surface:turf
+RUNWAY 3RUNWAY 21
+Traffic pattern:leftleft
+Obstructions:treestrees
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Privately-owned
+Owner:RANDOLPH SAVEDGE416 MELVILLE DRIVESURRY, VA 23883Phone (757) 646-8359
+Manager:RANDOLPH SAVEDGE416 MELVILLE DRIVESURRY, VA 23883Phone 757-646-8359
+
+Airport Operational Statistics
+
+Aircraft based on the field:2Single engine airplanes:2
+Additional Remarks
+
+-FOR CD CTC NORFOLK APCH AT 757-464-0757.
+
+Instrument Procedures
+There are no published instrument procedures at 2VA2.
+Some nearby airports with instrument procedures:
+KJGG - Williamsburg-Jamestown Airport (7 nm NE)
+KFAF - Felker Army Airfield (9 nm E)
+W94 - Camp Peary Landing Strip Airport (12 nm NE)
+KAKQ - Wakefield Municipal Airport (14 nm SW)
+KPHF - Newport News/Williamsburg International Airport (14 nm E)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Melville Airstrip?
+Find the distance to fly.
+From 
+to 2VA2
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight06:5111:51
+Sunrise07:1912:19
+Sunset17:1722:17
+Evening civil twilight17:4522:45
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 21:33:12
+Local (UTC-5)19-Jan-2024 16:33:12
+
+
+
+
+   
+
+METAR
+
+
+KFAF8nm E192055Z 30019G27KT 10SM SCT035 BKN050 BKN060 04/M03 A2978 RMK AO2A PK WND 29030/10 SLP088 60000 T00421027 53035 TSNO $
+
+KPHF14nm E192054Z 31021G31KT 10SM FEW034 SCT060 OVC075 04/M03 A2981 RMK AO2 PK WND 28031/2012 SLP094 T00391028 53033
+
+KAKQ14nm SW192054Z AUTO 31007G15KT 290V350 10SM BKN034 BKN043 OVC070 04/M02 A2982 RMK AO2 SLP101 T00441022 53034
+
+
+
+
+
+TAF
+
+
+KFAF8nm E191900Z 1919/2101 29010G20KT 9999 BKN020 QNH2966INS BECMG 2001/2002 30009KT 9999 FEW025 SCT050 QNH2989INS BECMG 2013/2014 32015G25KT 9999 FEW050 SCT075 QNH3009INS BECMG 2022/2023 31012KT 9999 SCT045 QNH3013INS TX06/1921Z TNM03/2011Z 
+
+KPHF14nm E191740Z 1918/2018 31011KT P6SM SCT020 BKN070 FM191900 30013G20KT P6SM VCSH BKN025 FM192100 30015G22KT P6SM BKN040 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Melville Airstrip, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Melville Airstrip
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+

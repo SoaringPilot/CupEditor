@@ -1,0 +1,353 @@
+
+
+
+
+
+
+
+
+
+
+AirNav: 6W4 - Yanceyville Municipal Airport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airports
+
+Navaids
+
+Airspace Fixes
+
+Aviation Fuel
+
+Hotels
+
+AIRBOSS
+
+iPhone App
+
+My AirNav
+
+
+
+
+
+1617 users online
+ 
+
+
+
+
+6W4
+ Yanceyville Municipal AirportYanceyville, North Carolina, USA 
+
+
+
+
+
+
+GOING TO YANCEYVILLE?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reserve a Hotel Room
+
+
+
+
+
+
+
+
+
+FAA INFORMATION EFFECTIVE 28 DECEMBER 2023
+Location
+FAA Identifier:6W4
+Lat/Long:36-23-59.2000N 079-23-33.7000W36-23.986667N 079-23.561667W36.3997778,-79.3926944(estimated)
+Elevation:648 ft. / 197.5 m (surveyed)
+Variation:07W (1985)
+From city:2 miles W of YANCEYVILLE, NC
+Time zone:UTC -5 (UTC -4 during Daylight Saving Time)
+Zip code:27379
+
+Airport Operations
+
+Airport use:Open to the public
+Activation date:08/1945
+Control tower:no
+ARTCC:WASHINGTON CENTER
+FSS:RALEIGH FLIGHT SERVICE STATION
+NOTAMs facility:RDU (NOTAM-D service available)
+Attendance:UNATNDD
+Wind indicator:yes
+Segmented circle:no
+
+Airport Communications
+
+CTAF:122.9
+WX ASOS at DAN (11 nm N):128.125 (434-799-1701)
+
+Nearby radio navigation aids
+
+VORradial/distanceVOR nameFreqVar
+DANr201/(10.5)DANVILLE VOR113.1006W
+SBVr233/24.6SOUTH BOSTON VORTAC110.4005W
+GSOr056/35.3GREENSBORO VORTAC116.2003W
+LIBr020/36.9LIBERTY VORTAC113.0003W
+
+
+NDBnameHdg/DistFreqVarID
+SLAMMER094/17.942307WSIF... .. ..-.
+PERSON310/18.722008WHUR.... ..- .-.
+HUNTSBORO288/37.927109WHXO.... -..- ---
+
+Airport Services
+
+Parking:tiedowns
+Airframe service:NONE
+Powerplant service:NONE
+Bottled oxygen:NONE
+Bulk oxygen:NONE
+
+Runway Information
+Runway 4/22
+
+Dimensions:1735 x 150 ft. / 529 x 46 m
+Surface:turf, in good condition
+Runway edge markings:04/22 MARKED WITH YELLOW CONES.
+RUNWAY 4RUNWAY 22
+Latitude:36-23.865633N36-24.107877N
+Longitude:079-23.655257W079-23.467165W
+Elevation:621.0 ft.648.0 ft.
+Traffic pattern:leftleft
+Runway heading:039 magnetic, 032 true219 magnetic, 212 true
+Obstructions:25 ft. trees, 24 ft. from runway, 56 ft. right of centerline85 ft. trees, 106 ft. from runway, 111 ft. right of centerline, 1:1 slope to clear
+
+Airport Ownership and Management from official FAA records
+
+Ownership:Publicly-owned
+Owner:TOWN OF YANCEYVILLE158 EAST CHURCH STREET, POST OFFICE BOX 727YANCEYVILLE, NC 27379Phone 336-694-5431
+Manager:KAMARA BARNETT158 EAST CHURCH STREET, POST OFFICE BOX 727YANCEYVILLE, NC 27379Phone 336-694-5431
+
+Airport Operational Statistics
+
+
+Aircraft operations: 150/year*67%local general aviation33%military* for 12-month period ending 16 June 2021
+Additional Remarks
+
+-DEER ON AND INVOF ARPT.
+-OCNL NIGHTTIME MILITARY OPNS.
+-RY 04/22 +50-70 FT TREES ALONG BOTH SIDES OF RY.
+-FOR CD CTC WASHINGTON ARTCC AT 703-771-3587.
+
+Instrument Procedures
+There are no published instrument procedures at 6W4.
+Some nearby airports with instrument procedures:
+KDAN - Danville Regional Airport (11 nm N)
+KTDF - Raleigh Regional Airport at Person County (21 nm E)
+KBUY - Burlington/Alamance Regional Airport (21 nm S)
+KSIF - Rockingham County NC Shiloh Airport (22 nm W)
+KGSO - Piedmont Triad International Airport (32 nm SW)
+
+
+
+
+
+Loc | Ops | Rwys | IFR | FBO | Links
+Com | Nav | Svcs | Stats | Notes
+
+
+
+
+
+
+$4.86
+$5.33
+
+
+
+
+
+
+
+Road maps at:
+MapQuest
+Bing
+Google
+
+
+
+Aerial photo
+
+
+
+
+
+
+Sectional chart
+
+
+
+
+
+
+Airport distance calculator
+
+
+Flying to Yanceyville Municipal Airport?
+Find the distance to fly.
+From 
+to 6W4
+
+
+
+
+
+Sunrise and sunset
+
+Times for 19-Jan-2024
+
+Local(UTC-5)Zulu(UTC)
+Morning civil twilight07:0012:00
+Sunrise07:2812:28
+Sunset17:2922:29
+Evening civil twilight17:5722:57
+
+
+
+
+
+Current date and time
+
+
+Zulu (UTC)19-Jan-2024 20:49:49
+Local (UTC-5)19-Jan-2024 15:49:49
+
+
+
+
+   
+
+METAR
+
+
+KDAN10nm N191953Z AUTO 29018G29KT 10SM BKN042 04/M09 A2988 RMK AO2 PK WND 29036/1910 SLP115 T00441089
+
+
+
+
+
+TAF
+
+
+KDAN10nm N191735Z 1918/2018 28011G22KT P6SM BKN050 FM200000 30012G23KT P6SM FEW060 FM200600 31010KT P6SM SKC 
+
+
+
+
+
+NOTAMs
+
+
+
+
+Click for the latest NOTAMs
+
+
+NOTAMs are issued by the DoD/FAA and will open in a separate window not controlled by AirNav.
+
+
+
+
+  
+
+
+
+
+
+Would you like to see your business listed on this page?
+If your business provides an interesting product or service to pilots, flight crews, aircraft, or users of the Yanceyville Municipal Airport, you should consider listing it here. To start the listing process, click on the button below
+
+
+
+
+Other Pages about Yanceyville Municipal Airport
+
+
+
+
+
+
+Copyright  AirNav, LLC. All rights reserved.
+
+
+Privacy Policy
+Contact
+
+
+
+
+
