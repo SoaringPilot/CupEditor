@@ -1066,12 +1066,24 @@ class UserWindow(qtw.QMainWindow, Ui_MainWindow):
             for i in range(len(self.data)):
                 if self.data[i].error_count or self.data[i].file_airport.is_file_empty:
                     # TIMC TODO add distance filter check here
+                    # Check if user wants to filter discrepancy list based on proximity to a target airport
                     if self.checkBox_filter.isChecked():
+                        # If there is text listed in the line edit
                         if self.lineEdit_lookup.text():
-                            # Get the GPS coordinates of the lookup airport
-                            #gps_distance_check(self.data[i].cup_airport.latitude, self.data[i].cup_airport.longitude)
-                            pass
-                    self.discrepancies_list.append(i)
+                            airport_of_interest = self.lineEdit_lookup.text()
+                            for a in self.data:
+                                if a.cup_airport.code == airport_of_interest:
+                                    check_distance = gps_distance_check(self.data[i].cup_airport.latitude,
+                                                                        self.data[i].cup_airport.longitude,
+                                                                        a.cup_airport.latitude,
+                                                                        a.cup_airport.longitude)
+                                    # Check if the airport associated with self.data[i] is within the specified range to the AOI
+                                    if check_distance < float(self.comboBox_filter_distance.currentText()):
+                                        self.discrepancies_list.append(i)
+
+                    # Append to discrepancy list if there is an error but no filter is checked
+                    else:
+                        self.discrepancies_list.append(i)
 
             # If list has length then discrepancies exist, change button text, update discrepancy variables
             if len(self.discrepancies_list):
