@@ -28,8 +28,8 @@ ELEV_ERR = 50  # Units: Feet, acceptable error for elevation differences
 LENGTH_ERR = 100  # Units: Feet, acceptable error for runway length differences
 WIDTH_ERR = 10  # Units: Feet, acceptable error for runway width differences
 LOCATION_ERR = 1000  # Units: Fee t, acceptable error for lat/long differences
-INPUT = "BALLr21.cup"
-OUTPUT = "BALLr22.cup"
+INPUT = "BALLr22.cup"
+OUTPUT = "BALLr23.cup"
 
 
 # Calculate the distance between GPS coordinates, return the difference in nautical miles
