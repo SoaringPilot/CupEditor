@@ -1,3 +1,4 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc
 AaronPenstonFld VA,1VA7,US,3639.958N,07843.350W,125.9m,2,10,548.6m,75ft,,AARON PENSTON FLD,,
 Abbott VA,VG58 (CLOSED),US,3656.720N,07947.800W,299.0m,1,90,548.6m,,,ABBOTT,,
 AberdeenField VA,31VA,US,3701.426N,07635.314W,10.1m,5,20,1804.7m,60ft,,ABERDEEN FIELD,,

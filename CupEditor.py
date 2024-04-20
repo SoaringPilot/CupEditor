@@ -40,18 +40,18 @@ def gps_distance_check(lat_0, long_0, lat_1, long_1):
 
 
 # Type and order of data listed in CUP file
-field_names = ["Waypoint Name",
-               "Code",
-               "Country",
-               "Latitude",
-               "Longitude",
-               "Elevation",
-               "Waypoint Style",
-               "Runway Direction",
-               "Runway Length",
-               "Runway Width",
-               "Airport Frequency",
-               "Description",
+field_names = ["name",
+               "code",
+               "country",
+               "lat",
+               "lon",
+               "elev",
+               "style",
+               "rwdir",
+               "rwlen",
+               "rwwidth",
+               "freq",
+               "desc",
                "User Data",
                "pics"]
 
@@ -290,20 +290,20 @@ class AirportFromCup:
         self.set_class_variables()
 
     def set_class_variables(self):
-        self.waypoint_name = self.original_cup_data.get("Waypoint Name")
-        self.code = self.original_cup_data.get("Code")
-        self.country = self.original_cup_data.get("Country")
-        self.latitude = self.original_cup_data.get("Latitude")
-        self.longitude = self.original_cup_data.get("Longitude")
-        self.elevation = self.convert_to_feet(self.original_cup_data.get("Elevation"))
-        self.waypoint_style = AirportFromCup.style_list[int(self.original_cup_data.get("Waypoint Style"))]
-        self.runway_direction = self.original_cup_data.get("Runway Direction")
+        self.waypoint_name = self.original_cup_data.get("name")
+        self.code = self.original_cup_data.get("code")
+        self.country = self.original_cup_data.get("country")
+        self.latitude = self.original_cup_data.get("lat")
+        self.longitude = self.original_cup_data.get("lon")
+        self.elevation = self.convert_to_feet(self.original_cup_data.get("elev"))
+        self.waypoint_style = AirportFromCup.style_list[int(self.original_cup_data.get("style"))]
+        self.runway_direction = self.original_cup_data.get("rwdir")
         # Convert self.runway_direction from 0-359 to 0 to 36
         self.convert_runway_to_standard()
-        self.runway_length = self.convert_to_feet(self.original_cup_data.get("Runway Length"))
-        self.runway_width = self.convert_to_feet(self.original_cup_data.get("Runway Width"))
-        self.airport_frequency = self.original_cup_data.get("Airport Frequency")
-        self.description = self.original_cup_data.get("Description")
+        self.runway_length = self.convert_to_feet(self.original_cup_data.get("rwlen"))
+        self.runway_width = self.convert_to_feet(self.original_cup_data.get("rwwidth"))
+        self.airport_frequency = self.original_cup_data.get("freq")
+        self.description = self.original_cup_data.get("desc")
         self.user_data = self.original_cup_data.get("User Data")
         self.pics = self.original_cup_data.get("pics")
         # Create a list of all the airport codes to make sure they are all unique
@@ -378,10 +378,10 @@ class AirportFromCup:
 
     def update_frequency(self, frequency):
         # Check if the new frequency is different from the data to be written to the new CUP file
-        if frequency != self.updated_cup_data.get("Airport Frequency"):
+        if frequency != self.updated_cup_data.get("freq"):
             # Update the airport's frequency and the data to be written to the new CUP file
             self.airport_frequency = frequency
-            self.updated_cup_data.update({"Airport Frequency": frequency})
+            self.updated_cup_data.update({"freq": frequency})
             return True
         else:
             return False
@@ -389,9 +389,9 @@ class AirportFromCup:
     def update_elevation(self, elevation):
         # Check if the new elevation is different from the data to be written to the new CUP file
         # Note: sometimes the updated_cup_data is original which contains the elevation data in meters, so convert
-        if elevation != self.convert_to_feet(self.updated_cup_data.get("Elevation")).replace("ft", ""):
+        if elevation != self.convert_to_feet(self.updated_cup_data.get("elev")).replace("ft", ""):
             self.elevation = elevation
-            self.updated_cup_data.update({"Elevation": elevation + "ft"})
+            self.updated_cup_data.update({"elev": elevation + "ft"})
             return True
         else:
             return False
@@ -399,9 +399,9 @@ class AirportFromCup:
     def update_length(self, length):
         # Check if the new length is different from the data to be written to the new CUP file
         # Note: sometimes the updated_cup_data is original which contains the length data in meters, so convert
-        if length != self.convert_to_feet(self.updated_cup_data.get("Runway Length")).replace("ft", ""):
+        if length != self.convert_to_feet(self.updated_cup_data.get("rwlen")).replace("ft", ""):
             self.runway_length = length
-            self.updated_cup_data.update({"Runway Length": length + "ft"})
+            self.updated_cup_data.update({"rwlen": length + "ft"})
             return True
         else:
             return False
@@ -409,9 +409,9 @@ class AirportFromCup:
     def update_width(self, width):
         # Check if the new width is different from the data to be written to the new CUP file
         # Note: sometimes the updated_cup_data is original which contains the width data in meters, so convert
-        if width != self.convert_to_feet(self.updated_cup_data.get("Runway Width")).replace("ft", ""):
+        if width != self.convert_to_feet(self.updated_cup_data.get("rwwidth")).replace("ft", ""):
             self.runway_width = width
-            self.updated_cup_data.update({"Runway Width": width + "ft"})
+            self.updated_cup_data.update({"rwwidth": width + "ft"})
             return True
         else:
             return False
@@ -419,10 +419,10 @@ class AirportFromCup:
     def update_waypoint_style(self, style):
         # Check if the new style is different from the data to be written to the new CUP file
         # Note: self.waypoint_style is the text equivalent, not the integer
-        if str(AirportFromCup.style_list.index(style)) != self.updated_cup_data.get("Waypoint Style"):
+        if str(AirportFromCup.style_list.index(style)) != self.updated_cup_data.get("style"):
             self.waypoint_style = style
             style_index = str(AirportFromCup.style_list.index(style))
-            self.updated_cup_data.update({"Waypoint Style": style_index})
+            self.updated_cup_data.update({"style": style_index})
             return True
         else:
             return False
@@ -433,9 +433,9 @@ class AirportFromCup:
         if direction.count("/"):
             temp = direction.split("/")[0]
             converted = str(int(temp) * 10)
-            if converted != self.updated_cup_data.get("Runway Direction"):
+            if converted != self.updated_cup_data.get("rwdir"):
                 self.runway_direction = converted
-                self.updated_cup_data.update({"Runway Direction": converted})
+                self.updated_cup_data.update({"rwdir": converted})
                 return True
         else:
             return False
@@ -448,9 +448,9 @@ class AirportFromCup:
         remainder = (latitude % degree)
         partial = remainder * 60
         converted = str(degree) + "%06.3f" % partial + "N"
-        if converted != self.updated_cup_data.get("Latitude"):
+        if converted != self.updated_cup_data.get("lat"):
             self.latitude = float(latitude)
-            self.updated_cup_data.update({"Latitude": converted})
+            self.updated_cup_data.update({"lat": converted})
             return True
         else:
             return False
@@ -463,27 +463,27 @@ class AirportFromCup:
         remainder = (abs(longitude) % temp)
         new_number = remainder * 60
         converted = "%03.0f" % temp + "%06.3f" % new_number + "W"
-        if converted != self.updated_cup_data.get("Longitude"):
+        if converted != self.updated_cup_data.get("lon"):
             self.longitude = longitude
-            self.updated_cup_data.update({"Longitude": converted})
+            self.updated_cup_data.update({"lon": converted})
             return True
         else:
             return False
 
     def update_waypoint_name(self, new_name):
         # Check if the new name is different from the data to be written to the new CUP file
-        if new_name != self.updated_cup_data.get("Waypoint Name"):
+        if new_name != self.updated_cup_data.get("name"):
             self.waypoint_name = new_name
-            self.updated_cup_data.update({"Waypoint Name": new_name})
+            self.updated_cup_data.update({"name": new_name})
             return True
         else:
             return False
 
     def update_code(self, new_code):
         # Check if the new code is different from the data to be written to the new CUP file
-        if new_code != self.updated_cup_data.get("Code"):
+        if new_code != self.updated_cup_data.get("code"):
             self.code = new_code
-            self.updated_cup_data.update({"Code": new_code})
+            self.updated_cup_data.update({"code": new_code})
             return True
         else:
             return False
@@ -849,7 +849,7 @@ class AirportValidation(Airport):
 
 def read_cup_file(filename):
     file = open(filename)
-    reader = csv.DictReader(file, fieldnames=field_names)
+    reader = csv.DictReader(file)
     list_of_dictionaries = []
     for line in reader:
         list_of_dictionaries.append(line)
@@ -1140,10 +1140,10 @@ class UserWindow(qtw.QMainWindow, Ui_MainWindow):
         for line in self.data:
             writer.writerow(line.cup_airport.updated_cup_data)
             # If there is a GPS location change, rename the image file, so it can't be used again
-            new_lat = line.cup_airport.updated_cup_data.get("Latitude")
-            old_lat = line.cup_airport.original_cup_data.get("Latitude")
-            new_long = line.cup_airport.updated_cup_data.get("Longitude")
-            old_long = line.cup_airport.original_cup_data.get("Longitude")
+            new_lat = line.cup_airport.updated_cup_data.get("lat")
+            old_lat = line.cup_airport.original_cup_data.get("lat")
+            new_long = line.cup_airport.updated_cup_data.get("lon")
+            old_long = line.cup_airport.original_cup_data.get("lon")
             if new_lat != old_lat or new_long != old_long:
                 image_path = "./Images/" + line.cup_airport.code + "_cup.png"
                 if os.path.isfile(image_path):
