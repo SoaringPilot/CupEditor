@@ -51,7 +51,7 @@ def create_airport_data_file(input_text: str, airport_name: str):
 
 if __name__ == '__main__':
     # Get data from cup file as a list
-    cup_data = read_cup_file("BALLr2.cup")
+    cup_data = read_cup_file("Old_Data/BALLr2.cup")
 
     for i in range(len(cup_data)):
         active_airport_id = cup_data[i].split(",")[1]
