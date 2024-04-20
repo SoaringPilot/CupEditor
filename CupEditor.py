@@ -28,8 +28,8 @@ ELEV_ERR = 50  # Units: Feet, acceptable error for elevation differences
 LENGTH_ERR = 100  # Units: Feet, acceptable error for runway length differences
 WIDTH_ERR = 10  # Units: Feet, acceptable error for runway width differences
 LOCATION_ERR = 1000  # Units: Fee t, acceptable error for lat/long differences
-INPUT = "BALLr22.cup"
-OUTPUT = "delete.cup"
+INPUT = "BALLr25.cup"
+OUTPUT = "BALLr26.cup"
 
 
 # Calculate the distance between GPS coordinates, return the difference in nautical miles
@@ -51,9 +51,7 @@ field_names = ["name",
                "rwlen",
                "rwwidth",
                "freq",
-               "desc",
-               "User Data",
-               "pics"]
+               "desc"]
 
 
 # TODO, need to add in code that scrapes websites data
@@ -118,7 +116,6 @@ class AirportFromFile:
         print("Runway: ", self.runway_directions)
         print("Frequency: ", self.ctaf)
         print("Description:")
-        print("User Data:")
 
     def init_website_text(self):
         f = open(self.airport_file_path + self.iata + '.txt')
@@ -283,8 +280,6 @@ class AirportFromCup:
         self.runway_width = ""
         self.airport_frequency = ""
         self.description = ""
-        self.user_data = ""
-        self.pics = ""
         self.is_data_missing = False  # TODO: Check if this will catch
         self.missing_data = []
         self.set_class_variables()
@@ -304,8 +299,6 @@ class AirportFromCup:
         self.runway_width = self.convert_to_feet(self.original_cup_data.get("rwwidth"))
         self.airport_frequency = self.original_cup_data.get("freq")
         self.description = self.original_cup_data.get("desc")
-        self.user_data = self.original_cup_data.get("User Data")
-        self.pics = self.original_cup_data.get("pics")
         # Create a list of all the airport codes to make sure they are all unique
         AirportFromCup.cup_code_list.append(self.code)
 
@@ -498,7 +491,6 @@ class AirportFromCup:
         print("Runway: ", self.runway_direction, " ", self.runway_length, "x", self.runway_width, "ft")
         print("Frequency: ", self.airport_frequency)
         print("Description:", self.description)
-        print("User Data:", self.user_data)
 
 
 class Airport:
@@ -1135,6 +1127,7 @@ class UserWindow(qtw.QMainWindow, Ui_MainWindow):
     def process_write_changes(self):
         new_cup_file = open(OUTPUT, "w", newline='')
         writer = csv.DictWriter(new_cup_file, fieldnames=field_names, delimiter=",")
+        writer.writeheader()
 
         # Transfer all the updated data to the new CSV file
         for line in self.data:
